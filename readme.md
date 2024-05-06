@@ -1,6 +1,6 @@
-# TechiDaily
+# Sound Optimizing Site
 
-Welcome to [https://android-transfer.techidaily.com](https://android-transfer.techidaily.com)
+Welcome to [https://sound-optimizing.techidaily.com](https://sound-optimizing.techidaily.com)
 
 ## Publish
 
