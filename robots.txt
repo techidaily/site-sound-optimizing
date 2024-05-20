@@ -1,4 +1,4 @@
-Sitemap: https://sound-optimizing.techidaily.com/sitemap.xml
+Sitemap: https://sound-optimizing.techidaily.com/sitemap_index.xml
 User-agent: Googlebot
 Disallow:
 
