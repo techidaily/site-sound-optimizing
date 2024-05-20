@@ -1,7 +1,7 @@
 ---
 title: New How to Use Audio Ducking in Adobe Premiere Pro on Mac
-date: 2024-05-05T02:04:53.147Z
-updated: 2024-05-06T02:04:53.147Z
+date: 2024-05-19T06:25:57.713Z
+updated: 2024-05-20T06:25:57.713Z
 tags: 
   - audio editing software
   - audio editing
@@ -1286,4 +1286,5 @@ Follow @Liza Brown
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-asus-rog-phone-8-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Asus ROG Phone 8? | Dr.fone</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-besides-iphones-ipads-and-macbooks-apple-also-provides-some-fantastic-video-editing-software-here-is-a-full-list-of-the-apple-video-editing-so/"><u>2024 Approved Besides iPhones, iPads and MacBooks, Apple Also Provides some Fantastic Video Editing Software. Here Is a Full List of the Apple Video Editing Software, Try It on Your iPhone or iPad or MacBooks Today</u></a></li>
 </ul></div>
+
 

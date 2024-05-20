@@ -1782,3 +1782,4 @@ To have a healthy and happy life, you should enjoy the little moments. In the sa
 <li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-nubia-red-magic-8s-proplus-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Nubia Red Magic 8S Pro+ to PC? | Dr.fone</u></a></li>
 </ul></div>
 
+

@@ -1691,3 +1691,4 @@ Follow @Liza Brown
 <li><a href="https://animation-videos.techidaily.com/new-in-2024-how-to-animate-image-on-scroll-and-text-on-scroll/"><u>New In 2024, How to Animate Image on Scroll and Text on Scroll?</u></a></li>
 </ul></div>
 
+

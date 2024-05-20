@@ -1,7 +1,7 @@
 ---
 title: Score Your Story Editing and Enriching Videos with Auditory Elements via Filmora
-date: 2024-05-05T02:02:36.519Z
-updated: 2024-05-06T02:02:36.519Z
+date: 2024-05-19T06:25:52.603Z
+updated: 2024-05-20T06:25:52.603Z
 tags: 
   - audio editing software
   - audio editing
@@ -1624,4 +1624,5 @@ If you are looking for the merging of audio to video, then you don’t have to b
 <li><a href="https://video-content-creator.techidaily.com/updated-in-2024-portrait-perfection-crafting-engaging-vertical-experiences/"><u>Updated In 2024, Portrait Perfection Crafting Engaging Vertical Experiences</u></a></li>
 <li><a href="https://video-ai-editor.techidaily.com/the-best-of-the-best-top-8-video-metadata-editors-for-mac-for-2024/"><u>The Best of the Best Top 8 Video Metadata Editors for Mac for 2024</u></a></li>
 </ul></div>
+
 

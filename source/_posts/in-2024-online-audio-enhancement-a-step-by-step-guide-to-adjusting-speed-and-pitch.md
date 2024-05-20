@@ -1,7 +1,7 @@
 ---
 title: In 2024, Online Audio Enhancement A Step-by-Step Guide to Adjusting Speed & Pitch
-date: 2024-05-05T02:14:32.755Z
-updated: 2024-05-06T02:14:32.755Z
+date: 2024-05-19T06:26:23.566Z
+updated: 2024-05-20T06:26:23.566Z
 tags: 
   - audio editing software
   - audio editing
@@ -1231,4 +1231,5 @@ For macOS 10.12 or later
 <li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-hands-on-with-avs-video-editor-a-thorough-review-and-guide/"><u>New In 2024, Hands-On with AVS Video Editor A Thorough Review and Guide</u></a></li>
 <li><a href="https://review-topics.techidaily.com/recover-your-contacts-after-google-pixel-7a-has-been-deleted-by-fonelab-android-recover-contacts/"><u>Recover your contacts after Google Pixel 7a has been deleted.</u></a></li>
 </ul></div>
+
 

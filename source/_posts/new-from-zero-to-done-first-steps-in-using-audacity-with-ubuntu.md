@@ -1,7 +1,7 @@
 ---
 title: New From Zero to Done First Steps in Using Audacity with Ubuntu
-date: 2024-05-05T02:11:00.000Z
-updated: 2024-05-06T02:11:00.000Z
+date: 2024-05-19T06:26:13.515Z
+updated: 2024-05-20T06:26:13.515Z
 tags: 
   - audio editing software
   - audio editing
@@ -1312,4 +1312,5 @@ Similarly, video editing from your smartphone is another one of the many methods
 <li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-lava-yuva-3-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Lava Yuva 3? | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/how-to-teleport-your-gps-location-on-infinix-gt-10-pro-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Infinix GT 10 Pro? | Dr.fone</u></a></li>
 </ul></div>
+
 

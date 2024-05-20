@@ -1215,3 +1215,4 @@ Follow @Liza Brown
 <li><a href="https://smart-video-creator.techidaily.com/new-quickly-calculate-aspect-ratios-the-best-online-resources/"><u>New Quickly Calculate Aspect Ratios The Best Online Resources</u></a></li>
 </ul></div>
 
+

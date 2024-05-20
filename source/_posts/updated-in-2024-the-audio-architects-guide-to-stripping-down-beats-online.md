@@ -824,3 +824,4 @@ For macOS 10.12 or later
 <li><a href="https://ai-video-editing.techidaily.com/new-how-to-use-luts-in-lumafusion-and-free-luts-resource/"><u>New How to Use LUTs in Lumafusion & Free LUTs Resource</u></a></li>
 </ul></div>
 
+

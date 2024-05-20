@@ -1,7 +1,7 @@
 ---
 title: New Soundscapes for Storytelling The Influence of Keyboard Music on Video Editing
-date: 2024-05-05T02:16:47.660Z
-updated: 2024-05-06T02:16:47.660Z
+date: 2024-05-19T06:26:30.324Z
+updated: 2024-05-20T06:26:30.324Z
 tags: 
   - audio editing software
   - audio editing
@@ -1543,4 +1543,5 @@ For macOS 10.14 or later
 <li><a href="https://ai-driven-video-production.techidaily.com/the-ultimate-guide-to-virtualdub-and-its-most-popular-alternatives/"><u>The Ultimate Guide to Virtualdub and Its Most Popular Alternatives</u></a></li>
 <li><a href="https://techidaily.com/how-to-hard-reset-samsung-galaxy-xcover-6-pro-tactical-edition-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Samsung Galaxy XCover 6 Pro Tactical Edition Without Password | Dr.fone</u></a></li>
 </ul></div>
+
 

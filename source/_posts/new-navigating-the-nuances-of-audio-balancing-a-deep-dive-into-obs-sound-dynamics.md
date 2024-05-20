@@ -1,7 +1,7 @@
 ---
 title: New Navigating the Nuances of Audio Balancing A Deep Dive Into OBS Sound Dynamics
-date: 2024-05-05T02:14:17.084Z
-updated: 2024-05-06T02:14:17.084Z
+date: 2024-05-19T06:26:23.042Z
+updated: 2024-05-20T06:26:23.042Z
 tags: 
   - audio editing software
   - audio editing
@@ -1523,4 +1523,5 @@ For macOS 10.12 or later
 <li><a href="https://unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-infinix-smart-8-hd-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Infinix Smart 8 HD Phone</u></a></li>
 <li><a href="https://ai-driven-video-production.techidaily.com/shaky-no-more-best-mobile-video-stabilization-apps-iphone-and-android/"><u>Shaky No More Best Mobile Video Stabilization Apps (iPhone & Android)</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Modifying Sound Intensity in Video and Music Files
-date: 2024-05-05T02:13:59.171Z
-updated: 2024-05-06T02:13:59.171Z
+date: 2024-05-19T06:26:21.378Z
+updated: 2024-05-20T06:26:21.378Z
 tags: 
   - audio editing software
   - audio editing
@@ -935,4 +935,5 @@ Increasing the volume of a video to make the dialogues sound properly and amplif
 <li><a href="https://ai-video-tools.techidaily.com/top-10-video-editing-software-that-outshine-adobe-premiere-elements-for-2024/"><u>Top 10 Video Editing Software That Outshine Adobe Premiere Elements for 2024</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Motorola Edge 40 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Updated How to Convert AIFF to MP3
-date: 2024-05-05T02:07:07.443Z
-updated: 2024-05-06T02:07:07.443Z
+date: 2024-05-19T06:26:03.850Z
+updated: 2024-05-20T06:26:03.850Z
 tags: 
   - audio editing software
   - audio editing
@@ -1038,4 +1038,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://techidaily.com/complete-tutorial-for-xiaomi-14-ultra-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Xiaomi 14 Ultra Hard Reset | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-honor-magic-5-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Honor Magic 5 Activity | Dr.fone</u></a></li>
 </ul></div>
+
 

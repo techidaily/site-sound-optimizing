@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved How to Use Audio Ducking to Fade Out Music in PowerDirector?
-date: 2024-05-05T02:22:03.449Z
-updated: 2024-05-06T02:22:03.449Z
+date: 2024-05-19T06:26:42.326Z
+updated: 2024-05-20T06:26:42.326Z
 tags: 
   - audio editing software
   - audio editing
@@ -1225,4 +1225,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-what-does-jailbreaking-apple-iphone-12-pro-i-do-get-answers-here-drfone-by-drfone-ios/"><u>In 2024, What Does Jailbreaking Apple iPhone 12 Pro i Do? Get Answers here | Dr.fone</u></a></li>
 <li><a href="https://video-creation-software.techidaily.com/updated-in-2024-best-web-based-video-editing-tools-with-music-and-audio-features/"><u>Updated In 2024, Best Web-Based Video Editing Tools with Music and Audio Features</u></a></li>
 </ul></div>
+
 

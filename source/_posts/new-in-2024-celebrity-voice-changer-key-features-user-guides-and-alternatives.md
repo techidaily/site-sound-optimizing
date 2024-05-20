@@ -1518,3 +1518,4 @@ For macOS 10.12 or later
 <li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-social-media-image-mastery-a-guide-to-perfect-aspect-ratios-and-dimensions/"><u>Updated In 2024, Social Media Image Mastery A Guide to Perfect Aspect Ratios and Dimensions</u></a></li>
 </ul></div>
 
+

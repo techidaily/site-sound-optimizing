@@ -1637,3 +1637,4 @@ Follow @Ollie Mattison
 <li><a href="https://ai-video-apps.techidaily.com/2024-approved-the-art-of-visual-storytelling-ken-burns-effect-in-final-cut-pro-explained/"><u>2024 Approved The Art of Visual Storytelling Ken Burns Effect in Final Cut Pro Explained</u></a></li>
 </ul></div>
 
+

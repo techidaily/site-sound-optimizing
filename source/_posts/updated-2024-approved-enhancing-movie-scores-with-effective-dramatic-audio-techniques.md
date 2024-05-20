@@ -1536,3 +1536,4 @@ Follow @Benjamin Arango
 <li><a href="https://ai-video-apps.techidaily.com/updated-perfecting-your-image-dimensions-a-comprehensive-ratio-guide/"><u>Updated Perfecting Your Image Dimensions A Comprehensive Ratio Guide</u></a></li>
 </ul></div>
 
+

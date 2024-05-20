@@ -1,7 +1,7 @@
 ---
 title: New Elevate Your Video Edits Mastering the Art of Live Audio Dampening with Final Cut Pro Xs AutoDuck Capabilities
-date: 2024-05-05T02:08:48.224Z
-updated: 2024-05-06T02:08:48.224Z
+date: 2024-05-19T06:26:07.943Z
+updated: 2024-05-20T06:26:07.943Z
 tags: 
   - audio editing software
   - audio editing
@@ -1934,4 +1934,5 @@ Follow @Benjamin Arango
 <li><a href="https://blog-min.techidaily.com/how-to-recover-data-from-lost-or-stolen-iphone-14-pro-in-easy-steps-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How To Recover Data From Lost or Stolen iPhone 14 Pro In Easy Steps | Stellar</u></a></li>
 <li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-transform-your-footage-how-to-add-professional-3d-effects-on-windows/"><u>Updated 2024 Approved Transform Your Footage How to Add Professional 3D Effects on Windows</u></a></li>
 </ul></div>
+
 

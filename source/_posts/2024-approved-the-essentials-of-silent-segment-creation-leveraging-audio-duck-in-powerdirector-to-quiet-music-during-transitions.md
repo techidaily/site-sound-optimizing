@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved The Essentials of Silent Segment Creation Leveraging Audio Duck in PowerDirector to Quiet Music During Transitions
-date: 2024-05-05T02:18:29.936Z
-updated: 2024-05-06T02:18:29.936Z
+date: 2024-05-19T06:26:34.080Z
+updated: 2024-05-20T06:26:34.080Z
 tags: 
   - audio editing software
   - audio editing
@@ -1000,4 +1000,5 @@ This article will help you in resolving various audio waveform issues in Premier
 <li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-xiaomi-redmi-note-12-4g-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Xiaomi Redmi Note 12 4G by Phone Number | Dr.fone</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-realme-c53-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Realme C53 | Dr.fone</u></a></li>
 </ul></div>
+
 

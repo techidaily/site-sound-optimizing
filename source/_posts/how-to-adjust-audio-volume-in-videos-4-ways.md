@@ -1,7 +1,7 @@
 ---
 title: How to Adjust Audio Volume in Videos 4 Ways
-date: 2024-05-05T02:01:41.558Z
-updated: 2024-05-06T02:01:41.558Z
+date: 2024-05-19T06:25:50.503Z
+updated: 2024-05-20T06:25:50.503Z
 tags: 
   - audio editing software
   - audio editing
@@ -1029,4 +1029,5 @@ For macOS 10.12 or later
 <li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>Does find my friends work on Apple iPhone XR | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/how-many-attempts-to-unlock-iphone-13-pro-by-drfone-ios/"><u>How Many Attempts To Unlock iPhone 13 Pro</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Install and Use Autotune in Audacity
-date: 2024-05-05T02:01:44.324Z
-updated: 2024-05-06T02:01:44.324Z
+date: 2024-05-19T06:25:50.639Z
+updated: 2024-05-20T06:25:50.639Z
 tags: 
   - audio editing software
   - audio editing
@@ -1208,4 +1208,5 @@ Follow @Shanoon Cox
 <li><a href="https://android-pokemon-go.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-tecno-camon-20-premier-5g-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Tecno Camon 20 Premier 5G? | Dr.fone</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-10-best-vegas-pro-replacements-for-mac-users-free-and-paid-options/"><u>2024 Approved 10 Best Vegas Pro Replacements for Mac Users (Free and Paid Options)</u></a></li>
 </ul></div>
+
 

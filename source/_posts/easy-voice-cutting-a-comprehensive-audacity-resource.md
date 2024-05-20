@@ -1,7 +1,7 @@
 ---
 title: Easy Voice Cutting A Comprehensive Audacity Resource
-date: 2024-05-05T02:01:03.136Z
-updated: 2024-05-06T02:01:03.136Z
+date: 2024-05-19T06:25:49.430Z
+updated: 2024-05-20T06:25:49.430Z
 tags: 
   - audio editing software
   - audio editing
@@ -1075,4 +1075,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://ai-editing-video.techidaily.com/new-backup-and-organize-your-footage-in-minutes/"><u>New Backup and Organize Your Footage in Minutes</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-best-cheap-video-editing-software/"><u>2024 Approved Best Cheap Video Editing Software</u></a></li>
 </ul></div>
+
 

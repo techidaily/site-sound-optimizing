@@ -1,7 +1,7 @@
 ---
 title: Updated Streamline Your Mixes A Curated List of the Top 5 Dynamic Audio Ducking Tools for Producers
-date: 2024-05-05T02:17:10.476Z
-updated: 2024-05-06T02:17:10.476Z
+date: 2024-05-19T06:26:30.841Z
+updated: 2024-05-20T06:26:30.841Z
 tags: 
   - audio editing software
   - audio editing
@@ -1104,4 +1104,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://ai-vdieo-software.techidaily.com/new-create-cartoon-characters-from-your-photos/"><u>New Create Cartoon Characters From Your Photos</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/in-2024-top-15-slow-motion-capcut-templates-to-work-with/"><u>In 2024, Top 15 Slow Motion CapCut Templates to Work With</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: The Complete Manual of Sound Control Enhancing Your Live Stream with OBS Ducking
-date: 2024-05-05T02:02:59.966Z
-updated: 2024-05-06T02:02:59.966Z
+date: 2024-05-19T06:25:53.363Z
+updated: 2024-05-20T06:25:53.363Z
 tags: 
   - audio editing software
   - audio editing
@@ -1529,4 +1529,5 @@ For macOS 10.12 or later
 <li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Samsung Galaxy A14 4G? | Dr.fone</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/new-edit-like-a-pro-top-iphone-video-editing-apps/"><u>New Edit Like a Pro Top iPhone Video Editing Apps</u></a></li>
 </ul></div>
+
 

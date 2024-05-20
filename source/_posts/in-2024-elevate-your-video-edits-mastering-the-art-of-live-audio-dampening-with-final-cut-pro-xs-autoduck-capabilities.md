@@ -1,7 +1,7 @@
 ---
 title: In 2024, Elevate Your Video Edits Mastering the Art of Live Audio Dampening with Final Cut Pro Xs AutoDuck Capabilities
-date: 2024-05-05T02:08:47.967Z
-updated: 2024-05-06T02:08:47.967Z
+date: 2024-05-19T06:26:07.879Z
+updated: 2024-05-20T06:26:07.879Z
 tags: 
   - audio editing software
   - audio editing
@@ -1318,4 +1318,5 @@ These are the best source of getting downloadable montage music. You can use the
 <li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-xiaomi-13-ultra-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Xiaomi 13 Ultra? | Dr.fone</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-nokia-xr21-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Nokia XR21 | Dr.fone</u></a></li>
 </ul></div>
+
 

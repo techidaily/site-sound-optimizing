@@ -1183,3 +1183,4 @@ For macOS 10.12 or later
 <li><a href="https://video-creation-software.techidaily.com/new-2024-approved-the-ultimate-guide-to-calculating-aspect-ratios-for-photos/"><u>New 2024 Approved The Ultimate Guide to Calculating Aspect Ratios for Photos</u></a></li>
 </ul></div>
 
+

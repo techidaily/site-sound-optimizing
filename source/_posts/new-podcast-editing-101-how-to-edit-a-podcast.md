@@ -1,7 +1,7 @@
 ---
 title: New Podcast Editing 101 How to Edit a Podcast
-date: 2024-05-05T02:14:56.993Z
-updated: 2024-05-06T02:14:56.993Z
+date: 2024-05-19T06:26:24.584Z
+updated: 2024-05-20T06:26:24.584Z
 tags: 
   - audio editing software
   - audio editing
@@ -1634,4 +1634,5 @@ For macOS 10.12 or later
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-nokia-c12-pro-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Nokia C12 Pro Location on Viber | Dr.fone</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-final-cut-pro-2023-unlocking-professional-color-correction/"><u>2024 Approved Final Cut Pro 2023 Unlocking Professional Color Correction</u></a></li>
 </ul></div>
+
 

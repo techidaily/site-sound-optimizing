@@ -1,7 +1,7 @@
 ---
 title: New The Ultimate Guide to Real-Time Audio Leveling with Final Cut Pro Xs AutoDuck Feature
-date: 2024-05-05T02:19:43.082Z
-updated: 2024-05-06T02:19:43.082Z
+date: 2024-05-19T06:26:36.782Z
+updated: 2024-05-20T06:26:36.782Z
 tags: 
   - audio editing software
   - audio editing
@@ -1285,4 +1285,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://ai-video-tools.techidaily.com/the-ultimate-list-of-reaction-video-makers-to-watch-for-2024/"><u>The Ultimate List of Reaction Video Makers to Watch for 2024</u></a></li>
 <li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-free-video-editing-software-10-alternatives-to-windows-movie-maker/"><u>New In 2024, Free Video Editing Software 10 Alternatives to Windows Movie Maker</u></a></li>
 </ul></div>
+
 

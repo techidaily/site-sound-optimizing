@@ -1540,3 +1540,4 @@ For macOS 10.12 or later
 <li><a href="https://ai-video-editing.techidaily.com/how-to-make-text-reveal-effect-easily/"><u>How to Make Text Reveal Effect Easily</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: New The Sound Detectives Handbook Extracting Silence From Video Files in iOS/OS X Systems
-date: 2024-05-05T02:19:07.825Z
-updated: 2024-05-06T02:19:07.825Z
+date: 2024-05-19T06:26:35.478Z
+updated: 2024-05-20T06:26:35.478Z
 tags: 
   - audio editing software
   - audio editing
@@ -1630,4 +1630,5 @@ For macOS 10.12 or later
 <li><a href="https://ai-driven-video-production.techidaily.com/updated-best-zero-cost-mod-video-editors-a-comprehensive-list/"><u>Updated Best Zero-Cost MOD Video Editors A Comprehensive List</u></a></li>
 <li><a href="https://iphone-location.techidaily.com/how-to-enable-disable-and-change-safari-location-on-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>How to Enable, Disable, and Change Safari Location on Apple iPhone 12 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

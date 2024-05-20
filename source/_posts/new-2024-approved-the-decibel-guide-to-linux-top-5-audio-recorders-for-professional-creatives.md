@@ -2029,3 +2029,4 @@ For macOS 10.12 or later
 <li><a href="https://video-ai-editor.techidaily.com/in-2024-a-beginners-guide-to-adding-titles-captions-and-subtitles-in-fcpx/"><u>In 2024, A Beginners Guide to Adding Titles, Captions, and Subtitles in FCPX</u></a></li>
 </ul></div>
 
+

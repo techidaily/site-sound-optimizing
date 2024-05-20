@@ -1,7 +1,7 @@
 ---
 title: How to Acquire Explosive Glass Break Effects in Post-Production for 2024
-date: 2024-05-05T02:11:33.934Z
-updated: 2024-05-06T02:11:33.934Z
+date: 2024-05-19T06:26:15.406Z
+updated: 2024-05-20T06:26:15.406Z
 tags: 
   - audio editing software
   - audio editing
@@ -1165,4 +1165,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://smart-video-editing.techidaily.com/new-in-2024-download-windows-movie-maker-now-a-simple-and-easy-guide/"><u>New In 2024, Download Windows Movie Maker Now A Simple and Easy Guide</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-a-comprehensive-guide-to-iphone-15-blacklist-removal-tips-and-tools-drfone-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to iPhone 15 Blacklist Removal Tips and Tools | Dr.fone</u></a></li>
 </ul></div>
+
 

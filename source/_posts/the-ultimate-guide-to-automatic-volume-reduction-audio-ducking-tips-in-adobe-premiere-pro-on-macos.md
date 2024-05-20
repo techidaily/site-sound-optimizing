@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Automatic Volume Reduction Audio Ducking Tips in Adobe Premiere Pro on macOS
-date: 2024-05-05T02:03:13.350Z
-updated: 2024-05-06T02:03:13.350Z
+date: 2024-05-19T06:25:53.859Z
+updated: 2024-05-20T06:25:53.859Z
 tags: 
   - audio editing software
   - audio editing
@@ -880,4 +880,5 @@ Crowd cheering is an exciting sound that can get your adrenaline pumping. If you
 <li><a href="https://ai-video-editing.techidaily.com/you-can-make-attractive-videos-by-adding-text-behind-objects-this-article-will-explain-how-to-use-wondershare-filmora-to-create-these-videos-for-2024/"><u>You Can Make Attractive Videos by Adding Text Behind Objects. This Article Will Explain How to Use Wondershare Filmora to Create These Videos for 2024</u></a></li>
 <li><a href="https://techidaily.com/hard-resetting-an-vivo-y36i-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Vivo Y36i Device Made Easy | Dr.fone</u></a></li>
 </ul></div>
+
 

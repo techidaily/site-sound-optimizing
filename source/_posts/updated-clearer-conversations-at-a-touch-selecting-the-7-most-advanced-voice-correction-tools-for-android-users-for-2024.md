@@ -1000,3 +1000,4 @@ Follow @Shanoon Cox
 <li><a href="https://ai-editing-video.techidaily.com/new-what-is-the-selective-color-effect-and-how-can-you-add-this-effect-to-your-videos-using-wondershare-filmora-a-complete-guide-for-beginners/"><u>New What Is the Selective Color Effect, and How Can You Add This Effect to Your Videos Using Wondershare Filmora? A Complete Guide for Beginners</u></a></li>
 </ul></div>
 
+

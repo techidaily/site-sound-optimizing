@@ -980,3 +980,4 @@ For macOS 10.12 or later
 <li><a href="https://ai-video-editing.techidaily.com/new-4-ways-to-add-white-borders-on-mobile-and-desktop/"><u>New 4 Ways to Add White Borders on Mobile and Desktop</u></a></li>
 </ul></div>
 
+

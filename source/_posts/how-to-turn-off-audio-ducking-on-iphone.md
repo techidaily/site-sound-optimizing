@@ -1,7 +1,7 @@
 ---
 title: How to Turn Off Audio Ducking on iPhone
-date: 2024-05-05T02:01:47.594Z
-updated: 2024-05-06T02:01:47.594Z
+date: 2024-05-19T06:25:50.772Z
+updated: 2024-05-20T06:25:50.772Z
 tags: 
   - audio editing software
   - audio editing
@@ -1200,4 +1200,5 @@ Turn long videos into viral clips. Effortlessly transform lengthy videos into en
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-vivo-y100t-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Vivo Y100t Lock Screen Password?</u></a></li>
 <li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-samsung-galaxy-xcover-7-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
 </ul></div>
+
 

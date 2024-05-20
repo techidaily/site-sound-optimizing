@@ -1,7 +1,7 @@
 ---
 title: Elevating and Dimming Audio in Audacity A Step-by-Step Approach for 2024
-date: 2024-05-05T02:08:48.978Z
-updated: 2024-05-06T02:08:48.978Z
+date: 2024-05-19T06:26:07.966Z
+updated: 2024-05-20T06:26:07.966Z
 tags: 
   - audio editing software
   - audio editing
@@ -1339,4 +1339,5 @@ Thus, you had an enlightening journey on how to download cricket sound effects f
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-lava-blaze-pro-5g-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Lava Blaze Pro 5G to Latest Samsung | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Watch Hulu Outside US On Apple iPhone 6s Plus | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: New Audacity Tutorial Boost or Mute Your Sound Effectively for 2024
-date: 2024-05-05T02:24:18.501Z
-updated: 2024-05-06T02:24:18.501Z
+date: 2024-05-19T06:26:49.531Z
+updated: 2024-05-20T06:26:49.531Z
 tags: 
   - audio editing software
   - audio editing
@@ -1593,4 +1593,5 @@ If we talk about its features, you will never turn back to ordinary editors. The
 <li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-tecno-pova-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Tecno Pova 5 Pro? | Dr.fone</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-the-ultimate-fcp-hack-flipping-clips-in-just-4-clicks/"><u>New 2024 Approved The Ultimate FCP Hack Flipping Clips in Just 4 Clicks</u></a></li>
 </ul></div>
+
 

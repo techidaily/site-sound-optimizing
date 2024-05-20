@@ -1,7 +1,7 @@
 ---
 title: Cutting Edge Audio Editing with Sony Vegas Pro – Complete Guide
-date: 2024-05-05T02:00:51.722Z
-updated: 2024-05-06T02:00:51.722Z
+date: 2024-05-19T06:25:48.955Z
+updated: 2024-05-20T06:25:48.955Z
 tags: 
   - audio editing software
   - audio editing
@@ -1408,4 +1408,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-to-itel-s23-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Itel S23 Pattern Lock Screen Everything You Need to Know</u></a></li>
 <li><a href="https://ai-driven-video-production.techidaily.com/new-play-for-free-the-top-10-game-download-sites-you-need-to-know-pc-android-2024/"><u>New Play for Free The Top 10 Game Download Sites You Need to Know PC, Android, 2024</u></a></li>
 </ul></div>
+
 

@@ -1724,3 +1724,4 @@ Follow @Liza Brown
 <li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-crop-a-video-in-davinci-resolve-step-by-step/"><u>New In 2024, How to Crop a Video in Davinci Resolve Step by Step</u></a></li>
 </ul></div>
 
+

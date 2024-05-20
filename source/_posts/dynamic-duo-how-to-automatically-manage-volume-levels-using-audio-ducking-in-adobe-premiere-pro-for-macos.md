@@ -1,7 +1,7 @@
 ---
 title: Dynamic Duo How to Automatically Manage Volume Levels Using Audio Ducking in Adobe Premiere Pro for macOS
-date: 2024-05-05T02:01:02.641Z
-updated: 2024-05-06T02:01:02.641Z
+date: 2024-05-19T06:25:49.366Z
+updated: 2024-05-20T06:25:49.366Z
 tags: 
   - audio editing software
   - audio editing
@@ -1322,4 +1322,5 @@ Follow @Shanoon Cox
 <li><a href="https://review-topics.techidaily.com/how-to-wipe-iphone-se-2022-data-permanently-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Wipe iPhone SE (2022) Data Permanently? | Stellar</u></a></li>
 <li><a href="https://fake-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-tecno-phantom-v-flip-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On Tecno Phantom V Flip without Anyone Knowing | Dr.fone</u></a></li>
 </ul></div>
+
 

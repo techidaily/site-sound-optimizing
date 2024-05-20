@@ -1,7 +1,7 @@
 ---
 title: New Mastering Audio Conversion with Audacity and Lame Codec
-date: 2024-05-05T02:13:09.084Z
-updated: 2024-05-06T02:13:09.084Z
+date: 2024-05-19T06:26:19.515Z
+updated: 2024-05-20T06:26:19.515Z
 tags: 
   - audio editing software
   - audio editing
@@ -1182,4 +1182,5 @@ Music controls are features that we can't miss here. You can have only basic con
 <li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-the-lowdown-on-splice-a-complete-review-of-its-video-editing-capabilities/"><u>Updated In 2024, The Lowdown on Splice A Complete Review of Its Video Editing Capabilities</u></a></li>
 <li><a href="https://review-topics.techidaily.com/how-to-update-or-downgrade-iphone-se-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade iPhone SE Without Losing Data? | Dr.fone</u></a></li>
 </ul></div>
+
 

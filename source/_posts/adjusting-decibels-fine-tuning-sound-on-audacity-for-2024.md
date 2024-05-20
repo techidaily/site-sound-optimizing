@@ -1,7 +1,7 @@
 ---
 title: Adjusting Decibels Fine-Tuning Sound on Audacity for 2024
-date: 2024-05-05T02:04:51.651Z
-updated: 2024-05-06T02:04:51.651Z
+date: 2024-05-19T06:25:57.596Z
+updated: 2024-05-20T06:25:57.596Z
 tags: 
   - audio editing software
   - audio editing
@@ -1285,4 +1285,5 @@ Merging audios is combining several audio files into one. We usually select the 
 <li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-oppo-a78-5g-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Oppo A78 5G to iPhone Easily | Dr.fone</u></a></li>
 <li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-how-to-adjust-aspect-ratio-on-amazon-prime-video/"><u>Updated 2024 Approved How to Adjust Aspect Ratio on Amazon Prime Video</u></a></li>
 </ul></div>
+
 

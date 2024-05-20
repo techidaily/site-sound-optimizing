@@ -1,7 +1,7 @@
 ---
 title: Top 5 Essential Linux-Based Audio Capture Tools & Practical Recording Techniques
-date: 2024-05-05T02:03:29.955Z
-updated: 2024-05-06T02:03:29.955Z
+date: 2024-05-19T06:25:54.409Z
+updated: 2024-05-20T06:25:54.409Z
 tags: 
   - audio editing software
   - audio editing
@@ -1095,4 +1095,5 @@ For macOS 10.12 or later
 <li><a href="https://video-creation-software.techidaily.com/updated-unleash-creativity-10-top-notch-video-editing-apps-for-kids/"><u>Updated Unleash Creativity 10 Top-Notch Video Editing Apps for Kids</u></a></li>
 <li><a href="https://change-location.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-xiaomi-redmi-note-12-4g-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
 </ul></div>
+
 

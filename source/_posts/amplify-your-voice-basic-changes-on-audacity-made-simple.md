@@ -1,7 +1,7 @@
 ---
 title: Amplify Your Voice Basic Changes on Audacity Made Simple
-date: 2024-05-05T02:00:20.947Z
-updated: 2024-05-06T02:00:20.947Z
+date: 2024-05-19T06:25:47.924Z
+updated: 2024-05-20T06:25:47.924Z
 tags: 
   - audio editing software
   - audio editing
@@ -1387,4 +1387,5 @@ Follow @Benjamin Arango
 <li><a href="https://android-pokemon-go.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-oppo-a18-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Oppo A18 | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Nubia Z50S Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

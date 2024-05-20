@@ -1292,3 +1292,4 @@ For macOS 10.12 or later
 <li><a href="https://ai-vdieo-software.techidaily.com/resize-videos-in-no-time-a-simple-tutorial/"><u>Resize Videos in No Time A Simple Tutorial</u></a></li>
 </ul></div>
 
+

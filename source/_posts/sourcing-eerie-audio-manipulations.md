@@ -1,7 +1,7 @@
 ---
 title: Sourcing Eerie Audio Manipulations
-date: 2024-05-05T02:02:45.630Z
-updated: 2024-05-06T02:02:45.630Z
+date: 2024-05-19T06:25:52.905Z
+updated: 2024-05-20T06:25:52.905Z
 tags: 
   - audio editing software
   - audio editing
@@ -900,4 +900,5 @@ Follow @Shanoon Cox
 <li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-oneplus-11-5g-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your OnePlus 11 5G in 3 Ways | Dr.fone</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-how-to-create-intro-with-legend-intro-maker/"><u>Updated In 2024, How to Create Intro with Legend Intro Maker</u></a></li>
 </ul></div>
+
 

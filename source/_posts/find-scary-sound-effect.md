@@ -1,7 +1,7 @@
 ---
 title: Find Scary Sound Effect
-date: 2024-05-05T02:02:36.275Z
-updated: 2024-05-06T02:02:36.275Z
+date: 2024-05-19T06:25:52.600Z
+updated: 2024-05-20T06:25:52.600Z
 tags: 
   - audio editing software
   - audio editing
@@ -1262,4 +1262,5 @@ This article will help you in resolving various audio waveform issues in Premier
 <li><a href="https://ai-vdieo-software.techidaily.com/in-2024-edit-like-a-pro-video-editing-on-mac-os-x-mavericks/"><u>In 2024, Edit Like a Pro Video Editing on Mac OS X Mavericks</u></a></li>
 <li><a href="https://smart-video-creator.techidaily.com/split-and-cut-3gp-files-with-ease-a-comprehensive-guide-for-2024/"><u>Split and Cut 3GP Files with Ease A Comprehensive Guide for 2024</u></a></li>
 </ul></div>
+
 

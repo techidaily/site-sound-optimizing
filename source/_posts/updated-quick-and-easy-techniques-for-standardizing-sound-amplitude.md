@@ -1,7 +1,7 @@
 ---
 title: Updated Quick and Easy Techniques for Standardizing Sound Amplitude
-date: 2024-05-05T02:15:28.813Z
-updated: 2024-05-06T02:15:28.813Z
+date: 2024-05-19T06:26:25.807Z
+updated: 2024-05-20T06:26:25.807Z
 tags: 
   - audio editing software
   - audio editing
@@ -1844,4 +1844,5 @@ Follow @Benjamin Arango
 <li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-how-to-convert-time-lapse-to-normal-video/"><u>Updated 2024 Approved How to Convert Time-Lapse to Normal Video</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/free-video-editing-on-ubuntu-top-10-picks-for-2024/"><u>Free Video Editing on Ubuntu Top 10 Picks for 2024</u></a></li>
 </ul></div>
+
 

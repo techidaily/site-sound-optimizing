@@ -1,7 +1,7 @@
 ---
 title: The Audio Artists Toolkit for Podcast Production 11 Pioneering Soundscape Retreats
-date: 2024-05-05T02:02:56.744Z
-updated: 2024-05-06T02:02:56.744Z
+date: 2024-05-19T06:25:53.311Z
+updated: 2024-05-20T06:25:53.311Z
 tags: 
   - audio editing software
   - audio editing
@@ -1652,4 +1652,5 @@ Hence, the article focused on the workability of suspense background music and t
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-password-on-your-apple-iphone-12-drfone-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID Password On your Apple iPhone 12 | Dr.fone</u></a></li>
 <li><a href="https://ai-video-tools.techidaily.com/new-in-2024-the-ultimate-list-of-glitch-art-video-editors-for-mobile-devices/"><u>New In 2024, The Ultimate List of Glitch Art Video Editors for Mobile Devices</u></a></li>
 </ul></div>
+
 

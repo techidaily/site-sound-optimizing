@@ -1,7 +1,7 @@
 ---
 title: Updated Audio Precision Step-by-Step Guide to Muting Unnecessary Sounds in After Effects
-date: 2024-05-05T02:05:32.844Z
-updated: 2024-05-06T02:05:32.844Z
+date: 2024-05-19T06:26:00.080Z
+updated: 2024-05-20T06:26:00.080Z
 tags: 
   - audio editing software
   - audio editing
@@ -1994,4 +1994,5 @@ Follow @Benjamin Arango
 <li><a href="https://ai-video-editing.techidaily.com/new-are-you-an-apple-user-interested-in-adding-a-slow-mo-to-their-videos-this-article-features-an-exceptional-procedure-for-creating-slow-mo-in-imovie-for-2/"><u>New Are You an Apple User Interested in Adding a Slow-Mo to Their Videos? This Article Features an Exceptional Procedure for Creating Slow-Mo in iMovie for 2024</u></a></li>
 <li><a href="https://video-content-creator.techidaily.com/new-in-2024-optimizing-your-tiktok-videos-aspect-ratio-tips-and-tricks/"><u>New In 2024, Optimizing Your TikTok Videos Aspect Ratio Tips and Tricks</u></a></li>
 </ul></div>
+
 

@@ -1440,3 +1440,4 @@ Detailed tutorials provided by the official channel
 <li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-infinix-hot-30-5g-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Infinix Hot 30 5G | Dr.fone</u></a></li>
 </ul></div>
 
+

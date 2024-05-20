@@ -1,7 +1,7 @@
 ---
 title: In 2024, Dynamic Sound Mixing Implementing Audio Ducking Techniques to Subtly Reduce Background Tracks
-date: 2024-05-05T02:08:26.377Z
-updated: 2024-05-06T02:08:26.377Z
+date: 2024-05-19T06:26:06.970Z
+updated: 2024-05-20T06:26:06.970Z
 tags: 
   - audio editing software
   - audio editing
@@ -1178,4 +1178,5 @@ Follow @Shanoon Cox
 <li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-messages-from-honor-70-lite-5g-by-fonelab-android-recover-messages/"><u>Best Android Data Recovery - Undelete Lost Messages from Honor 70 Lite 5G</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-top-7-color-match-paint-apps/"><u>Updated In 2024, Top 7 Color Match Paint Apps</u></a></li>
 </ul></div>
+
 

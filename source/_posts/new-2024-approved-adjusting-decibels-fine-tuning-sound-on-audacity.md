@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Adjusting Decibels Fine-Tuning Sound on Audacity
-date: 2024-05-05T02:23:51.274Z
-updated: 2024-05-06T02:23:51.274Z
+date: 2024-05-19T06:26:48.317Z
+updated: 2024-05-20T06:26:48.317Z
 tags: 
   - audio editing software
   - audio editing
@@ -1603,4 +1603,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-8-passcode-without-computer-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 8 Passcode without Computer? | Dr.fone</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-from-video-to-mp3-how-to-download-instagram-audio-files/"><u>2024 Approved From Video to MP3 How to Download Instagram Audio Files</u></a></li>
 </ul></div>
+
 

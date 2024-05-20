@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved What Is Audio Ducking and How to Use It in Filmora
-date: 2024-05-05T02:24:25.014Z
-updated: 2024-05-06T02:24:25.014Z
+date: 2024-05-19T06:26:50.313Z
+updated: 2024-05-20T06:26:50.313Z
 tags: 
   - audio editing software
   - audio editing
@@ -1205,4 +1205,5 @@ Follow @Shanoon Cox
 <li><a href="https://ai-voice-clone.techidaily.com/2024-approved-how-to-watch-nba-live-stream-free-anywhere/"><u>2024 Approved How To Watch NBA Live Stream Free Anywhere</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/2024-approved-narakeet-review-text-to-speech-convenient-voice-maker/"><u>2024 Approved Narakeet Review Text to Speech Convenient Voice Maker</u></a></li>
 </ul></div>
+
 

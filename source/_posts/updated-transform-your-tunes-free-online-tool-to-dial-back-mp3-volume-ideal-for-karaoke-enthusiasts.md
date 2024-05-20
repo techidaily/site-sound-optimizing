@@ -1,7 +1,7 @@
 ---
 title: Updated Transform Your Tunes Free Online Tool to Dial Back MP3 Volume, Ideal for Karaoke Enthusiasts.
-date: 2024-05-05T02:21:00.545Z
-updated: 2024-05-06T02:21:00.545Z
+date: 2024-05-19T06:26:40.296Z
+updated: 2024-05-20T06:26:40.296Z
 tags: 
   - audio editing software
   - audio editing
@@ -1344,4 +1344,5 @@ For macOS 10.12 or later
 <li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-movie-editor-complete-guide-on-how-to-edit-movies-or-video/"><u>Updated 2024 Approved Movie Editor Complete Guide on How to Edit Movies or Video</u></a></li>
 <li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-transform-your-photos-into-stunning-videos-with-these-top-makers/"><u>Updated 2024 Approved Transform Your Photos Into Stunning Videos with These Top Makers</u></a></li>
 </ul></div>
+
 

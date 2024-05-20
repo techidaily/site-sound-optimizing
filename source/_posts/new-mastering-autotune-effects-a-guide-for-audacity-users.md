@@ -1,7 +1,7 @@
 ---
 title: New Mastering AutoTune Effects A Guide for Audacity Users
-date: 2024-05-05T02:13:16.446Z
-updated: 2024-05-06T02:13:16.446Z
+date: 2024-05-19T06:26:20.205Z
+updated: 2024-05-20T06:26:20.205Z
 tags: 
   - audio editing software
   - audio editing
@@ -2167,4 +2167,5 @@ Follow @Shanoon Cox
 <li><a href="https://ai-vdieo-software.techidaily.com/top-5-best-free-vob-video-editors-for-2024/"><u>Top 5 Best Free VOB Video Editors for 2024</u></a></li>
 <li><a href="https://smart-video-creator.techidaily.com/new-video-formatting-made-easy-change-shape-size-and-aspect-ratio/"><u>New Video Formatting Made Easy Change Shape, Size, and Aspect Ratio</u></a></li>
 </ul></div>
+
 

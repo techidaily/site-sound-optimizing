@@ -1,7 +1,7 @@
 ---
 title: Updated The Ultimate Guide to Automatic Volume Reduction Audio Ducking Tips in Adobe Premiere Pro on macOS
-date: 2024-05-05T02:19:31.708Z
-updated: 2024-05-06T02:19:31.708Z
+date: 2024-05-19T06:26:36.368Z
+updated: 2024-05-20T06:26:36.368Z
 tags: 
   - audio editing software
   - audio editing
@@ -1240,4 +1240,5 @@ Follow @Benjamin Arango
 <li><a href="https://video-ai-editor.techidaily.com/conversion-mastery-a-step-by-step-guide-to-choosing-the-best-flac-converter/"><u>Conversion Mastery A Step-by-Step Guide to Choosing the Best FLAC Converter</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-locked-vivo-y27-4g-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Vivo Y27 4G Phone</u></a></li>
 </ul></div>
+
 

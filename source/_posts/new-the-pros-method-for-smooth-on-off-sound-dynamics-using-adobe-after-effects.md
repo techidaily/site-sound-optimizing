@@ -1,7 +1,7 @@
 ---
 title: New The Pros Method for Smooth On-Off Sound Dynamics Using Adobe After Effects
-date: 2024-05-05T02:19:00.280Z
-updated: 2024-05-06T02:19:00.280Z
+date: 2024-05-19T06:26:35.349Z
+updated: 2024-05-20T06:26:35.349Z
 tags: 
   - audio editing software
   - audio editing
@@ -1411,4 +1411,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-unsplash-your-brand-free-commercial-use-image-resources/"><u>New 2024 Approved Unsplash Your Brand Free Commercial-Use Image Resources</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-12-pro-by-drfone-ios/"><u>How to Unlock Apple iPhone 12 Pro?</u></a></li>
 </ul></div>
+
 

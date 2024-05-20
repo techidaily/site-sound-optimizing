@@ -1,7 +1,7 @@
 ---
 title: Updated The Ins and Outs of Anime Localization From Translation to Sound Design
-date: 2024-05-05T02:18:40.980Z
-updated: 2024-05-06T02:18:40.980Z
+date: 2024-05-19T06:26:34.509Z
+updated: 2024-05-20T06:26:34.509Z
 tags: 
   - audio editing software
   - audio editing
@@ -1274,4 +1274,5 @@ If you remain engaged with your Game or Video Creation and want to explore more 
 <li><a href="https://ai-driven-video-production.techidaily.com/get-creative-with-windows-video-editing-adding-3d-effects-made-easy-for-2024/"><u>Get Creative with Windows Video Editing Adding 3D Effects Made Easy for 2024</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/nokia-xr21-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Nokia XR21 Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
 </ul></div>
+
 

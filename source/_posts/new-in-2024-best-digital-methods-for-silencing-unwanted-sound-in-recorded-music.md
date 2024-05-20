@@ -1291,3 +1291,4 @@ For macOS 10.12 or later
 <li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-take-your-editing-to-the-next-level-top-40-fcpx-keyboard-shortcuts-and-tricks/"><u>Updated 2024 Approved Take Your Editing to the Next Level Top 40 FCPX Keyboard Shortcuts and Tricks</u></a></li>
 </ul></div>
 
+

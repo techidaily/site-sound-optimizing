@@ -1214,3 +1214,4 @@ Thus, in this article, you had a better understanding of how to add background m
 <li><a href="https://blog-min.techidaily.com/how-to-sign-excel-2013-files-online-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to sign Excel 2013 files online</u></a></li>
 </ul></div>
 
+

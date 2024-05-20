@@ -1,7 +1,7 @@
 ---
 title: Updated Synchronize Your Tracks A Guide to Normalizing Audio with DaVinci Resolve
-date: 2024-05-05T02:17:25.066Z
-updated: 2024-05-06T02:17:25.066Z
+date: 2024-05-19T06:26:31.512Z
+updated: 2024-05-20T06:26:31.512Z
 tags: 
   - audio editing software
   - audio editing
@@ -1031,4 +1031,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://android-unlock.techidaily.com/how-to-unlock-any-samsung-galaxy-a05-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Samsung Galaxy A05 Phone Password Using Emergency Call</u></a></li>
 <li><a href="https://review-topics.techidaily.com/recover-your-contacts-after-vivo-y100-has-been-deleted-by-fonelab-android-recover-contacts/"><u>Recover your contacts after Vivo Y100 has been deleted.</u></a></li>
 </ul></div>
+
 

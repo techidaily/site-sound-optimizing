@@ -1104,3 +1104,4 @@ For macOS 10.12 or later
 <li><a href="https://techidaily.com/how-to-perform-hard-reset-on-vivo-y36i-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Vivo Y36i? | Dr.fone</u></a></li>
 </ul></div>
 
+

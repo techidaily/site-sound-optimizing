@@ -1,7 +1,7 @@
 ---
 title: Converting Audio to Text
-date: 2024-05-05T02:00:46.255Z
-updated: 2024-05-06T02:00:46.255Z
+date: 2024-05-19T06:25:48.749Z
+updated: 2024-05-20T06:25:48.749Z
 tags: 
   - audio editing software
   - audio editing
@@ -1250,4 +1250,5 @@ For macOS 10.14 or later
 <li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-time-bending-brilliance-the-ultimate-slow-motion-video-makers/"><u>New 2024 Approved Time Bending Brilliance The Ultimate Slow Motion Video Makers</u></a></li>
 <li><a href="https://location-social.techidaily.com/does-samsung-galaxy-f54-5g-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Samsung Galaxy F54 5G Have Find My Friends? | Dr.fone</u></a></li>
 </ul></div>
+
 

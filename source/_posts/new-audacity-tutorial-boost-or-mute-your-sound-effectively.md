@@ -1,7 +1,7 @@
 ---
 title: New Audacity Tutorial Boost or Mute Your Sound Effectively
-date: 2024-05-05T02:05:19.936Z
-updated: 2024-05-06T02:05:19.936Z
+date: 2024-05-19T06:25:58.968Z
+updated: 2024-05-20T06:25:58.968Z
 tags: 
   - audio editing software
   - audio editing
@@ -929,4 +929,5 @@ Hopefully, you can now decide better about choosing a music editing software for
 <li><a href="https://fake-location.techidaily.com/how-to-fix-my-honor-80-pro-straight-screen-edition-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Honor 80 Pro Straight Screen Edition Location Is Wrong | Dr.fone</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-nubia-red-magic-9-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
 </ul></div>
+
 

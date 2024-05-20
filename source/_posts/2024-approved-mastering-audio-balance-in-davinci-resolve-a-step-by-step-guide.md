@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Mastering Audio Balance in DaVinci Resolve A Step-by-Step Guide
-date: 2024-05-05T02:13:08.070Z
-updated: 2024-05-06T02:13:08.070Z
+date: 2024-05-19T06:26:19.428Z
+updated: 2024-05-20T06:26:19.428Z
 tags: 
   - audio editing software
   - audio editing
@@ -1251,4 +1251,5 @@ For macOS 10.12 or later
 <li><a href="https://android-pokemon-go.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-lava-agni-2-5g-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Lava Agni 2 5G? | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-honor-magic-6-lite-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Honor Magic 6 Lite | Dr.fone</u></a></li>
 </ul></div>
+
 

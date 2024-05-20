@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Perfecting Soft Audio Edges A Guide to Smooth Transitioning in iMovie
-date: 2024-05-05T02:14:47.000Z
-updated: 2024-05-06T02:14:47.000Z
+date: 2024-05-19T06:26:24.081Z
+updated: 2024-05-20T06:26:24.081Z
 tags: 
   - audio editing software
   - audio editing
@@ -1181,4 +1181,5 @@ Follow @Benjamin Arango
 <li><a href="https://howto.techidaily.com/why-is-my-vivo-y100-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Vivo Y100 Offline? Troubleshooting Guide | Dr.fone</u></a></li>
 <li><a href="https://video-content-creator.techidaily.com/new-2024-approved-fcp-essentials-how-to-give-your-footage-a-vhs-makeover/"><u>New 2024 Approved FCP Essentials How to Give Your Footage a VHS Makeover</u></a></li>
 </ul></div>
+
 

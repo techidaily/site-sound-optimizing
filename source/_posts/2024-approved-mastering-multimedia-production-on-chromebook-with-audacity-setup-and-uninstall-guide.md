@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Mastering Multimedia Production on Chromebook with Audacity - Setup & Uninstall Guide
-date: 2024-05-05T02:13:23.810Z
-updated: 2024-05-06T02:13:23.810Z
+date: 2024-05-19T06:26:20.355Z
+updated: 2024-05-20T06:26:20.355Z
 tags: 
   - audio editing software
   - audio editing
@@ -1188,4 +1188,5 @@ Numerous effects, footage and audio.
 <li><a href="https://ai-driven-video-production.techidaily.com/kid-friendly-video-editors-10-fun-and-easy-apps-to-try/"><u>Kid-Friendly Video Editors 10 Fun and Easy Apps to Try</u></a></li>
 <li><a href="https://video-ai-editor.techidaily.com/updated-video-editing-mastery-how-to-add-professional-looking-effects-fast-for-2024/"><u>Updated Video Editing Mastery How to Add Professional-Looking Effects Fast for 2024</u></a></li>
 </ul></div>
+
 

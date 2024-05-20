@@ -1,7 +1,7 @@
 ---
 title: How to Use Audio Ducking in Adobe Premiere Pro on Mac
-date: 2024-05-05T02:00:17.996Z
-updated: 2024-05-06T02:00:17.996Z
+date: 2024-05-19T06:25:47.878Z
+updated: 2024-05-20T06:25:47.878Z
 tags: 
   - audio editing software
   - audio editing
@@ -1423,4 +1423,5 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-7-ways-to-lock-apps-on-iphone-15-and-ipad-securely-drfone-by-drfone-ios/"><u>In 2024, 7 Ways to Lock Apps on iPhone 15 and iPad Securely | Dr.fone</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/from-boring-to-brilliant-10-animated-text-converters-youll-love-for-2024/"><u>From Boring to Brilliant 10 Animated Text Converters Youll Love for 2024</u></a></li>
 </ul></div>
+
 

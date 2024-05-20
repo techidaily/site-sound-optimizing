@@ -1,7 +1,7 @@
 ---
 title: New Responsibilities of Each Team Member During Production
-date: 2024-05-05T02:15:51.033Z
-updated: 2024-05-06T02:15:51.033Z
+date: 2024-05-19T06:26:27.083Z
+updated: 2024-05-20T06:26:27.083Z
 tags: 
   - audio editing software
   - audio editing
@@ -746,4 +746,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://animation-videos.techidaily.com/updated-in-2024-how-to-find-3d-animation-studio-meeting-all-your-inspiring-needs/"><u>Updated In 2024, How to Find 3D Animation Studio Meeting All Your Inspiring Needs</u></a></li>
 <li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-xiaomi-redmi-k70e-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Xiaomi Redmi K70E? Here is How | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Updated Techniques for Altering Decibel Settings on Media Playback
-date: 2024-05-05T02:17:34.601Z
-updated: 2024-05-06T02:17:34.601Z
+date: 2024-05-19T06:26:31.821Z
+updated: 2024-05-20T06:26:31.821Z
 tags: 
   - audio editing software
   - audio editing
@@ -1172,4 +1172,5 @@ Follow @Benjamin Arango
 <li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
 <li><a href="https://animation-videos.techidaily.com/new-can-i-still-do-animated-logo-design-without-design-skills-for-2024/"><u>New Can I Still Do Animated Logo Design Without Design Skills for 2024</u></a></li>
 </ul></div>
+
 

@@ -2123,3 +2123,4 @@ For macOS 10.12 or later
 <li><a href="https://ai-editing-video.techidaily.com/new-how-to-create-a-smooth-cut-transition-effect/"><u>New How to Create a Smooth Cut Transition Effect?</u></a></li>
 </ul></div>
 
+

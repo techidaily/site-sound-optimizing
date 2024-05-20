@@ -1,7 +1,7 @@
 ---
 title: Capturing Your Computers Audio Spectrum with Audacity for 2024
-date: 2024-05-05T02:06:34.512Z
-updated: 2024-05-06T02:06:34.512Z
+date: 2024-05-19T06:26:02.372Z
+updated: 2024-05-20T06:26:02.372Z
 tags: 
   - audio editing software
   - audio editing
@@ -1170,4 +1170,5 @@ For macOS 10.12 or later
 <li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-motorola-g24-power-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Motorola G24 Power | Dr.fone</u></a></li>
 <li><a href="https://iphone-location.techidaily.com/in-2024-quick-steps-to-change-weather-location-on-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Quick Steps to Change Weather Location on Apple iPhone 15 Plus | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: In 2024, Navigating Spatial Audio Management A Guide to Efficient Ducking in Video Production
-date: 2024-05-05T02:14:12.071Z
-updated: 2024-05-06T02:14:12.071Z
+date: 2024-05-19T06:26:22.223Z
+updated: 2024-05-20T06:26:22.223Z
 tags: 
   - audio editing software
   - audio editing
@@ -1203,4 +1203,5 @@ There are high chances of audio sound not being in the required pitch or volume.
 <li><a href="https://ai-editing-video.techidaily.com/new-top-online-video-background-changers-transform-your-videos-with-ease/"><u>New Top Online Video Background Changers Transform Your Videos with Ease</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-nokia-g310-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Nokia G310 Without Them Knowing? | Dr.fone</u></a></li>
 </ul></div>
+
 

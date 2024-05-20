@@ -1,7 +1,7 @@
 ---
 title: Mastering Sound Editing Shorten Audio Sections in iMovie for Mac and iPhone
-date: 2024-05-05T02:02:03.161Z
-updated: 2024-05-06T02:02:03.161Z
+date: 2024-05-19T06:25:51.284Z
+updated: 2024-05-20T06:25:51.284Z
 tags: 
   - audio editing software
   - audio editing
@@ -1655,4 +1655,5 @@ Follow @Shanoon Cox
 <li><a href="https://android-location-track.techidaily.com/how-to-track-vivo-t2-5g-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Vivo T2 5G Location without Installing Software? | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-honor-magic-6-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Honor Magic 6 Screen Sharing | Dr.fone</u></a></li>
 </ul></div>
+
 

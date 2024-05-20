@@ -1291,3 +1291,4 @@ For macOS 10.12 or later
 <li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-oppo-a38-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Oppo A38 Safely | Dr.fone</u></a></li>
 </ul></div>
 
+

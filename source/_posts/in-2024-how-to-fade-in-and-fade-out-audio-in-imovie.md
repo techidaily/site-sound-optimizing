@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Fade in and Fade Out Audio in iMovie?
-date: 2024-05-05T02:12:08.763Z
-updated: 2024-05-06T02:12:08.763Z
+date: 2024-05-19T06:26:16.728Z
+updated: 2024-05-20T06:26:16.728Z
 tags: 
   - audio editing software
   - audio editing
@@ -1448,4 +1448,5 @@ For macOS 10.12 or later
 <li><a href="https://android-pokemon-go.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-oppo-reno-11f-5g-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Oppo Reno 11F 5G? | Dr.fone</u></a></li>
 <li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-mac-green-screen-software-finding-the-perfect-fit-for-you/"><u>New 2024 Approved Mac Green Screen Software Finding the Perfect Fit for You</u></a></li>
 </ul></div>
+
 

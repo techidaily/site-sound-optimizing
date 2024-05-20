@@ -1,7 +1,7 @@
 ---
 title: In 2024, The Fundamentals of Podcast Production An Introduction to Basic Editing Techniques
-date: 2024-05-05T02:18:32.705Z
-updated: 2024-05-06T02:18:32.705Z
+date: 2024-05-19T06:26:34.221Z
+updated: 2024-05-20T06:26:34.221Z
 tags: 
   - audio editing software
   - audio editing
@@ -1511,4 +1511,5 @@ For macOS 10.12 or later
 <li><a href="https://apple-account.techidaily.com/in-2024-turning-off-two-factor-authentication-from-iphone-6s-plus-5-tips-you-must-know-by-drfone-ios/"><u>In 2024, Turning Off Two Factor Authentication From iPhone 6s Plus? 5 Tips You Must Know</u></a></li>
 <li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-motorola-g54-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Motorola G54 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

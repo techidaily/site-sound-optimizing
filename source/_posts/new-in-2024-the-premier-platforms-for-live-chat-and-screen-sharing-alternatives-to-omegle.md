@@ -1541,3 +1541,4 @@ Follow @Liza Brown
 <li><a href="https://video-content-creator.techidaily.com/new-optimizing-facebook-video-covers-a-guide-to-perfect-dimensions/"><u>New Optimizing Facebook Video Covers A Guide to Perfect Dimensions</u></a></li>
 </ul></div>
 
+

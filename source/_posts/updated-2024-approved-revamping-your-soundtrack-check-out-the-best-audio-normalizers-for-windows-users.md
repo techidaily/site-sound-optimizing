@@ -851,3 +851,4 @@ For macOS 10.12 or later
 <li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-how-to-change-ratio-of-video-in-a-quick-way/"><u>Updated 2024 Approved How to Change Ratio of Video in a Quick Way</u></a></li>
 </ul></div>
 
+

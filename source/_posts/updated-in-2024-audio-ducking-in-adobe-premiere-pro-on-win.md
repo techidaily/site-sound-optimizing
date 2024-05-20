@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Audio Ducking in Adobe Premiere Pro on Win
-date: 2024-05-05T02:24:24.515Z
-updated: 2024-05-06T02:24:24.515Z
+date: 2024-05-19T06:26:50.289Z
+updated: 2024-05-20T06:26:50.289Z
 tags: 
   - audio editing software
   - audio editing
@@ -1235,4 +1235,5 @@ Follow @Richard Bennett
 <li><a href="https://android-location-track.techidaily.com/how-to-track-nokia-g310-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Nokia G310 Location by Number | Dr.fone</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-on-vivo-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Vivo FRP Bypass</u></a></li>
 </ul></div>
+
 

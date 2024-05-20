@@ -1,7 +1,7 @@
 ---
 title: Enhancing Your Recordings Additional Layers of Voice Processing in Audacity Using Plugins
-date: 2024-05-05T02:01:13.351Z
-updated: 2024-05-06T02:01:13.351Z
+date: 2024-05-19T06:25:49.994Z
+updated: 2024-05-20T06:25:49.994Z
 tags: 
   - audio editing software
   - audio editing
@@ -1043,4 +1043,5 @@ Follow @Benjamin Arango
 <li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-mavericks-mp4-video-editor-simplify-your-editing-process/"><u>Updated In 2024, Mavericks MP4 Video Editor Simplify Your Editing Process</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/are-you-looking-to-make-subscribe-channel-graphics-here-is-a-complete-guide-on-how-to-make-one-on-your-own/"><u>Are You Looking to Make Subscribe Channel Graphics? Here Is a Complete Guide on How to Make One on Your Own</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Methods of Exporting Audio From Audacity in MP3 Format
-date: 2024-05-05T02:13:57.659Z
-updated: 2024-05-06T02:13:57.659Z
+date: 2024-05-19T06:26:21.297Z
+updated: 2024-05-20T06:26:21.297Z
 tags: 
   - audio editing software
   - audio editing
@@ -894,4 +894,5 @@ We know how important it is to find the right tool for yourselves! For this, we 
 <li><a href="https://iphone-unlock.techidaily.com/complete-guide-for-apple-iphone-11-pro-lock-screen-drfone-by-drfone-ios/"><u>Complete Guide For Apple iPhone 11 Pro Lock Screen | Dr.fone</u></a></li>
 <li><a href="https://ai-driven-video-production.techidaily.com/change-your-videos-aspect-ratio-in-just-a-few-clicks/"><u>Change Your Videos Aspect Ratio in Just a Few Clicks</u></a></li>
 </ul></div>
+
 

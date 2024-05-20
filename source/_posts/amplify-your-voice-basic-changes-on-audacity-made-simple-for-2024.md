@@ -1,7 +1,7 @@
 ---
 title: Amplify Your Voice Basic Changes on Audacity Made Simple for 2024
-date: 2024-05-05T02:05:09.537Z
-updated: 2024-05-06T02:05:09.537Z
+date: 2024-05-19T06:25:58.501Z
+updated: 2024-05-20T06:25:58.501Z
 tags: 
   - audio editing software
   - audio editing
@@ -1990,4 +1990,5 @@ For macOS 10.14 or later
 <li><a href="https://techidaily.com/how-to-reset-a-realme-note-50-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Realme Note 50 Phone That Is Locked | Dr.fone</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/new-how-to-create-the-best-ai-thumbnail-using-the-right-tools-in-2024/"><u>New How To Create The Best AI Thumbnail Using The Right Tools, In 2024</u></a></li>
 </ul></div>
+
 

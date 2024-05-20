@@ -1404,3 +1404,4 @@ Follow @Liza Brown
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-htc-u23-pro-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from HTC U23 Pro to iPad | Dr.fone</u></a></li>
 </ul></div>
 
+

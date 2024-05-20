@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Getting Audacity Running on Your Ubuntu System for 2024
-date: 2024-05-05T02:16:57.154Z
-updated: 2024-05-06T02:16:57.154Z
+date: 2024-05-19T06:26:30.498Z
+updated: 2024-05-20T06:26:30.498Z
 tags: 
   - audio editing software
   - audio editing
@@ -1141,4 +1141,5 @@ Moreover, the article emphasizes Wondershare Filmora's V13 features, particularl
 <li><a href="https://smart-video-creator.techidaily.com/new-get-back-on-track-resetting-final-cut-pro-x-to-resolve-common-problems-for-2024/"><u>New Get Back on Track Resetting Final Cut Pro X to Resolve Common Problems for 2024</u></a></li>
 <li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-the-ultimate-list-of-video-editing-software-for-newcomers/"><u>Updated 2024 Approved The Ultimate List of Video Editing Software for Newcomers</u></a></li>
 </ul></div>
+
 

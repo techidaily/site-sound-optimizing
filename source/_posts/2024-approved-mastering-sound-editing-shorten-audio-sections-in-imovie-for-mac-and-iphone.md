@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Mastering Sound Editing Shorten Audio Sections in iMovie for Mac and iPhone
-date: 2024-05-05T02:13:29.404Z
-updated: 2024-05-06T02:13:29.404Z
+date: 2024-05-19T06:26:20.475Z
+updated: 2024-05-20T06:26:20.475Z
 tags: 
   - audio editing software
   - audio editing
@@ -1337,4 +1337,5 @@ Follow @Liza Brown
 <li><a href="https://video-ai-editor.techidaily.com/new-10-exceptional-intro-creator-tools-online-for-2024/"><u>New 10 Exceptional Intro Creator Tools Online for 2024</u></a></li>
 <li><a href="https://smart-video-creator.techidaily.com/iphone-video-editing-essentials-top-picks-for-2024/"><u>IPhone Video Editing Essentials Top Picks for 2024</u></a></li>
 </ul></div>
+
 

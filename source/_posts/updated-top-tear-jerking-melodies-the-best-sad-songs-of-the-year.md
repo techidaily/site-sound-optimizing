@@ -1,7 +1,7 @@
 ---
 title: Updated Top Tear-Jerking Melodies The Best Sad Songs of the Year
-date: 2024-05-05T02:20:50.049Z
-updated: 2024-05-06T02:20:50.049Z
+date: 2024-05-19T06:26:39.595Z
+updated: 2024-05-20T06:26:39.595Z
 tags: 
   - audio editing software
   - audio editing
@@ -1179,4 +1179,5 @@ Follow @Shanoon Cox
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-xiaomi-redmi-note-12r-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Xiaomi Redmi Note 12R Phone</u></a></li>
 <li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-motorola-moto-g13-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Motorola Moto G13 Screen | Dr.fone</u></a></li>
 </ul></div>
+
 

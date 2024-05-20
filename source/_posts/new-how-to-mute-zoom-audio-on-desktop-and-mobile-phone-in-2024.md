@@ -1166,3 +1166,4 @@ For macOS 10.12 or later
 <li><a href="https://blog-min.techidaily.com/how-to-play-hevc-h-265-video-on-samsung-galaxy-m34-5g-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>How to play HEVC H.265 video on Samsung Galaxy M34 5G?</u></a></li>
 </ul></div>
 
+

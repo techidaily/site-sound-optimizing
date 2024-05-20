@@ -1,7 +1,7 @@
 ---
 title: In 2024, Setting Up Audacity on Your Chromebook A Step-by-Step Guide
-date: 2024-05-05T02:16:18.437Z
-updated: 2024-05-06T02:16:18.437Z
+date: 2024-05-19T06:26:28.849Z
+updated: 2024-05-20T06:26:28.849Z
 tags: 
   - audio editing software
   - audio editing
@@ -1149,4 +1149,5 @@ Follow @Benjamin Arango
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-nubia-z50s-pro-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Nubia Z50S Pro Phone Password Without Factory Reset?</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/finding-the-finest-way-to-add-subtitles-to-videos-filmora-for-2024/"><u>Finding The Finest Way To Add Subtitles to Videos | Filmora for 2024</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Audacity Tutorial Boost or Mute Your Sound Effectively
-date: 2024-05-05T02:05:19.689Z
-updated: 2024-05-06T02:05:19.689Z
+date: 2024-05-19T06:25:58.965Z
+updated: 2024-05-20T06:25:58.965Z
 tags: 
   - audio editing software
   - audio editing
@@ -1115,4 +1115,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Share/Fake Location on WhatsApp for Apple iPhone 15 | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-poco-c51-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Poco C51 | Dr.fone</u></a></li>
 </ul></div>
+
 

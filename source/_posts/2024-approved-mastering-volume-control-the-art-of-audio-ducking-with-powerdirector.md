@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Mastering Volume Control The Art of Audio Ducking with PowerDirector
-date: 2024-05-05T02:13:45.036Z
-updated: 2024-05-06T02:13:45.036Z
+date: 2024-05-19T06:26:20.860Z
+updated: 2024-05-20T06:26:20.860Z
 tags: 
   - audio editing software
   - audio editing
@@ -1166,4 +1166,5 @@ Now are days, Zoom Meeting is being widely used. This article will surely increa
 <li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-unlock-efficiency-top-adobe-premiere-shortcuts-for-faster-editing/"><u>Updated 2024 Approved Unlock Efficiency Top Adobe Premiere Shortcuts for Faster Editing</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-top-8-text-to-video-ai-generators-to-produce-video-easily/"><u>New In 2024, Top 8 Text-to-Video AI Generators to Produce Video Easily</u></a></li>
 </ul></div>
+
 

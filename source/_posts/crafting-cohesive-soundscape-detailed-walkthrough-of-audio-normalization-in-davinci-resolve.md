@@ -1,7 +1,7 @@
 ---
 title: Crafting Cohesive Soundscape Detailed Walkthrough of Audio Normalization in DaVinci Resolve
-date: 2024-05-05T02:00:48.488Z
-updated: 2024-05-06T02:00:48.488Z
+date: 2024-05-19T06:25:48.873Z
+updated: 2024-05-20T06:25:48.873Z
 tags: 
   - audio editing software
   - audio editing
@@ -988,4 +988,5 @@ Follow @Liza Brown
 <li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-demystifying-hd-video-pixel-size-aspect-ratio-and-beyond/"><u>New 2024 Approved Demystifying HD Video Pixel Size, Aspect Ratio, and Beyond</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/a-guide-realme-c67-5g-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Realme C67 5G Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
 </ul></div>
+
 

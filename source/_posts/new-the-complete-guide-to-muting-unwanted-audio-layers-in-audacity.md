@@ -1,7 +1,7 @@
 ---
 title: New The Complete Guide to Muting Unwanted Audio Layers in Audacity
-date: 2024-05-05T02:18:12.955Z
-updated: 2024-05-06T02:18:12.955Z
+date: 2024-05-19T06:26:33.458Z
+updated: 2024-05-20T06:26:33.458Z
 tags: 
   - audio editing software
   - audio editing
@@ -1098,4 +1098,5 @@ Additionally, we explored the pricing plan of MAGIX Samplitude Pro X and its var
 <li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-supercharge-your-video-edits-top-adobe-premiere-plugins-free-trial/"><u>New In 2024, Supercharge Your Video Edits Top Adobe Premiere Plugins (Free Trial)</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-talking-photo-feature/"><u>Updated In 2024, Talking Photo Feature</u></a></li>
 </ul></div>
+
 

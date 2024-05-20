@@ -1,7 +1,7 @@
 ---
 title: Time-Saving Strategies for Modifying Audio Durations
-date: 2024-05-05T02:03:25.250Z
-updated: 2024-05-06T02:03:25.250Z
+date: 2024-05-19T06:25:54.251Z
+updated: 2024-05-20T06:25:54.251Z
 tags: 
   - audio editing software
   - audio editing
@@ -1286,4 +1286,5 @@ For macOS 10.12 or later
 <li><a href="https://ai-video-editing.techidaily.com/new-how-to-use-obs-chroma-key-withwithout-green-screen-easy-solutions-for-2024/"><u>New How to Use OBS Chroma Key With/Without Green Screen Easy Solutions for 2024</u></a></li>
 <li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-guide-to-facebook-video-aspect-ratios-youll-ever-need-to-know/"><u>Updated In 2024, Guide to Facebook Video Aspect Ratios Youll Ever Need to Know</u></a></li>
 </ul></div>
+
 

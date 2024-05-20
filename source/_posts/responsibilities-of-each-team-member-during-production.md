@@ -1,7 +1,7 @@
 ---
 title: Responsibilities of Each Team Member During Production
-date: 2024-05-05T02:02:33.823Z
-updated: 2024-05-06T02:02:33.823Z
+date: 2024-05-19T06:25:52.499Z
+updated: 2024-05-20T06:25:52.499Z
 tags: 
   - audio editing software
   - audio editing
@@ -1097,4 +1097,5 @@ For macOS 10.12 or later
 <li><a href="https://blog-min.techidaily.com/how-to-play-hevc-h-265-video-on-galaxy-s23-fe-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>How to play HEVC H.265 video on Galaxy S23 FE?</u></a></li>
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-vivo-y78plus-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Vivo Y78+ Without Anyone Knowing? | Dr.fone</u></a></li>
 </ul></div>
+
 

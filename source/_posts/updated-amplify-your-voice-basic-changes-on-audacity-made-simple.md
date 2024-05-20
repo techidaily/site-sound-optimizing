@@ -1,7 +1,7 @@
 ---
 title: Updated Amplify Your Voice Basic Changes on Audacity Made Simple
-date: 2024-05-05T02:05:09.784Z
-updated: 2024-05-06T02:05:09.784Z
+date: 2024-05-19T06:25:58.503Z
+updated: 2024-05-20T06:25:58.503Z
 tags: 
   - audio editing software
   - audio editing
@@ -1337,4 +1337,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-optimizing-mobile-design-a-guide-to-vertical-aspect-ratios/"><u>New 2024 Approved Optimizing Mobile Design A Guide to Vertical Aspect Ratios</u></a></li>
 <li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-nokia-c22-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Nokia C22 | Dr.fone</u></a></li>
 </ul></div>
+
 

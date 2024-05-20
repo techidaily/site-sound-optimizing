@@ -1,7 +1,7 @@
 ---
 title: Updated The Seamless Audio Journey Crafting Subtle Volume Transitions in Adobe After Effects
-date: 2024-05-05T02:19:04.569Z
-updated: 2024-05-06T02:19:04.569Z
+date: 2024-05-19T06:26:35.440Z
+updated: 2024-05-20T06:26:35.440Z
 tags: 
   - audio editing software
   - audio editing
@@ -1529,4 +1529,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-realme-c51-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Realme C51 | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-samsung-galaxy-f04-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Samsung Galaxy F04</u></a></li>
 </ul></div>
+
 

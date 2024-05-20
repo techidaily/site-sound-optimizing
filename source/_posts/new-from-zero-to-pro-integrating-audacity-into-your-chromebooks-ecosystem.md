@@ -1,7 +1,7 @@
 ---
 title: New From Zero to Pro Integrating Audacity Into Your Chromebooks Ecosystem
-date: 2024-05-05T02:11:01.266Z
-updated: 2024-05-06T02:11:01.266Z
+date: 2024-05-19T06:26:13.583Z
+updated: 2024-05-20T06:26:13.583Z
 tags: 
   - audio editing software
   - audio editing
@@ -1429,4 +1429,5 @@ Numerous effects to choose from.
 <li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-poco-c55-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Poco C55 | Dr.fone</u></a></li>
 <li><a href="https://video-content-creator.techidaily.com/updated-ps4-screenshot-sharing-made-easy-a-step-by-step-guide/"><u>Updated PS4 Screenshot Sharing Made Easy A Step-by-Step Guide</u></a></li>
 </ul></div>
+
 

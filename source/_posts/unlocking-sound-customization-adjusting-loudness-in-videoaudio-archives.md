@@ -1,7 +1,7 @@
 ---
 title: Unlocking Sound Customization Adjusting Loudness in Video/Audio Archives
-date: 2024-05-05T02:03:47.881Z
-updated: 2024-05-06T02:03:47.881Z
+date: 2024-05-19T06:25:55.129Z
+updated: 2024-05-20T06:25:55.129Z
 tags: 
   - audio editing software
   - audio editing
@@ -877,4 +877,5 @@ For macOS 10.12 or later
 <li><a href="https://ai-driven-video-production.techidaily.com/no-cost-4k-video-editing-the-ultimate-guide-to-free-software-for-2024/"><u>No-Cost 4K Video Editing The Ultimate Guide to Free Software for 2024</u></a></li>
 <li><a href="https://smart-video-creator.techidaily.com/updated-video-invitation-essentials-top-apps-for-ios-and-android-users/"><u>Updated Video Invitation Essentials Top Apps for iOS and Android Users</u></a></li>
 </ul></div>
+
 

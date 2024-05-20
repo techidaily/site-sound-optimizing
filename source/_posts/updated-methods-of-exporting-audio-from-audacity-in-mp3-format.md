@@ -1,7 +1,7 @@
 ---
 title: Updated Methods of Exporting Audio From Audacity in MP3 Format
-date: 2024-05-05T02:13:57.910Z
-updated: 2024-05-06T02:13:57.910Z
+date: 2024-05-19T06:26:21.306Z
+updated: 2024-05-20T06:26:21.306Z
 tags: 
   - audio editing software
   - audio editing
@@ -2184,4 +2184,5 @@ As mеntionеd abovе, thеrе аrе many tools that can help you producе prof�
 <li><a href="https://video-ai-editor.techidaily.com/updated-subtitle-like-a-pro-a-tutorial-on-adding-captions-in-final-cut-pro-x-for-2024/"><u>Updated Subtitle Like a Pro A Tutorial on Adding Captions in Final Cut Pro X for 2024</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/despite-the-aforementioned-restrictions-cartoon-video-makers-still-offer-a-sea-of-possibilities-to-their-users-so-lets-dive-into-the-magical-world-of-animat/"><u>Despite the Aforementioned Restrictions, Cartoon Video Makers Still Offer a Sea of Possibilities to Their Users, so Lets Dive Into the Magical World of Animated Videos</u></a></li>
 </ul></div>
+
 

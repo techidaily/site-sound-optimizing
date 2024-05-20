@@ -1043,3 +1043,4 @@ Detailed tutorials provided by the official channel
 <li><a href="https://techidaily.com/different-methods-for-resetting-lava-yuva-2-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Lava Yuva 2 Phones with Screen Locked and Not | Dr.fone</u></a></li>
 </ul></div>
 
+

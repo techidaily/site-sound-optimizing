@@ -2207,3 +2207,4 @@ For macOS 10.14 or later
 <li><a href="https://techidaily.com/how-to-reset-a-motorola-defy-2-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Motorola Defy 2 Phone That Is Locked | Dr.fone</u></a></li>
 </ul></div>
 
+

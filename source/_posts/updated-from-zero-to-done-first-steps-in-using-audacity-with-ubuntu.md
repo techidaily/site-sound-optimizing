@@ -1,7 +1,7 @@
 ---
 title: Updated From Zero to Done First Steps in Using Audacity with Ubuntu
-date: 2024-05-05T02:11:00.253Z
-updated: 2024-05-06T02:11:00.253Z
+date: 2024-05-19T06:26:13.524Z
+updated: 2024-05-20T06:26:13.524Z
 tags: 
   - audio editing software
   - audio editing
@@ -1302,4 +1302,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://ai-video-tools.techidaily.com/new-get-your-game-face-on-best-websites-to-download-games-for-2024/"><u>New Get Your Game Face On Best Websites to Download Games for 2024</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-pictures-from-samsung-by-fonelab-android-recover-pictures/"><u>How to recover deleted pictures from Samsung .</u></a></li>
 </ul></div>
+
 

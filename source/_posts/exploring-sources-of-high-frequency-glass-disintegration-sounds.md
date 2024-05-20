@@ -1,7 +1,7 @@
 ---
 title: Exploring Sources of High-Frequency Glass Disintegration Sounds
-date: 2024-05-05T02:01:26.083Z
-updated: 2024-05-06T02:01:26.083Z
+date: 2024-05-19T06:25:50.271Z
+updated: 2024-05-20T06:25:50.271Z
 tags: 
   - audio editing software
   - audio editing
@@ -1075,4 +1075,5 @@ For macOS 10.12 or later
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-narzo-60-pro-5g-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Realme Narzo 60 Pro 5G Phone without PIN</u></a></li>
 <li><a href="https://ai-driven-video-production.techidaily.com/updated-take-it-down-a-notch-how-to-enable-slow-motion-on-vlc-for-desktop-and-mobile/"><u>Updated Take It Down a Notch How to Enable Slow Motion on VLC for Desktop and Mobile</u></a></li>
 </ul></div>
+
 

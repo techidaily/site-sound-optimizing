@@ -1,7 +1,7 @@
 ---
 title: Updated Elevating Your Edit Workflow Using Audio Duck Features in PowerDirector to Enhance Audio Transitions
-date: 2024-05-05T02:08:52.511Z
-updated: 2024-05-06T02:08:52.511Z
+date: 2024-05-19T06:26:08.018Z
+updated: 2024-05-20T06:26:08.018Z
 tags: 
   - audio editing software
   - audio editing
@@ -1684,4 +1684,5 @@ Follow @Benjamin Arango
 <li><a href="https://ai-editing-video.techidaily.com/new-detailed-guide-to-crop-video-in-sony-vegas-pro/"><u>New Detailed Guide to Crop Video in Sony Vegas Pro</u></a></li>
 <li><a href="https://review-topics.techidaily.com/how-to-unlock-infinix-hot-30-5g-phone-forgot-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Infinix Hot 30 5G Phone Forgot Password</u></a></li>
 </ul></div>
+
 

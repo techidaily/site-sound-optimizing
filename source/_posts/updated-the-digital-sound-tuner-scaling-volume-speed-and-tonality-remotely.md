@@ -1,7 +1,7 @@
 ---
 title: Updated The Digital Sound Tuner Scaling Volume, Speed & Tonality Remotely
-date: 2024-05-05T02:18:21.402Z
-updated: 2024-05-06T02:18:21.402Z
+date: 2024-05-19T06:26:33.766Z
+updated: 2024-05-20T06:26:33.766Z
 tags: 
   - audio editing software
   - audio editing
@@ -1342,4 +1342,5 @@ Follow @Benjamin Arango
 <li><a href="https://ai-voice-clone.techidaily.com/ultimate-guide-to-shopee-livestream-selling-maximize-profits-for-2024/"><u>Ultimate Guide to Shopee Livestream Selling Maximize Profits for 2024</u></a></li>
 <li><a href="https://video-content-creator.techidaily.com/new-in-2024-quik-on-pc-how-to-use-it-and-alternative-options/"><u>New In 2024, Quik on PC How to Use It and Alternative Options</u></a></li>
 </ul></div>
+
 

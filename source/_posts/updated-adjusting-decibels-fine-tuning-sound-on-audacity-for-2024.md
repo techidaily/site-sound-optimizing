@@ -1,7 +1,7 @@
 ---
 title: Updated Adjusting Decibels Fine-Tuning Sound on Audacity for 2024
-date: 2024-05-05T02:23:51.026Z
-updated: 2024-05-06T02:23:51.026Z
+date: 2024-05-19T06:26:48.312Z
+updated: 2024-05-20T06:26:48.312Z
 tags: 
   - audio editing software
   - audio editing
@@ -1362,4 +1362,5 @@ That does it for this list, but I'm sure you could think of many other great mon
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-disabling-apple-iphone-12-parental-restrictions-withwithout-password-drfone-by-drfone-ios/"><u>In 2024, Disabling Apple iPhone 12 Parental Restrictions With/Without Password | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-nokia-c12-pro-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Nokia C12 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

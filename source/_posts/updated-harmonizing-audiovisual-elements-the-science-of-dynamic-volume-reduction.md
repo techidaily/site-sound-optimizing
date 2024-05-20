@@ -1,7 +1,7 @@
 ---
 title: Updated Harmonizing Audiovisual Elements The Science of Dynamic Volume Reduction
-date: 2024-05-05T02:11:15.472Z
-updated: 2024-05-06T02:11:15.472Z
+date: 2024-05-19T06:26:14.286Z
+updated: 2024-05-20T06:26:14.286Z
 tags: 
   - audio editing software
   - audio editing
@@ -1158,4 +1158,5 @@ For macOS 10.12 or later
 <li><a href="https://ai-video-apps.techidaily.com/updated-the-best-of-the-best-top-10-free-and-paid-android-video-editing-apps/"><u>Updated The Best of the Best Top 10 Free and Paid Android Video Editing Apps</u></a></li>
 <li><a href="https://ai-driven-video-production.techidaily.com/updated-creative-freedom-best-video-dubbing-software-for-2024/"><u>Updated Creative Freedom Best Video Dubbing Software for 2024</u></a></li>
 </ul></div>
+
 

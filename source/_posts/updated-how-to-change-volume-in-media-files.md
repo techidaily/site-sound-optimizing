@@ -1,7 +1,7 @@
 ---
 title: Updated How to Change Volume in Media Files
-date: 2024-05-05T02:06:38.038Z
-updated: 2024-05-06T02:06:38.038Z
+date: 2024-05-19T06:26:02.648Z
+updated: 2024-05-20T06:26:02.648Z
 tags: 
   - audio editing software
   - audio editing
@@ -974,4 +974,5 @@ Filmora is a video editing program that's simple enough for beginners but powerf
 <li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-talking-to-text-the-simple-way-to-transcribe-conversations/"><u>Updated In 2024, Talking to Text The Simple Way to Transcribe Conversations</u></a></li>
 <li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-transcribe-voice-to-written-word-a-step-by-step-guide/"><u>Updated 2024 Approved Transcribe Voice to Written Word A Step-by-Step Guide</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Updated Converting Audacity Projects to MP3 Format
-date: 2024-05-05T02:07:09.416Z
-updated: 2024-05-06T02:07:09.416Z
+date: 2024-05-19T06:26:03.894Z
+updated: 2024-05-20T06:26:03.894Z
 tags: 
   - audio editing software
   - audio editing
@@ -696,4 +696,5 @@ Additionally, we explored the pricing plan of MAGIX Samplitude Pro X and its var
 <li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-vivo-s18-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Vivo S18 Hard Reset | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/how-to-reset-nokia-c12-pro-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Nokia C12 Pro without Losing Data | Dr.fone</u></a></li>
 </ul></div>
+
 

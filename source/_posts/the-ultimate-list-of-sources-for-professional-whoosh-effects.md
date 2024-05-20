@@ -1,7 +1,7 @@
 ---
 title: The Ultimate List of Sources for Professional Whoosh Effects
-date: 2024-05-05T02:03:20.543Z
-updated: 2024-05-06T02:03:20.543Z
+date: 2024-05-19T06:25:54.103Z
+updated: 2024-05-20T06:25:54.103Z
 tags: 
   - audio editing software
   - audio editing
@@ -1448,4 +1448,5 @@ For macOS 10.12 or later
 <li><a href="https://ai-video-editing.techidaily.com/magic-effects-video-making-how-to-for-2024/"><u>Magic Effects Video Making How To for 2024</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/realme-gt-5-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Realme GT 5 Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
 </ul></div>
+
 

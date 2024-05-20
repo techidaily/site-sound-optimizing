@@ -939,3 +939,4 @@ For macOS 10.12 or later
 <li><a href="https://smart-video-creator.techidaily.com/gopro-video-editing-software-for-pc-quik-and-its-competitors/"><u>GoPro Video Editing Software for PC Quik and Its Competitors</u></a></li>
 </ul></div>
 
+

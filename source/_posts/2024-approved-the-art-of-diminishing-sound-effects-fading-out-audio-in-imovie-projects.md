@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved The Art of Diminishing Sound Effects Fading Out Audio in iMovie Projects
-date: 2024-05-05T02:17:50.715Z
-updated: 2024-05-06T02:17:50.715Z
+date: 2024-05-19T06:26:32.485Z
+updated: 2024-05-20T06:26:32.485Z
 tags: 
   - audio editing software
   - audio editing
@@ -1933,4 +1933,5 @@ We've also discussed a bonus tip for using Filmora to record your live streams a
 <li><a href="https://android-unlock.techidaily.com/universal-unlock-pattern-for-samsung-by-drfone-android/"><u>Universal Unlock Pattern for Samsung</u></a></li>
 <li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-lava-yuva-3-pro-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Lava Yuva 3 Pro and Browser | Dr.fone</u></a></li>
 </ul></div>
+
 

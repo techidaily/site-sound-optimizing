@@ -1424,3 +1424,4 @@ For macOS 10.14 or later
 <li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-zte-nubia-z60-ultra-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your ZTE Nubia Z60 Ultra to Other Android devices | Dr.fone</u></a></li>
 </ul></div>
 
+

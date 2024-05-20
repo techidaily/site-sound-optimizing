@@ -1,7 +1,7 @@
 ---
 title: Audio Balance Simplified Normalizing Sound in DaVinci Resolve for 2024
-date: 2024-05-05T02:05:22.914Z
-updated: 2024-05-06T02:05:22.914Z
+date: 2024-05-19T06:25:59.055Z
+updated: 2024-05-20T06:25:59.055Z
 tags: 
   - audio editing software
   - audio editing
@@ -875,4 +875,5 @@ We are dealing with online businesses and online lectures at the moment. It is h
 <li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-screen-format-options-on-amazon-prime/"><u>New 2024 Approved Screen Format Options on Amazon Prime</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-motorola-moto-g34-5g-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Motorola Moto G34 5G to iPad | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: New How To Record Your Computer Audio in Audacity
-date: 2024-05-05T02:11:38.681Z
-updated: 2024-05-06T02:11:38.681Z
+date: 2024-05-19T06:26:15.508Z
+updated: 2024-05-20T06:26:15.508Z
 tags: 
   - audio editing software
   - audio editing
@@ -824,4 +824,5 @@ As the uploading speed is slow, we highly suggest using Filmora to add audio to 
 <li><a href="https://fake-location.techidaily.com/is-pgsharp-legal-when-you-are-playing-pokemon-on-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>Is pgsharp legal when you are playing pokemon On Vivo Y78+? | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-honor-magic-6-litemirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Honor Magic 6 LiteMirror Share to PC? | Dr.fone</u></a></li>
 </ul></div>
+
 

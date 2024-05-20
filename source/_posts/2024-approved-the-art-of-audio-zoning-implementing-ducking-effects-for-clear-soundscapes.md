@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved The Art of Audio Zoning Implementing Ducking Effects for Clear Soundscapes
-date: 2024-05-05T02:17:47.931Z
-updated: 2024-05-06T02:17:47.931Z
+date: 2024-05-19T06:26:32.342Z
+updated: 2024-05-20T06:26:32.342Z
 tags: 
   - audio editing software
   - audio editing
@@ -1703,4 +1703,5 @@ There is a diverse range of [voice recorders and music-creating software](https:
 <li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-10-leading-music-video-editors-to-elevate-your-artistry/"><u>Updated 2024 Approved 10 Leading Music Video Editors to Elevate Your Artistry</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/updated-endless-playback-top-free-video-loopers-for-windows-and-mac/"><u>Updated Endless Playback Top Free Video Loopers for Windows and Mac</u></a></li>
 </ul></div>
+
 

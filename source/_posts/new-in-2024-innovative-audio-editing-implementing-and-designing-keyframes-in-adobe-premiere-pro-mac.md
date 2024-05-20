@@ -1185,3 +1185,4 @@ For macOS 10.12 or later
 <li><a href="https://techidaily.com/use-device-manager-to-identify-missing-or-malfunctioning-your-drivers-with-windows-device-manager-in-windows-7-by-drivereasy-guide/"><u>Use Device Manager to identify missing or malfunctioning your drivers with Windows Device Manager in Windows 7</u></a></li>
 </ul></div>
 
+

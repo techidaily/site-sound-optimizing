@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Elevating Sound Design A Comprehensive Approach to Gradual Audio Diminishment and Magnification with Adobe After Effects
-date: 2024-05-05T02:08:50.487Z
-updated: 2024-05-06T02:08:50.487Z
+date: 2024-05-19T06:26:07.988Z
+updated: 2024-05-20T06:26:07.988Z
 tags: 
   - audio editing software
   - audio editing
@@ -1058,4 +1058,5 @@ Merging audios is combining several audio files into one. We usually select the 
 <li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-oneplus-ace-2v-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track OnePlus Ace 2V by Phone Number | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-tecno-spark-20-proplus-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Tecno Spark 20 Pro+ For Mobile Legends? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Audacity Installation Protocols for Linux Users (Ubuntu Edition) for 2024
-date: 2024-05-05T02:05:17.713Z
-updated: 2024-05-06T02:05:17.713Z
+date: 2024-05-19T06:25:58.889Z
+updated: 2024-05-20T06:25:58.889Z
 tags: 
   - audio editing software
   - audio editing
@@ -1898,4 +1898,5 @@ We have come forward with great resources to download soft background music for 
 <li><a href="https://ai-editing-video.techidaily.com/2024-approved-ideas-for-time-lapse-video/"><u>2024 Approved Ideas for Time-Lapse Video</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/updated-best-video-translator-app-for-pc-cannot-miss-for-2024/"><u>Updated Best Video Translator App for PC Cannot Miss for 2024</u></a></li>
 </ul></div>
+
 

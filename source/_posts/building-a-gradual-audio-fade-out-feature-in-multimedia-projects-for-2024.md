@@ -1,7 +1,7 @@
 ---
 title: Building a Gradual Audio Fade-Out Feature in Multimedia Projects for 2024
-date: 2024-05-05T02:06:27.984Z
-updated: 2024-05-06T02:06:27.984Z
+date: 2024-05-19T06:26:02.091Z
+updated: 2024-05-20T06:26:02.091Z
 tags: 
   - audio editing software
   - audio editing
@@ -1000,4 +1000,5 @@ Follow @Liza Brown
 <li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-infinix-hot-30i-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Infinix Hot 30i | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-honor-magic-5-lite-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Honor Magic 5 Lite? | Dr.fone</u></a></li>
 </ul></div>
+
 

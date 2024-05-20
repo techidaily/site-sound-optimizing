@@ -1,7 +1,7 @@
 ---
 title: Exploring Depth of Field for Giant Audio Waves
-date: 2024-05-05T02:01:24.827Z
-updated: 2024-05-06T02:01:24.827Z
+date: 2024-05-19T06:25:50.254Z
+updated: 2024-05-20T06:25:50.254Z
 tags: 
   - audio editing software
   - audio editing
@@ -930,4 +930,5 @@ Follow @Shanoon Cox
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-trouble-with-iphone-7-swipe-up-try-these-11-solutions-drfone-by-drfone-ios/"><u>In 2024, Trouble with iPhone 7 Swipe-Up? Try These 11 Solutions | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/delete-gmail-account-withwithout-password-on-lava-blaze-2-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Lava Blaze 2</u></a></li>
 </ul></div>
+
 

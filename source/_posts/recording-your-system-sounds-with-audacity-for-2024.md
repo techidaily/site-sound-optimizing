@@ -1,7 +1,7 @@
 ---
 title: Recording Your System Sounds with Audacity for 2024
-date: 2024-05-05T02:15:40.227Z
-updated: 2024-05-06T02:15:40.227Z
+date: 2024-05-19T06:26:26.336Z
+updated: 2024-05-20T06:26:26.336Z
 tags: 
   - audio editing software
   - audio editing
@@ -951,4 +951,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://change-location.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-vivo-y77t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Vivo Y77t | Dr.fone</u></a></li>
 <li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-realme-narzo-60-5g-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Realme Narzo 60 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

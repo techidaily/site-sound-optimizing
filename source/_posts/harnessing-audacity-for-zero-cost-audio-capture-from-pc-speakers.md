@@ -1,7 +1,7 @@
 ---
 title: Harnessing Audacity for Zero-Cost Audio Capture From PC Speakers
-date: 2024-05-05T02:01:39.553Z
-updated: 2024-05-06T02:01:39.553Z
+date: 2024-05-19T06:25:50.473Z
+updated: 2024-05-20T06:25:50.473Z
 tags: 
   - audio editing software
   - audio editing
@@ -1387,4 +1387,5 @@ This article tried to cover different kinds of voice changers for gaming purpose
 <li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-vivo-y100t-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Vivo Y100t for Free? | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-lock-apps-on-xiaomi-redmi-k70e-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Xiaomi Redmi K70E to Protect Your Individual Information</u></a></li>
 </ul></div>
+
 

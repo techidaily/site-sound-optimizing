@@ -1,7 +1,7 @@
 ---
 title: Updated Adjusting Sound Levels in Audacity Raising the Volume Up, Lowering It Down
-date: 2024-05-05T02:04:51.897Z
-updated: 2024-05-06T02:04:51.897Z
+date: 2024-05-19T06:25:57.637Z
+updated: 2024-05-20T06:25:57.637Z
 tags: 
   - audio editing software
   - audio editing
@@ -1462,4 +1462,5 @@ Follow @Benjamin Arango
 <li><a href="https://video-creation-software.techidaily.com/updated-repeat-repeat-repeat-10-free-video-loopers-for-endless-fun/"><u>Updated Repeat, Repeat, Repeat 10 Free Video Loopers for Endless Fun</u></a></li>
 <li><a href="https://video-ai-editor.techidaily.com/updated-quik-fix-a-review-of-gopros-video-editor-and-top-pc-alternatives-for-2024/"><u>Updated Quik Fix A Review of GoPros Video Editor & Top PC Alternatives for 2024</u></a></li>
 </ul></div>
+
 

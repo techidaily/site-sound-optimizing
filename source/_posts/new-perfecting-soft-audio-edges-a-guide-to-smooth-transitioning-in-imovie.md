@@ -1,7 +1,7 @@
 ---
 title: New Perfecting Soft Audio Edges A Guide to Smooth Transitioning in iMovie
-date: 2024-05-05T02:14:47.247Z
-updated: 2024-05-06T02:14:47.247Z
+date: 2024-05-19T06:26:24.085Z
+updated: 2024-05-20T06:26:24.085Z
 tags: 
   - audio editing software
   - audio editing
@@ -1242,4 +1242,5 @@ For macOS 10.12 or later
 <li><a href="https://techidaily.com/how-to-factory-reset-oneplus-11r-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset OnePlus 11R in 5 Easy Ways | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-xiaomi-civi-3-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Xiaomi Civi 3 Screen Mirroring App | Dr.fone</u></a></li>
 </ul></div>
+
 

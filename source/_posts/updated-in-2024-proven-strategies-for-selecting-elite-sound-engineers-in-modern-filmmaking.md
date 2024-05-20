@@ -1024,3 +1024,4 @@ There are high chances of audio sound not being in the required pitch or volume.
 <li><a href="https://ai-vdieo-software.techidaily.com/from-crop-to-perfection-mastering-image-ratio-adjustment-techniques/"><u>From Crop to Perfection Mastering Image Ratio Adjustment Techniques</u></a></li>
 </ul></div>
 
+

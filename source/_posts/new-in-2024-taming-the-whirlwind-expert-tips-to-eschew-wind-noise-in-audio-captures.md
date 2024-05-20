@@ -833,3 +833,4 @@ Detailed tutorials provided by the official channel
 <li><a href="https://ai-video-tools.techidaily.com/new-in-2024-fcpx-subtitle-tutorial-how-to-add-captions-like-a-pro/"><u>New In 2024, FCPX Subtitle Tutorial How to Add Captions Like a Pro</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: Methods to Manipulate Amplitude in MP3, WAV, and MPEG Files
-date: 2024-05-05T02:02:08.668Z
-updated: 2024-05-06T02:02:08.668Z
+date: 2024-05-19T06:25:51.485Z
+updated: 2024-05-20T06:25:51.485Z
 tags: 
   - audio editing software
   - audio editing
@@ -1275,4 +1275,5 @@ Vimeo Video Size Ratio and other requirements to upload your video to the Vimeo 
 <li><a href="https://video-content-creator.techidaily.com/new-in-2024-cut-trim-and-share-best-free-video-editors-for-chromebook/"><u>New In 2024, Cut, Trim, and Share Best Free Video Editors for Chromebook</u></a></li>
 <li><a href="https://animation-videos.techidaily.com/in-2024-10-best-animation-makers-for-kids-to-have-fun/"><u>In 2024, 10 Best Animation Makers for Kids to Have Fun</u></a></li>
 </ul></div>
+
 

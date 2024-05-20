@@ -1,7 +1,7 @@
 ---
 title: Mastering the Process of Soft-Ending an Audio Track
-date: 2024-05-05T02:02:05.669Z
-updated: 2024-05-06T02:02:05.669Z
+date: 2024-05-19T06:25:51.331Z
+updated: 2024-05-20T06:25:51.331Z
 tags: 
   - audio editing software
   - audio editing
@@ -1239,4 +1239,5 @@ Follow @Liza Brown
 <li><a href="https://change-location.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-vivo-v27-pro-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Vivo V27 Pro | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-infinix-note-30-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Infinix Note 30 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

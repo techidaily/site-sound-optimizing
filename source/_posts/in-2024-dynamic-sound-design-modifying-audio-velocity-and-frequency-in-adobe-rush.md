@@ -1,7 +1,7 @@
 ---
 title: In 2024, Dynamic Sound Design Modifying Audio Velocity & Frequency in Adobe Rush
-date: 2024-05-05T02:08:25.879Z
-updated: 2024-05-06T02:08:25.879Z
+date: 2024-05-19T06:26:06.965Z
+updated: 2024-05-20T06:26:06.965Z
 tags: 
   - audio editing software
   - audio editing
@@ -1030,4 +1030,5 @@ Numerous effects to choose from.
 <li><a href="https://ai-driven-video-production.techidaily.com/updated-alternatives-to-virtualdub-best-video-processing-software-for-2024/"><u>Updated Alternatives to VirtualDub Best Video Processing Software for 2024</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/new-vintage-film-effect-1990s-how-to-make/"><u>New Vintage Film Effect 1990S - How to Make</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Crafting Silent Elegance The Art of Audio Ducking in Video Editing with Adobe Premiere Pro on Mac for 2024
-date: 2024-05-05T02:07:17.140Z
-updated: 2024-05-06T02:07:17.140Z
+date: 2024-05-19T06:26:04.115Z
+updated: 2024-05-20T06:26:04.115Z
 tags: 
   - audio editing software
   - audio editing
@@ -1106,4 +1106,5 @@ We have come forward with great resources to download soft background music for 
 <li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-nubia-red-magic-8s-proplus-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Nubia Red Magic 8S Pro+ Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
 <li><a href="https://android-frp.techidaily.com/the-complete-guide-to-oneplus-12r-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to OnePlus 12R FRP Bypass Everything You Need to Know</u></a></li>
 </ul></div>
+
 

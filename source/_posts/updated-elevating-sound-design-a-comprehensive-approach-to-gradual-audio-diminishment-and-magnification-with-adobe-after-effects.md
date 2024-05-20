@@ -1,7 +1,7 @@
 ---
 title: Updated Elevating Sound Design A Comprehensive Approach to Gradual Audio Diminishment and Magnification with Adobe After Effects
-date: 2024-05-05T02:08:50.739Z
-updated: 2024-05-06T02:08:50.739Z
+date: 2024-05-19T06:26:07.991Z
+updated: 2024-05-20T06:26:07.991Z
 tags: 
   - audio editing software
   - audio editing
@@ -1293,4 +1293,5 @@ Follow @Benjamin Arango
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-nokia-c22-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Nokia C22 | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/how-to-change-your-vivo-y02t-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Vivo Y02T Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
 </ul></div>
+
 

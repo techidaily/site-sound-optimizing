@@ -1,7 +1,7 @@
 ---
 title: New Crafting the Perfect Sound Changing Your Voice in Audacity
-date: 2024-05-05T02:07:18.892Z
-updated: 2024-05-06T02:07:18.892Z
+date: 2024-05-19T06:26:04.137Z
+updated: 2024-05-20T06:26:04.137Z
 tags: 
   - audio editing software
   - audio editing
@@ -1595,4 +1595,5 @@ Follow @Liza Brown
 <li><a href="https://ai-editing-video.techidaily.com/new-lets-create-a-new-premiere-pro-project-import-some-video-and-control-video-playback-speed-also-find-alternative-software-wondershare-filmora-to-control-/"><u>New Lets Create a New Premiere Pro Project, Import some Video, and Control Video Playback Speed. Also, Find Alternative Software (WonderShare Filmora) to Control Playback Speed in Minutes</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-create-video-with-ppt/"><u>New In 2024, Create Video With PPT</u></a></li>
 </ul></div>
+
 

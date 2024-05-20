@@ -1,7 +1,7 @@
 ---
 title: Audacity Mastery Modifying Vocal Characteristics to Suit Your Style
-date: 2024-05-05T02:00:24.164Z
-updated: 2024-05-06T02:00:24.164Z
+date: 2024-05-19T06:25:47.968Z
+updated: 2024-05-20T06:25:47.968Z
 tags: 
   - audio editing software
   - audio editing
@@ -1683,4 +1683,5 @@ Follow @Benjamin Arango
 <li><a href="https://techidaily.com/best-fixes-for-itel-a05s-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Itel A05s Hard Reset | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-realme-11-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Realme 11 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

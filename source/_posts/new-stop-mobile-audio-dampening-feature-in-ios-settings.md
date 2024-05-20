@@ -1,7 +1,7 @@
 ---
 title: New Stop Mobile Audio Dampening Feature in iOS Settings
-date: 2024-05-05T02:17:06.441Z
-updated: 2024-05-06T02:17:06.441Z
+date: 2024-05-19T06:26:30.729Z
+updated: 2024-05-20T06:26:30.729Z
 tags: 
   - audio editing software
   - audio editing
@@ -1141,4 +1141,5 @@ This article will help you in resolving various audio waveform issues in Premier
 <li><a href="https://ai-editing-video.techidaily.com/in-2024-have-you-ever-heard-hyperlapse-and-tume-lapse-videos-do-you-know-the-differences-between-them-this-article-will-introduce-the-concepts-features-and-/"><u>In 2024, Have You Ever Heard Hyperlapse and Tume Lapse Videos? Do You Know the Differences Between Them? This Article Will Introduce the Concepts, Features and Differnces of Them</u></a></li>
 <li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-optimizing-video-output-with-compressor-in-fcpx/"><u>New In 2024, Optimizing Video Output with Compressor in FCPX</u></a></li>
 </ul></div>
+
 

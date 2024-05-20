@@ -1,7 +1,7 @@
 ---
 title: Mastering Audio Manipulation Speed and Pitch Adjustments in Adobe Rush for 2024
-date: 2024-05-05T02:13:13.400Z
-updated: 2024-05-06T02:13:13.400Z
+date: 2024-05-19T06:26:20.144Z
+updated: 2024-05-20T06:26:20.144Z
 tags: 
   - audio editing software
   - audio editing
@@ -1242,4 +1242,5 @@ For macOS 10.12 or later
 <li><a href="https://ios-unlock.techidaily.com/forgot-locked-iphone-13-pro-max-password-learn-the-best-methods-to-unlock-by-drfone-ios/"><u>Forgot Locked iPhone 13 Pro Max Password? Learn the Best Methods To Unlock</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-identify-malfunctioning-drivers-with-windows-device-manager-on-windows-11-by-drivereasy-guide/"><u>How to identify malfunctioning drivers with Windows Device Manager on Windows 11</u></a></li>
 </ul></div>
+
 

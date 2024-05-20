@@ -1,7 +1,7 @@
 ---
 title: Sound Engineering Essentials Perfecting the Gradual Volume Change for 2024
-date: 2024-05-05T02:16:43.904Z
-updated: 2024-05-06T02:16:43.904Z
+date: 2024-05-19T06:26:30.254Z
+updated: 2024-05-20T06:26:30.254Z
 tags: 
   - audio editing software
   - audio editing
@@ -1054,4 +1054,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://smart-video-editing.techidaily.com/updated-the-best-of-both-worlds-online-and-offline-glitch-video-editors-compared-for-2024/"><u>Updated The Best of Both Worlds Online and Offline Glitch Video Editors Compared for 2024</u></a></li>
 <li><a href="https://howto.techidaily.com/how-to-restore-a-bricked-samsung-galaxy-m34-5g-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Samsung Galaxy M34 5G Back to Operation | Dr.fone</u></a></li>
 </ul></div>
+
 

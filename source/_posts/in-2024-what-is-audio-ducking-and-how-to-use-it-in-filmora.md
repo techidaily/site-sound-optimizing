@@ -1,7 +1,7 @@
 ---
 title: In 2024, What Is Audio Ducking and How to Use It in Filmora
-date: 2024-05-05T02:05:24.899Z
-updated: 2024-05-06T02:05:24.899Z
+date: 2024-05-19T06:25:59.132Z
+updated: 2024-05-20T06:25:59.132Z
 tags: 
   - audio editing software
   - audio editing
@@ -1363,4 +1363,5 @@ Now are days, Zoom Meeting is being widely used. This article will surely increa
 <li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Vivo X Flip | Dr.fone</u></a></li>
 <li><a href="https://animation-videos.techidaily.com/new-2024-approved-how-to-guide-make-animation-characters-with-the-best-animated-character-creators/"><u>New 2024 Approved How-To Guide Make Animation Characters with the Best Animated Character Creators</u></a></li>
 </ul></div>
+
 

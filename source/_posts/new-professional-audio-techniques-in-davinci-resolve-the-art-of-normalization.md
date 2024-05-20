@@ -1,7 +1,7 @@
 ---
 title: New Professional Audio Techniques in DaVinci Resolve The Art of Normalization
-date: 2024-05-05T02:15:22.982Z
-updated: 2024-05-06T02:15:22.982Z
+date: 2024-05-19T06:26:25.620Z
+updated: 2024-05-20T06:26:25.620Z
 tags: 
   - audio editing software
   - audio editing
@@ -1471,4 +1471,5 @@ All in all, Audacity does an excellent job at audio editing. If you simply need 
 <li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-vivo-v27-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Vivo V27 | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-13-pro-max-passcode-screen-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 13 Pro Max Passcode Screen?</u></a></li>
 </ul></div>
+
 

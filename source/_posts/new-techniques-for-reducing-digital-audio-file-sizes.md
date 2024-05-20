@@ -1,7 +1,7 @@
 ---
 title: New Techniques for Reducing Digital Audio File Sizes
-date: 2024-05-05T02:17:37.626Z
-updated: 2024-05-06T02:17:37.626Z
+date: 2024-05-19T06:26:31.965Z
+updated: 2024-05-20T06:26:31.965Z
 tags: 
   - audio editing software
   - audio editing
@@ -1150,4 +1150,5 @@ For macOS 10.12 or later
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-poco-c51-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Poco C51 Phone Without Password?</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-poco-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Poco Phone Without Password?</u></a></li>
 </ul></div>
+
 

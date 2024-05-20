@@ -1,7 +1,7 @@
 ---
 title: How to Fade In and Fade Out Audio in Adobe After Effects for 2024
-date: 2024-05-05T02:11:44.684Z
-updated: 2024-05-06T02:11:44.684Z
+date: 2024-05-19T06:26:15.693Z
+updated: 2024-05-20T06:26:15.693Z
 tags: 
   - audio editing software
   - audio editing
@@ -458,4 +458,5 @@ Looking for suitable BGM music for your video is not easy. The task consumes you
 <li><a href="https://ai-voice.techidaily.com/updated-detailed-review-and-alternatives-of-vocaloid6-voice-generator/"><u>Updated Detailed Review & Alternatives of VOCALOID6 Voice Generator</u></a></li>
 <li><a href="https://animation-videos.techidaily.com/updated-whiteboard-animation-services-top-15-animation-companies-to-pick/"><u>Updated Whiteboard Animation Services Top 15 Animation Companies to Pick</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Audacity Mastery Enhancing Your Podcast Sound and Delivery
-date: 2024-05-05T02:00:23.916Z
-updated: 2024-05-06T02:00:23.916Z
+date: 2024-05-19T06:25:47.965Z
+updated: 2024-05-20T06:25:47.965Z
 tags: 
   - audio editing software
   - audio editing
@@ -1840,4 +1840,5 @@ All in all, Audacity does an excellent job at audio editing. If you simply need 
 <li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-cooldown-chart-on-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Nubia Z50S Pro | Dr.fone</u></a></li>
 <li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-solving-the-fcpx-crash-problem-top-solutions/"><u>Updated 2024 Approved Solving the FCPX Crash Problem Top Solutions</u></a></li>
 </ul></div>
+
 

@@ -952,3 +952,4 @@ Follow @Shanoon Cox
 <li><a href="https://video-ai-editor.techidaily.com/2024-approved-crop-resize-and-rotate-mastering-video-shape-editing/"><u>2024 Approved Crop, Resize, and Rotate Mastering Video Shape Editing</u></a></li>
 </ul></div>
 
+

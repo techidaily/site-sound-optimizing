@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Training From Novice to Expert in Wave Editing Basics
-date: 2024-05-05T02:02:47.850Z
-updated: 2024-05-06T02:02:47.850Z
+date: 2024-05-19T06:25:52.993Z
+updated: 2024-05-20T06:25:52.993Z
 tags: 
   - audio editing software
   - audio editing
@@ -1597,4 +1597,5 @@ For macOS 10.12 or later
 <li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Xiaomi Civi 3 | Dr.fone</u></a></li>
 <li><a href="https://video-ai-editor.techidaily.com/updated-the-best-of-both-worlds-android-video-editors-on-chromebook-for-2024/"><u>Updated The Best of Both Worlds Android Video Editors on Chromebook for 2024</u></a></li>
 </ul></div>
+
 

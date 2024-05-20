@@ -1,7 +1,7 @@
 ---
 title: Rapid Method for Silencing Audio in Audacity Essential Tips
-date: 2024-05-05T02:02:29.643Z
-updated: 2024-05-06T02:02:29.643Z
+date: 2024-05-19T06:25:52.258Z
+updated: 2024-05-20T06:25:52.258Z
 tags: 
   - audio editing software
   - audio editing
@@ -825,4 +825,5 @@ For macOS 10.12 or later
 <li><a href="https://video-content-creator.techidaily.com/updated-trim-your-videos-like-a-pro-top-pc-software-for-2024/"><u>Updated Trim Your Videos Like a Pro Top PC Software for 2024</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/how-to-unlock-any-infinix-note-30-pro-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Infinix Note 30 Pro Phone Password Using Emergency Call</u></a></li>
 </ul></div>
+
 

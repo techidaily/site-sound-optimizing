@@ -1,7 +1,7 @@
 ---
 title: New Instant Silence Muting Zoom Sound From Your Computer or Smartphone
-date: 2024-05-05T02:12:24.584Z
-updated: 2024-05-06T02:12:24.584Z
+date: 2024-05-19T06:26:17.394Z
+updated: 2024-05-20T06:26:17.394Z
 tags: 
   - audio editing software
   - audio editing
@@ -1045,4 +1045,5 @@ Follow @Liza Brown
 <li><a href="https://ios-unlock.techidaily.com/how-to-remove-passcode-from-apple-iphone-se-complete-guide-by-drfone-ios/"><u>How To Remove Passcode From Apple iPhone SE? Complete Guide</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/gimp-green-screen-for-2024/"><u>Gimp Green Screen for 2024</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Hunt for Emotional Throat-Clearing Audio
-date: 2024-05-05T02:11:59.219Z
-updated: 2024-05-06T02:11:59.219Z
+date: 2024-05-19T06:26:16.364Z
+updated: 2024-05-20T06:26:16.364Z
 tags: 
   - audio editing software
   - audio editing
@@ -1198,4 +1198,5 @@ Follow @Richard Bennett
 <li><a href="https://ai-video-editing.techidaily.com/updated-have-you-ever-created-a-slow-motion-video-on-your-phonr-or-camera-this-article-will-show-you-some-knowledge-about-slow-motion-photography/"><u>Updated Have You Ever Created a Slow Motion Video on Your Phonr or Camera? This Article Will Show You some Knowledge About Slow Motion Photography</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/new-in-2024-10-best-sony-lut-for-different-purposes/"><u>New In 2024, 10 Best Sony LUT for Different Purposes</u></a></li>
 </ul></div>
+
 

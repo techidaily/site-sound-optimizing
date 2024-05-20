@@ -1,7 +1,7 @@
 ---
 title: Open Source Audio Sources A Filmmakers Resource List
-date: 2024-05-05T02:02:17.425Z
-updated: 2024-05-06T02:02:17.425Z
+date: 2024-05-19T06:25:51.897Z
+updated: 2024-05-20T06:25:51.897Z
 tags: 
   - audio editing software
   - audio editing
@@ -1243,4 +1243,5 @@ For macOS 10.12 or later
 <li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On ZTE Axon 40 Lite? | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Vivo Y28 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

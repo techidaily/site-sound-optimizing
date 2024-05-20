@@ -1,7 +1,7 @@
 ---
 title: Essential Techniques for Capturing Sound via iPhone
-date: 2024-05-05T02:01:17.845Z
-updated: 2024-05-06T02:01:17.845Z
+date: 2024-05-19T06:25:50.117Z
+updated: 2024-05-20T06:25:50.117Z
 tags: 
   - audio editing software
   - audio editing
@@ -1294,4 +1294,5 @@ Follow @Shanoon Cox
 <li><a href="https://ai-editing-video.techidaily.com/how-can-you-import-and-adjust-the-video-clips-on-wondershare-filmora/"><u>How Can You Import and Adjust the Video Clips on Wondershare Filmora?</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/complete-guide-on-unlocking-apple-iphone-13-pro-max-with-a-broken-screen-drfone-by-drfone-ios/"><u>Complete Guide on Unlocking Apple iPhone 13 Pro Max with a Broken Screen? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: The Art of Decibel Decline Uncovering Sound Management with Audacity
-date: 2024-05-05T02:02:54.763Z
-updated: 2024-05-06T02:02:54.763Z
+date: 2024-05-19T06:25:53.239Z
+updated: 2024-05-20T06:25:53.239Z
 tags: 
   - audio editing software
   - audio editing
@@ -1414,4 +1414,5 @@ Listening to your favorite Music at your ease is the best thing in the world. Es
 <li><a href="https://iphone-unlock.techidaily.com/resolve-your-apple-iphone-15-keeps-asking-for-outlook-password-drfone-by-drfone-ios/"><u>Resolve Your Apple iPhone 15 Keeps Asking for Outlook Password | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/lock-your-vivo-x100-pro-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Vivo X100 Pro Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
 </ul></div>
+
 

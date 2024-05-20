@@ -1799,3 +1799,4 @@ For macOS 10.12 or later
 <li><a href="https://screen-mirror.techidaily.com/how-to-stream-apple-iphone-12-pro-max-video-to-computer-drfone-by-drfone-ios/"><u>How to Stream Apple iPhone 12 Pro Max Video to Computer? | Dr.fone</u></a></li>
 </ul></div>
 
+

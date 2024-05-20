@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Audio Ducking in Adobe Premiere Pro on Win
-date: 2024-05-05T02:05:24.651Z
-updated: 2024-05-06T02:05:24.651Z
+date: 2024-05-19T06:25:59.075Z
+updated: 2024-05-20T06:25:59.075Z
 tags: 
   - audio editing software
   - audio editing
@@ -1437,4 +1437,5 @@ For macOS 10.12 or later
 <li><a href="https://animation-videos.techidaily.com/the-10-most-adorable-aesthetic-cartoon-characters-of-all-time/"><u>The 10 Most Adorable Aesthetic Cartoon Characters of All Time</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-xiaomi-redmi-note-12-4g-is-unlocked-by-drfone-android/"><u>How To Check if Your Xiaomi Redmi Note 12 4G Is Unlocked</u></a></li>
 </ul></div>
+
 

@@ -1288,3 +1288,4 @@ For macOS 10.12 or later
 <li><a href="https://android-unlock.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-samsung-galaxy-a15-5g-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Samsung Galaxy A15 5G Phone</u></a></li>
 </ul></div>
 
+

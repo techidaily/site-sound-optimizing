@@ -1,7 +1,7 @@
 ---
 title: Updated Audacity Setup Guide for Ubuntu Installs, Uninstalls & Troubleshooting Tips
-date: 2024-05-05T02:05:19.194Z
-updated: 2024-05-06T02:05:19.194Z
+date: 2024-05-19T06:25:58.958Z
+updated: 2024-05-20T06:25:58.958Z
 tags: 
   - audio editing software
   - audio editing
@@ -901,4 +901,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Honor X50i+? | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-contacts-from-oppo-k11-5g-by-fonelab-android-recover-contacts/"><u>Possible solutions to restore deleted contacts from Oppo K11 5G.</u></a></li>
 </ul></div>
+
 

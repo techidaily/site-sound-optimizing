@@ -1,7 +1,7 @@
 ---
 title: Capturing Sounds on the Go A Guide to Free Audio Recording with Audacity for 2024
-date: 2024-05-05T02:06:33.000Z
-updated: 2024-05-06T02:06:33.000Z
+date: 2024-05-19T06:26:02.355Z
+updated: 2024-05-20T06:26:02.355Z
 tags: 
   - audio editing software
   - audio editing
@@ -1721,4 +1721,5 @@ Follow @Shanoon Cox
 <li><a href="https://video-creation-software.techidaily.com/updated-in-2024-the-ultimate-movie-making-blueprint-easy-and-fast/"><u>Updated In 2024, The Ultimate Movie Making Blueprint Easy and Fast</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-contacts-from-v30-lite-5g-by-fonelab-android-recover-contacts/"><u>How to get back lost contacts from V30 Lite 5G.</u></a></li>
 </ul></div>
+
 

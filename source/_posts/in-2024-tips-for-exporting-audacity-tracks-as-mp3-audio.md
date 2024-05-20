@@ -1,7 +1,7 @@
 ---
 title: In 2024, Tips for Exporting Audacity Tracks as MP3 Audio
-date: 2024-05-05T02:20:10.105Z
-updated: 2024-05-06T02:20:10.105Z
+date: 2024-05-19T06:26:37.991Z
+updated: 2024-05-20T06:26:37.991Z
 tags: 
   - audio editing software
   - audio editing
@@ -1529,4 +1529,5 @@ Follow @Benjamin Arango
 <li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-effortless-video-conversion-top-10-webm-to-mp4-converters/"><u>Updated In 2024, Effortless Video Conversion Top 10 WebM to MP4 Converters</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/convert-with-ease-6-top-rated-audio-conversion-software-for-2024/"><u>Convert with Ease 6 Top-Rated Audio Conversion Software for 2024</u></a></li>
 </ul></div>
+
 

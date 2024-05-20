@@ -1,7 +1,7 @@
 ---
 title: New The Essentials of Silent Segment Creation Leveraging Audio Duck in PowerDirector to Quiet Music During Transitions
-date: 2024-05-05T02:18:30.184Z
-updated: 2024-05-06T02:18:30.184Z
+date: 2024-05-19T06:26:34.084Z
+updated: 2024-05-20T06:26:34.084Z
 tags: 
   - audio editing software
   - audio editing
@@ -1409,4 +1409,5 @@ Follow @Liza Brown
 <li><a href="https://ai-video-translation.techidaily.com/new-how-to-make-lip-sync-video-without-installing-any-app-for-2024/"><u>New How to Make Lip Sync Video Without Installing Any App for 2024</u></a></li>
 <li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Asus ROG Phone 8 Pro? | Dr.fone</u></a></li>
 </ul></div>
+
 
