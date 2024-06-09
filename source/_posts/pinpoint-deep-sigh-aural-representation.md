@@ -1,7 +1,7 @@
 ---
 title: Pinpoint Deep Sigh Aural Representation
-date: 2024-05-19T06:25:52.015Z
-updated: 2024-05-20T06:25:52.015Z
+date: 2024-06-08T07:09:19.128Z
+updated: 2024-06-09T07:09:19.128Z
 tags: 
   - audio editing software
   - audio editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Pinpoint Deep Sigh Aural Representation
 excerpt: This Article Describes Pinpoint Deep Sigh Aural Representation
 keywords: pinpoint the auditory illustration of a bell resonance,identify the aural representation of a bell clangor,locate audiovisual tap noise representation,finding auditory representations of steel trumpets,revitalize audio diminishments in video presentation,pinpoint deep sigh aural representation,explore auditory representation of painting tools
-thumbnail: https://www.lifewire.com/thmb/CUKW3XFY7liGlZzhBQy-nvEFMFg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/frenchopen-4d320297828b413f84f9940d5bd258f9.jpg
+thumbnail: https://thmb.techidaily.com/a9fb2f2e749603e5c7deed59a3dccc2eb82bb973e6c7211350802c91feadcdaf.jpg
 ---
 
 ## Pinpoint Deep Sigh Aural Representation

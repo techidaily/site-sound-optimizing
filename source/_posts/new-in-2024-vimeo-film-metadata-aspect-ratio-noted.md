@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Vimeo Film Metadata Aspect Ratio Noted
-date: 2024-05-05T02:43:40.235Z
-updated: 2024-05-06T02:43:40.235Z
+date: 2024-06-08T07:09:07.811Z
+updated: 2024-06-09T07:09:07.811Z
 tags: 
   - audio editing software
   - audio editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New In 2024, Vimeo Film Metadata Aspect Ratio Noted
 excerpt: This Article Describes New In 2024, Vimeo Film Metadata Aspect Ratio Noted
 keywords: detailed vimeo video data sheet with emphasis on aspect ratio information,complete vimeo media file data with aspect ratio highlighted,vimeo film metadata aspect ratio noted,detailed vimeo video overview featuring aspect ratio,vimeo aspect ratio,extensive info on vimeo video aspect ratio detailled,exhaustive vimeo film metrics including aspect ratio details
-thumbnail: https://www.lifewire.com/thmb/aqzoJvuc7HUCTQdUzpa5GXlHCac=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iPad-Mini-Splash-ef002ffe8db643d2a2b4de772ff46790.jpg
+thumbnail: https://thmb.techidaily.com/5a88545795b5ca3ae26e7c947a2bcf90d0830b425a670680d043fc15ab445500.jpg
 ---
 
 ## Vimeo Film Metadata: Aspect Ratio Noted

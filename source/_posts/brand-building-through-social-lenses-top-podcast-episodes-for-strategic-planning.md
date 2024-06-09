@@ -1,7 +1,7 @@
 ---
 title: Brand Building Through Social Lenses Top Podcast Episodes for Strategic Planning
-date: 2024-05-19T06:25:48.486Z
-updated: 2024-05-20T06:25:48.486Z
+date: 2024-06-08T07:09:10.769Z
+updated: 2024-06-09T07:09:10.769Z
 tags: 
   - audio editing software
   - audio editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Brand Building Through Social Lenses Top Podcast Episodes for Strategic Planning
 excerpt: This Article Describes Brand Building Through Social Lenses Top Podcast Episodes for Strategic Planning
 keywords: top ten online havens escaping stress through digital tranquility,social strategy sessions the top 2023 list of podcast episodes for brands,top tools for silencing unwanted sound in podcasts and recordings,the sound engineers playbook techniques for distilling song beats through technology,unlocking audio content effective strategies for transferring podcast episodes onto computers,brand building through social lenses top podcast episodes for strategic planning,7 must listen episodes transform your strategy with todays social media trends
-thumbnail: https://www.lifewire.com/thmb/p0ylhoIohfzUUD_zptkk_cS1LaE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/zenbook-17-fold-oled-72de5601b7334834a2962b7a8c7b4e9b-16fb2ba97f414911a71ffd37c82c541e.png
+thumbnail: https://thmb.techidaily.com/95c7607cc85834758f594e36f86b8274633568f32ba37267dd79e6e802f121e2.png
 ---
 
 ## "Brand Building Through Social Lenses: Top Podcast Episodes for Strategic Planning "

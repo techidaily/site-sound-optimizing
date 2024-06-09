@@ -1,7 +1,7 @@
 ---
 title: Track Wolfs Mournful Lamentation Sound
-date: 2024-05-19T06:25:55.017Z
-updated: 2024-05-20T06:25:55.017Z
+date: 2024-06-08T07:09:07.424Z
+updated: 2024-06-09T07:09:07.424Z
 tags: 
   - audio editing software
   - audio editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Track Wolfs Mournful Lamentation Sound
 excerpt: This Article Describes Track Wolfs Mournful Lamentation Sound
 keywords: seek out the bell echo simulation soundtrack,blending motion picture with soundtracks a modern approach,essential soundtrack must hear youtube audios,essential audio collections for ambient soundtracks,digital soundtrack the ultimate dj collection,2023s ultimate selection of complimentary video soundtracks,track wolfs mournful lamentation sound
-thumbnail: https://www.lifewire.com/thmb/1X3sRGX1kbV-Ydn8ceXfqTlOH6I=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/african-american-woman-opening-packages-of-shoes-on-sofa-580503483-5a735094d8fdd50036b63f8a.jpg
+thumbnail: https://thmb.techidaily.com/9ca2eff6ae26123de716ede19623049b700dbda01116c41da9ae37331ba659b6.jpg
 ---
 
 ## Track Wolf's Mournful Lamentation Sound

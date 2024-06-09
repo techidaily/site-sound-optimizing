@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Sourcing Authentic Glass Fracture Sounds for Filmmaking
-date: 2024-05-05T02:37:28.664Z
-updated: 2024-05-06T02:37:28.664Z
+date: 2024-06-08T07:09:23.808Z
+updated: 2024-06-09T07:09:23.808Z
 tags: 
   - audio editing software
   - audio editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated 2024 Approved Sourcing Authentic Glass Fracture Sounds for Filmmaking
 excerpt: This Article Describes Updated 2024 Approved Sourcing Authentic Glass Fracture Sounds for Filmmaking
 keywords: procuring specialized sounds mimicking intestinal gas release for enhanced aural realism,proven strategies for selecting elite sound engineers in modern filmmaking,silencing sounds a deep dive into audacitys features for sound reduction,top rated dog howling and growling sounds for filmmakers,expert advice proven strategies for capturing and storing sound with your mac,cutting edge videography the most favored software for detaching sound from moving pictures 2024 overview,sourcing authentic glass fracture sounds for filmmaking
-thumbnail: https://www.lifewire.com/thmb/KQEPD1j8h_qKr2PB3tJ6qZQQ508=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-104626001-5c34f065c9e77c00010b8cd5.jpg
+thumbnail: https://thmb.techidaily.com/ffa6265ad1a6a848473605e7aedcfa3ec46ffbe39326ff49e8d4fafd11fa0e00.jpg
 ---
 
 ## Sourcing Authentic Glass Fracture Sounds for Filmmaking

@@ -1,7 +1,7 @@
 ---
 title: Updated Foundations of LexisAudioScript Your First Steps Into Audio Editing for 2024
-date: 2024-05-05T02:30:21.244Z
-updated: 2024-05-06T02:30:21.244Z
+date: 2024-06-08T07:09:20.911Z
+updated: 2024-06-09T07:09:20.911Z
 tags: 
   - audio editing software
   - audio editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated Foundations of LexisAudioScript Your First Steps Into Audio Editing for 2024
 excerpt: This Article Describes Updated Foundations of LexisAudioScript Your First Steps Into Audio Editing for 2024
 keywords: foundations of lexisaudioscript your first steps into audio editing,mastering audio find and test your best free online editor options in these top 6 selections,the future of audio crafting androids most innovative digital audio workstations for todays sound engineers,mastering your sound on the go best ios apps for editing 2023 edition,mastering sound integration adding audio to your ae projects 2023 edition,audio creation at your fingertips a comprehensive look into adobes audio editor features,discover the unbeatable selection of cost free audio editing applications for windowsmac updated list 2023
-thumbnail: https://www.lifewire.com/thmb/hlshSPtDf3zsXAhW4UAOkuNWyQM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-Macys-59e6c3699abed500118af858.jpg
+thumbnail: https://thmb.techidaily.com/a6ef7d238dd7bb214a3984e4799089ad86b5e4b6f433cd32ec9f580258b7206c.jpg
 ---
 
 ## Foundations of LexisAudioScript: Your First Steps Into Audio Editing
