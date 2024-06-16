@@ -1,7 +1,7 @@
 ---
 title: New Audio-Free Editing How to Cut Out Channels From MP4/MKV/AVI/MOV Files
-date: 2024-05-19T06:25:59.318Z
-updated: 2024-05-20T06:25:59.318Z
+date: 2024-06-15T16:56:00.536Z
+updated: 2024-06-16T16:56:00.536Z
 tags: 
   - audio editing software
   - audio editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New Audio-Free Editing How to Cut Out Channels From MP4/MKV/AVI/MOV Files
 excerpt: This Article Describes New Audio-Free Editing How to Cut Out Channels From MP4/MKV/AVI/MOV Files
 keywords: from coded channels to audible sounds ten futuristic routes to extracting mp4 audio,audio free editing how to cut out channels from mp4mkvavimov files,pure visuals only techniques for stripping audio from mp4mkvavimov files,how to remove audio from mov files on windowsmac,ai audio editing how to mute audio from video,ai audio editing how to remove audio from video online,zero noise videos how to extract audio free mp4mkvavimov files
-thumbnail: https://www.lifewire.com/thmb/rg8CHiqfntWuiXPLjddFZ1BByCc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/gopro-2619915_1920-2ca3364339c348e5ba44afb3fa79458b.jpg
+thumbnail: https://thmb.techidaily.com/76a953455d282504d07d30484b3d441976cd7c068fdbe75a38577d96433ea41b.jpg
 ---
 
 ## Audio-Free Editing: How to Cut Out Channels From MP4/MKV/AVI/MOV Files

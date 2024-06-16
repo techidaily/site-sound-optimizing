@@ -1,7 +1,7 @@
 ---
 title: Exploring Sources of High-Frequency Glass Disintegration Sounds
-date: 2024-05-19T06:25:50.271Z
-updated: 2024-05-20T06:25:50.271Z
+date: 2024-06-15T16:56:31.322Z
+updated: 2024-06-16T16:56:31.322Z
 tags: 
   - audio editing software
   - audio editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Exploring Sources of High-Frequency Glass Disintegration Sounds
 excerpt: This Article Describes Exploring Sources of High-Frequency Glass Disintegration Sounds
 keywords: directory of free non copyrighted background song sources,exploring the aural landscape finding professional sound design resources,thorough exploration of nero soundediting suite,capturing glass disintegration noise sequence,exploring sources of high frequency glass disintegration sounds,exploring soundscape inclusions of brass ensemble noises,explore our top 8 selection of aural designs for cutting edge video sound integration
-thumbnail: https://www.lifewire.com/thmb/5m3PFyS3dMrqXFE2iOSfA4BUn2Y=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tiktok-smart-tv-12dcac76114b4747b9b3db8bb3551ddc.jpg
+thumbnail: https://thmb.techidaily.com/85e69845f10f793c5b081e6eac45cea976095820d8ff765825e636a33b833fec.jpg
 ---
 
 ## Exploring Sources of High-Frequency Glass Disintegration Sounds

@@ -1,7 +1,7 @@
 ---
 title: YouTube Audible Treasure Trove
-date: 2024-05-19T06:25:55.384Z
-updated: 2024-05-20T06:25:55.384Z
+date: 2024-06-15T16:56:16.109Z
+updated: 2024-06-16T16:56:16.109Z
 tags: 
   - audio editing software
   - audio editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes YouTube Audible Treasure Trove
 excerpt: This Article Describes YouTube Audible Treasure Trove
 keywords: key considerations to put together an invaluable audiovisual treasure trove on youtube,youtube audio resource hub,youtube audio repository,youtube audio library,youtube audible treasure trove,indispensable auditory treasures from youtube,auditory treasure trove unearth top hits at no charge
-thumbnail: https://www.lifewire.com/thmb/gzHpHKbSd5o6D_hdSTFod8z3AV8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-769729481-5bd367dcc9e77c007c015257.jpg
+thumbnail: https://thmb.techidaily.com/8ec7f9d19b5395810145f1bf31b1db142a6ba9be6ed8b5f1e4a621d2eef1f390.jpg
 ---
 
 ## YouTube Audible Treasure Trove

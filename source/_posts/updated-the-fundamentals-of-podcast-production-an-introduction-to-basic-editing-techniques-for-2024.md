@@ -1,7 +1,7 @@
 ---
 title: Updated The Fundamentals of Podcast Production An Introduction to Basic Editing Techniques for 2024
-date: 2024-05-05T02:39:28.427Z
-updated: 2024-05-06T02:39:28.427Z
+date: 2024-06-15T16:56:24.171Z
+updated: 2024-06-16T16:56:24.171Z
 tags: 
   - audio editing software
   - audio editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated The Fundamentals of Podcast Production An Introduction to Basic Editing Techniques for 2024
 excerpt: This Article Describes Updated The Fundamentals of Podcast Production An Introduction to Basic Editing Techniques for 2024
 keywords: mastering sound intervals techniques for manipulating audio timestamps in final cut pro x 2023 edition,the fundamentals of podcast production an introduction to basic editing techniques,discover the best 8 daw options for chrome os users in music production and recording edition,the ultimate guide to essential sound processing techniques for modern music production,essential podcast production a ranked selection of the best free paid editing tools,the editors edge techniques for removing background noise and selective muting in video post production,mastering the art of audio dampening modern techniques for a silent end 2023 edition
-thumbnail: https://www.lifewire.com/thmb/sRg_08XfVq4XQxaZ8LbMjkBmMPo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-534572567-56facec43df78c784197b92d.jpg
+thumbnail: https://thmb.techidaily.com/271cc892260da7f0b1d8f207b3fb271cd7c70ce8ff0fa954ebc9cead95a6f721.jpg
 ---
 
 ## The Fundamentals of Podcast Production: An Introduction to Basic Editing Techniques

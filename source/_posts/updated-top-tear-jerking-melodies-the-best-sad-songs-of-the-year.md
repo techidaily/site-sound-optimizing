@@ -1,7 +1,7 @@
 ---
 title: Updated Top Tear-Jerking Melodies The Best Sad Songs of the Year
-date: 2024-05-19T06:26:39.595Z
-updated: 2024-05-20T06:26:39.595Z
+date: 2024-06-15T16:56:27.800Z
+updated: 2024-06-16T16:56:27.800Z
 tags: 
   - audio editing software
   - audio editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated Top Tear-Jerking Melodies The Best Sad Songs of the Year
 excerpt: This Article Describes Updated Top Tear-Jerking Melodies The Best Sad Songs of the Year
 keywords: melody mavens exploring the best tunes an online up to date song identifier,unveiling the sound of distress in dogs the yelps and barks,leading the pack the top 10 sites offering a rich array of montage based soundscapes,mastering hip hop an insiders guide to the best 8 daw software of the year,lyric locators discovering hit songs of the year updated,the speakers selection top rated audio recording applications of the year,top tear jerking melodies the best sad songs of the year
-thumbnail: https://www.lifewire.com/thmb/s_49EdazIwlAKelLWFU8LSaOlMk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-585151372-a659baf0c7b441b9b7e7896716b12784.jpg
+thumbnail: https://thmb.techidaily.com/97d650cd0f6e07d2facd0c86f96f609a10afc326cf6eb9f144fb267795cd5a9a.jpg
 ---
 
 ## "Top Tear-Jerking Melodies: The Best Sad Songs of the Year"

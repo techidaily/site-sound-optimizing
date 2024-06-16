@@ -1,7 +1,7 @@
 ---
 title: Updated Mastering Audio Editing A Comprehensive Guide to Silencing Melodies in Music Tracks
-date: 2024-05-19T06:26:19.574Z
-updated: 2024-05-20T06:26:19.574Z
+date: 2024-06-15T16:56:30.047Z
+updated: 2024-06-16T16:56:30.047Z
 tags: 
   - audio editing software
   - audio editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated Mastering Audio Editing A Comprehensive Guide to Silencing Melodies in Music Tracks
 excerpt: This Article Describes Updated Mastering Audio Editing A Comprehensive Guide to Silencing Melodies in Music Tracks
 keywords: voice eradication made simple a comprehensive guide to deleting singers from audio files in audacity,mastering sound a comprehensive guide to normalizing audio in multimedia content,mastering silence a comprehensive walkthrough for eliminating tracks in audacity,mastering autotune a comprehensive guide to using plugins within audacity,mastering video editing replacing audio tracks a comprehensive guide part 1,silencing audio in updated mkv files a comprehensive guide mkv 2023,mastering audio editing a comprehensive guide to silencing melodies in music tracks
-thumbnail: https://www.lifewire.com/thmb/YPMhKL59WGdTUpxCrpaB_OS--cc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-set-up-speech-to-text-on-android-0-928c48ab121248f9aa543a136d971f9a.jpg
+thumbnail: https://thmb.techidaily.com/2e5cadcabaa5bc146e9286cd6ccf5e30c43742afdff538e1080a5add013b39bf.jpg
 ---
 
 ## Mastering Audio Editing: A Comprehensive Guide to Silencing Melodies in Music Tracks

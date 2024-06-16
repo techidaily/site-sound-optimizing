@@ -1,7 +1,7 @@
 ---
 title: Updated Adjusting Sound Levels in Audacity Raising the Volume Up, Lowering It Down
-date: 2024-05-19T06:25:57.637Z
-updated: 2024-05-20T06:25:57.637Z
+date: 2024-06-15T16:56:22.217Z
+updated: 2024-06-16T16:56:22.217Z
 tags: 
   - audio editing software
   - audio editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated Adjusting Sound Levels in Audacity Raising the Volume Up, Lowering It Down
 excerpt: This Article Describes Updated Adjusting Sound Levels in Audacity Raising the Volume Up, Lowering It Down
 keywords: mastering sound levels adjusting volume on audacity,adjusting sound levels in audacity raising the volume up lowering it down,tuning in smoothly learning to adjust audio volumes on audacity,ensuring uniformity in volume levels using davinci resolves tools,mastering pc sound recording using audacity at no cost,crafting the perfect sound changing your voice in audacity,adjusting decibels fine tuning sound on audacity
-thumbnail: https://www.lifewire.com/thmb/YoFEWWlqY0abEBrjSUdesHbTeyU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dts-play-fi-lifestyle-aaa-5a4c211daad52b00366a3575.jpg
+thumbnail: https://thmb.techidaily.com/cb2689090616a1ba21a99aa6be50929e603a0dc8061abd47262715b07e4d29cd.jpg
 ---
 
 ## Adjusting Sound Levels in Audacity: Raising the Volume Up, Lowering It Down

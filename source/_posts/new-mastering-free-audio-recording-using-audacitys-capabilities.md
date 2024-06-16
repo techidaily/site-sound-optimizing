@@ -1,7 +1,7 @@
 ---
 title: New Mastering Free Audio Recording Using Audacitys Capabilities
-date: 2024-05-19T06:26:20.270Z
-updated: 2024-05-20T06:26:20.270Z
+date: 2024-06-15T16:56:08.916Z
+updated: 2024-06-16T16:56:08.916Z
 tags: 
   - audio editing software
   - audio editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New Mastering Free Audio Recording Using Audacitys Capabilities
 excerpt: This Article Describes New Mastering Free Audio Recording Using Audacitys Capabilities
 keywords: innovations in digital audio recording utilizing audacitys features updated,mastering pc sound recording using audacity at no cost,mastering the art of saving audacity recordings as mp3,mastering free audio recording using audacitys capabilities,mastering mobile audio recordings the 10 leading iphone apps,mastering sound quality eliminating unwanted audio from recording spaces,mastering audio recording techniques androids leading competitors to audacity
-thumbnail: https://www.lifewire.com/thmb/tJAkAFLn8PgYLDdSxKT4QReLsyg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/macOS-Sonoma-Banner-fe4ffda2caaf4040b81ae0b66f2d6dc0.jpg
+thumbnail: https://thmb.techidaily.com/a6603b4c8e64882a75258ea91034b33184d3edc319264524a7b728bfe67ef7f7.jpg
 ---
 
 ## Mastering Free Audio Recording: Using Audacity's Capabilities

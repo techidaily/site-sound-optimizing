@@ -1,7 +1,7 @@
 ---
 title: The User-Friendly Guide to Voice Alteration Using Audacitys Features
-date: 2024-05-19T06:25:54.197Z
-updated: 2024-05-20T06:25:54.197Z
+date: 2024-06-15T16:56:04.257Z
+updated: 2024-06-16T16:56:04.257Z
 tags: 
   - audio editing software
   - audio editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes The User-Friendly Guide to Voice Alteration Using Audacitys Features
 excerpt: This Article Describes The User-Friendly Guide to Voice Alteration Using Audacitys Features
 keywords: unlocking audio potential the ultimate guide to using voice recorders on s10s9,the essential guide to free user friendly digital audio workstations for aspiring musicians 2023 update,the ultimate guide to reaper functionality analysis and teaching resources,the ultimate guide to autotuning vocals in audacity for professional results,pitch control made easy a comprehensive guide to altering voices with audacity,the user friendly guide to voice alteration using audacitys features,the ultimate guide to pre processing tracks using lame audacity
-thumbnail: https://www.lifewire.com/thmb/RZ6a_Dm3h0STkAi4OwMdfZPBurY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/DTS-Virtual-X-logo-w-illustration-xxbb-59403d7b3df78c537b1ef6b2.jpg
+thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f2d60ec5b3831dd32989cbba.jpg
 ---
 
 ## The User-Friendly Guide to Voice Alteration Using Audacity's Features
