@@ -1,7 +1,7 @@
 ---
 title: How to Use Audio Ducking in Adobe Premiere Pro on Mac
-date: 2024-05-19T06:25:47.878Z
-updated: 2024-05-20T06:25:47.878Z
+date: 2024-06-23T23:11:02.828Z
+updated: 2024-06-24T23:11:02.828Z
 tags: 
   - audio editing software
   - audio editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes How to Use Audio Ducking in Adobe Premiere Pro on Mac
 excerpt: This Article Describes How to Use Audio Ducking in Adobe Premiere Pro on Mac
 keywords: mastering dynamic volume control a guide to audio ducking with adobe premiere pro on mac,adobe premiere pro audio ducking tutorial mac,windows based audio ducking workflow in adobe premiere pro,the ultimate guide to separating audio tracks in adobe premiere pro,tutorial on audio ducking in adobe premiere pro on mac,how to use audio ducking in adobe premiere pro on win,the ultimate guide to automatic volume reduction audio ducking tips in adobe premiere pro on macos
-thumbnail: https://www.lifewire.com/thmb/U882-EUGEoQajhN4rEvQp6D4miQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/are-you-really-getting-dolby-atmos-sound-135ec4330d004250883e2acab9423191.jpg
+thumbnail: https://thmb.techidaily.com/dc048da36d4f74b4d171bfb2845fad3bf8d729c04e77596617ba912c21778696.jpg
 ---
 
 ## How to Use Audio Ducking in Adobe Premiere Pro on Mac
@@ -56,7 +56,7 @@ Great! You can now preview the changes you have made and check the audio ducking
 
 Furthermore, you can also perform an instant hard ducking in Premiere Pro. For this, just choose the track, go to the side panel, and select **Preset** \> **Music** \> **Hard Vocal Ducking**. While it would get instant results in Adobe Premiere audio ducking, the results might not be so effective.
 
-## Part 2: [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/): An Easier Way to Auto Duck Your Audios on Mac
+## Part 2: Wondershare Filmora
 
 As you can see, the Premiere Pro audio ducking feature can get a bit complicated if you are a beginner. Therefore, if you are looking for a simpler and more effective automatic ducking solution, then use Wondershare Filmora. This intuitive and diverse video/audio editing tool has an automatic audio ducking option that would make your job a whole lot easier.
 
@@ -130,7 +130,7 @@ Great! You can now preview the changes you have made and check the audio ducking
 
 Furthermore, you can also perform an instant hard ducking in Premiere Pro. For this, just choose the track, go to the side panel, and select **Preset** \> **Music** \> **Hard Vocal Ducking**. While it would get instant results in Adobe Premiere audio ducking, the results might not be so effective.
 
-## Part 2: [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/): An Easier Way to Auto Duck Your Audios on Mac
+## Part 2: Wondershare Filmora
 
 As you can see, the Premiere Pro audio ducking feature can get a bit complicated if you are a beginner. Therefore, if you are looking for a simpler and more effective automatic ducking solution, then use Wondershare Filmora. This intuitive and diverse video/audio editing tool has an automatic audio ducking option that would make your job a whole lot easier.
 
@@ -204,7 +204,7 @@ Great! You can now preview the changes you have made and check the audio ducking
 
 Furthermore, you can also perform an instant hard ducking in Premiere Pro. For this, just choose the track, go to the side panel, and select **Preset** \> **Music** \> **Hard Vocal Ducking**. While it would get instant results in Adobe Premiere audio ducking, the results might not be so effective.
 
-## Part 2: [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/): An Easier Way to Auto Duck Your Audios on Mac
+## Part 2: Wondershare Filmora
 
 As you can see, the Premiere Pro audio ducking feature can get a bit complicated if you are a beginner. Therefore, if you are looking for a simpler and more effective automatic ducking solution, then use Wondershare Filmora. This intuitive and diverse video/audio editing tool has an automatic audio ducking option that would make your job a whole lot easier.
 
@@ -278,7 +278,7 @@ Great! You can now preview the changes you have made and check the audio ducking
 
 Furthermore, you can also perform an instant hard ducking in Premiere Pro. For this, just choose the track, go to the side panel, and select **Preset** \> **Music** \> **Hard Vocal Ducking**. While it would get instant results in Adobe Premiere audio ducking, the results might not be so effective.
 
-## Part 2: [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/): An Easier Way to Auto Duck Your Audios on Mac
+## Part 2: Wondershare Filmora
 
 As you can see, the Premiere Pro audio ducking feature can get a bit complicated if you are a beginner. Therefore, if you are looking for a simpler and more effective automatic ducking solution, then use Wondershare Filmora. This intuitive and diverse video/audio editing tool has an automatic audio ducking option that would make your job a whole lot easier.
 
@@ -348,9 +348,7 @@ Music is important as it calms the nerves and leaves an impact. The music backgr
 
 ![trendy aesthetic background music for videos](https://images.wondershare.com/filmora/article-images/2022/aesthetic-background-music-1.jpg)
 
-The music has been chosen from credible marketplaces. So, one doesn't have to worry about the audio quality. Time to commence this!
-
-[And So It Begins](https://www.chosic.com/download-audio/27935/)
+The music has been chosen from credible marketplaces. So, one doesn't have to worry about the audio quality. Time to commence this![And So It Begins](https://www.chosic.com/download-audio/27935/)
 
 And So It Begins is a background music aesthetic from Chosic. The tag of this content includes beats, aesthetics, and nostalgia. Essentially, the music track is long enough to be used in travel videos. You can have a preview of the song effortlessly.
 
@@ -460,9 +458,7 @@ Music is important as it calms the nerves and leaves an impact. The music backgr
 
 ![trendy aesthetic background music for videos](https://images.wondershare.com/filmora/article-images/2022/aesthetic-background-music-1.jpg)
 
-The music has been chosen from credible marketplaces. So, one doesn't have to worry about the audio quality. Time to commence this!
-
-[And So It Begins](https://www.chosic.com/download-audio/27935/)
+The music has been chosen from credible marketplaces. So, one doesn't have to worry about the audio quality. Time to commence this![And So It Begins](https://www.chosic.com/download-audio/27935/)
 
 And So It Begins is a background music aesthetic from Chosic. The tag of this content includes beats, aesthetics, and nostalgia. Essentially, the music track is long enough to be used in travel videos. You can have a preview of the song effortlessly.
 
@@ -572,9 +568,7 @@ Music is important as it calms the nerves and leaves an impact. The music backgr
 
 ![trendy aesthetic background music for videos](https://images.wondershare.com/filmora/article-images/2022/aesthetic-background-music-1.jpg)
 
-The music has been chosen from credible marketplaces. So, one doesn't have to worry about the audio quality. Time to commence this!
-
-[And So It Begins](https://www.chosic.com/download-audio/27935/)
+The music has been chosen from credible marketplaces. So, one doesn't have to worry about the audio quality. Time to commence this![And So It Begins](https://www.chosic.com/download-audio/27935/)
 
 And So It Begins is a background music aesthetic from Chosic. The tag of this content includes beats, aesthetics, and nostalgia. Essentially, the music track is long enough to be used in travel videos. You can have a preview of the song effortlessly.
 
@@ -684,9 +678,7 @@ Music is important as it calms the nerves and leaves an impact. The music backgr
 
 ![trendy aesthetic background music for videos](https://images.wondershare.com/filmora/article-images/2022/aesthetic-background-music-1.jpg)
 
-The music has been chosen from credible marketplaces. So, one doesn't have to worry about the audio quality. Time to commence this!
-
-[And So It Begins](https://www.chosic.com/download-audio/27935/)
+The music has been chosen from credible marketplaces. So, one doesn't have to worry about the audio quality. Time to commence this![And So It Begins](https://www.chosic.com/download-audio/27935/)
 
 And So It Begins is a background music aesthetic from Chosic. The tag of this content includes beats, aesthetics, and nostalgia. Essentially, the music track is long enough to be used in travel videos. You can have a preview of the song effortlessly.
 
@@ -865,7 +857,7 @@ Are you a beginner? Let’s share some basic details about Adobe Audition. You c
 
 Do you know something about the Effects Rack? This part of the interface allows you to add and save effects for editing. If you record things and make notes, the Markers tab is great for noting things along the timeline. For adding audio effects, the Essential Sound section will be visible on the right side of the screen.
 
-### 2\. [Getting Started with Audition Audio Mixing](https://helpx.adobe.com/premiere-pro/how-to/essential-sound-panel.html)
+### 2\. Getting Started with Audition Audio Mixing
 
 Mixing files is always fun, but what about mixing files with Adobe voice editor? Let’s share the steps for this mixing purpose.
 
@@ -885,7 +877,7 @@ Step 4: While mixing files with Adobe, you can also edit and add volume envelope
 
 ![edit and add volume envelope points](https://images.wondershare.com/filmora/article-images/2022/adobe-audition-audio-editor-5.jpg)
 
-### 3\. How Can You [Apply Effects in Adobe Audition](https://helpx.adobe.com/audition/how-to/apply-effects-multitrack-audition-cc.html)?
+### 3\. How Can You Apply Effects in Adobe Audition
 
 If you have successfully mixed the files, we should discuss audio effects. So, let's get started.
 
@@ -905,7 +897,7 @@ Step 4: This exceptional Adobe audio editor offers different presets that could 
 
 ![save effect preset](https://images.wondershare.com/filmora/article-images/2022/adobe-audition-audio-editor-9.jpg)
 
-### 4\. How to Do [Noise Reduction & Restoration in Adobe Audition](https://www.youtube.com/watch?v=54VsPQBlOpY)
+### 4\. How to Do Noise Reduction & Restoration in Adobe Audition
 
 You might have recorded a great podcast or voiceover, but when you check it, you are devastated. This is because there is a lot of background noise, disturbing the file quality. Try Noise Reduction in Adobe voice editor by following these steps.
 
@@ -933,11 +925,9 @@ Adobe Audition is a known and stunning Adobe audio editor. For you to learn ever
 
 #### Wondershare Filmora
 
-Get started easily with Filmora's powerful performance, intuitive interface, and countless effects!
+Get started easily with Filmora's powerful performance, intuitive interface, and countless effects![Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
 
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
-
-![filmorax boxpng ](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
+![filmorax boxpng](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
 
 02 [Key Features of Adobe Auditionos](#part2)
 
@@ -998,7 +988,7 @@ Are you a beginner? Let’s share some basic details about Adobe Audition. You c
 
 Do you know something about the Effects Rack? This part of the interface allows you to add and save effects for editing. If you record things and make notes, the Markers tab is great for noting things along the timeline. For adding audio effects, the Essential Sound section will be visible on the right side of the screen.
 
-### 2\. [Getting Started with Audition Audio Mixing](https://helpx.adobe.com/premiere-pro/how-to/essential-sound-panel.html)
+### 2\. Getting Started with Audition Audio Mixing
 
 Mixing files is always fun, but what about mixing files with Adobe voice editor? Let’s share the steps for this mixing purpose.
 
@@ -1018,7 +1008,7 @@ Step 4: While mixing files with Adobe, you can also edit and add volume envelope
 
 ![edit and add volume envelope points](https://images.wondershare.com/filmora/article-images/2022/adobe-audition-audio-editor-5.jpg)
 
-### 3\. How Can You [Apply Effects in Adobe Audition](https://helpx.adobe.com/audition/how-to/apply-effects-multitrack-audition-cc.html)?
+### 3\. How Can You Apply Effects in Adobe Audition
 
 If you have successfully mixed the files, we should discuss audio effects. So, let's get started.
 
@@ -1038,7 +1028,7 @@ Step 4: This exceptional Adobe audio editor offers different presets that could 
 
 ![save effect preset](https://images.wondershare.com/filmora/article-images/2022/adobe-audition-audio-editor-9.jpg)
 
-### 4\. How to Do [Noise Reduction & Restoration in Adobe Audition](https://www.youtube.com/watch?v=54VsPQBlOpY)
+### 4\. How to Do Noise Reduction & Restoration in Adobe Audition
 
 You might have recorded a great podcast or voiceover, but when you check it, you are devastated. This is because there is a lot of background noise, disturbing the file quality. Try Noise Reduction in Adobe voice editor by following these steps.
 
@@ -1066,11 +1056,9 @@ Adobe Audition is a known and stunning Adobe audio editor. For you to learn ever
 
 #### Wondershare Filmora
 
-Get started easily with Filmora's powerful performance, intuitive interface, and countless effects!
+Get started easily with Filmora's powerful performance, intuitive interface, and countless effects![Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
 
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
-
-![filmorax boxpng ](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
+![filmorax boxpng](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
 
 02 [Key Features of Adobe Auditionos](#part2)
 
@@ -1131,7 +1119,7 @@ Are you a beginner? Let’s share some basic details about Adobe Audition. You c
 
 Do you know something about the Effects Rack? This part of the interface allows you to add and save effects for editing. If you record things and make notes, the Markers tab is great for noting things along the timeline. For adding audio effects, the Essential Sound section will be visible on the right side of the screen.
 
-### 2\. [Getting Started with Audition Audio Mixing](https://helpx.adobe.com/premiere-pro/how-to/essential-sound-panel.html)
+### 2\. Getting Started with Audition Audio Mixing
 
 Mixing files is always fun, but what about mixing files with Adobe voice editor? Let’s share the steps for this mixing purpose.
 
@@ -1151,7 +1139,7 @@ Step 4: While mixing files with Adobe, you can also edit and add volume envelope
 
 ![edit and add volume envelope points](https://images.wondershare.com/filmora/article-images/2022/adobe-audition-audio-editor-5.jpg)
 
-### 3\. How Can You [Apply Effects in Adobe Audition](https://helpx.adobe.com/audition/how-to/apply-effects-multitrack-audition-cc.html)?
+### 3\. How Can You Apply Effects in Adobe Audition
 
 If you have successfully mixed the files, we should discuss audio effects. So, let's get started.
 
@@ -1171,7 +1159,7 @@ Step 4: This exceptional Adobe audio editor offers different presets that could 
 
 ![save effect preset](https://images.wondershare.com/filmora/article-images/2022/adobe-audition-audio-editor-9.jpg)
 
-### 4\. How to Do [Noise Reduction & Restoration in Adobe Audition](https://www.youtube.com/watch?v=54VsPQBlOpY)
+### 4\. How to Do Noise Reduction & Restoration in Adobe Audition
 
 You might have recorded a great podcast or voiceover, but when you check it, you are devastated. This is because there is a lot of background noise, disturbing the file quality. Try Noise Reduction in Adobe voice editor by following these steps.
 
@@ -1199,11 +1187,9 @@ Adobe Audition is a known and stunning Adobe audio editor. For you to learn ever
 
 #### Wondershare Filmora
 
-Get started easily with Filmora's powerful performance, intuitive interface, and countless effects!
+Get started easily with Filmora's powerful performance, intuitive interface, and countless effects![Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
 
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
-
-![filmorax boxpng ](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
+![filmorax boxpng](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
 
 02 [Key Features of Adobe Auditionos](#part2)
 
@@ -1264,7 +1250,7 @@ Are you a beginner? Let’s share some basic details about Adobe Audition. You c
 
 Do you know something about the Effects Rack? This part of the interface allows you to add and save effects for editing. If you record things and make notes, the Markers tab is great for noting things along the timeline. For adding audio effects, the Essential Sound section will be visible on the right side of the screen.
 
-### 2\. [Getting Started with Audition Audio Mixing](https://helpx.adobe.com/premiere-pro/how-to/essential-sound-panel.html)
+### 2\. Getting Started with Audition Audio Mixing
 
 Mixing files is always fun, but what about mixing files with Adobe voice editor? Let’s share the steps for this mixing purpose.
 
@@ -1284,7 +1270,7 @@ Step 4: While mixing files with Adobe, you can also edit and add volume envelope
 
 ![edit and add volume envelope points](https://images.wondershare.com/filmora/article-images/2022/adobe-audition-audio-editor-5.jpg)
 
-### 3\. How Can You [Apply Effects in Adobe Audition](https://helpx.adobe.com/audition/how-to/apply-effects-multitrack-audition-cc.html)?
+### 3\. How Can You Apply Effects in Adobe Audition
 
 If you have successfully mixed the files, we should discuss audio effects. So, let's get started.
 
@@ -1304,7 +1290,7 @@ Step 4: This exceptional Adobe audio editor offers different presets that could 
 
 ![save effect preset](https://images.wondershare.com/filmora/article-images/2022/adobe-audition-audio-editor-9.jpg)
 
-### 4\. How to Do [Noise Reduction & Restoration in Adobe Audition](https://www.youtube.com/watch?v=54VsPQBlOpY)
+### 4\. How to Do Noise Reduction & Restoration in Adobe Audition
 
 You might have recorded a great podcast or voiceover, but when you check it, you are devastated. This is because there is a lot of background noise, disturbing the file quality. Try Noise Reduction in Adobe voice editor by following these steps.
 
@@ -1332,11 +1318,9 @@ Adobe Audition is a known and stunning Adobe audio editor. For you to learn ever
 
 #### Wondershare Filmora
 
-Get started easily with Filmora's powerful performance, intuitive interface, and countless effects!
+Get started easily with Filmora's powerful performance, intuitive interface, and countless effects![Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
 
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
-
-![filmorax boxpng ](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
+![filmorax boxpng](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
 
 <ins class="adsbygoogle"
      style="display:block"

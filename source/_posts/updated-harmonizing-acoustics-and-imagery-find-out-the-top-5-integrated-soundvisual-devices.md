@@ -1,7 +1,7 @@
 ---
 title: Updated Harmonizing Acoustics and Imagery Find Out the Top 5 Integrated Sound/Visual Devices
-date: 2024-05-19T06:26:14.275Z
-updated: 2024-05-20T06:26:14.275Z
+date: 2024-06-23T23:11:14.648Z
+updated: 2024-06-24T23:11:14.648Z
 tags: 
   - audio editing software
   - audio editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated Harmonizing Acoustics and Imagery Find Out the Top 5 Integrated Sound/Visual Devices
 excerpt: This Article Describes Updated Harmonizing Acoustics and Imagery Find Out the Top 5 Integrated Sound/Visual Devices
 keywords: enhance your visual storytelling with music the top 15 online tools for a harmonious blend of sounds and images,steps for integrating sound into the latest avi format,harmonizing vision sound discover the most trusted applications for adding music to visual narratives,the art and technique of incorporating dramatic soundtracks into movies,final cut pro sound visualization step by step on rendering audio waveforms and their animation integration,harmonizing acoustics and imagery find out the top 5 integrated soundvisual devices,final cut pro guide integrating waveform graphics and animated sounds for enhanced editing
-thumbnail: https://www.lifewire.com/thmb/r5-nbFpZcg3uV6IKilx2-E6xQtA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-185223738-56a691fd5f9b58b7d0e3a1d9.jpg
+thumbnail: https://thmb.techidaily.com/0f399835ae801930fc09d856b55526ca68007b6aa28f7cfc8442056063114a14.jpg
 ---
 
 ## Harmonizing Acoustics and Imagery: Find Out the Top 5 Integrated Sound/Visual Devices
@@ -26,7 +26,7 @@ Below, we’ll carefully review the best mixers to take your audio and video fil
 
 1. [How to Mix Audio Video Tracks with Wondershare Filmora](#part6-1)
 
-## [Adobe Audition](https://www.adobe.com/products/audition.html)
+## Adobe Audition
 
 ![adobe audition](https://images.wondershare.com/filmora/article-images/2022/07/audio-video-mixer-1.jpg)
 
@@ -78,7 +78,7 @@ Amongst its unique features is the voiceover feature. A record voiceover button 
 * No 4K support
 * Edition options are limited when you’re editing raw footage
 
-## [Logic Pro X](https://www.apple.com/in/logic-pro/)
+## Logic Pro X
 
 ![logic pro x](https://images.wondershare.com/filmora/article-images/2022/07/audio-video-mixer-3.jpg)
 
@@ -102,7 +102,7 @@ It also allows users to export their edited audio and video in Dolby Atmos, whic
 * You need compatible headphones for Spatial Audio
 * The software can lag performance on older PC versions due to its vast size
 
-## [FL Studio](https://www.image-line.com/fl-studio/)
+## FL Studio
 
 ![fl studio](https://images.wondershare.com/filmora/article-images/2022/07/audio-video-mixer-4.jpg)
 
@@ -123,7 +123,7 @@ The stock plugins in FL Studio can be found within and outside the box, meaning 
 
 * Plan prices tend to increase with updates and added plugins
 
-## [Audacity](https://www.audacityteam.org/)
+## Audacity
 
 ![audacity](https://images.wondershare.com/filmora/article-images/2022/07/audio-video-mixer-5.jpg)
 
@@ -250,7 +250,7 @@ Amongst its unique features is the voiceover feature. A record voiceover button 
 * No 4K support
 * Edition options are limited when you’re editing raw footage
 
-## [Logic Pro X](https://www.apple.com/in/logic-pro/)
+## Logic Pro X
 
 ![logic pro x](https://images.wondershare.com/filmora/article-images/2022/07/audio-video-mixer-3.jpg)
 
@@ -274,7 +274,7 @@ It also allows users to export their edited audio and video in Dolby Atmos, whic
 * You need compatible headphones for Spatial Audio
 * The software can lag performance on older PC versions due to its vast size
 
-## [FL Studio](https://www.image-line.com/fl-studio/)
+## FL Studio
 
 ![fl studio](https://images.wondershare.com/filmora/article-images/2022/07/audio-video-mixer-4.jpg)
 
@@ -295,7 +295,7 @@ The stock plugins in FL Studio can be found within and outside the box, meaning 
 
 * Plan prices tend to increase with updates and added plugins
 
-## [Audacity](https://www.audacityteam.org/)
+## Audacity
 
 ![audacity](https://images.wondershare.com/filmora/article-images/2022/07/audio-video-mixer-5.jpg)
 
@@ -413,7 +413,7 @@ It is much easier to edit an audio track with wondershare filmora in order to im
 
 #### Step 1\. Import your source files to Filmora
 
-![import-source-files ](https://images.wondershare.com/filmora/article-images/import-source-files.jpg)
+![import-source-files](https://images.wondershare.com/filmora/article-images/import-source-files.jpg)
 
 You can either drag and drop files to the media library directly or click the “Import” button to load as many audio or video files as you need.
 
@@ -480,7 +480,7 @@ It is much easier to edit an audio track with wondershare filmora in order to im
 
 #### Step 1\. Import your source files to Filmora
 
-![import-source-files ](https://images.wondershare.com/filmora/article-images/import-source-files.jpg)
+![import-source-files](https://images.wondershare.com/filmora/article-images/import-source-files.jpg)
 
 You can either drag and drop files to the media library directly or click the “Import” button to load as many audio or video files as you need.
 
@@ -547,7 +547,7 @@ It is much easier to edit an audio track with wondershare filmora in order to im
 
 #### Step 1\. Import your source files to Filmora
 
-![import-source-files ](https://images.wondershare.com/filmora/article-images/import-source-files.jpg)
+![import-source-files](https://images.wondershare.com/filmora/article-images/import-source-files.jpg)
 
 You can either drag and drop files to the media library directly or click the “Import” button to load as many audio or video files as you need.
 
@@ -614,7 +614,7 @@ It is much easier to edit an audio track with wondershare filmora in order to im
 
 #### Step 1\. Import your source files to Filmora
 
-![import-source-files ](https://images.wondershare.com/filmora/article-images/import-source-files.jpg)
+![import-source-files](https://images.wondershare.com/filmora/article-images/import-source-files.jpg)
 
 You can either drag and drop files to the media library directly or click the “Import” button to load as many audio or video files as you need.
 
@@ -668,7 +668,7 @@ Any media files capture the attention of the viewers through its mesmerizing bac
 
 In this article, you will find impressive facts on optimal methods to edit the background music with the help of a reliable application Filmora. It is an incredible app that customizes the videos precisely. Quickly surf the below content to learn more about the Filmora video editor and its relevant features in editing the background music of the media files.
 
-![Add-background-music ](https://images.wondershare.com/filmora/article-images/2022/02/add-background-music.jpg)
+![Add-background-music](https://images.wondershare.com/filmora/article-images/2022/02/add-background-music.jpg)
 
 #### In this article
 
@@ -686,9 +686,7 @@ This program offers you a platform to make your video interactive and mind-blowi
 
 #### Wondershare Filmora
 
-Get started easily with Filmora's powerful performance, intuitive interface, and countless effects!
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More about Filmora>](https://tools.techidaily.com/wondershare/filmora/download/)
+Get started easily with Filmora's powerful performance, intuitive interface, and countless effects![Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More about Filmora>](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![download](https://images.wondershare.com/filmora/images/filmora-box.png)
 
@@ -714,7 +712,7 @@ You can add background music to your memorable video captures using the Filmora 
 
 Go to the official webpage of Filmora video editor and download the correct version of this tool. Then, import the desired media file into the working environment by tapping the Import Media Files option. Then, click and drag the uploaded file into the timeline to make further edits to it.
 
-![Import-media-files ](https://images.wondershare.com/filmora/guide/import-media-file-to-filmora-1.jpg)
+![Import-media-files](https://images.wondershare.com/filmora/guide/import-media-file-to-filmora-1.jpg)
 
 ##### Step2 Add background music
 
@@ -722,13 +720,13 @@ Now, click the Audio option on the Menu and choose the sound effects at the left
 
 You can also click and drag the selected audio file into the working timeline to add background music to the uploaded video.
 
-![Add-sound-effects ](https://images.wondershare.com/filmora/guide/select-theme-music.jpg)
+![Add-sound-effects](https://images.wondershare.com/filmora/guide/select-theme-music.jpg)
 
 ##### Step3 Import the edited video
 
 Finally, you can have a preview of the edited video using the Preview panel and click the Export button to share it directly to social media platforms or any local storage space.
 
-![Export-edited-video ](https://images.wondershare.com/filmora/guide/go-to-export-panel.jpg)
+![Export-edited-video](https://images.wondershare.com/filmora/guide/go-to-export-panel.jpg)
 
 The above steps will help you to perform the respective edits on the background music of the video professionally. During the export process, you can make changes to the file format, video resolution. Click the Settings button to work on the advanced options of the edited video.
 
@@ -740,15 +738,13 @@ To customize the audio with advanced settings, then tap Customize option and mak
 
 There are options to detach the audio signal from the clippings by making a right-click on the media file and selecting Detach Audio option. Add voiceover to the detached audio-video file by using the Record Voiceover feature. This brings great fun and makes your video interactive. You can also trim audio clips and add new tracks as per your requirements. Set the audio speed and duration by right-clicking the audio file.
 
-![Detach-audio ](https://images.wondershare.com/filmora/guide/find-detach-option1.jpg)
+![Detach-audio](https://images.wondershare.com/filmora/guide/find-detach-option1.jpg)
 
 Use the Audio Equalizer from the popup that opens after a double click on the audio file. Customize the audio track using the in-built settings available with the Equalizer. It includes default, Classic, Low Bass, Sparkle, Pop, soft, and techno. You can also use Audio Mixer and edit the audio signals in two modes like Stereo and surround. The Audio ducking feature in Filmora helps you to lower the background music for a specific duration to enhance the voice of the speaker in the video file. It is used to improve the quality of the audio signal optimally.
 
 #### Wondershare Filmora
 
-Get started easily with Filmora's powerful performance, intuitive interface, and countless effects!
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More about Filmora>](https://tools.techidaily.com/wondershare/filmora/download/)
+Get started easily with Filmora's powerful performance, intuitive interface, and countless effects![Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More about Filmora>](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![download](https://images.wondershare.com/filmora/images/filmora-box.png)
 
@@ -768,9 +764,7 @@ This program offers you a platform to make your video interactive and mind-blowi
 
 #### Wondershare Filmora
 
-Get started easily with Filmora's powerful performance, intuitive interface, and countless effects!
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More about Filmora>](https://tools.techidaily.com/wondershare/filmora/download/)
+Get started easily with Filmora's powerful performance, intuitive interface, and countless effects![Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More about Filmora>](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![download](https://images.wondershare.com/filmora/images/filmora-box.png)
 
@@ -796,7 +790,7 @@ You can add background music to your memorable video captures using the Filmora 
 
 Go to the official webpage of Filmora video editor and download the correct version of this tool. Then, import the desired media file into the working environment by tapping the Import Media Files option. Then, click and drag the uploaded file into the timeline to make further edits to it.
 
-![Import-media-files ](https://images.wondershare.com/filmora/guide/import-media-file-to-filmora-1.jpg)
+![Import-media-files](https://images.wondershare.com/filmora/guide/import-media-file-to-filmora-1.jpg)
 
 ##### Step2 Add background music
 
@@ -804,13 +798,13 @@ Now, click the Audio option on the Menu and choose the sound effects at the left
 
 You can also click and drag the selected audio file into the working timeline to add background music to the uploaded video.
 
-![Add-sound-effects ](https://images.wondershare.com/filmora/guide/select-theme-music.jpg)
+![Add-sound-effects](https://images.wondershare.com/filmora/guide/select-theme-music.jpg)
 
 ##### Step3 Import the edited video
 
 Finally, you can have a preview of the edited video using the Preview panel and click the Export button to share it directly to social media platforms or any local storage space.
 
-![Export-edited-video ](https://images.wondershare.com/filmora/guide/go-to-export-panel.jpg)
+![Export-edited-video](https://images.wondershare.com/filmora/guide/go-to-export-panel.jpg)
 
 The above steps will help you to perform the respective edits on the background music of the video professionally. During the export process, you can make changes to the file format, video resolution. Click the Settings button to work on the advanced options of the edited video.
 
@@ -822,15 +816,13 @@ To customize the audio with advanced settings, then tap Customize option and mak
 
 There are options to detach the audio signal from the clippings by making a right-click on the media file and selecting Detach Audio option. Add voiceover to the detached audio-video file by using the Record Voiceover feature. This brings great fun and makes your video interactive. You can also trim audio clips and add new tracks as per your requirements. Set the audio speed and duration by right-clicking the audio file.
 
-![Detach-audio ](https://images.wondershare.com/filmora/guide/find-detach-option1.jpg)
+![Detach-audio](https://images.wondershare.com/filmora/guide/find-detach-option1.jpg)
 
 Use the Audio Equalizer from the popup that opens after a double click on the audio file. Customize the audio track using the in-built settings available with the Equalizer. It includes default, Classic, Low Bass, Sparkle, Pop, soft, and techno. You can also use Audio Mixer and edit the audio signals in two modes like Stereo and surround. The Audio ducking feature in Filmora helps you to lower the background music for a specific duration to enhance the voice of the speaker in the video file. It is used to improve the quality of the audio signal optimally.
 
 #### Wondershare Filmora
 
-Get started easily with Filmora's powerful performance, intuitive interface, and countless effects!
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More about Filmora>](https://tools.techidaily.com/wondershare/filmora/download/)
+Get started easily with Filmora's powerful performance, intuitive interface, and countless effects![Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More about Filmora>](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![download](https://images.wondershare.com/filmora/images/filmora-box.png)
 
@@ -850,9 +842,7 @@ This program offers you a platform to make your video interactive and mind-blowi
 
 #### Wondershare Filmora
 
-Get started easily with Filmora's powerful performance, intuitive interface, and countless effects!
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More about Filmora>](https://tools.techidaily.com/wondershare/filmora/download/)
+Get started easily with Filmora's powerful performance, intuitive interface, and countless effects![Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More about Filmora>](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![download](https://images.wondershare.com/filmora/images/filmora-box.png)
 
@@ -878,7 +868,7 @@ You can add background music to your memorable video captures using the Filmora 
 
 Go to the official webpage of Filmora video editor and download the correct version of this tool. Then, import the desired media file into the working environment by tapping the Import Media Files option. Then, click and drag the uploaded file into the timeline to make further edits to it.
 
-![Import-media-files ](https://images.wondershare.com/filmora/guide/import-media-file-to-filmora-1.jpg)
+![Import-media-files](https://images.wondershare.com/filmora/guide/import-media-file-to-filmora-1.jpg)
 
 ##### Step2 Add background music
 
@@ -886,13 +876,13 @@ Now, click the Audio option on the Menu and choose the sound effects at the left
 
 You can also click and drag the selected audio file into the working timeline to add background music to the uploaded video.
 
-![Add-sound-effects ](https://images.wondershare.com/filmora/guide/select-theme-music.jpg)
+![Add-sound-effects](https://images.wondershare.com/filmora/guide/select-theme-music.jpg)
 
 ##### Step3 Import the edited video
 
 Finally, you can have a preview of the edited video using the Preview panel and click the Export button to share it directly to social media platforms or any local storage space.
 
-![Export-edited-video ](https://images.wondershare.com/filmora/guide/go-to-export-panel.jpg)
+![Export-edited-video](https://images.wondershare.com/filmora/guide/go-to-export-panel.jpg)
 
 The above steps will help you to perform the respective edits on the background music of the video professionally. During the export process, you can make changes to the file format, video resolution. Click the Settings button to work on the advanced options of the edited video.
 
@@ -904,15 +894,13 @@ To customize the audio with advanced settings, then tap Customize option and mak
 
 There are options to detach the audio signal from the clippings by making a right-click on the media file and selecting Detach Audio option. Add voiceover to the detached audio-video file by using the Record Voiceover feature. This brings great fun and makes your video interactive. You can also trim audio clips and add new tracks as per your requirements. Set the audio speed and duration by right-clicking the audio file.
 
-![Detach-audio ](https://images.wondershare.com/filmora/guide/find-detach-option1.jpg)
+![Detach-audio](https://images.wondershare.com/filmora/guide/find-detach-option1.jpg)
 
 Use the Audio Equalizer from the popup that opens after a double click on the audio file. Customize the audio track using the in-built settings available with the Equalizer. It includes default, Classic, Low Bass, Sparkle, Pop, soft, and techno. You can also use Audio Mixer and edit the audio signals in two modes like Stereo and surround. The Audio ducking feature in Filmora helps you to lower the background music for a specific duration to enhance the voice of the speaker in the video file. It is used to improve the quality of the audio signal optimally.
 
 #### Wondershare Filmora
 
-Get started easily with Filmora's powerful performance, intuitive interface, and countless effects!
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More about Filmora>](https://tools.techidaily.com/wondershare/filmora/download/)
+Get started easily with Filmora's powerful performance, intuitive interface, and countless effects![Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More about Filmora>](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![download](https://images.wondershare.com/filmora/images/filmora-box.png)
 
@@ -932,9 +920,7 @@ This program offers you a platform to make your video interactive and mind-blowi
 
 #### Wondershare Filmora
 
-Get started easily with Filmora's powerful performance, intuitive interface, and countless effects!
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More about Filmora>](https://tools.techidaily.com/wondershare/filmora/download/)
+Get started easily with Filmora's powerful performance, intuitive interface, and countless effects![Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More about Filmora>](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![download](https://images.wondershare.com/filmora/images/filmora-box.png)
 
@@ -960,7 +946,7 @@ You can add background music to your memorable video captures using the Filmora 
 
 Go to the official webpage of Filmora video editor and download the correct version of this tool. Then, import the desired media file into the working environment by tapping the Import Media Files option. Then, click and drag the uploaded file into the timeline to make further edits to it.
 
-![Import-media-files ](https://images.wondershare.com/filmora/guide/import-media-file-to-filmora-1.jpg)
+![Import-media-files](https://images.wondershare.com/filmora/guide/import-media-file-to-filmora-1.jpg)
 
 ##### Step2 Add background music
 
@@ -968,13 +954,13 @@ Now, click the Audio option on the Menu and choose the sound effects at the left
 
 You can also click and drag the selected audio file into the working timeline to add background music to the uploaded video.
 
-![Add-sound-effects ](https://images.wondershare.com/filmora/guide/select-theme-music.jpg)
+![Add-sound-effects](https://images.wondershare.com/filmora/guide/select-theme-music.jpg)
 
 ##### Step3 Import the edited video
 
 Finally, you can have a preview of the edited video using the Preview panel and click the Export button to share it directly to social media platforms or any local storage space.
 
-![Export-edited-video ](https://images.wondershare.com/filmora/guide/go-to-export-panel.jpg)
+![Export-edited-video](https://images.wondershare.com/filmora/guide/go-to-export-panel.jpg)
 
 The above steps will help you to perform the respective edits on the background music of the video professionally. During the export process, you can make changes to the file format, video resolution. Click the Settings button to work on the advanced options of the edited video.
 
@@ -986,15 +972,13 @@ To customize the audio with advanced settings, then tap Customize option and mak
 
 There are options to detach the audio signal from the clippings by making a right-click on the media file and selecting Detach Audio option. Add voiceover to the detached audio-video file by using the Record Voiceover feature. This brings great fun and makes your video interactive. You can also trim audio clips and add new tracks as per your requirements. Set the audio speed and duration by right-clicking the audio file.
 
-![Detach-audio ](https://images.wondershare.com/filmora/guide/find-detach-option1.jpg)
+![Detach-audio](https://images.wondershare.com/filmora/guide/find-detach-option1.jpg)
 
 Use the Audio Equalizer from the popup that opens after a double click on the audio file. Customize the audio track using the in-built settings available with the Equalizer. It includes default, Classic, Low Bass, Sparkle, Pop, soft, and techno. You can also use Audio Mixer and edit the audio signals in two modes like Stereo and surround. The Audio ducking feature in Filmora helps you to lower the background music for a specific duration to enhance the voice of the speaker in the video file. It is used to improve the quality of the audio signal optimally.
 
 #### Wondershare Filmora
 
-Get started easily with Filmora's powerful performance, intuitive interface, and countless effects!
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More about Filmora>](https://tools.techidaily.com/wondershare/filmora/download/)
+Get started easily with Filmora's powerful performance, intuitive interface, and countless effects![Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More about Filmora>](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![download](https://images.wondershare.com/filmora/images/filmora-box.png)
 
