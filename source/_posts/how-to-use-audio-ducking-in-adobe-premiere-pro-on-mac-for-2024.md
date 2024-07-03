@@ -1,7 +1,7 @@
 ---
 title: How to Use Audio Ducking in Adobe Premiere Pro on Mac for 2024
-date: 2024-05-19T06:25:57.705Z
-updated: 2024-05-20T06:25:57.705Z
+date: 2024-07-02T14:00:20.737Z
+updated: 2024-07-03T14:00:20.737Z
 tags: 
   - audio editing software
   - audio editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes How to Use Audio Ducking in Adobe Premiere Pro on Mac for 2024
 excerpt: This Article Describes How to Use Audio Ducking in Adobe Premiere Pro on Mac for 2024
 keywords: how to use audio ducking in adobe premiere pro on win,windows based audio ducking workflow in adobe premiere pro,dualtracksync the ultimate audio matching solution for adobe premiere pro users 2023 edition,tutorial on audio ducking in adobe premiere pro on mac,dynamic duo how to automatically manage volume levels using audio ducking in adobe premiere pro for macos,adobe premiere pro audio ducking tutorial mac,the ultimate guide to separating audio tracks in adobe premiere pro
-thumbnail: https://www.lifewire.com/thmb/xgo6tGI-HONOfys81EHMpcUqTKU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-970157966-65f3dd434f3e4dc98e28a635b8cacc87.jpg
+thumbnail: https://thmb.techidaily.com/77006c539bf1ddb2e2b5e84e1f174870218883325d71d7edbcfdaf185bcde8ae.jpg
 ---
 
 ## How to Use Audio Ducking in Adobe Premiere Pro on Mac
@@ -56,7 +56,7 @@ Great! You can now preview the changes you have made and check the audio ducking
 
 Furthermore, you can also perform an instant hard ducking in Premiere Pro. For this, just choose the track, go to the side panel, and select **Preset** \> **Music** \> **Hard Vocal Ducking**. While it would get instant results in Adobe Premiere audio ducking, the results might not be so effective.
 
-## Part 2: [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/): An Easier Way to Auto Duck Your Audios on Mac
+## Part 2: Wondershare Filmora
 
 As you can see, the Premiere Pro audio ducking feature can get a bit complicated if you are a beginner. Therefore, if you are looking for a simpler and more effective automatic ducking solution, then use Wondershare Filmora. This intuitive and diverse video/audio editing tool has an automatic audio ducking option that would make your job a whole lot easier.
 
@@ -130,7 +130,7 @@ Great! You can now preview the changes you have made and check the audio ducking
 
 Furthermore, you can also perform an instant hard ducking in Premiere Pro. For this, just choose the track, go to the side panel, and select **Preset** \> **Music** \> **Hard Vocal Ducking**. While it would get instant results in Adobe Premiere audio ducking, the results might not be so effective.
 
-## Part 2: [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/): An Easier Way to Auto Duck Your Audios on Mac
+## Part 2: Wondershare Filmora
 
 As you can see, the Premiere Pro audio ducking feature can get a bit complicated if you are a beginner. Therefore, if you are looking for a simpler and more effective automatic ducking solution, then use Wondershare Filmora. This intuitive and diverse video/audio editing tool has an automatic audio ducking option that would make your job a whole lot easier.
 
@@ -204,7 +204,7 @@ Great! You can now preview the changes you have made and check the audio ducking
 
 Furthermore, you can also perform an instant hard ducking in Premiere Pro. For this, just choose the track, go to the side panel, and select **Preset** \> **Music** \> **Hard Vocal Ducking**. While it would get instant results in Adobe Premiere audio ducking, the results might not be so effective.
 
-## Part 2: [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/): An Easier Way to Auto Duck Your Audios on Mac
+## Part 2: Wondershare Filmora
 
 As you can see, the Premiere Pro audio ducking feature can get a bit complicated if you are a beginner. Therefore, if you are looking for a simpler and more effective automatic ducking solution, then use Wondershare Filmora. This intuitive and diverse video/audio editing tool has an automatic audio ducking option that would make your job a whole lot easier.
 
@@ -278,7 +278,7 @@ Great! You can now preview the changes you have made and check the audio ducking
 
 Furthermore, you can also perform an instant hard ducking in Premiere Pro. For this, just choose the track, go to the side panel, and select **Preset** \> **Music** \> **Hard Vocal Ducking**. While it would get instant results in Adobe Premiere audio ducking, the results might not be so effective.
 
-## Part 2: [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/): An Easier Way to Auto Duck Your Audios on Mac
+## Part 2: Wondershare Filmora
 
 As you can see, the Premiere Pro audio ducking feature can get a bit complicated if you are a beginner. Therefore, if you are looking for a simpler and more effective automatic ducking solution, then use Wondershare Filmora. This intuitive and diverse video/audio editing tool has an automatic audio ducking option that would make your job a whole lot easier.
 
@@ -328,7 +328,7 @@ Follow @Benjamin Arango
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-## The Speedy Route to Flawless Sound Import in Premiere Pro (Updated )
+## The Speedy Route to Flawless Sound Import in Premiere Pro (Updated)
 
 # How to Quickly Fix Audio Importing Issues in Adobe Premiere Pro
 
@@ -350,7 +350,8 @@ This can be quite frustrating, even though, in most cases, you won’t use the s
 
 There are numerous factors that can cause Adobe Premiere Pro to [stop functioning properly](https://forums.adobe.com/thread/2356540), and if the app won’t let you import video files into a project because it has no audio or video streams, there are few things you can do to fix this without having to reinstall the operating system on your computer or the version of Adobe Premiere Pro you’re currently using.
 
-### [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+### [
+![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)
 
 ### 1\. Clearing the Media File Cache
 
@@ -438,7 +439,8 @@ This can be quite frustrating, even though, in most cases, you won’t use the s
 
 There are numerous factors that can cause Adobe Premiere Pro to [stop functioning properly](https://forums.adobe.com/thread/2356540), and if the app won’t let you import video files into a project because it has no audio or video streams, there are few things you can do to fix this without having to reinstall the operating system on your computer or the version of Adobe Premiere Pro you’re currently using.
 
-### [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+### [
+![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)
 
 ### 1\. Clearing the Media File Cache
 
@@ -526,7 +528,8 @@ This can be quite frustrating, even though, in most cases, you won’t use the s
 
 There are numerous factors that can cause Adobe Premiere Pro to [stop functioning properly](https://forums.adobe.com/thread/2356540), and if the app won’t let you import video files into a project because it has no audio or video streams, there are few things you can do to fix this without having to reinstall the operating system on your computer or the version of Adobe Premiere Pro you’re currently using.
 
-### [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+### [
+![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)
 
 ### 1\. Clearing the Media File Cache
 
@@ -614,7 +617,8 @@ This can be quite frustrating, even though, in most cases, you won’t use the s
 
 There are numerous factors that can cause Adobe Premiere Pro to [stop functioning properly](https://forums.adobe.com/thread/2356540), and if the app won’t let you import video files into a project because it has no audio or video streams, there are few things you can do to fix this without having to reinstall the operating system on your computer or the version of Adobe Premiere Pro you’re currently using.
 
-### [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+### [
+![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)
 
 ### 1\. Clearing the Media File Cache
 
@@ -710,7 +714,7 @@ The process of making a video has always been painstakingly long, and even thoug
 
 Before we proceed any further we would like to note that the platforms and apps we featured in this article can only help you generate a subtitle file and that you are going to have to use a video editing software or an online subtitling platform to add that file to a video. Here are some of the best options for converting audio to text in 2024\.
 
-#### 1. [IBM Watson Speech to Text](https://speech-to-text-demo.ng.bluemix.net/)
+#### 1. IBM Watson Speech to Text
 
 **Price:** Free trial, different subscription plans available
 
@@ -718,7 +722,7 @@ Watson was initially created to answer questions on a popular quiz show called J
 
 Turning speech into text with Watson is easy, as you just have to pick a voice model, upload the audio file you saved in MP3, MPEG, wav, flac or opus file format and choose the keywords you’d like Watson to spot. Alternatively, you can use this platform to record audio files you’d like to convert to text, but you should keep in mind that Watson only supports French, German, Arabic, English, Korean, Spanish, Brazilian Portuguese, Mandarin, French and Japanese languages.
 
-#### 2. [Sonix](https://sonix.ai/)
+#### 2. Sonix
 
 **Price:** Free trial, subscription plans start from $17.25 per month
 
@@ -726,19 +730,19 @@ This feature-rich platform is designed to help storytellers tell their stories. 
 
 Moreover, the platform is equipped with a video player so you can see your videos next to the transcript, which can be quite useful if you are trying to correct the misspellings and other mistakes. The best part is that Sonix has Final Cut Pro, Adobe Premiere Pro, Adobe Audition integration, so you can add markers, metadata, captions or make rough cuts on both audio and video files you use in your projects.
 
-#### 3. [Amber Script](https://www.amberscript.com/en)
+#### 3. Amber Script
 
 **Price:** Free trial available, subscription plans start at $6 per hour of uploaded audio
 
 Regardless of the pricing plan you choose, Amber Script lets you create text from audio files in 29 different languages. In addition, some pricing plans allow you to create text from both audio and video files, so you can easily make subtitles for your videos. Simply upload the file to Amber Script and the platform will generate the text for you. The text may not be entirely accurate, but you can easily make all corrections from the Amber Script’s text editor that offers speaker distinction and timestamp features. In case you don’t want to edit the text by yourself, you can choose a subscription plan that guarantees a 100% accuracy, as well as other advanced options. You can export the text in a variety of file formats, including commonly used text file formats such as SRT, json or docx, and use it for a wide array of purposes just minutes after you’ve transformed an audio file into text.
 
-#### 4. [360Converter](https://www.360converter.com/conversion/video2TextConversion)
+#### 4. 360Converter
 
 **Price:** Free
 
 This free online converter lets you turn YouTube or any other type of video or audio file to text for free. You can upload a file directly from your computer, use a video’s URL if it is stored online or import it from personal cloud storage services like Dropbox or Google Drive. Currently, you can only transcribe video and audio files that are in English, French, Hindi and Chinese languages which can limit your options if the text you’d like to generate is in another language. Keep in mind that you are going to have to specify the start and end points of the transcription which allows you to create text from only a portion of the video or audio file. Once the conversion is completed, you will have to wait for your request to be processed before you can download the text the platform generated for you.
 
-#### 5. [Sobolsoft MP3 Speech to Text Converter Software](https://www.sobolsoft.com/convertmp3text/)
+#### 5. Sobolsoft MP3 Speech to Text Converter Software
 
 **Price:** $19.99
 
@@ -746,7 +750,7 @@ This free online converter lets you turn YouTube or any other type of video or a
 
 If you are looking for a reliable speech to text software you can use on your PC, then Sobolsoft’s MP3 Speech to Text Converter software is probably one of the best options you can find on the market. The software is easy to use, as you just have to select the audio files you’d like to transcribe and hit the Start Converting button. All the text the software generates will be displayed in the Results window where you can edit it, copy it to clipboard or save it as a text file. However, this software doesn’t provide support for video files, which means that you can’t use it to transcribe files that are saved in MP4, AVI, MOV or any other of the popular video file formats. You can try the Sobolsoft’s MP3 Speech to Text Converter for free and decide if you want to purchase the license to use the software without any restrictions.
 
-#### 6. [InqScribe](https://www.inqscribe.com/)
+#### 6. InqScribe
 
 **Price:** $99 for an individual license
 
@@ -754,7 +758,7 @@ If you are looking for a reliable speech to text software you can use on your PC
 
 Even though you can’t generate text automatically with InqScribe, this app for PC and Mac computers is still one of the best ways to create subtitles for your videos or transcripts of audio files. The software offers support for a large number of languages so you can use several different languages in the same document. Simply add a video or an audio file to the software’s media window and start typing your transcript. You can also add timecodes wherever you want in the text, which makes InqScribe perfectly suited for the production of subtitle files you can easily add to the videos you share online. The software lets you export the workflow and use it Final Cut Pro or Adobe Premiere Pro to add subtitles to your projects before you export them as video files.
 
-#### 7. [GoSubtitle](https://gosubtitle.com/)
+#### 7. GoSubtitle
 
 **Price:** Free trial available, subscription plans start at $0,05 per minute
 
@@ -786,7 +790,7 @@ The process of making a video has always been painstakingly long, and even thoug
 
 Before we proceed any further we would like to note that the platforms and apps we featured in this article can only help you generate a subtitle file and that you are going to have to use a video editing software or an online subtitling platform to add that file to a video. Here are some of the best options for converting audio to text in 2024\.
 
-#### 1. [IBM Watson Speech to Text](https://speech-to-text-demo.ng.bluemix.net/)
+#### 1. IBM Watson Speech to Text
 
 **Price:** Free trial, different subscription plans available
 
@@ -794,7 +798,7 @@ Watson was initially created to answer questions on a popular quiz show called J
 
 Turning speech into text with Watson is easy, as you just have to pick a voice model, upload the audio file you saved in MP3, MPEG, wav, flac or opus file format and choose the keywords you’d like Watson to spot. Alternatively, you can use this platform to record audio files you’d like to convert to text, but you should keep in mind that Watson only supports French, German, Arabic, English, Korean, Spanish, Brazilian Portuguese, Mandarin, French and Japanese languages.
 
-#### 2. [Sonix](https://sonix.ai/)
+#### 2. Sonix
 
 **Price:** Free trial, subscription plans start from $17.25 per month
 
@@ -802,19 +806,19 @@ This feature-rich platform is designed to help storytellers tell their stories. 
 
 Moreover, the platform is equipped with a video player so you can see your videos next to the transcript, which can be quite useful if you are trying to correct the misspellings and other mistakes. The best part is that Sonix has Final Cut Pro, Adobe Premiere Pro, Adobe Audition integration, so you can add markers, metadata, captions or make rough cuts on both audio and video files you use in your projects.
 
-#### 3. [Amber Script](https://www.amberscript.com/en)
+#### 3. Amber Script
 
 **Price:** Free trial available, subscription plans start at $6 per hour of uploaded audio
 
 Regardless of the pricing plan you choose, Amber Script lets you create text from audio files in 29 different languages. In addition, some pricing plans allow you to create text from both audio and video files, so you can easily make subtitles for your videos. Simply upload the file to Amber Script and the platform will generate the text for you. The text may not be entirely accurate, but you can easily make all corrections from the Amber Script’s text editor that offers speaker distinction and timestamp features. In case you don’t want to edit the text by yourself, you can choose a subscription plan that guarantees a 100% accuracy, as well as other advanced options. You can export the text in a variety of file formats, including commonly used text file formats such as SRT, json or docx, and use it for a wide array of purposes just minutes after you’ve transformed an audio file into text.
 
-#### 4. [360Converter](https://www.360converter.com/conversion/video2TextConversion)
+#### 4. 360Converter
 
 **Price:** Free
 
 This free online converter lets you turn YouTube or any other type of video or audio file to text for free. You can upload a file directly from your computer, use a video’s URL if it is stored online or import it from personal cloud storage services like Dropbox or Google Drive. Currently, you can only transcribe video and audio files that are in English, French, Hindi and Chinese languages which can limit your options if the text you’d like to generate is in another language. Keep in mind that you are going to have to specify the start and end points of the transcription which allows you to create text from only a portion of the video or audio file. Once the conversion is completed, you will have to wait for your request to be processed before you can download the text the platform generated for you.
 
-#### 5. [Sobolsoft MP3 Speech to Text Converter Software](https://www.sobolsoft.com/convertmp3text/)
+#### 5. Sobolsoft MP3 Speech to Text Converter Software
 
 **Price:** $19.99
 
@@ -822,7 +826,7 @@ This free online converter lets you turn YouTube or any other type of video or a
 
 If you are looking for a reliable speech to text software you can use on your PC, then Sobolsoft’s MP3 Speech to Text Converter software is probably one of the best options you can find on the market. The software is easy to use, as you just have to select the audio files you’d like to transcribe and hit the Start Converting button. All the text the software generates will be displayed in the Results window where you can edit it, copy it to clipboard or save it as a text file. However, this software doesn’t provide support for video files, which means that you can’t use it to transcribe files that are saved in MP4, AVI, MOV or any other of the popular video file formats. You can try the Sobolsoft’s MP3 Speech to Text Converter for free and decide if you want to purchase the license to use the software without any restrictions.
 
-#### 6. [InqScribe](https://www.inqscribe.com/)
+#### 6. InqScribe
 
 **Price:** $99 for an individual license
 
@@ -830,7 +834,7 @@ If you are looking for a reliable speech to text software you can use on your PC
 
 Even though you can’t generate text automatically with InqScribe, this app for PC and Mac computers is still one of the best ways to create subtitles for your videos or transcripts of audio files. The software offers support for a large number of languages so you can use several different languages in the same document. Simply add a video or an audio file to the software’s media window and start typing your transcript. You can also add timecodes wherever you want in the text, which makes InqScribe perfectly suited for the production of subtitle files you can easily add to the videos you share online. The software lets you export the workflow and use it Final Cut Pro or Adobe Premiere Pro to add subtitles to your projects before you export them as video files.
 
-#### 7. [GoSubtitle](https://gosubtitle.com/)
+#### 7. GoSubtitle
 
 **Price:** Free trial available, subscription plans start at $0,05 per minute
 
@@ -862,7 +866,7 @@ The process of making a video has always been painstakingly long, and even thoug
 
 Before we proceed any further we would like to note that the platforms and apps we featured in this article can only help you generate a subtitle file and that you are going to have to use a video editing software or an online subtitling platform to add that file to a video. Here are some of the best options for converting audio to text in 2024\.
 
-#### 1. [IBM Watson Speech to Text](https://speech-to-text-demo.ng.bluemix.net/)
+#### 1. IBM Watson Speech to Text
 
 **Price:** Free trial, different subscription plans available
 
@@ -870,7 +874,7 @@ Watson was initially created to answer questions on a popular quiz show called J
 
 Turning speech into text with Watson is easy, as you just have to pick a voice model, upload the audio file you saved in MP3, MPEG, wav, flac or opus file format and choose the keywords you’d like Watson to spot. Alternatively, you can use this platform to record audio files you’d like to convert to text, but you should keep in mind that Watson only supports French, German, Arabic, English, Korean, Spanish, Brazilian Portuguese, Mandarin, French and Japanese languages.
 
-#### 2. [Sonix](https://sonix.ai/)
+#### 2. Sonix
 
 **Price:** Free trial, subscription plans start from $17.25 per month
 
@@ -878,19 +882,19 @@ This feature-rich platform is designed to help storytellers tell their stories. 
 
 Moreover, the platform is equipped with a video player so you can see your videos next to the transcript, which can be quite useful if you are trying to correct the misspellings and other mistakes. The best part is that Sonix has Final Cut Pro, Adobe Premiere Pro, Adobe Audition integration, so you can add markers, metadata, captions or make rough cuts on both audio and video files you use in your projects.
 
-#### 3. [Amber Script](https://www.amberscript.com/en)
+#### 3. Amber Script
 
 **Price:** Free trial available, subscription plans start at $6 per hour of uploaded audio
 
 Regardless of the pricing plan you choose, Amber Script lets you create text from audio files in 29 different languages. In addition, some pricing plans allow you to create text from both audio and video files, so you can easily make subtitles for your videos. Simply upload the file to Amber Script and the platform will generate the text for you. The text may not be entirely accurate, but you can easily make all corrections from the Amber Script’s text editor that offers speaker distinction and timestamp features. In case you don’t want to edit the text by yourself, you can choose a subscription plan that guarantees a 100% accuracy, as well as other advanced options. You can export the text in a variety of file formats, including commonly used text file formats such as SRT, json or docx, and use it for a wide array of purposes just minutes after you’ve transformed an audio file into text.
 
-#### 4. [360Converter](https://www.360converter.com/conversion/video2TextConversion)
+#### 4. 360Converter
 
 **Price:** Free
 
 This free online converter lets you turn YouTube or any other type of video or audio file to text for free. You can upload a file directly from your computer, use a video’s URL if it is stored online or import it from personal cloud storage services like Dropbox or Google Drive. Currently, you can only transcribe video and audio files that are in English, French, Hindi and Chinese languages which can limit your options if the text you’d like to generate is in another language. Keep in mind that you are going to have to specify the start and end points of the transcription which allows you to create text from only a portion of the video or audio file. Once the conversion is completed, you will have to wait for your request to be processed before you can download the text the platform generated for you.
 
-#### 5. [Sobolsoft MP3 Speech to Text Converter Software](https://www.sobolsoft.com/convertmp3text/)
+#### 5. Sobolsoft MP3 Speech to Text Converter Software
 
 **Price:** $19.99
 
@@ -898,7 +902,7 @@ This free online converter lets you turn YouTube or any other type of video or a
 
 If you are looking for a reliable speech to text software you can use on your PC, then Sobolsoft’s MP3 Speech to Text Converter software is probably one of the best options you can find on the market. The software is easy to use, as you just have to select the audio files you’d like to transcribe and hit the Start Converting button. All the text the software generates will be displayed in the Results window where you can edit it, copy it to clipboard or save it as a text file. However, this software doesn’t provide support for video files, which means that you can’t use it to transcribe files that are saved in MP4, AVI, MOV or any other of the popular video file formats. You can try the Sobolsoft’s MP3 Speech to Text Converter for free and decide if you want to purchase the license to use the software without any restrictions.
 
-#### 6. [InqScribe](https://www.inqscribe.com/)
+#### 6. InqScribe
 
 **Price:** $99 for an individual license
 
@@ -906,7 +910,7 @@ If you are looking for a reliable speech to text software you can use on your PC
 
 Even though you can’t generate text automatically with InqScribe, this app for PC and Mac computers is still one of the best ways to create subtitles for your videos or transcripts of audio files. The software offers support for a large number of languages so you can use several different languages in the same document. Simply add a video or an audio file to the software’s media window and start typing your transcript. You can also add timecodes wherever you want in the text, which makes InqScribe perfectly suited for the production of subtitle files you can easily add to the videos you share online. The software lets you export the workflow and use it Final Cut Pro or Adobe Premiere Pro to add subtitles to your projects before you export them as video files.
 
-#### 7. [GoSubtitle](https://gosubtitle.com/)
+#### 7. GoSubtitle
 
 **Price:** Free trial available, subscription plans start at $0,05 per minute
 
@@ -938,7 +942,7 @@ The process of making a video has always been painstakingly long, and even thoug
 
 Before we proceed any further we would like to note that the platforms and apps we featured in this article can only help you generate a subtitle file and that you are going to have to use a video editing software or an online subtitling platform to add that file to a video. Here are some of the best options for converting audio to text in 2024\.
 
-#### 1. [IBM Watson Speech to Text](https://speech-to-text-demo.ng.bluemix.net/)
+#### 1. IBM Watson Speech to Text
 
 **Price:** Free trial, different subscription plans available
 
@@ -946,7 +950,7 @@ Watson was initially created to answer questions on a popular quiz show called J
 
 Turning speech into text with Watson is easy, as you just have to pick a voice model, upload the audio file you saved in MP3, MPEG, wav, flac or opus file format and choose the keywords you’d like Watson to spot. Alternatively, you can use this platform to record audio files you’d like to convert to text, but you should keep in mind that Watson only supports French, German, Arabic, English, Korean, Spanish, Brazilian Portuguese, Mandarin, French and Japanese languages.
 
-#### 2. [Sonix](https://sonix.ai/)
+#### 2. Sonix
 
 **Price:** Free trial, subscription plans start from $17.25 per month
 
@@ -954,19 +958,19 @@ This feature-rich platform is designed to help storytellers tell their stories. 
 
 Moreover, the platform is equipped with a video player so you can see your videos next to the transcript, which can be quite useful if you are trying to correct the misspellings and other mistakes. The best part is that Sonix has Final Cut Pro, Adobe Premiere Pro, Adobe Audition integration, so you can add markers, metadata, captions or make rough cuts on both audio and video files you use in your projects.
 
-#### 3. [Amber Script](https://www.amberscript.com/en)
+#### 3. Amber Script
 
 **Price:** Free trial available, subscription plans start at $6 per hour of uploaded audio
 
 Regardless of the pricing plan you choose, Amber Script lets you create text from audio files in 29 different languages. In addition, some pricing plans allow you to create text from both audio and video files, so you can easily make subtitles for your videos. Simply upload the file to Amber Script and the platform will generate the text for you. The text may not be entirely accurate, but you can easily make all corrections from the Amber Script’s text editor that offers speaker distinction and timestamp features. In case you don’t want to edit the text by yourself, you can choose a subscription plan that guarantees a 100% accuracy, as well as other advanced options. You can export the text in a variety of file formats, including commonly used text file formats such as SRT, json or docx, and use it for a wide array of purposes just minutes after you’ve transformed an audio file into text.
 
-#### 4. [360Converter](https://www.360converter.com/conversion/video2TextConversion)
+#### 4. 360Converter
 
 **Price:** Free
 
 This free online converter lets you turn YouTube or any other type of video or audio file to text for free. You can upload a file directly from your computer, use a video’s URL if it is stored online or import it from personal cloud storage services like Dropbox or Google Drive. Currently, you can only transcribe video and audio files that are in English, French, Hindi and Chinese languages which can limit your options if the text you’d like to generate is in another language. Keep in mind that you are going to have to specify the start and end points of the transcription which allows you to create text from only a portion of the video or audio file. Once the conversion is completed, you will have to wait for your request to be processed before you can download the text the platform generated for you.
 
-#### 5. [Sobolsoft MP3 Speech to Text Converter Software](https://www.sobolsoft.com/convertmp3text/)
+#### 5. Sobolsoft MP3 Speech to Text Converter Software
 
 **Price:** $19.99
 
@@ -974,7 +978,7 @@ This free online converter lets you turn YouTube or any other type of video or a
 
 If you are looking for a reliable speech to text software you can use on your PC, then Sobolsoft’s MP3 Speech to Text Converter software is probably one of the best options you can find on the market. The software is easy to use, as you just have to select the audio files you’d like to transcribe and hit the Start Converting button. All the text the software generates will be displayed in the Results window where you can edit it, copy it to clipboard or save it as a text file. However, this software doesn’t provide support for video files, which means that you can’t use it to transcribe files that are saved in MP4, AVI, MOV or any other of the popular video file formats. You can try the Sobolsoft’s MP3 Speech to Text Converter for free and decide if you want to purchase the license to use the software without any restrictions.
 
-#### 6. [InqScribe](https://www.inqscribe.com/)
+#### 6. InqScribe
 
 **Price:** $99 for an individual license
 
@@ -982,7 +986,7 @@ If you are looking for a reliable speech to text software you can use on your PC
 
 Even though you can’t generate text automatically with InqScribe, this app for PC and Mac computers is still one of the best ways to create subtitles for your videos or transcripts of audio files. The software offers support for a large number of languages so you can use several different languages in the same document. Simply add a video or an audio file to the software’s media window and start typing your transcript. You can also add timecodes wherever you want in the text, which makes InqScribe perfectly suited for the production of subtitle files you can easily add to the videos you share online. The software lets you export the workflow and use it Final Cut Pro or Adobe Premiere Pro to add subtitles to your projects before you export them as video files.
 
-#### 7. [GoSubtitle](https://gosubtitle.com/)
+#### 7. GoSubtitle
 
 **Price:** Free trial available, subscription plans start at $0,05 per minute
 

@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Duties Assigned to Film Set Personnel
-date: 2024-05-05T02:27:53.938Z
-updated: 2024-05-06T02:27:53.938Z
+date: 2024-07-02T14:00:20.676Z
+updated: 2024-07-03T14:00:20.676Z
 tags: 
   - audio editing software
   - audio editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New 2024 Approved Duties Assigned to Film Set Personnel
 excerpt: This Article Describes New 2024 Approved Duties Assigned to Film Set Personnel
 keywords: a detailed overview whats new with nero waveedit 2024 edition,top 8 masterful audio designs in film 2023 edition,from raw tape to polished production advanced techniques using sony vegas pro 2023 release,duties assigned to film set personnel,mp3 speech to text conversion explained 3 streamlined online approaches 2023 edition,capturing stories a deep dive into each personnels impact on a film set,discover the top 4 audio editing programs specifically designed for mac
-thumbnail: https://www.lifewire.com/thmb/_JoO871Fn8djNW5YRDt3xrRs7Kg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-see-who-viewed-your-tiktok-5271090-e2cb663541b8484a8a2e80ffbdd98db3.jpg
+thumbnail: https://thmb.techidaily.com/daed1459b71f2c11118ff363b82166df3949711b8db94af4f668119ff4d60331.jpg
 ---
 
 ## Duties Assigned to Film Set Personnel
