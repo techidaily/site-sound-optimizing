@@ -1,7 +1,7 @@
 ---
 title: New Responsibilities of Each Team Member During Production
-date: 2024-05-19T06:26:27.083Z
-updated: 2024-05-20T06:26:27.083Z
+date: 2024-07-14T19:43:04.465Z
+updated: 2024-07-15T19:43:04.465Z
 tags: 
   - audio editing software
   - audio editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New Responsibilities of Each Team Member During Production
 excerpt: This Article Describes New Responsibilities of Each Team Member During Production
 keywords: mastering podcast production utilizing audacitys features,responsibilities of each team member during production,film team dynamics how every crew member contributes to the final product,echoes of tomorrow 7 pioneering sound alterations redefining music production,behind the scenes the essential roles of film production team members,crew collaboration the vital roles and responsibilities on a film production team,mastering the mix an introduction to reapers capabilities
-thumbnail: https://www.lifewire.com/thmb/KQEPD1j8h_qKr2PB3tJ6qZQQ508=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-104626001-5c34f065c9e77c00010b8cd5.jpg
+thumbnail: https://thmb.techidaily.com/ffa6265ad1a6a848473605e7aedcfa3ec46ffbe39326ff49e8d4fafd11fa0e00.jpg
 ---
 
 ## Responsibilities of Each Team Member During Production
@@ -66,6 +66,9 @@ The next and foremost department is the production design. In this the productio
 
 In this department, the production designer is mainly involved in decorating the sets, making props, and setting up the lighting.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![working of production designing team](https://images.wondershare.com/filmora/article-images/2023/04/working-of-production-designing-team.gif)
 
 **Cinematographers Department**
@@ -100,6 +103,9 @@ The 2nd AC has to consider the slates of the shots, place exact locations and ma
 
 Gaffers and key grip have their own teams for maintaining the lighting and grip work assigned by the DP according to the creative plans.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Digital media technician
 
 It is essential to get the backup of footage of every shot. If you are working on a large scale, the backup planner is recognized as the Digital Media Technician (DMT).
@@ -236,6 +242,9 @@ Now if you have this kind of graphic before your eyes, you can be pretty sure wi
 
 Select these files, right-click and choose Adjust Audio. New panel will be opened on left top and there, you will see Audio Normalization – check the box there.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![select files](https://images.wondershare.com/filmora/article-images/2022/07/free-mp3-normalizer-03.jpg)
 
 ![choose adjust audio](https://images.wondershare.com/filmora/article-images/2022/07/free-mp3-normalizer-04.jpg)
@@ -509,6 +518,9 @@ After that, hit "Export" to select the desired output way. You can set the outpu
 
 ![export video](https://images.wondershare.com/filmora/article-images/export-filmora9-video.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Bonus: Mute a Video with Filmora Video Editor with 1-click
 
 Sometimes, you might wish to mute a video clip for many reasons, then the Filmora Video Editor, as the best MP4 Audio Extractor or Editor will help you do it with 1 simple click.
@@ -659,6 +671,9 @@ After that, hit "Export" to select the desired output way. You can set the outpu
 
 ![export video](https://images.wondershare.com/filmora/article-images/export-filmora9-video.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Bonus: Mute a Video with Filmora Video Editor with 1-click
 
 Sometimes, you might wish to mute a video clip for many reasons, then the Filmora Video Editor, as the best MP4 Audio Extractor or Editor will help you do it with 1 simple click.
@@ -698,3 +713,66 @@ Detailed tutorials provided by the official channel
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://sound-optimizing.techidaily.com/transform-any-audio-with-these-7-innovative-cost-free-online-trimming-applications-for-2024/"><u>Transform Any Audio with These 7 Innovative, Cost-Free Online Trimming Applications for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/transform-your-mac-into-an-audio-recorder-top-tips-from-industry-experts-for-2024/"><u>Transform Your Mac Into an Audio Recorder Top Tips From Industry Experts for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/top-tier-ae-templates-for-poetic-visual-storytelling-for-2024/"><u>Top-Tier AE Templates for Poetic Visual Storytelling for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-tranquility-through-technology-simplifying-sound-suppression-with-adobe-premiere-pro/"><u>Updated Tranquility Through Technology Simplifying Sound Suppression with Adobe Premiere Pro</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-pova-5-pro-by-drfone-android-unlock-android-unlock/"><u>How to unlock Pova 5 Pro</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-make-your-mark-stand-out-with-youtube-studio-editing/"><u>[Updated] Make Your Mark  Stand Out with YouTube Studio Editing</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/tracing-path-to-diverse-aggravation-noise-files-for-2024/"><u>Tracing Path to Diverse Aggravation Noise Files for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/shot-with-precision-the-top-10-camera-lens-choices-for-photographers-for-2024/"><u>Shot with Precision  The Top 10 Camera Lens Choices for Photographers for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/2024-approved-trace-acoustic-expressions-linked-to-painting-devices/"><u>2024 Approved Trace Acoustic Expressions Linked to Painting Devices</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-10-best-omegle-alternatives-meet-new-people-online/"><u>Updated 10 Best Omegle Alternatives Meet New People Online</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/2024-approved-top-tier-ae-templates-for-poetic-visual-storytelling/"><u>2024 Approved Top-Tier AE Templates for Poetic Visual Storytelling</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-trace-the-audible-outcome-of-digestive-efforts/"><u>Updated Trace the Audible Outcome of Digestive Efforts</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/2024-approved-top-tier-gratis-mp3-integration-suites-for-the-modern-ear/"><u>2024 Approved Top-Tier, Gratis MP3 Integration Suites for the Modern Ear</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-chromebook-shutter-magic-4-simple-steps/"><u>[New] In 2024, Chromebook Shutter Magic - 4 Simple Steps</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-select-blur-apps-for-softened-backdrops/"><u>In 2024, Select Blur Apps for Softened Backdrops</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-tips-for-modifying-windows-passcode/"><u>Quick Tips for Modifying Windows Passcode</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/2024-approved-transform-your-digital-communication-implementing-the-clownfish-vocal-alteration-technique-in-discordfortniteskype-channels/"><u>2024 Approved Transform Your Digital Communication Implementing the Clownfish Vocal Alteration Technique in Discord/Fortnite/Skype Channels</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-top-tear-jerking-melodies-the-best-sad-songs-of-the-year/"><u>Updated Top Tear-Jerking Melodies The Best Sad Songs of the Year</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-flawlessbackgroundfixer-premium-photo-editing-app/"><u>[New] FlawlessBackgroundFixer  Premium Photo Editing App</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-top-voice-transformation-tools-for-anime-enthusiasts-desktop-and-mobile-edition/"><u>Updated Top Voice Transformation Tools for Anime Enthusiasts Desktop & Mobile Edition</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/professional-pc-sound-recording-options-unveiling-the-top-10/"><u>Professional PC Sound Recording Options Unveiling the Top 10</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/5-pinterest-video-downloads-no-cost-and-fast-access-online-for-2024/"><u>5 Pinterest Video Downloads – No Cost & Fast Access Online for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-change-credit-card-from-your-iphone-12-mini-apple-id-and-apple-pay-by-drfone-ios/"><u>In 2024, How to Change Credit Card from Your iPhone 12 mini Apple ID and Apple Pay</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/iphone-transfer-transfer-contact-from-apple-iphone-12-pro-to-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>iPhone Transfer Transfer Contact from Apple iPhone 12 Pro to iPhone without iCloud | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-crafting-memorable-content-with-personalized-gifs/"><u>[Updated] Crafting Memorable Content with Personalized GIFS</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/in-2024-top-tier-ae-templates-for-poetic-visual-storytelling/"><u>In 2024, Top-Tier AE Templates for Poetic Visual Storytelling</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-transform-your-online-presence-the-art-of-voxal-voice-alteration-on-discord/"><u>New Transform Your Online Presence The Art of Voxal Voice Alteration on Discord</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/2024-approved-top-ten-windows-10-fusion-applications-for-superior-sound-outputs/"><u>2024 Approved Top Ten Windows 10 Fusion Applications for Superior Sound Outputs</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-twitters-hot-spots-1-10-viral-visits-for-2024/"><u>[New] Twitter's Hot Spots  #1-#10 Viral Visits for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-preserve-the-original-sound-how-to-convert-video-to-mp3-without-quality-loss/"><u>Updated In 2024, Preserve the Original Sound How to Convert Video to MP3 without Quality Loss</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-10-essential-tips-for-achieving-wealth-through-youtube-video-views/"><u>[Updated] 10 Essential Tips for Achieving Wealth Through YouTube Video Views</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/in-2024-transform-your-media-experience-a-compilation-of-premium-online-and-offline-conversion-apps-free/"><u>In 2024, Transform Your Media Experience A Compilation of Premium Online & Offline Conversion Apps (Free)</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-transform-your-audio-projects-professional-tips-on-utilizing-keyframes-in-adobe-premiere-pro-for-macos/"><u>New Transform Your Audio Projects Professional Tips on Utilizing Keyframes in Adobe Premiere Pro for macOS</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-top-ten-digital-melodies-discovering-the-most-downloaded-background-scores/"><u>New Top Ten Digital Melodies Discovering the Most Downloaded Background Scores</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/tracking-down-an-enraged-poochs-howling-frequency-for-2024/"><u>Tracking Down An Enraged Poochs Howling Frequency for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/bidding-adieu-to-ea-new-price-prohibitive-for-gaming/"><u>Bidding Adieu to EA: New Price Prohibitive for Gaming</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-top-tier-approaches-for-enhancing-igtv-with-soundtracks/"><u>New Top-Tier Approaches for Enhancing IGTV with Soundtracks</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/transform-your-auditory-perception-with-internet-based-audio-modification-tools-for-2024/"><u>Transform Your Auditory Perception with Internet-Based Audio Modification Tools for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/2024-approved-totally-tune-out-mastering-the-art-of-muting-media-on-internet-platforms/"><u>2024 Approved Totally Tune-Out Mastering the Art of Muting Media on Internet Platforms</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/top-voice-transformation-tools-for-anime-enthusiasts-desktop-and-mobile-edition-for-2024/"><u>Top Voice Transformation Tools for Anime Enthusiasts Desktop & Mobile Edition for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/2024-approved-top-voice-transformers-for-aspiring-cross-dressing-actors/"><u>2024 Approved Top Voice Transformers for Aspiring Cross-Dressing Actors</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-experience-retro-gaming-glory-with-best-pc-ps1-emulation-software/"><u>2024 Approved  Experience Retro Gaming Glory with Best PC PS1 Emulation Software</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/best-free-video-calls-featuring-screen-sharing-roundup/"><u>Best Free Video Calls Featuring Screen Sharing Roundup</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-transcribing-speech-to-mp3-audio-format-for-diverse-platforms/"><u>Updated Transcribing Speech to MP3 Audio Format for Diverse Platforms</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-track-imei-number-of-infinix-smart-8-hd-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Infinix Smart 8 HD Through Google Earth?</u></a></li>
+<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-samsung-galaxy-m54-5g-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Samsung Galaxy M54 5G | Dr.fone</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-in-this-article-i-will-share-how-to-add-3d-effects-to-a-video-using-windowss-free-built-in-photos-app-on-windows-10-or-the-latest-wind/"><u>Updated 2024 Approved In This Article, I Will Share How to Add 3D Effects to a Video Using Windowss Free Built-In Photos App on Windows 10 or the Latest Windows 11 Computers</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/in-2024-transform-your-mac-into-an-audio-recorder-top-tips-from-industry-experts/"><u>In 2024, Transform Your Mac Into an Audio Recorder Top Tips From Industry Experts</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/in-2024-top-tier-gratis-mp3-integration-suites-for-the-modern-ear/"><u>In 2024, Top-Tier, Gratis MP3 Integration Suites for the Modern Ear</u></a></li>
+<li><a href="https://win11.techidaily.com/stabilizing-clicks-avoid-accelerated-movement-in-win-1011/"><u>Stabilizing Clicks: Avoid Accelerated Movement in Win 10/11</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-from-boring-to-brilliant-best-video-dubbing-apps-for-comedy-and-fun/"><u>New In 2024, From Boring to Brilliant Best Video Dubbing Apps for Comedy & Fun</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-bring-your-ideas-to-life-top-online-stop-motion-tools-for-2024/"><u>New Bring Your Ideas to Life Top Online Stop Motion Tools for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/2024-approved-tracking-down-enhanced-alien-voices-effects/"><u>2024 Approved Tracking Down Enhanced Alien Voices Effects</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-transform-any-audio-with-these-7-innovative-cost-free-online-trimming-applications/"><u>Updated Transform Any Audio with These 7 Innovative, Cost-Free Online Trimming Applications</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/in-2024-top-tier-guidelines-for-mastering-music-videos/"><u>In 2024, Top-Tier Guidelines for Mastering Music Videos</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/maximizing-the-impact-of-outdoor-videos-live-streams-via-periscopefacebook-for-2024/"><u>Maximizing the Impact of Outdoor Videos  Live Streams via Periscope/Facebook for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-oppo-k11-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Oppo K11 5G to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/track-wolfs-mournful-lamentation-sound-for-2024/"><u>Track Wolfs Mournful Lamentation Sound for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-top-tier-guidelines-for-mastering-music-videos/"><u>Updated Top-Tier Guidelines for Mastering Music Videos</u></a></li>
+</ul></div>

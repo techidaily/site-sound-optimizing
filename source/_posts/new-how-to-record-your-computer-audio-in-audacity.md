@@ -1,7 +1,7 @@
 ---
 title: New How To Record Your Computer Audio in Audacity
-date: 2024-05-19T06:26:15.508Z
-updated: 2024-05-20T06:26:15.508Z
+date: 2024-07-14T19:42:11.323Z
+updated: 2024-07-15T19:42:11.323Z
 tags: 
   - audio editing software
   - audio editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New How To Record Your Computer Audio in Audacity
 excerpt: This Article Describes New How To Record Your Computer Audio in Audacity
 keywords: how to record audio with audacity for free,capturing your computers audio spectrum with audacity,essential tips for free voice and audio recording in audacity on computers,how to audacity recording computer audio,we will introduce you how to record your computer audio in audacity.,how to convert audacity projects into mp3 audio outputs,how to record your computer audio in audacity
-thumbnail: https://www.lifewire.com/thmb/71reoJ08pe9fxU7SLDHBCk0MgVg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-use-remote-access-on-your-samsung-smart-tv-4688935-01-29c7de5dc77e4747a8070d12f0c3d84c.jpg
+thumbnail: https://thmb.techidaily.com/f35b950c7a8f4cdd1989c1e04c70b04dbfa6ce641c77398dacbaad68cbaf2be6.jpg
 ---
 
 ## How To Record Your Computer Audio in Audacity
@@ -60,6 +60,9 @@ Although you can record the computer audio using built-in tools, many 3rd party 
 5. Once you have finished, click the red circle on top of your screen, and Audacity will record the audio that comes out of your speakers. If no audio is detected, the recording will be automatically paused. You can also stop by hitting the grey stop button at the top at any time
 6. Audio editing tools like Audacity allow you to edit your recording after recording it and export it in several formats based on what you recorded.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Final Verdict**
 
 That's how it works. Here are two easy ways to record the audio coming from your PC. Record internal audio (such as what comes out of your microphone) with Windows/Mac 10's built-in 'Voice Recorder' app or Audacity. These applications are both extremely simple to use. To get the best audio quality, we recommend trying our Filmora Audio tools. Although Audacity does the job pretty well with filmora audio tools and voice packs, you can add many voice effects and edit your audio professionally. Give it a try as it is free to use.
@@ -153,6 +156,9 @@ Recordings can be created using the built-in microphone, an external microphone,
 2. By clicking the Pause button, you can pause the video. You can resume the video by clicking Resume.
 3. At the bottom of the page, click Done when you are finished.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Record Voice Using Audacity**
 
 Although you can record the computer audio using built-in tools, many 3rd party tools like Audacity provide you with more features and better quality than the built-in tools. To use Audacity for recording your pc audio, follow the steps given below.
@@ -302,6 +308,9 @@ Select these files, right-click and choose Adjust Audio. New panel will be opene
 
 ![select files](https://images.wondershare.com/filmora/article-images/2022/07/normalize-volume-vlc-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![choose adjust audio](https://images.wondershare.com/filmora/article-images/2022/07/normalize-volume-vlc-7.jpg)
 
 After you have clicked on it, wait until the normalization completes.
@@ -386,6 +395,9 @@ You can associate any WAV file with a photo by assigning them the same name and 
 
 Note: If you rename or move either an audio file or an image file associated with it, you must rename both the folders or they will not associate for longer. It does not apply to photos with embedded audio.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Steps to add audio to photo via ACDSee
 
 Do one of the following:
@@ -750,6 +762,9 @@ Tips: You can zoom-out or zoom-in on the Timeline in the top right corner by dra
 
 Check the effect in the preview window after this. If possible, you can ramp up your creation, e.g., add captions, apply special effects, transitions, and even create a picture-in-picture effect.
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![add audio to photo](https://images.wondershare.com/filmora/article-images/add-image-to-audio-timeline.jpg)
 
 ##### Step3 Save Music with Photos
@@ -789,3 +804,63 @@ As the uploading speed is slow, we highly suggest using Filmora to add audio to 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-8-superior-windows-video-call-apps-ranked/"><u>[New] 8 Superior Windows Video Call Apps Ranked</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-mastering-volume-transitions-audio-panning-techniques-in-imovie-for-2024/"><u>New Mastering Volume Transitions Audio Panning Techniques in iMovie for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/pinpointing-the-acoustic-signature-of-a-clicky-button-for-2024/"><u>Pinpointing the Acoustic Signature of a Clicky Button for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Xiaomi Redmi Note 13 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/whatsapp-extends-grace-period-for-new-privacy-acceptance/"><u>WhatsApp Extends Grace Period for New Privacy Acceptance</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-pitchperfect-pro-elite-audio-editing-and-alteration-toolkit-for-the-modern-singer/"><u>Updated PitchPerfect Pro - Elite Audio Editing and Alteration Toolkit for the Modern Singer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/upgrading-widely-used-directx-classics-through-dxvk/"><u>Upgrading Widely-Used DirectX Classics Through DXVK</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/3-ways-to-convert-a-podcast-to-mp3-for-2024/"><u>3 Ways to Convert a Podcast to MP3 for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/2024-approved-pinpointing-areas-renowned-for-waves-of-excited-cheering/"><u>2024 Approved Pinpointing Areas Renowned for Waves of Excited Cheering</u></a></li>
+<li><a href="https://change-location.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-samsung-galaxy-f34-5g-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Samsung Galaxy F34 5G | Dr.fone</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/in-2024-pinpointing-fragility-breakage-acoustics/"><u>In 2024, Pinpointing Fragility Breakage Acoustics</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-plugging-into-precision-the-guide-to-free-plugins-for-autotuning-audio-with-audacity/"><u>Updated Plugging Into Precision The Guide to Free Plugins for AutoTuning Audio with Audacity</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-pioneering-voice-conversion-technology-leading-applications-for-windowsmac-users/"><u>New Pioneering Voice Conversion Technology Leading Applications for Windows/Mac Users</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/practical-steps-for-switching-sounds-in-editable-media-formats-for-2024/"><u>Practical Steps for Switching Sounds in Editable Media Formats for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-precision-audio-cleanup-advanced-methods-to-eradicate-echo-and-hum/"><u>New Precision Audio Cleanup Advanced Methods to Eradicate Echo and Hum</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-minitool-movie-maker-vs-the-competition-a-comprehensive-review-for-2024/"><u>New Minitool Movie Maker Vs. The Competition A Comprehensive Review for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-powerful-set-of-male-to-female-voice-change-technologies-enhancing-eloquence-with-higher-pitches/"><u>New Powerful Set of Male to Female Voice Change Technologies Enhancing Eloquence with Higher Pitches</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/podcast-to-mp3-mastery-unlocking-the-power-of-three-conversion-techniques-for-2024/"><u>Podcast to MP3 Mastery Unlocking the Power of Three Conversion Techniques for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-precision-in-communication-the-ultimate-5-voice-altering-applications-for-iphone-and-android-handsets/"><u>Updated Precision in Communication The Ultimate 5 Voice Altering Applications for iPhone and Android Handsets</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/2024-approved-practical-guidelines-enhancing-communication-on-discord-through-voxy-voice-alteration/"><u>2024 Approved Practical Guidelines Enhancing Communication on Discord Through Voxy Voice Alteration</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-practical-guidelines-enhancing-communication-on-discord-through-voxy-voice-alteration/"><u>New Practical Guidelines Enhancing Communication on Discord Through Voxy Voice Alteration</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-prime-6-social-sites-boosting-biz-success/"><u>[New] Prime 6 Social Sites Boosting Biz Success</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-precision-in-perception-advanced-techniques-for-taming-tangled-sounds/"><u>Updated Precision in Perception Advanced Techniques for Taming Tangled Sounds</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/podcast-directories-your-complete-resource-list-for-2024/"><u>Podcast Directories Your Complete Resource List for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/2024-approved-precision-in-perception-techniques-for-correcting-warped-audio-cuts/"><u>2024 Approved Precision in Perception Techniques for Correcting Warped Audio Cuts</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-audio-visual-blend-in-online-photography/"><u>2024 Approved  Audio-Visual Blend in Online Photography</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/pixel-percussion-finding-sound-cues-from-button-presses-for-2024/"><u>Pixel Percussion Finding Sound Cues From Button Presses for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/in-2024-pioneering-the-silent-echo-techniques-and-tools-for-gradual-audio-fading-released/"><u>In 2024, Pioneering the Silent Echo Techniques and Tools for Gradual Audio Fading Released</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-pinpointing-areas-renowned-for-waves-of-excited-cheering/"><u>New Pinpointing Areas Renowned for Waves of Excited Cheering</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-pioneering-audio-creation-with-lexisedit-a-beginners-blueprint/"><u>New Pioneering Audio Creation with LexisEdit A Beginners Blueprint</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/popularly-borrowed-beats-for-montage-crafting-for-2024/"><u>Popularly Borrowed Beats for Montage Crafting for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-podcast-editing-101-how-to-edit-a-podcast/"><u>New Podcast Editing 101 How to Edit a Podcast</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/2024-approved-podcast-to-text-discovering-the-top-10-free-and-paid-conversion-tools/"><u>2024 Approved Podcast to Text Discovering the Top 10 Free & Paid Conversion Tools</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-pinpoint-wolfs-howling-frequency/"><u>New Pinpoint Wolfs Howling Frequency</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-crafting-captivating-content-with-correct-dimensions/"><u>[Updated] Crafting Captivating Content with Correct Dimensions</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-pioneering-linux-audio-capture-discovering-the-five-most-loved-recorders-and-tips-for-excellence/"><u>New Pioneering Linux Audio Capture Discovering the Five Most-Loved Recorders and Tips for Excellence</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/pinpoint-wolfs-howling-frequency-for-2024/"><u>Pinpoint Wolfs Howling Frequency for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-from-import-to-export-working-with-xml-files-in-fcpx/"><u>New In 2024, From Import to Export Working with XML Files in FCPX</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-essential-visual-captures-on-apple-systems-limit-156-characters/"><u>2024 Approved  Essential Visual Captures on Apple Systems (Limit  156 Characters)</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-practical-pitch-isolators-from-rookies-to-vocal-maestros/"><u>New Practical Pitch Isolators From Rookies to Vocal Maestros</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-maximize-earnings-a-three-pronged-approach-to-monitoring-youtube-revenue/"><u>[New] Maximize Earnings  A Three-Pronged Approach to Monitoring YouTube Revenue</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/1716069832077-updated-2024-approved-screen-recording-with-internal-devices-on-huaweis-mate-mate-1020-and-p-p20-p10/"><u>[Updated] 2024 Approved  Screen Recording with Internal Devices on Huawei’s Mate (Mate 10/20) and P (P20, P10).</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-practices-for-detaching-soundtracks-in-film-clips/"><u>Updated Practices for Detaching Soundtracks in Film Clips</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-pioneering-mobile-broadcasting-mastering-obs-studio-and-android/"><u>[New] Pioneering Mobile Broadcasting  Mastering OBS Studio and Android</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-best-pop-background-music-list-to-videos/"><u>Updated Best Pop Background Music List to Videos</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/pioneering-digital-maestros-a-comprehensive-list-of-ais-finest-composers-for-2024/"><u>Pioneering Digital Maestros A Comprehensive List of AIs Finest Composers for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-quickened-cadence-control-an-in-depth-look-at-fast-tracking-audio-speed-alteration/"><u>Updated Quickened Cadence Control An In-Depth Look at Fast-Tracking Audio Speed Alteration</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/in-2024-pixel-percussion-finding-sound-cues-from-button-presses/"><u>In 2024, Pixel Percussion Finding Sound Cues From Button Presses</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-pinpoint-frightening-audio-triggers/"><u>Updated Pinpoint Frightening Audio Triggers</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-try-before-you-buy-90-day-final-cut-pro-free-trial-offer/"><u>Updated In 2024, Try Before You Buy 90-Day Final Cut Pro Free Trial Offer</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-pinpoint-the-best-practices-and-programs-to-cut-down-background-noise/"><u>Updated Pinpoint the Best Practices and Programs to Cut Down Background Noise</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/practical-pitch-isolators-from-rookies-to-vocal-maestros-for-2024/"><u>Practical Pitch Isolators From Rookies to Vocal Maestros for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-how-to-design-an-awesome-podcast-cover-art-an-ultimate-guide/"><u>New How to Design an Awesome Podcast Cover Art An Ultimate Guide</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/pioneering-linux-audio-capture-discovering-the-five-most-loved-recorders-and-tips-for-excellence-for-2024/"><u>Pioneering Linux Audio Capture Discovering the Five Most-Loved Recorders and Tips for Excellence for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/2024-approved-precision-in-perception-eliminating-background-buzz-with-audacitys-tools/"><u>2024 Approved Precision in Perception Eliminating Background Buzz with Audacitys Tools</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/in-2024-popular-sites-to-free-download-guitar-background-photos-and-music/"><u>In 2024, Popular Sites to Free Download Guitar Background Photos and Music</u></a></li>
+</ul></div>

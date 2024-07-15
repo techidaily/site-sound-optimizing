@@ -1,7 +1,7 @@
 ---
 title: In 2024, Mastering PC Sound Recording Using Audacity at No Cost
-date: 2024-06-24T00:02:36.416Z
-updated: 2024-06-25T00:02:36.416Z
+date: 2024-07-14T19:42:36.484Z
+updated: 2024-07-15T19:42:36.484Z
 tags: 
   - audio editing software
   - audio editing
@@ -56,6 +56,9 @@ For both Windows and Mac, the procedures for recording audio from a microphone a
 
 ![remove unwanted clip in audacity](https://images.wondershare.com/filmora/article-images/remove-unwanted-audio-clip-audacity.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: How to Record Sounds Playing on Your Computer Using Audacity On Windows?
 
 Unlike Mac, Windows makes it simple to capture audio from a movie or media file running on your desktop. There seem to be two primary methods for accomplishing audacity record desktop audio in this way:
@@ -214,6 +217,9 @@ If you have installed Filmora already, you can use it to record the sound playin
 
 **Step 3:** Now you have a screen captured video with sound included. Since we need th audio only, we can attache the [audio from the video](https://tools.techidaily.com/wondershare/filmora/download/) first and then do some editing such as adding fade in and fade out effect, or remove unwanted audio clip.
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![filmora   detach audio](https://images.wondershare.com/filmora/article-images/detach-audio-from-video-to-get-computer-audio.jpg)
 
 ## Part 4: How to Set up Audacity to Record as Schedule?
@@ -362,6 +368,18 @@ For both Windows and Mac, the procedures for recording audio from a microphone a
 
 **Step 4:** A soundwave emerges along the track as you talk into the speaker. The **Recording Level** may be found at the top of the display. To pause or stop the recording, click **Stop** or **Pause** until you select **Record** anew.
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![audacity recorded audio waveform](https://images.wondershare.com/filmora/article-images/recorded-audio-waveform-audacity.jpg)
 
 **Step 5:** With the mouse over any recording area, click the **Delete** button to cut out any portion of it quickly. Click **Ctrl + A**, then **Delete** to erase whatever you've just saved. Alternatively, press the **X** button to delete the track completely.
@@ -376,6 +394,9 @@ Unlike Mac, Windows makes it simple to capture audio from a movie or media file 
 
 **Step 1:** To use MME as your audio host, go to **Tracks** in the **Add New** tab in **Stereo Track** and create a new file.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![record playing sound with audacity](https://images.wondershare.com/filmora/article-images/record-playing-computer-sound-audacity.jpg)
 
 **Step 2:** Change the **Audio Host** (to the left of **Recording Device**) to **MME**—this is the standard setting, so you might not have to change anything.
@@ -620,6 +641,9 @@ To help you have a better overview of MAGIX Sound Forge 16, we have prepared a r
 
 ### Video - New Features and Workflows of MAGIX Sound Forge 16
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 4\. Pros and Cons of MAGIX Sound Forge
 
 Below are some Sound Forge pros and cons to help you make a quick decision about the software.
@@ -753,3 +777,50 @@ Hopefully, you can now decide better about choosing a music editing software for
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-creation-software.techidaily.com/new-youtube-to-mp3-made-easy-best-converter-tools-and-tips-for-2024/"><u>New YouTube to MP3 Made Easy Best Converter Tools and Tips for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/the-art-of-dividing-sounds-from-videos-in-imovie-for-mac-enthusiasts-for-2024/"><u>The Art of Dividing Sounds From Videos in iMovie for Mac Enthusiasts for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-precision-polling-on-instagram-crafting-survey-content/"><u>[Updated] 2024 Approved  Precision Polling on Instagram  Crafting Survey Content</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-the-art-of-auditory-engineering-fine-tuning-speed-and-pitch-with-adobe-rush/"><u>Updated The Art of Auditory Engineering Fine-Tuning Speed and Pitch with Adobe Rush</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-the-art-of-harmonizing-moving-images-and-sounds-a-2023-approach/"><u>New The Art of Harmonizing Moving Images and Sounds (A 2023 Approach)</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/the-alluring-world-of-high-quality-sound-editing-software-advantages-disadvantages-and-competitive-insights-for-2024/"><u>The Alluring World of High-Quality Sound Editing Software Advantages, Disadvantages, and Competitive Insights for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-the-art-of-auditory-alignment-fusing-audio-to-video-in-adobe-premiere-pro/"><u>Updated The Art of Auditory Alignment Fusing Audio to Video in Adobe Premiere Pro</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/2024-approved-the-art-of-accompaniment-crafting-a-harmonious-blend-between-video-and-music/"><u>2024 Approved The Art of Accompaniment Crafting a Harmonious Blend Between Video and Music</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/transforming-everyday-mac-users-into-pro-voice-recording-enthusiasts-a-beginners-approach/"><u>Transforming Everyday Mac Users Into Pro Voice Recording Enthusiasts A Beginners Approach</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-the-alluring-beauty-of-cutting-edge-sound-editing-tools-evaluating-pros-cons-and-competitive-landscapes/"><u>New The Alluring Beauty of Cutting-Edge Sound Editing Tools Evaluating Pros, Cons, and Competitive Landscapes</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/the-art-of-audio-accommodation-stabilizing-volume-levels-in-video-production-for-2024/"><u>The Art of Audio Accommodation Stabilizing Volume Levels in Video Production for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/2024-approved-the-art-of-audio-branding-creating-iconic-podcast-cover-imagery/"><u>2024 Approved The Art of Audio Branding Creating Iconic Podcast Cover Imagery</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-the-annual-showcase-of-innovative-anime-casting-talent/"><u>Updated The Annual Showcase of Innovative Anime Casting Talent</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-tiktok-dance-revolution-simple-steps-to-trending-hits/"><u>[Updated] 2024 Approved  TikTok Dance Revolution  Simple Steps to Trending Hits</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/in-2024-unlock-your-creative-potential-top-ipad-video-editors/"><u>In 2024, Unlock Your Creative Potential Top iPad Video Editors</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/in-2024-the-art-of-diminishing-sound-effects-fading-out-audio-in-imovie-projects/"><u>In 2024, The Art of Diminishing Sound Effects Fading Out Audio in iMovie Projects</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/2024-approved-the-art-of-a-louder-sharper-speech-filmmakers-guide-to-voice-projection-using-filmora/"><u>2024 Approved The Art of a Louder, Sharper Speech Filmmakers Guide to Voice Projection Using Filmora</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-premium-sound-quality-best-of-the-best-9-mic-recording-tools-2e-for-2024/"><u>[Updated] Premium Sound Quality  Best of the Best 9 Mic Recording Tools (2E) for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/in-2024-the-art-and-technique-of-incorporating-dramatic-soundtracks-into-movies/"><u>In 2024, The Art and Technique of Incorporating Dramatic Soundtracks Into Movies</u></a></li>
+<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Xiaomi Redmi Note 12T Pro? | Dr.fone</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-the-art-of-changing-your-voice-a-guide-to-vocal-adaptability/"><u>New The Art of Changing Your Voice A Guide to Vocal Adaptability</u></a></li>
+<li><a href="https://facebook.techidaily.com/facebooks-changing-landscape-four-key-loss-triggers/"><u>Facebook's Changing Landscape: Four Key Loss Triggers</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-the-art-of-acoustic-precision-strategies-for-eradicating-unwanted-microphone-noise/"><u>New The Art of Acoustic Precision Strategies for Eradicating Unwanted Microphone Noise</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-the-art-of-decibel-decline-uncovering-sound-management-with-audacity/"><u>Updated The Art of Decibel Decline Uncovering Sound Management with Audacity</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/the-art-of-auditory-purity-advanced-strategies-to-dismiss-background-noises-using-offline-and-online-technologies-for-2024/"><u>The Art of Auditory Purity Advanced Strategies to Dismiss Background Noises Using Offline and Online Technologies for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/a-journey-into-innovation-windows-11-writes-the-next-chapter/"><u>A Journey Into Innovation - Windows 11’ Writes the Next Chapter</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-the-art-of-harmonizing-moving-images-and-sounds-a-2023-approach/"><u>Updated The Art of Harmonizing Moving Images and Sounds (A 2023 Approach)</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/the-art-of-creating-soundtrack-enhanced-media-at-little-or-no-cost-for-2024/"><u>The Art of Creating Soundtrack-Enhanced Media at Little or No Cost for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/2024-approved-the-art-of-auditory-transformation-replacing-audio-in-videos-step-by-step/"><u>2024 Approved The Art of Auditory Transformation Replacing Audio in Videos Step by Step</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-best-hd-video-editors-top-picks/"><u>New Best HD Video Editors Top Picks</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/2024-approved-the-anticipated-retro-inspired-ballads-and-blues-to-listen-to/"><u>2024 Approved The Anticipated Retro-Inspired Ballads & Blues to Listen To</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/the-art-of-harmonizing-moving-images-and-sounds-a-2023-approach-for-2024/"><u>The Art of Harmonizing Moving Images and Sounds (A 2023 Approach) for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/the-art-of-auditory-alignment-fusing-audio-to-video-in-adobe-premiere-pro-for-2024/"><u>The Art of Auditory Alignment Fusing Audio to Video in Adobe Premiere Pro for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-the-art-of-auditory-alignment-selecting-ideal-frequency-filters/"><u>Updated The Art of Auditory Alignment Selecting Ideal Frequency Filters</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/best-of-the-best-15-4k-video-capture-units-for-2024/"><u>Best of the Best  #15 4K Video Capture Units for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-simplified-guide-to-stories-mechanics/"><u>2024 Approved  Simplified Guide to Stories' Mechanics</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-the-art-and-technique-of-incorporating-dramatic-soundtracks-into-movies/"><u>New The Art and Technique of Incorporating Dramatic Soundtracks Into Movies</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/the-animators-toolkit-a-detailed-list-of-the-best-cartoon-sounds-available-online-for-2024/"><u>The Animators Toolkit A Detailed List of the Best Cartoon Sounds Available Online for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/2024-approved-the-art-of-audio-zoning-implementing-ducking-effects-for-clear-soundscapes/"><u>2024 Approved The Art of Audio Zoning Implementing Ducking Effects for Clear Soundscapes</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/2024-approved-the-art-of-diminishing-sound-effects-fading-out-audio-in-imovie-projects/"><u>2024 Approved The Art of Diminishing Sound Effects Fading Out Audio in iMovie Projects</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/2024-approved-beyond-minitool-movie-maker-exploring-top-video-editing-software-options/"><u>2024 Approved Beyond Minitool Movie Maker Exploring Top Video Editing Software Options</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-pros-cons-and-guide-to-utilizing-samsung-photo-editor/"><u>2024 Approved  Pros, Con's, and Guide to Utilizing Samsung PHOTO EDITOR</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-quick-focus-effortless-viewport-changes-on-iphone/"><u>[New] Quick Focus  Effortless Viewport Changes on iPhone</u></a></li>
+</ul></div>
