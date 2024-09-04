@@ -1,7 +1,7 @@
 ---
 title: How the Kobo Nia Stacks Up as a Rival to the Kindle by Amazon
-date: 2024-08-09T04:31:45.524Z
-updated: 2024-08-10T04:31:45.524Z
+date: 2024-09-03T23:01:29.231Z
+updated: 2024-09-04T23:01:29.231Z
 categories:
   - BestProducts
 description: This Article Describes How the Kobo Nia Stacks Up as a Rival to the Kindle by Amazon
@@ -15,14 +15,6 @@ thumbnail: https://www.lifewire.com/thmb/l-thYcivDg_wxc7mx5_01YaMCKg=/400x300/fi
 
 ## ZMI PowerPack 20000
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ![ZMI PowerPack 20000](https://www.lifewire.com/thmb/A__IgeAPd2C0e_2iExqDqXJAGB8=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/zmi-HeroSquare-492efa01c9e54737bfa9d16223ff9d82.jpg)
 
  Lifewire / Andrew Hayward
@@ -45,9 +37,6 @@ thumbnail: https://www.lifewire.com/thmb/l-thYcivDg_wxc7mx5_01YaMCKg=/400x300/fi
 
 4.9
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## ZMI PowerPack 20000
 
 ![ZMI PowerPack 20000](https://www.lifewire.com/thmb/FttxoftMtHF3B2ZGmP2QubmOp3I=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/zmi-HeroSquare-492efa01c9e54737bfa9d16223ff9d82.jpg)
@@ -72,15 +61,15 @@ thumbnail: https://www.lifewire.com/thmb/l-thYcivDg_wxc7mx5_01YaMCKg=/400x300/fi
 
  I tested ZMI’s PowerPack 20000 time and again over more than a week across multiple devices, measuring the charging speeds and comparing it to other similar power banks.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 ![ZMI PowerPack 20000](https://www.lifewire.com/thmb/jITowxAWHBUo5WF3Y-XI6lKQNQE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/zmi-05-02d76c869b864ef0abddfe824cfbf53a.jpg)
 
  Lifewire / Andrew Hayward
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Design: Small but powerful**
 
@@ -96,14 +85,35 @@ thumbnail: https://www.lifewire.com/thmb/l-thYcivDg_wxc7mx5_01YaMCKg=/400x300/fi
 
 ![ZMI PowerPack 20000](https://www.lifewire.com/thmb/vaINPELrwcWnOZDsX1ztKkCouww=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/zmi-03-1530f666df824f6281040c2ae3285eb2-2e7956941b91403aa888795a7e5e2e33.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2030375/7443" target="_top" id="2030375">
+  <img src="//a.impactradius-go.com/display-ad/7443-2030375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030375/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Lifewire / Andrew Hayward
 
+<!-- affiliate ads begin -->
+<span id="1977004">
+					<video width="80" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Setup Process: Easy does it**
 
  There’s not much to the setup process here. Using the included USB-C to USB-C cable, simply plug one end into the power bank and the other into an AC adapter that you have handy—like one for a laptop, tablet, or[smartphone](https://www.lifewire.com/best-smartphones-4043781) . Once the four lights on the side are fully illuminated, then the battery pack is fully charged. Simply plug in devices using their respective cables to charge them using the power within the ZMI PowerPack 20000.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Charging Speed and Battery: It keeps going**
 
@@ -118,7 +128,10 @@ Lifewire / Andrew Hayward
  Lifewire / Andrew Hayward
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Price: It’s a bargain**
 
@@ -136,6 +149,18 @@ Lifewire / Andrew Hayward
 
  It’s honestly difficult to find anything to complain about with the ZMI PowerPack 20000\. It’s powerful and does a great job of charging laptops and phones, it has enough capacity to handle those tasks with ease, it’s compact and well-designed, and the price is fantastic. It’s half the size of the giant Anker power brick that I’ve brought on my last two international trips and can handle all of the same tasks. In other words,_this_ is the power brick I’m bringing on my next trip.
 
+<!-- affiliate ads begin -->
+<span id="1542129">
+					<video width="540" height="720" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  PowerPack 20000

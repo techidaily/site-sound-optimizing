@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Test of the 12MP Docooler USB Webcam (Model Number: DOCOOLER-USB2): Is It Worth the Hype?"
-date: 2024-08-09T04:31:41.471Z
-updated: 2024-08-10T04:31:41.471Z
+date: 2024-09-03T23:01:29.320Z
+updated: 2024-09-04T23:01:29.320Z
 categories:
   - BestProducts
 description: "This Article Describes The Ultimate Test of the 12MP Docooler USB Webcam (Model Number: DOCOOLER-USB2): Is It Worth the Hype?"
@@ -13,14 +13,8 @@ thumbnail: https://thmb.techidaily.com/425081092e1a679d02f1bd0f9b8040f12a7c3e9a9
 
 4.2
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## M MOOCK Car Jump Starter
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![M Moock 1000A Peak 18000mAh Car Jump Starte](https://www.lifewire.com/thmb/KCvyWCCSvwCtAvcRekce_ETLqRE=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Aickar_JumpStarter_4LW4140286_HeroSquare-0eb4274af8f64008b1e98e3623623d4a.jpg)
 
  Lifewire / Tony Mitera
@@ -45,9 +39,6 @@ thumbnail: https://thmb.techidaily.com/425081092e1a679d02f1bd0f9b8040f12a7c3e9a9
 
 4.2
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## M MOOCK Car Jump Starter
 
 ![M Moock 1000A Peak 18000mAh Car Jump Starte](https://www.lifewire.com/thmb/9HsjvcJhUjJuGMXLaAGh2B_0bAw=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Aickar_JumpStarter_4LW4140286_HeroSquare-0eb4274af8f64008b1e98e3623623d4a.jpg)
@@ -77,6 +68,12 @@ thumbnail: https://thmb.techidaily.com/425081092e1a679d02f1bd0f9b8040f12a7c3e9a9
 
  Lifewire / Tony Mitera
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Design: A rugged unit, a generous accessory kit, and a sturdy case to keep it all in**
 
  As mentioned, the M MOOCK's case packs a lot of style, but it's not just flash—it also provides a convenient place to keep everything together. The jump starter unit itself is thin but long, so the case ends up being a relatively large square. You can stash it under a seat without any issue, but it won't fit in most glove boxes.
@@ -87,6 +84,12 @@ thumbnail: https://thmb.techidaily.com/425081092e1a679d02f1bd0f9b8040f12a7c3e9a9
 
  The accessory kit that comes with the unit is full-bodied. The main piece is the jump starter module which has the two jumper clamps coming off a plastic module that plugs into the unit. To charge the unit you can choose to use either a wall charger for home use or a power port charger for use within a running vehicle. Finally, a set of laptop port adapters and a short DC cable to use with them can be used to[charge your laptop](https://www.lifewire.com/overcharging-laptop-battery-causes-life-span-to-decrease-2378126) or similar device.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Setup Process: It takes time to find a spot just right to set up for a jump**
 
  Positioning the MOOCK to jump start a car is a little more difficult than it needs to be. Plugging the jumper cable module into the unit and turning it on is the easy part. Due to the short length of the cables, however, it's difficult to get them connected while also keeping the unit secure in the engine bay. Thankfully once you find that Goldilocks spot, the terminal clamps are on the small side and easy to attach, even if the area around the clamping location is cramped.
@@ -96,7 +99,10 @@ thumbnail: https://thmb.techidaily.com/425081092e1a679d02f1bd0f9b8040f12a7c3e9a9
  To charge other devices there’s a lot less fuss involved. You simply need to plug the device into the USB or DC power port and turn the unit on. A Micro USB cable is provided, so if you have a device that uses a more modern charging port, you'll want to put an extra cable for it in the MOOCK case as well.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Performance: A nice jolt of power to start even the most drained of vehicles**
 
@@ -113,7 +119,10 @@ Lifewire / Tony Mitera
  The built-in flashlight in the M MOOCK Jump Starter puts out a lot of light but only in a relatively narrow band. Luckily, the full unit's basically handheld and therefore it's easy to point the flashlight at what you need. Once you start connecting cables it becomes much harder to aim the light properly. The flashlight can also be set to rapidly blink to draw attention to your situation, or to blink in the standard pattern for “SOS” to really drive home the fact that you need assistance.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Price: Some of the best value to be found in jump starters**
 
@@ -122,7 +131,10 @@ Lifewire / Tony Mitera
  Lifewire / Tony Mitera
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Competition: A good showing against close competition**
 
@@ -142,6 +154,12 @@ A good choice with just a few nagging flaws.
 
  The M Moock 1000A Peak 18000mAh Car Jump Starter is a surprisingly solid choice in jump starters. It has few glaring flaws, and the ones that it does have (like the short cables) just make it marginally more difficult to use, as opposed to being true deal breakers. That said, there are other units available on the market that share some or all the same features but have fewer drawbacks. Overall, the unit's successful but flawed, yet very reliable when you need it most.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  Car Jump Starter
