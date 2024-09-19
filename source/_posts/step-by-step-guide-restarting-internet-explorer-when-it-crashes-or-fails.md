@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Restarting Internet Explorer When It Crashes or Fails"
-date: 2024-09-08T21:07:58.428Z
-updated: 2024-09-14T21:14:46.642Z
+date: 2024-09-17T04:17:43.396Z
+updated: 2024-09-18T18:47:24.418Z
 tags:
   - win11
   - win10
@@ -63,9 +63,29 @@ thumbnail: https://thmb.techidaily.com/14b0662c78e5872a3461f2dbc1feb1f76e4bd1f28
 
 If this solution doesn’t help, continue with the next fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 2: Update your graphics driver
 
  Minecraft is a graphics-intensive game, so your graphics card is essential for its performance. You cannot have an outdated or faulty driver on your graphics card since this is usually what causes stuttering in Minecraft. To update your graphics driver, there are two ways you can try: manually and automatically.
+
+<!-- affiliate ads begin -->
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Option 1: Update your graphics driver manually
 
@@ -82,16 +102,16 @@ If this solution doesn’t help, continue with the next fix below.
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/NVIDIA-GeForce-RTX-3090-Ti.jpg)
 4. After updating, restart your computer to take effect.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
 
@@ -109,13 +129,6 @@ If the stuttering issue persists, move on to the next fix.
 3. Click**Video Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/video-settings.jpg)
 4. Lower the**Render distance** according to your need.  
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/render-distance-1.jpg)
 
@@ -140,24 +153,10 @@ But if it doesn’t, take a look at the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/amdradeon-settings.jpg)
 2. Click the**Gaming** Tab.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/amd-gaming-1.jpg)
 3. Then click**Global Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/amd-global-settings-1.jpg)
 4. Click**Wait for Vertical Refresh** , then select**Enhanced Sync** from the dropdown menu.  
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/enhanced-sync-1.jpg)
 
@@ -187,6 +186,14 @@ If the stuttering issue remains, try the next fix.
 1. Open your**Minecraft client** and navigate to the**Installations** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/Installations1.jpg)
 2. Click the**three dots** button next to Minecraft, then select**Edit** from the dropdown menu.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/edit.jpg)
 3. Click**MORE OPTIONS** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/more-options.jpg)
@@ -204,10 +211,10 @@ If this solution doesn’t work, take a look at the next fix.
  If the stuttering issue remains after uninstalling OptiFine, check out the last fix.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 8: Reinstall Minecraft
@@ -235,16 +242,16 @@ If this solution doesn’t work, take a look at the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-get-screenshotted-right-best-5-apps-for-chromebook-users/"><u>[Updated] In 2024, Get Screenshotted Right Best 5 Apps for Chromebook Users</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-unlocking-the-power-of-pages-top-10-social-media-optimization-tactics-for-2024/"><u>[Updated] Unlocking the Power of Pages Top 10 Social Media Optimization Tactics for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-cutting-edge-dvd-maker-apps-on-mac-sierra/"><u>2024 Approved Cutting-Edge DVD Maker Apps on Mac Sierra</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/evaluating-the-value-life-q30-anc-hearing-gadgets-analysis/"><u>Evaluating the Value: Life Q30 ANC Hearing Gadgets Analysis</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/experience-flawless-singing-with-the-user-friendly-and-colorful-singing-machine-sml385btbk/"><u>Experience Flawless Singing with the User-Friendly and Colorful Singing Machine SML385BTBK!</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/how-the-kobo-nia-stacks-up-as-a-rival-to-the-kindle-by-amazon/"><u>How the Kobo Nia Stacks Up as a Rival to the Kindle by Amazon</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-tecno-camon-20-premier-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On Tecno Camon 20 Premier 5G | Dr.fone</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/r-higher-rankings-on-yt-the-best-seo-tips-and-tricks-1-11-for-2024/"><u>Master Higher Rankings on YT The Best SEO Tips and Tricks (1-11) for 2024</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/mount-and-blade-ii-bannerlord-resolving-game-crash-issues/"><u>Mount & Blade II: Bannerlord - Resolving Game Crash Issues</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/pathfinder-wrath-of-the-righteous-not-loading-up-try-these-fixes-first/"><u>Pathfinder: Wrath of the Righteous Not Loading Up? Try These Fixes First</u></a></li>
-<li><a href="https://win-dash.techidaily.com/quick-and-simple-elgato-driver-installation-guide/"><u>Quick and Simple Elgato Driver Installation Guide</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-windows-11-simplified-video-cutting-tips-and-tricks/"><u>[Updated] 2024 Approved Windows 11 Simplified Video Cutting Tips & Tricks</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-from-stillness-to-stirring-tips-for-bouncing-text/"><u>[Updated] From Stillness to Stirring Tips for Bouncing Text</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-quick-and-detailed-guide-to-xbox-video-capture/"><u>[Updated] In 2024, Quick and Detailed Guide to Xbox Video Capture</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/2024-approved-chromebook-users-companion-to-launching-and-deleting-audacity/"><u>2024 Approved Chromebook Users Companion to Launching and Deleting Audacity</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/2024-approved-the-a-list-of-audio-harvesters-10-indispensable-tools-to-master-your-sound-design/"><u>2024 Approved The A-List of Audio Harvesters 10 Indispensable Tools to Master Your Sound Design</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/compre-written-guide-youtube-video-distribution-on-fb-for-2024/"><u>Compre Written Guide YouTube Video Distribution on FB for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/cutting-corners-with-care-10plus-top-ranked-free-audio-editors-online-for-2024/"><u>Cutting Corners with Care 10+ Top-Ranked Free Audio Editors Online for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-a-found-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, How To Unlock A Found iPhone 13 Pro Max?</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-how-to-convert-your-vocal-sessions-into-pristine-mp3-files-the-best-5-recorders-reviewed/"><u>Updated 2024 Approved How to Convert Your Vocal Sessions Into Pristine MP3 Files The Best 5 Recorders Reviewed</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-silent-film-techniques-how-to-minimize-background-noise-in-your-mac-imovie-projects-for-2024/"><u>Updated Silent Film Techniques How to Minimize Background Noise in Your Mac iMovie Projects for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/whats-new-in-photography-an-updated-look-at-lg-360-cameras-for-2024/"><u>What's New in Photography An Updated Look at LG 360 Cameras for 2024</u></a></li>
 </ul></div>
 

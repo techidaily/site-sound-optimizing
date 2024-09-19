@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Navigating the Nuances of Audio Balancing A Deep Dive Into OBS Sound Dynamics
-date: 2024-09-08T20:54:40.320Z
-updated: 2024-09-14T18:37:55.686Z
+date: 2024-09-14T22:12:37.890Z
+updated: 2024-09-19T01:04:27.386Z
 tags: 
   - audio editing software
   - audio editing
@@ -133,19 +133,6 @@ You can now specify the values of the ratio, threshold, attack, release, output 
 
 It's complete. Yes, OBS audio ducking is over. Now you can check the video and alter the parameters if required after a preview.
 
-<!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2: The Best Audio Ducking Alternative to OBS
 
 Although OBS is preferable for being an open-source and free option with comprehensive abilities in video recording and live streaming strategies, the OBS ducking interface might seem a little unfriendly, making it difficult for newbies. Hence, we have come up with [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) in this session as the best alternative to Streamlabs OBS audio ducking. With an intuitive easy-to-use interface, and attractive video/audio features, Filmora stands as the recommended choice for professionals and beginners!
@@ -278,6 +265,13 @@ Video making or filmmaking has now come to the level where the history of imperf
 
 If you are a content creator, maybe you will be familiar with coordinating the right audio with the video. If not, it isn't a problem anymore as I have included a detailed guide of implementing **audio ducking** in a step-wise way. With primary importance to the popular software **OBS** followed by a suitable alternative, let's begin our article!
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 1: How to Balance Your Stream Sound with OBS Audio Ducking?
 
 **OBS** (Open Broadcaster Software) is free and open-source software reliable for Windows, Linux, and macOS 10.13+. With countless features like real video/audio capture, mixer, custom transitions, easy-to-use configurations, pre-source filters, VST plug-in support, noise suppression, and a lot more, you can accomplish audio ducking in OBS by adding a sidechain/ducking compression filter. Thus, perform OBS audio ducking in a clean manner by lowering the audio automatically once OBS detects audio on the other audio source.
@@ -336,19 +330,6 @@ Another option to bring the video file into the timeline is by executing “File
 Select the clips with dialogue, whereby right-clicking or double-clicking on them, choose the “**Adjust Audio**” option.
 
 On the following audio editing window, tick the "**Lower the volume of other clips**" option to reduce background music or any other media volume.
-
-<!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -470,19 +451,6 @@ For macOS 10.12 or later
 
 These are some simple steps to make your voice deeper in Filmora easily. It only takes a few seconds if you do the things right.
 
-<!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Conclusion**
 
 So, in this article, we discussed some of the natural ways to make your voice deeper, and then we discussed how you can make your voice deeper with Filmora. If you compare both methods, then in our opinion, using FIlmora is the best choice here. Using natural methods requires you to do a lot of practice, and still, there is a possibility that you won't be able to get the desired results. But, in Filmora, all you need to do is adjust the pitch of your voice, and you are good to go. Here you also have an option to make your voice deeper as much as you.
@@ -514,19 +482,6 @@ For macOS 10.12 or later
 **Step4:** Now, right-click on the track in the timeline and click on "Adjust Audio" from the menu.
 
 ![fx-deeper-voice-step4](https://images.wondershare.com/filmora/article-images/fx-deeper-voice-step4.png)
-
-<!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 5:** Now, you need to adjust the pitch at this step. Try to lower the pitch by a point or two, and you play the video. You will notice a considerable change in your voice. You will feel that your voice has become much deeper than the original one.
 
@@ -607,6 +562,13 @@ For macOS 10.12 or later
 **Step3:** Now drag the video and drop it into the timeline.
 
 ![fx-deeper-voice-step3](https://images.wondershare.com/filmora/article-images/fx-deeper-voice-step3.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
+  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step4:** Now, right-click on the track in the timeline and click on "Adjust Audio" from the menu.
 
@@ -656,6 +618,19 @@ To simplify the scenario, we have divided the crew into these major departments,
 
 The producer is the main handler of the filming. Before filming, he finds out the content and directions and links with the director and DP for each direction to get the best vision of the music video. The producer are responsible for:
 
+<!-- affiliate ads begin -->
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Schedule the crew members
 
 Producers can make the call sheets for the crew members to maintain their schedule according to the specific timelines.
@@ -679,6 +654,13 @@ If the filming is starting and you don't know who to choose, you should build a 
 The director is considered to be in charge of filmmaking. His main responsibility is creatively giving the idea to the production and communicating to the crew and characters to check out what they want in their scenes to play out.
 
 The director department mainly consists of the director and the first assistant director, and sometimes there is a 2nd, a 3rd, and 4th AD. For example,
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1st AD
 
@@ -740,13 +722,6 @@ DMT will handle the exposed footage, which Digital Memory Card will do with tape
 
 ![note](https://images.wondershare.com/assets/images-common/icon-note.png)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Note:** Making two copies for the backup will reduce the risk of corrupted files and physical accidents of losing the footage.
 
 ## Additional Roles
@@ -756,6 +731,13 @@ If you are the music video **director**, you need a **Cinematographer** with **C
 ![additional roles of director department](https://images.wondershare.com/filmora/article-images/2023/04/additional-roles-of-director-department.jpg)
 
 To make your subject looks good and modern according to the theme, you should hire **hair and makeup artist.** If you have more budget, you can do it professionally with more and more crew members.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -843,16 +825,20 @@ If you are a starter, then there is no need to worry to pull-off all the roles i
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/updated-first-steps-in-telegram-marketing-an-initiation-handbook/"><u>[Updated] First Steps in Telegram Marketing An Initiation Handbook</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/10-free-football-streaming-sites-to-bookmark/"><u>10 Free Football Streaming Sites To Bookmark</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/1722985015934-defeat-scavengers-on-windows-ultimate-winning-strategies-unveiled/"><u>Defeat Scavengers on Windows: Ultimate Winning Strategies Unveiled!</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/discovering-the-strength-in-size-with-the-unihertz-atom-xl-a-review-of-its-impressive-features/"><u>Discovering the Strength in Size with the Unihertz Atom XL: A Review of Its Impressive Features</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ensure-seamless-wifi-on-pc-latest-drivers-for-tp-link-devices-supports-win7-to-win10/"><u>Ensure Seamless WiFi on PC: Latest Drivers for TP-Link Devices (Supports Win7 to Win10)</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/1723002391563-fallout-asterisk-76-server-connection-issues-heres-how-to-resolve-them-on-windows/"><u>Fallout Asterisk 76 Server Connection Issues? Here's How to Resolve Them on Windows</u></a></li>
-<li><a href="https://win-able.techidaily.com/fix-your-wwe-2k20-crashes-clear-straightforward-tips-for-gaming-bliss-on-pc/"><u>Fix Your WWE 2K20 Crashes: Clear, Straightforward Tips for Gaming Bliss on PC</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-locked-apple-id-from-iphone-11-by-drfone-ios/"><u>In 2024, How to Fix Locked Apple ID from iPhone 11</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/is-it-possible-to-learn-nutritious-cooking-with-chatgpts-guidance/"><u>Is It Possible To Learn Nutritious Cooking With ChatGPT's Guidance?</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/pronouncing-spaniard-sounds-with-accents-correctly/"><u>Pronouncing Spaniard Sounds with Accents Correctly</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-mobile-video-magic-best-apps-for-animating-text-on-your-phone/"><u>Updated In 2024, Mobile Video Magic Best Apps for Animating Text on Your Phone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-earning-big-on-youtube-shorts-what-you-need-and-how-much-can-you-make/"><u>[Updated] 2024 Approved Earning Big on Youtube Shorts What You Need & How Much Can You Make?</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-best-graphic-card-for-4k-gaming/"><u>[Updated] Best Graphic Card for 4K Gaming</u></a></li>
+<li><a href="https://article-tips.techidaily.com/charting-the-financial-landscape-of-youtube-marketing-for-2024/"><u>Charting the Financial Landscape of YouTube Marketing for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-realme-c51-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Realme C51 | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-pinnacle-deskviewers-elite-all-in-one-display-hubs/"><u>In 2024, Pinnacle DeskViewers Elite All-in-One Display Hubs</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-itel-s23-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Itel S23 Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/in-2024-top-8-must-try-audio-capture-apps-for-live-broadcasting/"><u>In 2024, Top 8 Must-Try Audio Capture Apps for Live Broadcasting</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/in-2024-youtube-versus-dailymention-identifying-key-gaps/"><u>In 2024, YouTube Versus DailyMention Identifying Key Gaps</u></a></li>
+<li><a href="https://windows11.techidaily.com/perfect-notetaking-companions-the-7-finest-for-pen-tech/"><u>Perfect Notetaking Companions: The 7 Finest for Pen Tech</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-auditory-hunt-locating-authentic-cricket-sfx/"><u>Updated 2024 Approved Auditory Hunt Locating Authentic Cricket SFX</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-precision-in-recording-cutting-down-ambient-noises-using-advanced-filters/"><u>Updated 2024 Approved Precision in Recording Cutting Down Ambient Noises Using Advanced Filters</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-essential-features-of-a-mac-compatible-sound-editing-software/"><u>Updated Essential Features of a Mac-Compatible Sound Editing Software</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-digital-music-layering-and-editing-suite/"><u>Updated In 2024, Digital Music Layering & Editing Suite</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-mp3-conversion-made-simple-3-effective-techniques-for-podcast-files/"><u>Updated In 2024, MP3 Conversion Made Simple 3 Effective Techniques for Podcast Files</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-rewind-and-play-the-quintet-of-best-opposite-direction-melodies-for-2024/"><u>Updated Rewind and Play The Quintet of Best Opposite-Direction Melodies for 2024</u></a></li>
 </ul></div>
 

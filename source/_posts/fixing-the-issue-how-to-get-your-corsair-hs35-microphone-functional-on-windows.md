@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Issue: How to Get Your Corsair HS35 Microphone Functional on Windows"
-date: 2024-09-11T16:29:37.270Z
-updated: 2024-09-14T21:37:46.728Z
+date: 2024-09-11T16:58:07.290Z
+updated: 2024-09-18T17:10:20.749Z
 tags:
   - win11
   - win10
@@ -103,13 +103,6 @@ When you’re using a microphone such as MPOW attached to your computer, you may
   
 ![Privacy in Settings](https://images.drivereasy.com/wp-content/uploads/2021/02/privacy.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click **Microphone**  on the left pane. Then click on the **Change**  button and make sure **Microphone access for this device**  is turned on.  
   
 ![turn on app permissions on your microphone](https://images.drivereasy.com/wp-content/uploads/2021/02/turn-on-app-permissions-for-your-micropho0ne.png)
@@ -125,10 +118,10 @@ When you’re using a microphone such as MPOW attached to your computer, you may
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115927/19272" target="_top" id="2115927">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115927" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Make sure your microphone is enabled
@@ -139,20 +132,27 @@ When you’re using a microphone such as MPOW attached to your computer, you may
 
 ![open sound settings](https://images.drivereasy.com/wp-content/uploads/2021/04/open-sound-settings-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Under the **Input**  section, make sure that your headset is selected as the input device. Then click **Device Properties** .  
   
 ![choose the audio input device](https://images.drivereasy.com/wp-content/uploads/2021/04/input-device.png)
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Make sure that your headset is not disabled.  
   
 ![make sure your device isn't disabled](https://images.drivereasy.com/wp-content/uploads/2021/04/enable-it.png)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once you’ve confirmed that your microphone has been enabled but it’s still not working, try the next fix below.
 
@@ -166,22 +166,16 @@ When you’re using a microphone such as MPOW attached to your computer, you may
   
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/check-for-updates.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Click on the **Check for updates**  tab. If there are any updates available, it’ll automatically start to download and install it.  
   
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/click-on-the-Check-for-updates-tab.png)
-
-<!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After installing the latest Windows updates, use your headset mic and it should be functioning now.
 
@@ -204,16 +198,15 @@ When you’re using a microphone such as MPOW attached to your computer, you may
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-become-an-expert-in-no-time-mastering-ez-grabbers-functions-for-2024/"><u>[New] Become an Expert in No Time! Mastering EZ Grabber's Functions for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-expert-blueprint-fashioning-timer-functionality-with-video-editors/"><u>[Updated] In 2024, Expert Blueprint Fashioning Timer Functionality with Video Editors</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/st-youtube-keyword-tools-to-get-more-views/"><u>10 Best YouTube Keyword Tools to Get More Views</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/-screening-pacts-how-to-choose-a-cms/"><u>Elite Screening Pacts How to Choose a CMS</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-bring-your-vision-to-life-wevideos-user-friendly-video-maker/"><u>In 2024, Bring Your Vision to Life WeVideos User-Friendly Video Maker</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-from-frame-to-phrase-expertly-ranked-29-video-translators-on-the-market/"><u>In 2024, From Frame to Phrase Expertly Ranked 29 Video Translators on the Market</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/is-it-possible-to-learn-nutritious-cooking-with-chatgpts-guidance/"><u>Is It Possible To Learn Nutritious Cooking With ChatGPT's Guidance?</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/overcoming-performance-hiccups-in-urban-planning-simulator-skyline-edition-pc-guide/"><u>Overcoming Performance Hiccups in Urban Planning Simulator Skyline Edition - PC Guide</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/overcoming-the-challenge-of-startup-failure-in-cities-skylines-2/"><u>Overcoming the Challenge of Startup Failure in Cities: Skylines 2</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/revolutionizing-online-content-the-power-of-time-stamps/"><u>Revolutionizing Online Content The Power of Time-Stamps</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/unstuck-discords-silent-treatment-repairing-the-push-to-talk-issue/"><u>Unstuck Discord's Silent Treatment: Repairing the Push-to-Talk Issue</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-ideal-combo-top-10-recommended-tools-for-vimeo-download/"><u>[New] 2024 Approved Ideal Combo Top 10 Recommended Tools for Vimeo Download</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-peeling-layers-to-originality-a-guide-for-instagram-photo-search/"><u>[New] 2024 Approved Peeling Layers to Originality A Guide for Instagram Photo Search</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-gratuitous-gems-of-humor-your-guide-to-free-memes-for-2024/"><u>[New] Gratuitous Gems of Humor – Your Guide to FREE Memes for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-clearing-up-that-persistent-green-tint-in-youtube-videos-on-mac/"><u>[Updated] Clearing Up that Persistent Green Tint in YouTube Videos on Mac</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-audacitys-guide-to-effortless-audio-transitions/"><u>2024 Approved Audacity's Guide to Effortless Audio Transitions</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-composing-the-perfect-audio-landscape-finding-silent-sound-for-visual-narratives-for-2024/"><u>New Composing the Perfect Audio Landscape Finding Silent Sound for Visual Narratives for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-essential-audio-setups-for-personalized-mobile-soundscapes/"><u>New In 2024, Essential Audio Setups for Personalized Mobile Soundscapes</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-unveiling-the-6-top-rated-digital-libraries-for-haunting-audio-effects-2e-update/"><u>New Unveiling the 6 Top-Rated Digital Libraries for Haunting Audio Effects (2E Update)</u></a></li>
+<li><a href="https://change-location.techidaily.com/pokemon-go-cooldown-chart-on-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Vivo Y200e 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/step-by-step-solutions-for-non-functioning-guided-access-on-iphones/"><u>Step-by-Step Solutions for Non-Functioning Guided Access on iPhones</u></a></li>
 </ul></div>
 

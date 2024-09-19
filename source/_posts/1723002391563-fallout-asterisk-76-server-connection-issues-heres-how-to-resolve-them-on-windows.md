@@ -1,7 +1,7 @@
 ---
 title: Fallout Asterisk 76 Server Connection Issues? Here's How to Resolve Them on Windows
-date: 2024-09-12T20:47:22.143Z
-updated: 2024-09-14T16:41:56.371Z
+date: 2024-09-16T18:17:45.440Z
+updated: 2024-09-19T01:22:53.260Z
 tags:
   - win11
   - win10
@@ -69,6 +69,19 @@ Here is how to do it:
 
 ---
 
+<!-- affiliate ads begin -->
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Make sure you have the latest network drivers
 
  This problem may occur if you are using the wrong or outdated network drivers. So you should update your network drivers to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -82,6 +95,13 @@ Here is how to do it:
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
@@ -105,16 +125,16 @@ Here is how to restart your network:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap2-8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 _modem_
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap3-5.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 _wireless router_
 
@@ -125,6 +145,13 @@ _wireless router_
  3) Launch Fallout 76 to see if it connects to the servers properly. If yes, then you’ve solved the issue. If it’s still no joy, please try**Fix 5** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Fix 5: Flush your DNS and Renew your IP**
 
@@ -148,19 +175,6 @@ _wireless router_
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-566.png)
 
-<!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) When prompted for permission, click**Yes** to run Command Prompt.
 
  3) Type**the following command line** and press **Enter**  on your keyboard.
@@ -181,6 +195,13 @@ _wireless router_
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 6: Switch the DNS server
 
  The Fallout 76 not connecting to server problem may also happen if the DNS your ISP supplies is not properly configured so just slow. So you can switch to Google Public DNS to see if it can effectively speed up the Internet and fixes the server issue.
@@ -195,29 +216,9 @@ Here is how to switch the DNS server to Google Public DNS:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-611.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) In the pop-up window, click **Change adapter settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-612.png)
-
-<!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Right-click on**your current network** and click**Properties** .
 
@@ -226,13 +227,6 @@ Here is how to switch the DNS server to Google Public DNS:
  5) Double-click **Internet Protocol Version 4(TCP/IPv4)**  to view its properties.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap21-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115919/19272" target="_top" id="2115919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115919" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115919/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  6) Select **Obtain an IP address automatically** and **Use the following DNS server addresses** . For **the Preferred DNS server** , enter the Google Public DNS address: **8.8.8.8** ; **for the Alternative DNS server** , enter the Google Public DNS address: **8.8.4.4** . Then click **OK** to save the changes.
 
@@ -273,16 +267,15 @@ Here is how to switch the DNS server to Google Public DNS:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-drone-photography-faceoff-dji-mavic-x-and-hero-4-silver-for-2024/"><u>[New] Drone Photography Faceoff DJi Mavic X & Hero 4 Silver for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-elevate-ps2-gameplay-on-ios-devices/"><u>[Updated] Elevate PS2 Gameplay on iOS Devices</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-the-easy-to-follow-techniques-for-facebook-call-and-chat-recording/"><u>2024 Approved The Easy-to-Follow Techniques for Facebook Call and Chat Recording</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/capture-discord-talks-best-ways-to-record-live-streaming-sessions-for-2024/"><u>Capture Discord Talks Best Ways to Record Live Streaming Sessions for 2024</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/discovering-the-strength-in-size-with-the-unihertz-atom-xl-a-review-of-its-impressive-features/"><u>Discovering the Strength in Size with the Unihertz Atom XL: A Review of Its Impressive Features</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/flip-page-film-narrative-guide/"><u>Flip Page Film Narrative Guide</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-vivo-v30-lite-5g-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Vivo V30 Lite 5G to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/overcoming-essential-items-not-available-error/"><u>Overcoming Essential Items Not Available Error</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/overcoming-the-challenge-of-startup-failure-in-cities-skylines-2/"><u>Overcoming the Challenge of Startup Failure in Cities: Skylines 2</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/precision-at-zero-price-best-free-video-recorder-software-for-2024/"><u>Precision at Zero Price Best Free Video Recorder Software for 2024</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/unstuck-discords-silent-treatment-repairing-the-push-to-talk-issue/"><u>Unstuck Discord's Silent Treatment: Repairing the Push-to-Talk Issue</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-frosty-feats-celebrating-the-beijing-olympics-2022/"><u>[New] Frosty Feats Celebrating the Beijing Olympics, 2022</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-building-personalized-instagram-feed-outlines-for-2024/"><u>[Updated] Building Personalized Instagram Feed Outlines for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-unlocking-efficiency-the-top-5-video-shortener-tools/"><u>2024 Approved Unlocking Efficiency The Top 5 Video Shortener Tools</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-itel-s23-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Itel S23 to Roku | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-fix-icloud-lock-on-your-iphone-11-pro-max-and-ipad-by-drfone-ios/"><u>In 2024, How to fix iCloud lock on your iPhone 11 Pro Max and iPad</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-asus-rog-phone-7-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Asus ROG Phone 7? | Dr.fone</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/in-2024-the-essential-list-of-top-10-audio-editors-for-windows-and-mac-platforms/"><u>In 2024, The Essential List of Top 10 Audio Editors for Windows & Mac Platforms</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/the-definitive-manual-for-windows-10-perfecting-your-audio-recordings/"><u>The Definitive Manual for Windows 10 Perfecting Your Audio Recordings</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/ultimate-dj-streaming-repository-for-2024/"><u>Ultimate DJ Streaming Repository for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-voice-memos-made-simple-your-comprehensive-guide-to-high-quality-audio-recordings-on-windows-10/"><u>Updated 2024 Approved Voice Memos Made Simple Your Comprehensive Guide to High-Quality Audio Recordings on Windows 10</u></a></li>
 </ul></div>
 

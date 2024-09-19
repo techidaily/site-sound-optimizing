@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting and Optimizing Your PC While Playing New World for Better Performance
-date: 2024-09-13T00:16:38.415Z
-updated: 2024-09-14T23:19:58.612Z
+date: 2024-09-17T02:48:30.482Z
+updated: 2024-09-18T20:43:08.675Z
 tags:
   - win11
   - win10
@@ -86,13 +86,6 @@ Here’s how to use Fortect to run a Windows repair:
 4. Restart your PC for the changes to take effect.
 5. Launch CoD, then check to see if the game crashing problem has been resolved. If yes, then great! If the issue still persist, please try**Fix** 3, below.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123465/16836" target="_top" id="2123465">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123465" border="0" alt="https://techidaily.com" width="80" height="31"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123465/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3:**Make sure your PC meets the specs for Vanguard**
 
  Your game may crash if it doesn’t meet the system requirements for the game. So before attempting anything more advanced, you should compare your system to the officially suggested specifications to see if your PC is powerful enough to run the game.
@@ -116,17 +109,18 @@ To check the specs of your PC:
 2. Under the **System** tab and you can check the **Operating System**  and **Memory** information on your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/dxdiag-diagnostic-tool-1.png)
 3. Select the **Display** tab, and you’ll be presented with the information about your **graphics card** .  
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/display-1.png)
 4. Close DirectX.
 
  If your PC specs have been up to the mark but Call of Duty: Vanguard still crashes, please move on to **Fix 4** , below to begin troubleshooting.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115918/19272" target="_top" id="2115918">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115918" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115918/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Scan & repair Vanguard game files
 
@@ -137,13 +131,6 @@ To check the specs of your PC:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/scan-and-repair-game-files-1.jpg)
 3. Click **Begin Scan** , then wait a while as the tool scans and repairs your game installation.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Launch Vanguard again and check to see if the crashing issue still occurs.
 
 ### Fix 5: Disable overlays
@@ -153,6 +140,13 @@ To check the specs of your PC:
  If you have enabled the feature on GeForce Experience, Discord, Twitch, or other apps, it’s recommended that you turn them off altogether to see if it mitigates the game crashing problem.
 
 Cod Vanguard crashing still not resolved? Please try Fix 6, below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Close background apps
 
@@ -165,6 +159,13 @@ Cod Vanguard crashing still not resolved? Please try Fix 6, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/123.png)
 3. Restart your computer.
 4. Test the gameplay in Vanguard and see if the crashing issue is fixed. If yes, congrats! If it’s still no joy, please move on to**Fix 7** , below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 7: Make sure your system is up to date
 
@@ -179,10 +180,10 @@ Here are the steps:
 3. Wait a while for Windows to check and automatically install the updates for you.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Restart your computer.
@@ -208,20 +209,13 @@ Here are the steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-prime-android-space-savers-compendium/"><u>[New] Prime Android Space-Savers Compendium</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-the-ultimate-selection-of-christian-streaming-sites/"><u>[New] The Ultimate Selection of Christian Streaming Sites</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-top-25-social-stars-essential-instagram-icons/"><u>[New] Top 25 Social Stars Essential Instagram Icons</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-a-comprehensive-look-at-uploading-images-to-youtube/"><u>[Updated] A Comprehensive Look at Uploading Images to YouTube</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/boosting-daily-routines-leveraging-chatgpt-for-effective-time-planning/"><u>Boosting Daily Routines: Leveraging ChatGPT for Effective Time Planning</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/comprehensive-guide-to-the-samsung-qn55q6f-exceptional-4k-uhd-and-hdr-viewing-experience/"><u>Comprehensive Guide to the Samsung QN55Q6F - Exceptional 4K UHD & HDR Viewing Experience</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/delving-into-digital-overlay-technologies/"><u>Delving Into Digital Overlay Technologies</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/fixing-the-issue-how-to-get-your-corsair-hs35-microphone-functional-on-windows/"><u>Fixing the Issue: How to Get Your Corsair HS35 Microphone Functional on Windows</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-oppo-a79-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Oppo A79 5G | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-12-prominent-nokia-c12-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Nokia C12 Fingerprint Not Working Solutions</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/in-depth-analysis-of-seatechs-portable-blu-ray-burner-an-expert-review/"><u>In-Depth Analysis of SeaTech's Portable Blu-Ray Burner: An Expert Review</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/natures-canvas-your-ultimate-guide-to-free-screen-template-downloads/"><u>Nature's Canvas Your Ultimate Guide to Free Screen Template Downloads</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/no-more-silence-in-battle-royale-fixed-guide-to-restore-voice-chat-on-apex-legends/"><u>No More Silence in Battle Royale: Fixed Guide to Restore Voice Chat on Apex Legends</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/troubleshooting-guide-unstuck-baldurs-gate-iii-from-your-computer/"><u>Troubleshooting Guide: Unstuck Baldur's Gate III From Your Computer</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/unlock-the-mystery-behind-phasmophobias-90-load-plateau-in-game-launches/"><u>Unlock the Mystery Behind Phasmophobia's 90% Load Plateau in Game Launches</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-blissful-onboarding-guide-for-new-users/"><u>[New] Blissful Onboarding Guide for New Users</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/foodie-frenzy-top-10-viral-eats-on-tiktok-for-2024/"><u>Foodie Frenzy Top 10 Viral Eats on TikTok for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-tecno-phantom-v-flip-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Tecno Phantom V Flip | Dr.fone</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/in-2024-most-admired-free-online-archives-with-a-collection-of-guitar-lyrics-and-artwork/"><u>In 2024, Most Admired Free Online Archives with a Collection of Guitar Lyrics and Artwork</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-top-10-windows-and-mac-compatible-music-arrangement-tools/"><u>New 2024 Approved Top 10 Windows & Mac Compatible Music Arrangement Tools</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-zen-masters-guide-to-zooming-your-youtube-livestreams-for-2024/"><u>The Zen Master’s Guide to Zooming Your YouTube Livestreams for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/uncover-ustream-plus-alternatives-for-2024/"><u>Uncover Ustream Plus Alternatives for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-discovering-the-top-6-innovative-tools-for-live-voice-modification/"><u>Updated 2024 Approved Discovering the Top 6 Innovative Tools for Live Voice Modification</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Unlock the Mystery Behind Phasmophobia's 90%% Load Plateau in Game Launches
-date: 2024-09-14T00:28:12.058Z
-updated: 2024-09-15T00:46:52.515Z
+date: 2024-09-18T00:16:19.367Z
+updated: 2024-09-18T18:17:51.429Z
 tags:
   - win11
   - win10
@@ -73,6 +73,13 @@ OR
 
  Once you’ve downloaded the drivers, double-click on the downloaded file and follow the on-screen instructions to install the drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Option 2 – Automatically update your drivers**
 
  If you don’t have the time, patience, or computer skills to update drivers manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -86,10 +93,10 @@ OR
 ![update drivers automatically](https://images.drivereasy.com/wp-content/uploads/2020/09/scan-now-driver-easy-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
@@ -113,22 +120,21 @@ OR
 ![verify integrity of game files Phasmophobia stuck at 90% loading screen](https://images.drivereasy.com/wp-content/uploads/2020/10/click-on-Properties-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Select the**LOCAL FILES** tab and click the**VERIFY INTEGRITY OF GAME FILES…** button.
 
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files-1200x610.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115915/19272" target="_top" id="2115915">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115915" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115915/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Steam will verify the game’s files and this process may take several minutes. After it’s finished, launch your game to check if it works for you. If not, move on to the next fix.
 
@@ -160,27 +166,20 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/run-Steam-as-an-administrator-right-click-from-the-desktop-and-select-open-file-location.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Scroll down and find the **Steam application** . It should be highlighted. Right-click on it and select **Properties** .
 
 ![run Steam as an administrator to fix Phasmophobia stuck at 90% loading screen](https://images.drivereasy.com/wp-content/uploads/2020/11/run-Steam-as-an-administrator-select-Properties-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Select the**Compatibility**  tab and check the box next to **Run this program as an administrator** . Then click **Apply > OK** .
 
 ![run Steam as an administrator to fix Phasmophobia stuck at 90% loading screen](https://images.drivereasy.com/wp-content/uploads/2020/11/run-steam-as-an-administrator-apply-ok.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120867/26400?prodsku=mars" target="_top" id="2120867">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120867/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 If this didn’t work, move on to the next fix.
 
@@ -199,6 +198,19 @@ Here’s how you can do this:
  2) Click **Reset now** .  
   
 ![do a network reset](https://images.drivereasy.com/wp-content/uploads/2020/10/network-reset-click-Reset-now.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click **Yes** .
 
@@ -250,14 +262,20 @@ Take these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/approved-the-instructors-roadmap-to-youtube-success-10-crucial-steps/"><u>2024 Approved The Instructor's Roadmap to YouTube Success – 10 Crucial Steps</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/comprehensive-guide-to-the-samsung-qn55q6f-exceptional-4k-uhd-and-hdr-viewing-experience/"><u>Comprehensive Guide to the Samsung QN55Q6F - Exceptional 4K UHD & HDR Viewing Experience</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/fixing-the-issue-how-to-resolve-elden-ring-initializing-with-a-black-display/"><u>Fixing the Issue: How to Resolve 'Elden Ring' Initializing with a Black Display</u></a></li>
-<li><a href="https://techidaily.com/how-to-recover-apple-iphone-7-data-from-ios-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover Apple iPhone 7 Data From iOS iTunes? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/huawei-p60-tutorial-bypass-lock-screen-security-password-pin-fingerprint-pattern-by-drfone-android-unlock-android-unlock/"><u>Huawei P60 Tutorial - Bypass Lock Screen,Security Password Pin,Fingerprint,Pattern</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-sony-xperia-10-v-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Sony Xperia 10 V to New Android Phone? | Dr.fone</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/in-depth-analysis-of-seatechs-portable-blu-ray-burner-an-expert-review/"><u>In-Depth Analysis of SeaTech's Portable Blu-Ray Burner: An Expert Review</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/mythos-makers-mecca-prime-pantheon-seven-for-2024/"><u>Mythos Makers’ Mecca - Prime Pantheon Seven for 2024</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/no-more-silence-in-battle-royale-fixed-guide-to-restore-voice-chat-on-apex-legends/"><u>No More Silence in Battle Royale: Fixed Guide to Restore Voice Chat on Apex Legends</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-fix-noted-shorts-now-shown-prominently-for-2024/"><u>[New] Fix Noted Shorts Now Shown Prominently for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-bridging-the-gap-between-youtube-and-instagram-stories-effectively/"><u>[New] In 2024, Bridging the Gap Between YouTube & Instagram Stories Effectively</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-ten-practical-ways-to-prevent-vr-sickness/"><u>[Updated] 2024 Approved Ten Practical Ways to Prevent VR Sickness</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-precision-tools-17-excellent-options-for-image-edits/"><u>2024 Approved Precision Tools 17 Excellent Options for Image Edits</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/basic-tips-how-to-record-and-save-google-voice-calls/"><u>Basic Tips How to Record and Save Google Voice Calls</u></a></li>
+<li><a href="https://change-location.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-vivo-x100-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On Vivo X100 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/exploring-online-collaboration-google-meet-for-2024/"><u>Exploring Online Collaboration Google Meet for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/in-2024-top-8-must-try-audio-capture-apps-for-live-broadcasting/"><u>In 2024, Top 8 Must-Try Audio Capture Apps for Live Broadcasting</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-call-of-duty-warzone-techniques-to-eliminate-hiccups-and-up-your-games-fps/"><u>Mastering Call of Duty: Warzone - Techniques to Eliminate Hiccups and Up Your Game's FPS</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-the-path-to-a-discounted-youtube-premium-account-as-a-learner/"><u>Navigating the Path to a Discounted YouTube Premium Account as a Learner</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-auditory-hunt-locating-authentic-cricket-sfx/"><u>Updated 2024 Approved Auditory Hunt Locating Authentic Cricket SFX</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-precision-in-recording-cutting-down-ambient-noises-using-advanced-filters/"><u>Updated 2024 Approved Precision in Recording Cutting Down Ambient Noises Using Advanced Filters</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-digital-music-layering-and-editing-suite/"><u>Updated In 2024, Digital Music Layering & Editing Suite</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-mp3-conversion-made-simple-3-effective-techniques-for-podcast-files/"><u>Updated In 2024, MP3 Conversion Made Simple 3 Effective Techniques for Podcast Files</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-rewind-and-play-the-quintet-of-best-opposite-direction-melodies-for-2024/"><u>Updated Rewind and Play The Quintet of Best Opposite-Direction Melodies for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Defeat Scavengers on Windows: Ultimate Winning Strategies Unveiled!"
-date: 2024-09-12T21:27:07.915Z
-updated: 2024-09-14T18:49:22.023Z
+date: 2024-09-17T02:37:32.639Z
+updated: 2024-09-18T21:37:23.065Z
 tags:
   - win11
   - win10
@@ -74,13 +74,6 @@ The outdated or broken graphics driver often crashes the game.
 
  Run Dirt 5 again to check whether the game crash issue has been resolved. If it didn’t work, or there was no new game patch available, move on to next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 4: Disable Steam Overlay
 
  It seems that the Steam Overlay doesn’t pair well with Ditrt. So just try disabling Steam Overlay for Dirt 5 to see if the game crashes again. Here is how to do it:
@@ -88,16 +81,31 @@ The outdated or broken graphics driver often crashes the game.
 1. Launch Steam and navigate to **the LIBRARY tab** .**right-click** on _DIRT 5_ . Then select **Properties** .  
 ![Steam->properties](https://images.drivereasy.com/wp-content/uploads/2019/04/image-122.png)
 2. Uncheck**Enable Steam Overlay while in-game** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Disable Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-Steam-Overlay.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Launch Dirt 5 to see if the game crashes. If the issue persists, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 5: Set launch options on Steam
 
@@ -107,13 +115,6 @@ The outdated or broken graphics driver often crashes the game.
 2. In the**GENERAL** section, click **SET LAUNCH OPTIONS…**  
 ![Steam set launch options](https://images.drivereasy.com/wp-content/uploads/2021/04/Modify-Steam-set-launch-options.jpg)
 3. Copy and paste the commands below and click **OK** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 `-useallavailablecores -high`
 
@@ -149,21 +150,16 @@ The outdated or broken graphics driver often crashes the game.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-the-ultimate-guide-to-personalizing-your-discord-experience/"><u>[Updated] In 2024, The Ultimate Guide to Personalizing Your Discord Experience</u></a></li>
-<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-samsung-galaxy-z-fold-5-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Samsung Galaxy Z Fold 5</u></a></li>
-<li><a href="https://fox-info.techidaily.com/culmination-of-day-blackout-effects-for-2024/"><u>Culmination of Day - Blackout Effects for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/evaluating-the-thermaltake-massive-laptop-cooling-solution-feature-rich-yet-costly/"><u>Evaluating the Thermaltake Massive Laptop Cooling Solution: Feature-Rich Yet Costly</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/evaluating-the-value-life-q30-anc-hearing-gadgets-analysis/"><u>Evaluating the Value: Life Q30 ANC Hearing Gadgets Analysis</u></a></li>
-<li><a href="https://games-able.techidaily.com/guaranteeing-prompt-delivery-on-steam/"><u>Guaranteeing Prompt Delivery on Steam</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/how-the-kobo-nia-stacks-up-as-a-rival-to-the-kindle-by-amazon/"><u>How the Kobo Nia Stacks Up as a Rival to the Kindle by Amazon</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-get-the-newest-amd-radeon-r9-series-drivers-on-your-pc-with-windows-os/"><u>How to Get the Newest AMD Radeon R9 Series Drivers on Your PC with Windows OS</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/in-depth-look-at-samsung-galaxy-note-9-the-ultimate-giant-display-device/"><u>In-Depth Look at Samsung Galaxy Note 9 – The Ultimate Giant Display Device</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/mount-and-blade-ii-bannerlord-resolving-game-crash-issues/"><u>Mount & Blade II: Bannerlord - Resolving Game Crash Issues</u></a></li>
-<li><a href="https://fox-that.techidaily.com/navigating-iphone-photography-issues-effective-management-and-resolution-techniques/"><u>Navigating iPhone Photography Issues: Effective Management and Resolution Techniques</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/pathfinder-wrath-of-the-righteous-not-loading-up-try-these-fixes-first/"><u>Pathfinder: Wrath of the Righteous Not Loading Up? Try These Fixes First</u></a></li>
-<li><a href="https://driver-download.techidaily.com/quick-guide-obtain-and-set-up-your-intel-82579v-video-card-drivers-at-zero-expense/"><u>Quick Guide: Obtain & Set Up Your Intel 82579V Video Card Drivers at Zero Expense</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/seamless-adventure-awaits-top-6-fixes-to-eliminate-lag-in-hogwarts-legacy/"><u>Seamless Adventure Awaits: Top 6 Fixes to Eliminate Lag in Hogwarts Legacy</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/troubleshooting-and-optimizing-your-pc-while-playing-new-world-for-better-performance/"><u>Troubleshooting and Optimizing Your PC While Playing New World for Better Performance</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/troubleshooting-fall-guys-solutions-for-game-crashes-on-start-up/"><u>Troubleshooting Fall Guys: Solutions for Game Crashes on Start-Up</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-9-innovative-workout-challenges-for-dynamic-viewers-for-2024/"><u>[New] 9 Innovative Workout Challenges for Dynamic Viewers for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-stepping-up-advanced-techniques-for-w11-gamers-for-2024/"><u>[New] Stepping Up Advanced Techniques for W11 Gamers for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-capture-your-audience-the-smartphone-guide-to-youtube-thumbnails/"><u>[Updated] 2024 Approved Capture Your Audience The Smartphone Guide to YouTube Thumbnails</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-hdr-video-power-windows-edition-explained/"><u>[Updated] 2024 Approved HDR Video Power Windows Edition Explained</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-unraveling-the-secrets-to-smooth-vimeo-video-downloads/"><u>[Updated] 2024 Approved Unraveling the Secrets to Smooth Vimeo Video Downloads</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-realme-note-50-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Realme Note 50 | Dr.fone</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/how-to-add-audio-to-mkv-2023-update-for-2024/"><u>How to Add Audio to MKV-2023 Update for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-lava-yuva-2-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Lava Yuva 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-honor-magic-5-lite-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Honor Magic 5 Lite Bootloader Easily</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/in-2024-identifying-sources-for-authentic-canine-symphony-sounds/"><u>In 2024, Identifying Sources for Authentic Canine Symphony Sounds</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-constructing-an-elegant-transition-for-decreasing-auditory-intensity/"><u>New Constructing an Elegant Transition for Decreasing Auditory Intensity</u></a></li>
 </ul></div>
 

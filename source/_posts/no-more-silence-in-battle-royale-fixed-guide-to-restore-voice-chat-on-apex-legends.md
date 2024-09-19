@@ -1,7 +1,7 @@
 ---
 title: "No More Silence in Battle Royale: Fixed Guide to Restore Voice Chat on Apex Legends"
-date: 2024-09-13T18:21:09.639Z
-updated: 2024-09-14T22:23:45.185Z
+date: 2024-09-16T02:02:57.195Z
+updated: 2024-09-18T23:39:52.965Z
 tags:
   - win11
   - win10
@@ -72,19 +72,6 @@ thumbnail: https://thmb.techidaily.com/d24bf389d1254603d8aad9f86f16f5f0cd9be072e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap912.png)
 
-<!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4\. Restart the Epic Games Launcher.
 
  5\. If a patch is available, it will be detected by the Epic Games Launcher and the latest Fortnite patch will be automatically downloaded and installed when you launch Fortnite.
@@ -101,15 +88,22 @@ thumbnail: https://thmb.techidaily.com/d24bf389d1254603d8aad9f86f16f5f0cd9be072e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap427.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2\. Click **Microphone**  on the left pane, and make sure**Microphone access for this device** is**on** , and the status is **On** for **Fortnite** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap428.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115942/19272" target="_top" id="2115942">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115942" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115942/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3\. Run Fortnite to see if chat works now. If not, try Fix 5, below.
@@ -123,6 +117,13 @@ thumbnail: https://thmb.techidaily.com/d24bf389d1254603d8aad9f86f16f5f0cd9be072e
  i. In Fortnite, click**the menu button** in the upper-right corner, then click**the gear icon** to open the game settings.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap925.png)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  ii. Click**the speaker icon** to view the audio settings. Then**turn off Voice Chat** and click**Apply** .  
 
@@ -143,34 +144,15 @@ iii. Exit Fortnite.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap447.jpg)
 
 <!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  5\. While still in the**Recording** tab, try**speaking into your microphone** to test if it works properly. If it is, you should see some green in the bar on the right:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap443.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  6\. Click **OK** .
 
@@ -186,16 +168,16 @@ iii. Exit Fortnite.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap940.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2\. Click**Uninstall** to uninstall Fortnite.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap950.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3\. Restart your PC.
 
@@ -226,20 +208,16 @@ iii. Exit Fortnite.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-2023s-leading-covert-video-download-apps-1-8/"><u>[New] In 2024, 2023'S Leading Covert Video Download Apps #1-8</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-digital-legacy-preservation-saving-fb-video-conversations/"><u>[Updated] In 2024, Digital Legacy Preservation Saving FB Video Conversations</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/a-comprehensive-review-of-the-vive-cosmos-high-quality-virtual-reality-in-a-competitive-arena/"><u>A Comprehensive Review of the Vive Cosmos: High-Quality Virtual Reality in a Competitive Arena</u></a></li>
-<li><a href="https://common-error.techidaily.com/cant-use-keyboard-directions-revive-your-arrow-keys-with-these-simple-fixes/"><u>Can't Use Keyboard Directions? Revive Your Arrow Keys with These Simple Fixes!</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/comprehensive-guide-to-the-samsung-qn55q6f-exceptional-4k-uhd-and-hdr-viewing-experience/"><u>Comprehensive Guide to the Samsung QN55Q6F - Exceptional 4K UHD & HDR Viewing Experience</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/fixing-the-issue-how-to-resolve-elden-ring-initializing-with-a-black-display/"><u>Fixing the Issue: How to Resolve 'Elden Ring' Initializing with a Black Display</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-brother-mfc-7360n-printer-up-to-speed-driver-downloads-and-updates-for-windows-users/"><u>Get Your Brother MFC-7360N Printer Up to Speed: Driver Downloads & Updates for Windows Users</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-realme-11-5g-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Realme 11 5G Screen Black But Still Works? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-reset-gmail-password-on-lava-blaze-2-5g-devices-by-drfone-android/"><u>How to Reset Gmail Password on Lava Blaze 2 5G Devices</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-infinix-hot-30i-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Infinix Hot 30i Phone Network-Ready</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/in-depth-analysis-of-seatechs-portable-blu-ray-burner-an-expert-review/"><u>In-Depth Analysis of SeaTech's Portable Blu-Ray Burner: An Expert Review</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-vivo-y56-5g-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Vivo Y56 5G and Browser | Dr.fone</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/step-by-step-guide-restarting-internet-explorer-when-it-crashes-or-fails/"><u>Step-by-Step Guide: Restarting Internet Explorer When It Crashes or Fails</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/the-ultimate-test-of-the-12mp-docooler-usb-webcam-model-number-docooler-usb2-is-it-worth-the-hype/"><u>The Ultimate Test of the 12MP Docooler USB Webcam (Model Number: DOCOOLER-USB2): Is It Worth the Hype?</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/unlock-the-mystery-behind-phasmophobias-90-load-plateau-in-game-launches/"><u>Unlock the Mystery Behind Phasmophobia's 90% Load Plateau in Game Launches</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-achieve-pristine-sound-in-recordings-free-tutorial-paid-tools/"><u>[New] Achieve Pristine Sound in Recordings (Free Tutorial, Paid Tools)</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-integrate-and-play-srt-files-on-windowsmacos/"><u>[New] Integrate and Play SRT Files on Windows/macOS</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-samsung-ue590-ultra-hd-4k-gaming-and-freesync-screen/"><u>[New] Samsung UE590 - Ultra HD 4K, Gaming & FreeSync Screen</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-sharing-strategies-maximize-video-impact-from-youtube-to-facebook/"><u>[Updated] 2024 Approved Sharing Strategies Maximize Video Impact From YouTube to Facebook</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-transforming-mac-screenshot-file-extensions/"><u>[Updated] In 2024, Transforming Mac Screenshot File Extensions</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/in-2024-creative-audio-analysis-crafting-an-interactive-waveform-animation-spectacle-within-premiere-pro/"><u>In 2024, Creative Audio Analysis Crafting an Interactive Waveform Animation Spectacle Within Premiere Pro</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/in-2024-digital-resonance-a-comprehensive-tutorial-for-echo-addition-in-windows-and-web-audio-applications/"><u>In 2024, Digital Resonance A Comprehensive Tutorial for Echo Addition in Windows and Web Audio Applications</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/in-2024-effortless-integration-posting-twitter-vids-on-instagram-profile/"><u>In 2024, Effortless Integration Posting Twitter Vids on Instagram Profile</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-discovering-the-most-advanced-online-tools-for-mp3-file-tagging-and-categorization/"><u>New 2024 Approved Discovering the Most Advanced Online Tools for MP3 File Tagging and Categorization</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-premium-audio-transformation-tool-free-mp3-creation-from-mpa-files/"><u>New Premium Audio Transformation Tool Free MP3 Creation From MPA Files</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-mastering-sound-clarity-a-guide-to-eliminating-ambient-sounds-in-filmora-for-2024/"><u>Updated Mastering Sound Clarity A Guide to Eliminating Ambient Sounds in Filmora for 2024</u></a></li>
 </ul></div>
 

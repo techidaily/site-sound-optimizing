@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Issue: How to Resolve 'Elden Ring' Initializing with a Black Display"
-date: 2024-09-07T20:38:13.477Z
-updated: 2024-09-14T16:57:46.780Z
+date: 2024-09-14T19:22:42.355Z
+updated: 2024-09-18T17:12:17.239Z
 tags:
   - win11
   - win10
@@ -40,6 +40,19 @@ thumbnail: https://thmb.techidaily.com/9d142af41b1de506fdf32554a7ece9543f1d4a28a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/click-on-the-Check-for-updates-tab.png)
 
+<!-- affiliate ads begin -->
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### On Windows 11
 
 1. On your keyboard, hit the**Windows** key, then type**check for update** s, then click C**heck for updates** .  
@@ -56,13 +69,6 @@ thumbnail: https://thmb.techidaily.com/9d142af41b1de506fdf32554a7ece9543f1d4a28a
 
  Whenever you’re faced with no sound or other audio-related issues, you can use a Windows troubleshooter. It helps you detect problems and attempts to resolve minor issues on Windows computers. To run the audio troubleshooter, follow the instructions below.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### On Windows 10
 
 1. On your keyboard, press the**Windows logo + I keys** simultaneously to open Settings.
@@ -71,31 +77,24 @@ thumbnail: https://thmb.techidaily.com/9d142af41b1de506fdf32554a7ece9543f1d4a28a
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/update-and-security.png)
 3. Select**Troubleshoot** from the left pane. Then highlight the**Playing Audio** troubleshooter and click**Run the troubleshooter** .  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/audio-run-the-troubleshooter.png)  
 
  If there are no troubleshooters showing up here, click**Additional troubleshooters** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/troubleshoot-additional-troubleshooters.png)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### On Windows 11
 
 1. On your keyboard, press the **Windows log** o key + **R** at the same time. Type **control**  in the Run box, and press **Enter** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/03/control.jpg)
 2. On the top right corner, click View by **Large icons** . Scroll down and select **Troubleshooting** .  
-
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114263/17093" target="_top" id="2114263">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114263" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114263/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2021/03/troubleshooting.jpg)
 3. Click **Run** for **Audio**  troubleshooter.  
@@ -142,13 +141,6 @@ If Windows fails to troubleshoot your issues, try the next fix below.
 
  When the update completes, restart your computer. Then play supported content to check for changes.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Perform a system restore
 
  After everything else, you can restore your system to a point from before THX Spatial Audio was acting up. It’s possible that the issue you’re having was facilitated by a change that your system has gone through recently which you cannot pinpoint.
@@ -160,18 +152,31 @@ If Windows fails to troubleshoot your issues, try the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/perform-a-system-restore-step-1.png)
 2. Under the Protection Settings section, select your System driver and click on the**Configure…** button if the protection is not turned on.  
 
+<!-- affiliate ads begin -->
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/configure-protection.png)
 3. Tick**Turn on system protection** . Then click**OK** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/turn-on-system-protection.png)
 4. Now select your System drive and click**Create…** .  
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/create-a-system-point-now.png)
 5. Type a description for your restore point that you can recognize. Then click**Create** .  
@@ -180,6 +185,13 @@ If Windows fails to troubleshoot your issues, try the next fix below.
 6. When it successfully created the restore point, click**Close** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/close-the-window.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  However, if none of the solutions listed above gives you any luck, you may need to check if there are any missing or corrupted system files. You can use the System File Checker tool (sfc /scannow) to look for any critical system issues, but most of the time it only scans major files and may miss minor issues.
 
@@ -212,21 +224,16 @@ If Windows fails to troubleshoot your issues, try the next fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-amplify-your-audience-engagement-with-strategic-instagram-videos/"><u>[New] 2024 Approved Amplify Your Audience Engagement with Strategic Instagram Videos</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-virtualvista-viewers-verdict/"><u>[New] VirtualVista Viewer's Verdict</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-next-gen-gpus-for-crystal-clear-4k/"><u>[Updated] 2024 Approved Next-Gen GPUs for Crystal Clear 4K</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/s-incredible-free-youtube-intro-makers/"><u>10+ Incredible Free YouTube Intro Makers</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/1722985015934-defeat-scavengers-on-windows-ultimate-winning-strategies-unveiled/"><u>Defeat Scavengers on Windows: Ultimate Winning Strategies Unveiled!</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/discovering-the-strength-in-size-with-the-unihertz-atom-xl-a-review-of-its-impressive-features/"><u>Discovering the Strength in Size with the Unihertz Atom XL: A Review of Its Impressive Features</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/1723002391563-fallout-asterisk-76-server-connection-issues-heres-how-to-resolve-them-on-windows/"><u>Fallout Asterisk 76 Server Connection Issues? Here's How to Resolve Them on Windows</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-motorola-moto-g13-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Motorola Moto G13 | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/how-to-match-your-camera-to-its-optimal-gimbal-partner/"><u>How to Match Your Camera to Its Optimal Gimbal Partner</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-infinix-smart-8-drfone-by-drfone-virtual-android/"><u>In 2024, What is Geo-Blocking and How to Bypass it On Infinix Smart 8? | Dr.fone</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/is-it-possible-to-learn-nutritious-cooking-with-chatgpts-guidance/"><u>Is It Possible To Learn Nutritious Cooking With ChatGPT's Guidance?</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/overcoming-performance-hiccups-in-urban-planning-simulator-skyline-edition-pc-guide/"><u>Overcoming Performance Hiccups in Urban Planning Simulator Skyline Edition - PC Guide</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/overcoming-the-challenge-of-startup-failure-in-cities-skylines-2/"><u>Overcoming the Challenge of Startup Failure in Cities: Skylines 2</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-google-pixel-7a-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Google Pixel 7a and Browser | Dr.fone</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/top-20-trending-memes-reddit-vs-twitter/"><u>Top 20 Trending Memes Reddit Vs. Twitter</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/unstuck-discords-silent-treatment-repairing-the-push-to-talk-issue/"><u>Unstuck Discord's Silent Treatment: Repairing the Push-to-Talk Issue</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/5-must-have-openers-for-maximum-youtube-engagement/"><u>[New] 15 Must-Have Openers for Maximum YouTube Engagement</u></a></li>
+<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-oppo-reno-8t-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Oppo Reno 8T | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Samsung Galaxy F54 5G? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-contacts-from-infinix-gt-10-pro-by-fonelab-android-recover-contacts/"><u>How to get back lost contacts from Infinix GT 10 Pro.</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-3-ways-to-unlock-your-iphone-15-for-free-by-drfone-ios/"><u>In 2024, 3 Ways to Unlock Your iPhone 15 for Free</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-essential-knowledge-for-compiling-a-top-notch-auditory-archive-on-youtube/"><u>New Essential Knowledge for Compiling a Top-Notch Auditory Archive on YouTube</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolve-your-nvidia-geforce-overlay-problem-today-with-these-expert-tips/"><u>Resolve Your Nvidia GeForce Overlay Problem Today with These Expert Tips</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/seeking-out-elaborate-zombie-soundtracks-for-2024/"><u>Seeking Out Elaborate Zombie Soundtracks for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/the-art-of-low-pitched-audio-transforming-your-voice-in-filmora-2023-for-2024/"><u>The Art of Low-Pitched Audio Transforming Your Voice in Filmora 2023 for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-experts-choice-the-top-10-digital-stores-specializing-in-montage-music-downloads/"><u>Updated 2024 Approved Experts Choice The Top 10 Digital Stores Specializing in Montage Music Downloads</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-realme-gt-3-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Realme GT 3? | Dr.fone</u></a></li>
 </ul></div>
 

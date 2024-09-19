@@ -1,7 +1,7 @@
 ---
 title: How the Kobo Nia Stacks Up as a Rival to the Kindle by Amazon
-date: 2024-09-12T20:19:04.077Z
-updated: 2024-09-14T16:07:42.014Z
+date: 2024-09-13T00:51:23.810Z
+updated: 2024-09-18T21:19:40.797Z
 categories:
   - BestProducts
 description: This Article Describes How the Kobo Nia Stacks Up as a Rival to the Kindle by Amazon
@@ -86,16 +86,10 @@ Lifewire / Andrew Hayward
  There’s not much to the setup process here. Using the included USB-C to USB-C cable, simply plug one end into the power bank and the other into an AC adapter that you have handy—like one for a laptop, tablet, or[smartphone](https://www.lifewire.com/best-smartphones-4043781) . Once the four lights on the side are fully illuminated, then the battery pack is fully charged. Simply plug in devices using their respective cables to charge them using the power within the ZMI PowerPack 20000.
 
 <!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Charging Speed and Battery: It keeps going**
@@ -109,6 +103,13 @@ Lifewire / Andrew Hayward
 ![ZMI PowerPack 20000](https://www.lifewire.com/thmb/asGVK-moJ54HvqyY9N6Kb-KM8hw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/zmi-04-828899fb01024cd4a0e35980251c04b4.jpg)
 
  Lifewire / Andrew Hayward
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Price: It’s a bargain**
 
@@ -125,19 +126,6 @@ Lifewire / Andrew Hayward
  **A fantastic portable laptop battery charger for nearly everyone.**
 
  It’s honestly difficult to find anything to complain about with the ZMI PowerPack 20000\. It’s powerful and does a great job of charging laptops and phones, it has enough capacity to handle those tasks with ease, it’s compact and well-designed, and the price is fantastic. It’s half the size of the giant Anker power brick that I’ve brought on my last two international trips and can handle all of the same tasks. In other words,_this_ is the power brick I’m bringing on my next trip.
-
-<!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Specs
 
@@ -165,20 +153,20 @@ Lifewire / Andrew Hayward
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-amazon-prime-viewers-who-to-follow-on-twitter-now/"><u>[Updated] In 2024, Amazon Prime Viewers - Who to Follow on Twitter, Now</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-youtubes-shorts-a-deep-dive-into-content-creation-and-revenue/"><u>[Updated] YouTube's Shorts A Deep Dive Into Content Creation and Revenue</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-pinnacle-recorders-of-academic-dialogues/"><u>2024 Approved Pinnacle Recorders of Academic Dialogues</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/1722985015934-defeat-scavengers-on-windows-ultimate-winning-strategies-unveiled/"><u>Defeat Scavengers on Windows: Ultimate Winning Strategies Unveiled!</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/discovering-the-strength-in-size-with-the-unihertz-atom-xl-a-review-of-its-impressive-features/"><u>Discovering the Strength in Size with the Unihertz Atom XL: A Review of Its Impressive Features</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/experience-flawless-singing-with-the-user-friendly-and-colorful-singing-machine-sml385btbk/"><u>Experience Flawless Singing with the User-Friendly and Colorful Singing Machine SML385BTBK!</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/1723002391563-fallout-asterisk-76-server-connection-issues-heres-how-to-resolve-them-on-windows/"><u>Fallout Asterisk 76 Server Connection Issues? Here's How to Resolve Them on Windows</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/hp-printer-installation-guide-for-windows/"><u>HP Printer Installation Guide for Windows</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-list-watching-nba-in-real-time/"><u>In 2024, The Ultimate List Watching NBA in Real-Time</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/is-it-possible-to-learn-nutritious-cooking-with-chatgpts-guidance/"><u>Is It Possible To Learn Nutritious Cooking With ChatGPT's Guidance?</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/mount-and-blade-ii-bannerlord-resolving-game-crash-issues/"><u>Mount & Blade II: Bannerlord - Resolving Game Crash Issues</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/pathfinder-wrath-of-the-righteous-not-loading-up-try-these-fixes-first/"><u>Pathfinder: Wrath of the Righteous Not Loading Up? Try These Fixes First</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/step-by-step-solutions-for-cannot-launch-star-wars-the-old-republic-errors/"><u>Step-by-Step Solutions for 'Cannot Launch Star Wars: The Old Republic' Errors</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-guide-to-the-garmin-forerunner-745-review-revolutionizing-multisport-tracking-devices/"><u>The Ultimate Guide to the Garmin Forerunner 745 Review: Revolutionizing Multisport Tracking Devices</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshoot-your-iphones-blurry-photos-with-these-quick-fixes/"><u>Troubleshoot Your iPhone's Blurry Photos with These Quick Fixes</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-top-group-video-chat-apps-you-should-know-for-video-conferences-and-meetings/"><u>[New] Top Group Video Chat Apps You Should Know [For Video Conferences and Meetings]</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-mastering-mobile-vertical-panoramas-in-action/"><u>[Updated] 2024 Approved Mastering Mobile Vertical Panoramas in Action</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-brainy-battles-ultimate-gk-video-channel-guide/"><u>2024 Approved Brainy Battles - Ultimate GK Video Channel Guide</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/5-essential-strategies-for-capturing-high-quality-chromebook-sound/"><u>5 Essential Strategies for Capturing High-Quality Chromebook Sound</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/best-artifice-intelligence-chatbots-showdown-chatgpt-versus-microsofts-bing-and-googles-bard/"><u>Best Artifice Intelligence Chatbots Showdown: ChatGPT Versus Microsoft's Bing and Google's Bard</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-11-free-tools-for-seamless-software-updates-and-patch-management/"><u>Discover 11 Free Tools for Seamless Software Updates and Patch Management</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/final-cut-pro-sound-visualization-step-by-step-on-rendering-audio-waveforms-and-their-animation-integration-for-2024/"><u>Final Cut Pro Sound Visualization Step-by-Step on Rendering Audio Waveforms and Their Animation Integration for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-zte-axon-40-lite-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On ZTE Axon 40 Lite? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-motorola-g54-5g-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Motorola G54 5G with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-cataloging-extensive-canine-acoustic-effects-online/"><u>New Cataloging Extensive Canine Acoustic Effects Online</u></a></li>
+<li><a href="https://os-tips.techidaily.com/say-goodbye-to-disappearing-snapshots-on-imessage-top-fixes-unveiled/"><u>Say Goodbye to Disappearing Snapshots on iMessage - Top Fixes Unveiled</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/tailoring-voice-effects-a-comprehensive-instruction-for-audacity-users-on-autotune-use-for-2024/"><u>Tailoring Voice Effects A Comprehensive Instruction for Audacity Users on Autotune Use for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-simplifying-the-art-of-audiobook-making-a-complete-step-by-step-tutorial-for-aspiring-authors/"><u>Updated 2024 Approved Simplifying the Art of Audiobook Making A Complete, Step-by-Step Tutorial for Aspiring Authors</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-chromebook-guide-integrating-audacity-setup-and-removal-tips/"><u>Updated Chromebook Guide Integrating Audacity - Setup & Removal Tips</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-identifying-venues-with-vibrant-loud-cheers-for-2024/"><u>Updated Identifying Venues with Vibrant Loud Cheers for 2024</u></a></li>
 </ul></div>
 

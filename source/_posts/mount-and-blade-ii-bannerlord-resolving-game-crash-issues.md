@@ -1,7 +1,7 @@
 ---
 title: "Mount & Blade II: Bannerlord - Resolving Game Crash Issues"
-date: 2024-09-14T00:58:50.973Z
-updated: 2024-09-14T18:55:16.438Z
+date: 2024-09-12T16:45:45.920Z
+updated: 2024-09-19T00:20:35.609Z
 tags:
   - win11
   - win10
@@ -87,13 +87,6 @@ If the crashing issue continues to occur, move on to the fix below.
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Verify the integrity of your game files
 
  You may run into the Stellaris crashing issue when certain game files are corrupted or missing. If you’re playing the game on Steam, try verifying the integrity of your game files. Here is how:
@@ -134,6 +127,19 @@ If the crashing issue continues to occur, move on to the fix below.
 
  Relaunch your game to see if it runs correctly now. If your issue still exists, try the fix below.
 
+<!-- affiliate ads begin -->
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 5: Check the DEP setting
 
  Data Execution Prevention is a Windows feature that monitors your programs to make sure they use system memory safely. It can shut down a program automatically when the program is identified as malicious. So, you may run into the crashing issue when DEP blocks your game.
@@ -159,6 +165,13 @@ If the crashing issue continues to occur, move on to the fix below.
 **4)** Click the**Data Execution Prevention tab** , then check the DEP setting is set to**Turn on DEP for essential Windows programs and services only** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-12_11-25-13.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **6)** Click**OK** .
 
@@ -187,6 +200,13 @@ If the game is still unplayable, read on and try the next fix.
 **4)** Click **Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-12_14-24-11-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **5)**  Relaunch your game to check if your issue had been resolved.
 
@@ -236,6 +256,13 @@ If your issue still exists, move on to the next fix, below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-12_14-37-32.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **7)**  Click the **Startup tab.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-12_14-37-43.jpg)
@@ -245,13 +272,6 @@ If your issue still exists, move on to the next fix, below.
  Only disable programs that you know that you don’t need to launch automatically at startup. You should keep your antivirus launching automatically for safety.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-12_14-38-04.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **9)** Click **Restart** and wait for your computer to restart.
 
@@ -277,16 +297,16 @@ If your issue still exists, move on to the next fix, below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-12_15-02-55.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Uncheck the box next to **Load startup items** . Then click **Apply** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-12_15-02-59.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **4)** Click the **Services tab,** and then check the box next to **Hide all Microsoft services** .
 
@@ -368,19 +388,6 @@ If your issue still exists, move on to the next fix, below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-12_14-11-53.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **5)** Right-click **Steam** , and then click **Uninstall** . Then, wait for the process to be complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-12_14-14-53.jpg)
@@ -390,13 +397,6 @@ If your issue still exists, move on to the next fix, below.
 **7)** Right-click the **Steam icon** and select **Open file location** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-12_14-12-09.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **8)**  Move the backup **steamapps**  folder you create before to your current directory location.
 
@@ -427,16 +427,21 @@ If your issue still exists, move on to the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2023-techniques-for-harvesting-fb-status-video-content-for-2024/"><u>[Updated] 2023 Techniques for Harvesting FB Status Video Content for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-the-ultimate-guide-to-capturing-and-editing-high-quality-slow-motion-videos-for-instagram/"><u>[Updated] In 2024, The Ultimate Guide to Capturing and Editing High-Quality Slow Motion Videos for Instagram</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/boosting-daily-routines-leveraging-chatgpt-for-effective-time-planning/"><u>Boosting Daily Routines: Leveraging ChatGPT for Effective Time Planning</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easily-copy-and-paste-your-forex-and-gold-trades-from-metatrader-5-to-metatrader-4-by-mt4copier-guide/"><u>Easily Copy & Paste Your Forex and Gold Trades From MetaTrader 5 to MetaTrader 4</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/fixing-the-issue-how-to-get-your-corsair-hs35-microphone-functional-on-windows/"><u>Fixing the Issue: How to Get Your Corsair HS35 Microphone Functional on Windows</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-top-5-xiaomi-redmi-13c-5g-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Xiaomi Redmi 13C 5G Bypass FRP Tools for PC That Actually Work</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/no-more-silence-in-battle-royale-fixed-guide-to-restore-voice-chat-on-apex-legends/"><u>No More Silence in Battle Royale: Fixed Guide to Restore Voice Chat on Apex Legends</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-xiaomi-14-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Xiaomi 14 and Browser | Dr.fone</u></a></li>
-<li><a href="https://facebook.techidaily.com/ripple-effects-how-stablecoins-revolutionize-crypto/"><u>Ripple Effects: How Stablecoins Revolutionize Crypto</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/solve-your-minecraft-woes-a-step-by-step-guide-to-fixing-error-code-crossbow/"><u>Solve Your Minecraft Woes: A Step-by-Step Guide to Fixing Error Code: Crossbow</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/troubleshooting-guide-unstuck-baldurs-gate-iii-from-your-computer/"><u>Troubleshooting Guide: Unstuck Baldur's Gate III From Your Computer</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-capture-the-crown-of-highlights-iosandroid-covers/"><u>[New] Capture the Crown of Highlights IOS/Android Covers</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-oculus-spectacular-expert-reviews-and-choices/"><u>[New] Oculus Spectacular Expert Reviews and Choices</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on OnePlus Nord CE 3 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/elevate-your-online-presence-with-manycam-the-ultimate-choice-for-real-time-virtual-webcams-and-recording-tools/"><u>Elevate Your Online Presence with ManyCam - The Ultimate Choice for Real-Time Virtual Webcams and Recording Tools</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/how-to-add-bitmoji-to-keyboard-in-2024/"><u>How to Add Bitmoji to Keyboard, In 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-tecno-spark-10-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Tecno Spark 10 5G? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Samsung Galaxy A05s | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-premium-podcast-platter-googlouds-best-series/"><u>In 2024, Premium Podcast Platter GooGloud's Best Series</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/in-2024-the-ultimate-guide-to-removing-speech-from-recordings-using-adobe-audition/"><u>In 2024, The Ultimate Guide to Removing Speech From Recordings Using Adobe Audition</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-pro-mpeg-blender-craft-the-finest-mac-mp3-fusion/"><u>New 2024 Approved Pro MPEG Blender - Craft the Finest Mac MP3 Fusion</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-precision-listening-top-audio-customization-techniques/"><u>New In 2024, Precision Listening Top Audio Customization Techniques</u></a></li>
+<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-nubia-red-magic-9-proplus-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/removing-background-noise-extracting-silent-videos/"><u>Removing Background Noise Extracting Silent Videos</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-advanced-audio-editing-implementing-real-time-ducking-in-windows-version-of-adobe-premiere-pro/"><u>Updated Advanced Audio Editing Implementing Real-Time Ducking in Windows Version of Adobe Premiere Pro</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-10-best-audio-editor-windows-mac/"><u>Updated In 2024, 10 Best Audio Editor Windows, Mac</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-what-you-should-know-about-pexelscom/"><u>Updated In 2024, What You Should Know About Pexels.com</u></a></li>
 </ul></div>
 
