@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Unstuck Baldur's Gate III From Your Computer"
-date: 2024-09-13T04:11:49.220Z
-updated: 2024-09-18T17:44:18.410Z
+date: 2024-09-17T16:25:26.947Z
+updated: 2024-09-23T16:33:36.268Z
 tags:
   - win11
   - win10
@@ -53,6 +53,13 @@ thumbnail: https://thmb.techidaily.com/9ce1efb4d78691d1fda3d25f6e0de4e7036d8fbbf
  Don’t worry; it comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund, no questions asked.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-Update-all-drivers.png)  
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  (Alternatively, if you’re comfortable manually installing drivers, you can click ‘Update’ next to each flagged device in the free version to automatically download the correct driver. Once it’s downloaded, you can manually install it.)
 
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -76,10 +83,10 @@ Here are the system requirements for Control:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/Control-system-requirements.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  _The system requirements information is captured from Epic Games Launcher_
@@ -103,14 +110,22 @@ Here are the system requirements for Control:
 1. On your keyboard, press **the Windows logo key** and R at the same time to open the Run dialog. Then type control and press Enter to open Control Panel.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-control-panel-1.jpg)
 2. View the Control Panel by **Large icons** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select **NVIDIA Control Panel**  to open it.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/nividia-control-panel.jpg)
@@ -123,19 +138,6 @@ Here are the system requirements for Control:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-control-panel-2.jpg)
 2. View the Control Panel by **Large icons** .  
 
-<!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select your **AMD Radeon Settings** to open it.
 4. Go to **Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.  
@@ -147,15 +149,16 @@ Here are the system requirements for Control:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-control-panel-2.jpg)
 2. View the Control Panel by Large icons.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select Intel Graphics Settings to open it.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-Graphics-Settings.jpg)
 4. Click 3D to open the 3D settings.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings.jpg)
@@ -168,19 +171,6 @@ Here are the system requirements for Control:
 
  Launch Control again in reduced settings to see if it crashes or not. If the game still crashes, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 5: Delete the “render.ini” file
 
  If the screen goes black and you’re seeing the error message ” game\_rmdwin7\_f.exe is not responding ” when you try to play Control, you can follow the steps below to fix this issue:
@@ -191,6 +181,13 @@ Here are the system requirements for Control:
 4. Launch Control again.
 
  See if the game will crash or not. Normally this issue should be resolved. If not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Perform a Windows Update
 
@@ -212,6 +209,13 @@ Here are the system requirements for Control:
 [https://www.microsoft.com/en-us/download/details.aspx?id=30653](https://www.microsoft.com/en-us/download/details.aspx?id=30653)
 
  After installing Microsoft Visual C++ 2013 and Microsoft .NET Framework, you need to restart Windows. Then launch Control to see if this issue persists. If not, congratulations, you’ve resolved this issue! If this issue reappears, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 7: Install the latest Control patch
 
@@ -246,6 +250,14 @@ Here are the system requirements for Control:
 1. On your desktop,**right-click** on the shortcut of Control, then select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-12_12-24-18.png)
 2. In the Properties Window, navigate to**the Compatibility tab** , check the box next to**Run this program in compatibility mode for:** and select**Windows 7** from the drop-down list. Check the box next to**Run as an administrator** and then click**OK** to save the changes.  
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-12_14-25-41.png)
 3. Double-click the shortcut of Control on your desktop to launch it. This time Control will run in the compatibility mode you set in step 2.
 
@@ -277,16 +289,17 @@ See if this fix works for you. If not, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ed-launchpad-gear-your-youtube-channels-first-steps/"><u>[Updated] Launchpad Gear Your YouTube Channel's First Steps</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/fast-and-efficient-dvd-backup-strategy-for-vintage-and-modern-discs-lose-none-of-the-visuals/"><u>Fast & Efficient DVD Backup Strategy for Vintage and Modern Discs - Lose None of the Visuals!</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-honor-100-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Honor 100 | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-many-attempts-to-unlock-iphone-13-pro-max-by-drfone-ios/"><u>How Many Attempts To Unlock iPhone 13 Pro Max</u></a></li>
-<li><a href="https://driver-download.techidaily.com/latest-free-download-updated-drivers-for-hp-scanjet-on-windows-1187/"><u>Latest [Free Download]: Updated Drivers for HP Scanjet on Windows 11/8/7</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-selecting-an-ideal-mac-music-file-identifier-tool/"><u>New 2024 Approved Selecting an Ideal Mac Music File Identifier Tool</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-unveiling-the-ultimate-frequency-tuner-configurations/"><u>New 2024 Approved Unveiling the Ultimate Frequency Tuner Configurations</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-oneplus-ace-2v-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing OnePlus Ace 2V to PC- Detailed Steps | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/swift-download-of-razer-mamba-drivers-a-simple-guide/"><u>Swift Download of Razer Mamba Drivers: A Simple Guide</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/the-essential-guide-to-choosing-your-best-guitar-recording-application/"><u>The Essential Guide to Choosing Your Best Guitar Recording Application</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-2024s-must-have-recording-applications-for-aspiring-and-seasoned-guitar-players/"><u>Updated 2024S Must-Have Recording Applications for Aspiring and Seasoned Guitar Players</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-discover-new-movie-experiences-top-7-swaps/"><u>[New] In 2024, Discover New Movie Experiences - Top 7 Swaps</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-the-cost-effective-way-to-capture-every-frame-with-free-tools/"><u>[New] In 2024, The Cost-Effective Way to Capture Every Frame with Free Tools</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/2024-approved-gaming-voice-alteration-techniques-selecting-the-optimal-solution/"><u>2024 Approved Gaming Voice Alteration Techniques Selecting the Optimal Solution</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-visionary-studios-pioneering-next-gen-virtual-realms/"><u>2024 Approved Visionary Studios Pioneering Next-Gen Virtual Realms</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-xiaomi-14-pro-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Xiaomi 14 Pro? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/fire-up-your-game-day-with-these-top-10-free-fps-browser-titles/"><u>Fire Up Your Game Day with These Top 10 Free FPS Browser Titles</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-perfect-plugin-placement-for-game-channels/"><u>In 2024, Perfect Plugin Placement for Game Channels</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/in-2024-the-ultimate-step-by-step-on-incorporating-sound-into-videos-using-magix/"><u>In 2024, The Ultimate Step-by-Step on Incorporating Sound Into Videos Using Magix</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/mastering-portability-and-power-in-the-lg-gram-17-laptop-review/"><u>Mastering Portability and Power in the LG Gram 17 Laptop Review</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/picture-perfect-in-the-sky-free-and-paid-cloud-solutions-reviewed-for-2024/"><u>Picture Perfect in the Sky Free & Paid Cloud Solutions Reviewed for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-discovering-the-top-6-innovative-tools-for-live-voice-modification/"><u>Updated 2024 Approved Discovering the Top 6 Innovative Tools for Live Voice Modification</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-removing-background-music-and-sounds-from-new-avi-files/"><u>Updated Removing Background Music and Sounds From New AVI Files</u></a></li>
 </ul></div>
 

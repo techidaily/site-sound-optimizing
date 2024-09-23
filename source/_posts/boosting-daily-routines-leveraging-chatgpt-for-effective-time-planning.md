@@ -1,7 +1,7 @@
 ---
 title: "Boosting Daily Routines: Leveraging ChatGPT for Effective Time Planning"
-date: 2024-09-12T21:34:01.220Z
-updated: 2024-09-18T16:26:14.440Z
+date: 2024-09-20T17:33:48.441Z
+updated: 2024-09-23T16:52:42.513Z
 tags:
   - chatgpt
   - open-ai
@@ -37,6 +37,13 @@ thumbnail: https://thmb.techidaily.com/cda03445bb5af4617363a25ef0e62c6e1b665fa4b
 
 ![Screenshot of copying text from PDF opened in Microsoft Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-copying-text-from-pdf-opened-in-ms-edge-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The text can then be pasted into a ChatGPT prompt, and the desired results attained. In this case, we asked it to bullet point the main points in the text.
 
 ![Screenshot of ChatGPT summarizing copied text](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-chatgpt-summarizing-copied-text.jpg)
@@ -55,40 +62,54 @@ thumbnail: https://thmb.techidaily.com/cda03445bb5af4617363a25ef0e62c6e1b665fa4b
 2. If the document does not appear, use the file type dropdown box and select**PDF Files** from the options.  
 ![Screenshot of Word opening PDF file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-word-opening-pdf-file.jpg)
 3. When you open the file you will be asked to convert the document, press**OK** to proceed.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Screenshot of Word PDF Conversion](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-word-pdf-conversion.jpg)
 4. Word will now convert and open the file, you can use the**Save As** command to save it as a Word or text document as preferred.
 
- Once the conversion is complete, you can copy the text directly into ChatGPT and run prompts on it to get your desired results.
-
 <!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Once the conversion is complete, you can copy the text directly into ChatGPT and run prompts on it to get your desired results.
 
 ## 4\. Install and Use an Extension
 
 ![chatgpt with file uploader extension](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-extension.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Unfortunately, at this time, ChatGPT does not include a way to automatically upload PDF files or any files for that matter. Sure, you can copy the text from a PDF or convert it into a text document, but is there a simpler way to go about it? Luckily, there is. One of the easiest ways to get ChatGPT to read PDFs is to just install and use an extension.
 
 [ChatGPT File Uploader](https://chrome.google.com/webstore/detail/chatgpt-file-uploader-ext/becfinhbfclcgokjlobojlnldbfillpf/related) is a free-to-install Chrome Extension that allows you to upload any file, including Word documents, Excel spreadsheets, image files, and, of course, PDFs. What makes this an excellent method is just how easy it is to use.
 
  The steps are straightforward—install the ChatGPT File Uploader to your browser, open ChatGPT, and you'll notice a shiny, new**Upload** button next to the message bar at the bottom. From there, all you have to do is hit the button and choose the PDF you want to upload.
+
+<!-- affiliate ads begin -->
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## PDFs Don't Have to Hinder Your ChatGPT Usage
 
@@ -111,15 +132,16 @@ thumbnail: https://thmb.techidaily.com/cda03445bb5af4617363a25ef0e62c6e1b665fa4b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-top-eight-video-recording-apps-reviewed/"><u>[Updated] Top Eight Video Recording Apps Reviewed</u></a></li>
-<li><a href="https://win11.techidaily.com/archive-your-cortana-trails-on-a-pc-operating-system/"><u>Archive Your Cortana Trails on a PC Operating System</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-oneplus-nord-ce-3-5g-get-deleted-phone-number-back-with-ease-and-safety-by-fonelab-android-recover-contacts/"><u>How to OnePlus Nord CE 3 5G Get Deleted Phone Number Back with Ease and Safety</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-mastering-the-art-of-subtitle-extraction-from-youtube-videos-a-threefold-approach-guide/"><u>In 2024, Mastering the Art of Subtitle Extraction From YouTube Videos A Threefold Approach Guide</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-list-of-online-repositories-featuring-cat-vocalizations-in-mp3-for-2024/"><u>New List of Online Repositories Featuring Cat Vocalizations in MP3 for 2024</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/new-multiple-ways-how-to-remove-icloud-activation-lock-from-your-iphone-13-pro-max-by-drfone-ios/"><u>New Multiple Ways How To Remove iCloud Activation Lock From your iPhone 13 Pro Max</u></a></li>
-<li><a href="https://win-able.techidaily.com/successfully-installing-and-playing-tiny-tinas-assault-on-dragon-keepers-pc-fix-guide/"><u>Successfully Installing and Playing Tiny Tina's Assault on Dragon Keepers - PC Fix Guide</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/unlock-expertise-proven-hidden-window-11-strategies-for-everyday-users-for-2024/"><u>Unlock Expertise Proven, Hidden WINDOW 11 Strategies for Everyday Users for 2024</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-achieving-clarity-in-soundscapes-innovative-techniques-for-minimizing-audio-distractions-onlineoffline/"><u>Updated 2024 Approved Achieving Clarity in Soundscapes Innovative Techniques for Minimizing Audio Distractions, Online/Offline</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-behind-the-scenes-the-essential-roles-of-film-production-team-members/"><u>Updated Behind the Scenes The Essential Roles of Film Production Team Members</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-mastering-the-art-of-audio-with-zoom-your-complete-guidebook/"><u>[Updated] In 2024, Mastering the Art of Audio with Zoom Your Complete Guidebook</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-quick-guide-to-enhancing-colors-in-photoshop/"><u>[Updated] Quick Guide to Enhancing Colors in Photoshop</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/crafting-your-signature-tone-a-comprehensive-zoom-recording-workshop/"><u>Crafting Your Signature Tone A Comprehensive ZOOM Recording Workshop</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/elevate-your-game-experience-a-selection-process-for-immersive-vocal-transformation-technology-for-2024/"><u>Elevate Your Game Experience A Selection Process for Immersive Vocal Transformation Technology for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-nokia-c02-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Nokia C02 | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-mirrorless-vs-dslr-in-the-realm-of-video-filmmaking/"><u>In 2024, Mirrorless vs DSLR in the Realm of Video Filmmaking</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-still-using-pattern-locks-with-vivo-y17s-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Vivo Y17s? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/navigating-to-the-pinnacle-5-leading-audio-mixers-for-mac-users/"><u>Navigating to the Pinnacle 5 Leading Audio Mixers for Mac Users</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-unveiling-the-best-5-audio-mixers-engineered-for-mac-enthusiasts/"><u>New Unveiling the Best 5 Audio Mixers Engineered for Mac Enthusiasts</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-the-art-of-concealing-the-boundaries-between-sounds-with-fades-for-2024/"><u>Updated The Art of Concealing the Boundaries Between Sounds with Fades for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-visualizing-sound-displaying-waveforms-and-enhancing-animation-in-adobe-premiere-pro/"><u>Updated Visualizing Sound Displaying Waveforms & Enhancing Animation in Adobe Premiere Pro</u></a></li>
 </ul></div>
 

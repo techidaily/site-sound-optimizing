@@ -1,7 +1,7 @@
 ---
 title: How the Kobo Nia Stacks Up as a Rival to the Kindle by Amazon
-date: 2024-09-13T00:51:23.810Z
-updated: 2024-09-18T21:19:40.797Z
+date: 2024-09-16T19:13:43.392Z
+updated: 2024-09-23T18:38:06.960Z
 categories:
   - BestProducts
 description: This Article Describes How the Kobo Nia Stacks Up as a Rival to the Kindle by Amazon
@@ -37,6 +37,13 @@ thumbnail: https://www.lifewire.com/thmb/l-thYcivDg_wxc7mx5_01YaMCKg=/400x300/fi
 
 4.9
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZMI PowerPack 20000
 
 ![ZMI PowerPack 20000](https://www.lifewire.com/thmb/FttxoftMtHF3B2ZGmP2QubmOp3I=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/zmi-HeroSquare-492efa01c9e54737bfa9d16223ff9d82.jpg)
@@ -65,6 +72,19 @@ thumbnail: https://www.lifewire.com/thmb/l-thYcivDg_wxc7mx5_01YaMCKg=/400x300/fi
 
  Lifewire / Andrew Hayward
 
+<!-- affiliate ads begin -->
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Design: Small but powerful**
 
  The ZMI PowerPack 20000’s size is easily one of its biggest selling points. While it is a little heavy at 14.3 ounces, this power bank is the approximate width and height of a large smartphone, measuring up very closely to the size of my Apple iPhone 11 Pro at 6.3 x 3.2 inches (HWD). Of course, the 0.8-inch thickness is quite a bit larger than any phone today, but unlike most laptop-friendly charging banks, ZMI’s can still fit into a pocket or handbag with ease.
@@ -85,13 +105,6 @@ Lifewire / Andrew Hayward
 
  There’s not much to the setup process here. Using the included USB-C to USB-C cable, simply plug one end into the power bank and the other into an AC adapter that you have handy—like one for a laptop, tablet, or[smartphone](https://www.lifewire.com/best-smartphones-4043781) . Once the four lights on the side are fully illuminated, then the battery pack is fully charged. Simply plug in devices using their respective cables to charge them using the power within the ZMI PowerPack 20000.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Charging Speed and Battery: It keeps going**
 
  The ZMI PowerPack 20000 has a hearty 20,000mAh cell within, and it charged my devices quickly without fully depleting the brick. I charged a[2019 MacBook Pro](https://www.lifewire.com/apple-macbook-pro-13-inch-2019-review-4770116) (13-inch) laptop from 0 percent to 100 percent in just 1 hour, 53 minutes using the ZMI PowerPack 20000’s USB-C PD port, with an effective charging rate of 42.92W (14.8Vx2.9A). When the charging process was complete, the PowerPack still had one light illuminated, indicating that there was still a little bit of battery life remaining.
@@ -102,14 +115,14 @@ Lifewire / Andrew Hayward
 
 ![ZMI PowerPack 20000](https://www.lifewire.com/thmb/asGVK-moJ54HvqyY9N6Kb-KM8hw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/zmi-04-828899fb01024cd4a0e35980251c04b4.jpg)
 
- Lifewire / Andrew Hayward
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Lifewire / Andrew Hayward
 
 ## **Price: It’s a bargain**
 
@@ -126,6 +139,13 @@ Lifewire / Andrew Hayward
  **A fantastic portable laptop battery charger for nearly everyone.**
 
  It’s honestly difficult to find anything to complain about with the ZMI PowerPack 20000\. It’s powerful and does a great job of charging laptops and phones, it has enough capacity to handle those tasks with ease, it’s compact and well-designed, and the price is fantastic. It’s half the size of the giant Anker power brick that I’ve brought on my last two international trips and can handle all of the same tasks. In other words,_this_ is the power brick I’m bringing on my next trip.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -153,20 +173,19 @@ Lifewire / Andrew Hayward
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-top-group-video-chat-apps-you-should-know-for-video-conferences-and-meetings/"><u>[New] Top Group Video Chat Apps You Should Know [For Video Conferences and Meetings]</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-mastering-mobile-vertical-panoramas-in-action/"><u>[Updated] 2024 Approved Mastering Mobile Vertical Panoramas in Action</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-brainy-battles-ultimate-gk-video-channel-guide/"><u>2024 Approved Brainy Battles - Ultimate GK Video Channel Guide</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/5-essential-strategies-for-capturing-high-quality-chromebook-sound/"><u>5 Essential Strategies for Capturing High-Quality Chromebook Sound</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/best-artifice-intelligence-chatbots-showdown-chatgpt-versus-microsofts-bing-and-googles-bard/"><u>Best Artifice Intelligence Chatbots Showdown: ChatGPT Versus Microsoft's Bing and Google's Bard</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-11-free-tools-for-seamless-software-updates-and-patch-management/"><u>Discover 11 Free Tools for Seamless Software Updates and Patch Management</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/final-cut-pro-sound-visualization-step-by-step-on-rendering-audio-waveforms-and-their-animation-integration-for-2024/"><u>Final Cut Pro Sound Visualization Step-by-Step on Rendering Audio Waveforms and Their Animation Integration for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-zte-axon-40-lite-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On ZTE Axon 40 Lite? Fix Now | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-motorola-g54-5g-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Motorola G54 5G with and without jailbreak | Dr.fone</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-cataloging-extensive-canine-acoustic-effects-online/"><u>New Cataloging Extensive Canine Acoustic Effects Online</u></a></li>
-<li><a href="https://os-tips.techidaily.com/say-goodbye-to-disappearing-snapshots-on-imessage-top-fixes-unveiled/"><u>Say Goodbye to Disappearing Snapshots on iMessage - Top Fixes Unveiled</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/tailoring-voice-effects-a-comprehensive-instruction-for-audacity-users-on-autotune-use-for-2024/"><u>Tailoring Voice Effects A Comprehensive Instruction for Audacity Users on Autotune Use for 2024</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-simplifying-the-art-of-audiobook-making-a-complete-step-by-step-tutorial-for-aspiring-authors/"><u>Updated 2024 Approved Simplifying the Art of Audiobook Making A Complete, Step-by-Step Tutorial for Aspiring Authors</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-chromebook-guide-integrating-audacity-setup-and-removal-tips/"><u>Updated Chromebook Guide Integrating Audacity - Setup & Removal Tips</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-identifying-venues-with-vibrant-loud-cheers-for-2024/"><u>Updated Identifying Venues with Vibrant Loud Cheers for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-channeling-changes-transition-to-youtubes-updated-membership-model/"><u>2024 Approved Channeling Changes Transition to YouTube's Updated Membership Model</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-essential-10-boosters-for-multi-device-use/"><u>2024 Approved Essential 10 Boosters for Multi-Device Use</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-streamline-your-obs-on-economical-devices/"><u>2024 Approved Streamline Your OBS on Economical Devices</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-the-ultimate-drone-experience-yuneec-q500/"><u>2024 Approved The Ultimate Drone Experience Yuneec Q500</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/experience-unparalleled-audio-visual-sync-in-the-best-av-mixers-for-2024/"><u>Experience Unparalleled Audio-Visual Sync in the Best AV Mixers for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-infinix-note-30-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Infinix Note 30 | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-transforming-engagement-on-instagram-top-10-compelling-igtv-content-concepts-for-brands/"><u>In 2024, Transforming Engagement on Instagram Top 10 Compelling IGTV Content Concepts for Brands</u></a></li>
+<li><a href="https://win-blog.techidaily.com/movaviwav-to-mp3/"><u>Movaviによる無償オンラインWAV to MP3コンバーター – ストレスなし!</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-cut-compress-and-conquer-mastering-avidemux-for-audio-post-production-edition/"><u>New In 2024, Cut, Compress & Conquer Mastering Avidemux for Audio Post Production (Edition)</u></a></li>
+<li><a href="https://win-able.techidaily.com/ready-to-fix-detailed-tips-for-restoring-ds4-failed-to-load-on-your-pc/"><u>Ready to Fix? Detailed Tips for Restoring 'DS4 Failed to Load' On Your PC</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-leading-platforms-for-seamless-mp3-refinement-and-cutting/"><u>Updated 2024 Approved Leading Platforms for Seamless MP3 Refinement and Cutting</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-silencing-the-chatter-essential-methods-for-muting-tiktok-audio/"><u>Updated 2024 Approved Silencing the Chatter Essential Methods for Muting TikTok Audio</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-non-licensed-music-choices-excelling-in-video-montages/"><u>Updated In 2024, Non-Licensed Music Choices Excelling in Video Montages</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-techniques-to-remove-audio-from-updated-avi-software-file/"><u>Updated In 2024, Techniques to Remove Audio From Updated AVI Software File</u></a></li>
 </ul></div>
 

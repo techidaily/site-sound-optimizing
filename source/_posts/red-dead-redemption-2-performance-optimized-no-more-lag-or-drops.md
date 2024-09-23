@@ -1,7 +1,7 @@
 ---
 title: Red Dead Redemption 2 Performance Optimized - No More Lag or Drops
-date: 2024-09-13T16:25:03.402Z
-updated: 2024-09-19T00:30:55.373Z
+date: 2024-09-18T17:30:53.494Z
+updated: 2024-09-23T19:09:58.278Z
 tags:
   - win11
   - win10
@@ -47,6 +47,13 @@ After installing all the updates, restart your PC and check the gameplay.
 
  If RDR2 still stutters on your latest system, you can try the next fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Change power plan to Ultimate performance
 
 **Power plan** is a setting that allows you to manage how your system consumes energy. In addition to the existing High performance power plan, Microsoft rolled out a hidden one named**Ultimate performance** a while ago. You can try this plan and see if things work out for you.
@@ -54,6 +61,14 @@ After installing all the updates, restart your PC and check the gameplay.
 1. On your keyboard, press **Win+R** (the Windows logo key and the r key) at the same time. Type or paste **powercfg.cpl**  and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/cmd-run-power-option.jpg)
 2. Select **Ultimate Performance** . (If you don’t see this power plan, simply continue to the next step to unhide it.)  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-ultimate-performance.jpg)
 3. On your keyboard, press Win (the Windows logo key) and type **cmd** . Select **Run as Administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/run-cmd-as-administrator.jpg)
@@ -62,9 +77,23 @@ powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
  If you see a prompt similar to this, **return to step 2** to enable the Ultimate Performance power plan.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-cmd-unhide-ultimate-performance.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Now you can start RDR2 and check if it stutters again.
 
  If this fix doesn’t give you luck, you can continue to the next one below.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -87,13 +116,6 @@ Now you can start RDR2 and check if it stutters again.
 
  If the latest GPU driver doesn’t do the trick for you, you can move on to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4: Enable HAGs
 
  HAGs is short for**hardware-accelerated GPU scheduling** . It’s a feature that comes with a recent Windows update designed to boost in-game FPS. There’re reports showing that HAGs might help with the FPS in RDR2, so you can try it and test the results.
@@ -108,31 +130,32 @@ Now you can start RDR2 and check if it stutters again.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/hags-3.jpg)
 4. Turn on **Hardware-accelerated GPU scheduling** .  
-![](https://images.drivereasy.com/wp-content/uploads/2020/10/hags-4.jpg)
-5. Restart your PC for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/10/hags-4.jpg)
+5. Restart your PC for the changes to take effect.
 
 Now you can launch RDR2 and check if there’s any improvements.
 
 If HAGs doesn’t work for you, you can try the next method.
 
 <!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Disable all mods
@@ -142,16 +165,10 @@ If HAGs doesn’t work for you, you can try the next method.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/rdr2-hot-air-balloon.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 6: Fine tune in-game settings
@@ -164,14 +181,15 @@ If HAGs doesn’t work for you, you can try the next method.
 3. Set**Water Refraction Quality** and**Water Reflection Quality** to**High** or lower. (You can also try disabling TAA sharpening and open image sharpening in the NVIDIA control panel instead.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/RDR2-graphics-tuning-2.jpg)
 4. Also set**Reflection MSAA** to**X4** .  
-![](https://images.drivereasy.com/wp-content/uploads/2021/07/RDR2-graphics-tuning-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/07/RDR2-graphics-tuning-3.jpg)
 
 You can now test your gameplay and see if the game lags again.
 
@@ -198,12 +216,17 @@ You can now test your gameplay and see if the game lags again.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-how-to-create-compelling-content-for-facebook-reels/"><u>[New] 2024 Approved How to Create Compelling Content for Facebook Reels</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-essential-techniques-for-saving-roblox-playback-on-mac-for-2024/"><u>[Updated] Essential Techniques for Saving Roblox Playback on Mac for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-unplugged-fun-the-best-non-networked-android-apps/"><u>[Updated] Unplugged Fun The Best Non-Networked Android Apps</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/2024-approved-uncovering-artistic-soundscapes-mimicking-brush-techniques/"><u>2024 Approved Uncovering Artistic Soundscapes Mimicking Brush Techniques</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-uncover-belching-sound-simulation/"><u>New Uncover Belching Sound Simulation</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/top-rated-mobile-optimized-ebook-reader-apps-on-windows/"><u>Top Rated Mobile Optimized eBook Reader Apps on Windows</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-the-audionists-toolkit-for-silencing-unwanted-audio-elements-for-2024/"><u>Updated The Audionists Toolkit for Silencing Unwanted Audio Elements for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-safe-and-sound-securing-your-fb-live-conversations-on-screen/"><u>[New] 2024 Approved Safe & Sound Securing Your FB Live Conversations on Screen</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-achieve-social-stardom-the-ultimate-list-for-fb-fan-increase/"><u>[New] Achieve Social Stardom The Ultimate List for FB Fan Increase</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/artisan-soundscapes-for-blog-and-youtube-visionaries/"><u>Artisan Soundscapes for Blog and YouTube Visionaries</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/cookiebot-driven-insights-for-precise-online-marketing-strategies/"><u>Cookiebot-Driven Insights for Precise Online Marketing Strategies</u></a></li>
+<li><a href="https://win-able.techidaily.com/genshin-impact-pc-version-troubleshooting-and-fixing-crashes-successfully/"><u>Genshin Impact PC Version: Troubleshooting & Fixing Crashes Successfully!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-updates-on-creatives-webcam-drivers-for-windows-systems/"><u>Get the Latest Updates on Creative's Webcam Drivers for Windows Systems</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-mastering-mp4-sound-retrieval-top-5-simplified-strategies/"><u>New 2024 Approved Mastering MP4 Sound Retrieval Top 5 Simplified Strategies</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-responsibilities-of-each-team-member-during-production/"><u>New Responsibilities of Each Team Member During Production</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/orchestrating-peak-canon-temporal-scenes-for-2024/"><u>Orchestrating Peak Canon Temporal Scenes for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-afterlife-of-discontinued-ps-plus-games/"><u>The Afterlife of Discontinued PS Plus Games</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-must-have-specifications-in-mac-audio-editing-applications/"><u>Updated 2024 Approved Must-Have Specifications in Mac Audio Editing Applications</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-beyond-free-photos-understanding-pexelscoms-role-in-creative-projects/"><u>Updated Beyond Free Photos Understanding Pexels.coms Role in Creative Projects</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "No More Silence in Battle Royale: Fixed Guide to Restore Voice Chat on Apex Legends"
-date: 2024-09-16T02:02:57.195Z
-updated: 2024-09-18T23:39:52.965Z
+date: 2024-09-18T19:25:16.369Z
+updated: 2024-09-23T16:54:51.139Z
 tags:
   - win11
   - win10
@@ -30,11 +30,31 @@ thumbnail: https://thmb.techidaily.com/d24bf389d1254603d8aad9f86f16f5f0cd9be072e
 
 ---
 
+<!-- affiliate ads begin -->
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Sign out Fortnite, then sign back in
 
  This is the quickest and easiest fix to try when chat’s not working in Fortnite. Just sign out of the game, then sign back in.
 
  Now run the game again and test to see whether chat is working. If it’s not, move on to Fix 2, below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your sound card driver
 
@@ -56,6 +76,13 @@ thumbnail: https://thmb.techidaily.com/d24bf389d1254603d8aad9f86f16f5f0cd9be072e
 
  If you need assistance, please contact**Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Install the latest Fortnite patch
 
  The developers of Fortnite release regular game patches to fix bugs. It’s possible that a recent patch has stopped your chat from working, and that a new patch is required to fix it.
@@ -67,6 +94,13 @@ thumbnail: https://thmb.techidaily.com/d24bf389d1254603d8aad9f86f16f5f0cd9be072e
  2\. On the left panel, click **Library** . On the right, click **the gear button** on the lower-right corner of **Fortnite** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap911.png)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3.**Turn on** the toggle next to **Auto update** .
 
@@ -89,22 +123,15 @@ thumbnail: https://thmb.techidaily.com/d24bf389d1254603d8aad9f86f16f5f0cd9be072e
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap427.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
-  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2\. Click **Microphone**  on the left pane, and make sure**Microphone access for this device** is**on** , and the status is **On** for **Fortnite** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap428.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3\. Run Fortnite to see if chat works now. If not, try Fix 5, below.
 
@@ -117,13 +144,6 @@ thumbnail: https://thmb.techidaily.com/d24bf389d1254603d8aad9f86f16f5f0cd9be072e
  i. In Fortnite, click**the menu button** in the upper-right corner, then click**the gear icon** to open the game settings.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap925.png)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  ii. Click**the speaker icon** to view the audio settings. Then**turn off Voice Chat** and click**Apply** .  
 
@@ -144,10 +164,10 @@ iii. Exit Fortnite.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap447.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  5\. While still in the**Recording** tab, try**speaking into your microphone** to test if it works properly. If it is, you should see some green in the bar on the right:
@@ -169,10 +189,16 @@ iii. Exit Fortnite.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap940.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2\. Click**Uninstall** to uninstall Fortnite.
@@ -208,16 +234,17 @@ iii. Exit Fortnite.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-achieve-pristine-sound-in-recordings-free-tutorial-paid-tools/"><u>[New] Achieve Pristine Sound in Recordings (Free Tutorial, Paid Tools)</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-integrate-and-play-srt-files-on-windowsmacos/"><u>[New] Integrate and Play SRT Files on Windows/macOS</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-samsung-ue590-ultra-hd-4k-gaming-and-freesync-screen/"><u>[New] Samsung UE590 - Ultra HD 4K, Gaming & FreeSync Screen</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-sharing-strategies-maximize-video-impact-from-youtube-to-facebook/"><u>[Updated] 2024 Approved Sharing Strategies Maximize Video Impact From YouTube to Facebook</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-transforming-mac-screenshot-file-extensions/"><u>[Updated] In 2024, Transforming Mac Screenshot File Extensions</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/in-2024-creative-audio-analysis-crafting-an-interactive-waveform-animation-spectacle-within-premiere-pro/"><u>In 2024, Creative Audio Analysis Crafting an Interactive Waveform Animation Spectacle Within Premiere Pro</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/in-2024-digital-resonance-a-comprehensive-tutorial-for-echo-addition-in-windows-and-web-audio-applications/"><u>In 2024, Digital Resonance A Comprehensive Tutorial for Echo Addition in Windows and Web Audio Applications</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/in-2024-effortless-integration-posting-twitter-vids-on-instagram-profile/"><u>In 2024, Effortless Integration Posting Twitter Vids on Instagram Profile</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-discovering-the-most-advanced-online-tools-for-mp3-file-tagging-and-categorization/"><u>New 2024 Approved Discovering the Most Advanced Online Tools for MP3 File Tagging and Categorization</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-premium-audio-transformation-tool-free-mp3-creation-from-mpa-files/"><u>New Premium Audio Transformation Tool Free MP3 Creation From MPA Files</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-mastering-sound-clarity-a-guide-to-eliminating-ambient-sounds-in-filmora-for-2024/"><u>Updated Mastering Sound Clarity A Guide to Eliminating Ambient Sounds in Filmora for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-the-role-and-design-of-instagram-story-segments/"><u>[New] The Role and Design of Instagram Story Segments</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-perfect-pairings-adding-songs-to-windows-11-videos-with-ease/"><u>[Updated] Perfect Pairings Adding Songs to Windows 11 Videos with Ease</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/advanced-software-options-for-distilling-pure-auditory-experiences/"><u>Advanced Software Options for Distilling Pure Auditory Experiences</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/comprehensive-fixes-to-overcome-your-end-of-year-assessment-error-code-tfla0002/"><u>Comprehensive Fixes to Overcome Your End-Of-Year Assessment Error – Code: TFLA0002</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722999855510-how-to-fix-division-2-not-launching-2024-tips/"><u>How to Fix Division 2 Not Launching - 2024 Tips</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-motorola-moto-g04-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Motorola Moto G04 Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/maximizing-spotifys-playback-rate-without-sacrificing-sound-for-2024/"><u>Maximizing Spotify's Playback Rate Without Sacrificing Sound for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-explore-these-5-pinnacle-platforms-for-efficient-mp3-file-tagging-for-2024/"><u>New Explore These 5 Pinnacle Platforms for Efficient MP3 File Tagging for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-in-depth-look-into-how-twistedwave-revolutionizes-sound-editing-processes/"><u>New In 2024, In Depth Look Into How TwistedWave Revolutionizes Sound Editing Processes</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-pro-audio-editing-essentials-top-8-software-for-industry-experts/"><u>New Pro Audio Editing Essentials Top 8 Software for Industry Experts</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-simplifying-the-art-of-audiobook-making-a-complete-step-by-step-tutorial-for-aspiring-authors/"><u>Updated 2024 Approved Simplifying the Art of Audiobook Making A Complete, Step-by-Step Tutorial for Aspiring Authors</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-roles-of-every-crew-member-in-filming/"><u>Updated Roles of Every Crew Member in Filming</u></a></li>
 </ul></div>
 

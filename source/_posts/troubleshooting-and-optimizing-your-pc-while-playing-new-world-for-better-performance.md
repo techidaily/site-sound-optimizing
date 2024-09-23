@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting and Optimizing Your PC While Playing New World for Better Performance
-date: 2024-09-17T02:48:30.482Z
-updated: 2024-09-18T20:43:08.675Z
+date: 2024-09-19T19:10:17.003Z
+updated: 2024-09-23T19:07:31.280Z
 tags:
   - win11
   - win10
@@ -28,6 +28,13 @@ Released in November,**Call of Duty: Vanguard** is one of the hottest game title
 5. **[Disable overlays](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Close background apps](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Make sure your system is up to date](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1: Repair system files
 
@@ -67,6 +74,13 @@ Here’s how to use Fortect to run a Windows repair:
 4. Restart your computer for the changes to take effect.
 5. Check your computer to see if the game still crashes.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Update your graphics driver
 
  The graphics card is the heart and soul for games like CoD. If Vanguard keeps crashing on your PC, it is likely that the graphics driver on your computer is outdated or corrupt. So you should update your drivers to see if it fixes the game crashing issue.
@@ -85,6 +99,13 @@ Here’s how to use Fortect to run a Windows repair:
 **Note** : You can do it for free if you like, but it’s partly manual.
 4. Restart your PC for the changes to take effect.
 5. Launch CoD, then check to see if the game crashing problem has been resolved. If yes, then great! If the issue still persist, please try**Fix** 3, below.
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3:**Make sure your PC meets the specs for Vanguard**
 
@@ -110,17 +131,17 @@ To check the specs of your PC:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/dxdiag-diagnostic-tool-1.png)
 3. Select the **Display** tab, and you’ll be presented with the information about your **graphics card** .  
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/display-1.png)
 4. Close DirectX.
 
  If your PC specs have been up to the mark but Call of Duty: Vanguard still crashes, please move on to **Fix 4** , below to begin troubleshooting.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Scan & repair Vanguard game files
 
@@ -142,10 +163,10 @@ To check the specs of your PC:
 Cod Vanguard crashing still not resolved? Please try Fix 6, below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 6: Close background apps
@@ -158,14 +179,15 @@ Cod Vanguard crashing still not resolved? Please try Fix 6, below.
 2. Select the **Startup**  tab, then right-click on each item and click **Disable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/123.png)
 3. Restart your computer.
-4. Test the gameplay in Vanguard and see if the crashing issue is fixed. If yes, congrats! If it’s still no joy, please move on to**Fix 7** , below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+4. Test the gameplay in Vanguard and see if the crashing issue is fixed. If yes, congrats! If it’s still no joy, please move on to**Fix 7** , below.
 
 ### Fix 7: Make sure your system is up to date
 
@@ -180,10 +202,10 @@ Here are the steps:
 3. Wait a while for Windows to check and automatically install the updates for you.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Restart your computer.
@@ -209,13 +231,19 @@ Here are the steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-blissful-onboarding-guide-for-new-users/"><u>[New] Blissful Onboarding Guide for New Users</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/foodie-frenzy-top-10-viral-eats-on-tiktok-for-2024/"><u>Foodie Frenzy Top 10 Viral Eats on TikTok for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-tecno-phantom-v-flip-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Tecno Phantom V Flip | Dr.fone</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/in-2024-most-admired-free-online-archives-with-a-collection-of-guitar-lyrics-and-artwork/"><u>In 2024, Most Admired Free Online Archives with a Collection of Guitar Lyrics and Artwork</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-top-10-windows-and-mac-compatible-music-arrangement-tools/"><u>New 2024 Approved Top 10 Windows & Mac Compatible Music Arrangement Tools</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-zen-masters-guide-to-zooming-your-youtube-livestreams-for-2024/"><u>The Zen Master’s Guide to Zooming Your YouTube Livestreams for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/uncover-ustream-plus-alternatives-for-2024/"><u>Uncover Ustream Plus Alternatives for 2024</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-discovering-the-top-6-innovative-tools-for-live-voice-modification/"><u>Updated 2024 Approved Discovering the Top 6 Innovative Tools for Live Voice Modification</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-unleashing-potential-learning-to-race-with-drones-and-best-models/"><u>[New] 2024 Approved Unleashing Potential Learning to Race with Drones and Best Models</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-the-definitive-list-of-cam-covers-for-secure-shopping/"><u>[New] The Definitive List of Cam Covers for Secure Shopping</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-a-comprehensive-look-at-lighting-your-youtube-videos-right/"><u>[Updated] 2024 Approved A Comprehensive Look at Lighting Your YouTube Videos Right</u></a></li>
+<li><a href="https://network-issues.techidaily.com/hd-6950-drivers-upgraded-for-windows-11-users/"><u>HD 6950 Drivers Upgraded for Windows 11 Users</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-tecno-camon-20-premier-5g-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Tecno Camon 20 Premier 5G to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Poco M6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/navigating-the-minefield-of-instasongs-and-rights-for-2024/"><u>Navigating the Minefield of InstaSongs and Rights for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-cresting-waves-in-sound-discovering-true-cricket-noises/"><u>New 2024 Approved Cresting Waves in Sound Discovering True Cricket Noises</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-essential-listings-for-authentic-copyright-free-comic-audio-music-streams/"><u>New 2024 Approved Essential Listings for Authentic Copyright-Free Comic Audio Music Streams</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-free-audio-workflow-with-audacity-tips-and-tricks-for-effective-recording/"><u>New 2024 Approved Free Audio Workflow with Audacity Tips and Tricks for Effective Recording</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-finding-authentic-clap-sound-implementations-for-projects/"><u>New Finding Authentic Clap Sound Implementations for Projects</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unleash-your-creativity-with-makeblock-mbot-an-in-depth-guide-on-building-and-programming-the-ultimate-diy-robot/"><u>Unleash Your Creativity with Makeblock mBot: An In-Depth Guide on Building & Programming the Ultimate DIY Robot</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-steps-for-creating-mp3-from-audacity-recordings/"><u>Updated Steps for Creating MP3 From Audacity Recordings</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/youtubes-top-unboxing-houses-and-their-fanbase/"><u>YouTube’s Top Unboxing Houses and Their Fanbase</u></a></li>
 </ul></div>
 

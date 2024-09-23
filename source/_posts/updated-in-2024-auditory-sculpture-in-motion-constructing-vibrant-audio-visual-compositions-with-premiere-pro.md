@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Auditory Sculpture in Motion Constructing Vibrant Audio-Visual Compositions with Premiere Pro
-date: 2024-09-08T01:03:12.158Z
-updated: 2024-09-14T20:27:58.864Z
+date: 2024-09-20T18:20:52.353Z
+updated: 2024-09-23T18:36:09.406Z
 tags: 
   - audio editing software
   - audio editing
@@ -259,6 +259,13 @@ If you want to download the entire cartoon sound effect, you need to register, l
 
 ![Tom and Jerry Sound Effects](https://images.wondershare.com/filmora/filmorapro/tom-and-jerry-sound-effects-min.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 5. Free SFX
 
 In FreeSFX website, you can find a range of comical cartoon sound effects that includes classic effects like descend, boink, impact, pop, musical, running, rip and snap, bounce spring, slide whistle, squelch and splat, horn and loads more.
@@ -322,10 +329,10 @@ MyInstant’s Spongebob soundboard offers a range of cartoon sound effects that 
 ![Spongebob Sound Effects](https://images.wondershare.com/filmora/filmorapro/spongebob-sound-effects.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2. Hanna Barbera Sound Effects
@@ -335,13 +342,6 @@ From Sounddogs, Hanna Barbera sound effects library, you can find over 2200 cart
 You can download the mp3 cartoon sound effects completely free by clicking on the Download ID number mentioned at the right end of each link.
 
 ![Hanna Barbera Sound Effects](https://images.wondershare.com/filmora/filmorapro/hanna-barbera-sound-effects.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3. Scooby Doo Running Sound
 
@@ -455,13 +455,6 @@ With over 1980 cartoon sound effects, the GRSites is one of the best free sites 
 
 ![GRSites cartoon site](https://images.wondershare.com/filmora/filmorapro/grsites-cartoon-sound.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 7. Cartoon Running Sound Effect
 
 If you are looking for cartoon running sound effect, turn to Episode 345 in 99PercentInvisible. You can download the complete transcript page of around 30 minutes to use it in your video. Use the cartoon running sound effect produced by 99pi to enhance your video.
@@ -475,6 +468,13 @@ The Big Fish Audio’s cartoon sound FX includes 23 free classic cartoon sound e
 You can click on the cartoon sound effect and listen to it or add it to your playlist. But, if you wish to download the free cartoon sound effects, you need to register and pay to use the sound effect.
 
 ![Big Fish Audio](https://images.wondershare.com/filmora/filmorapro/big-fish-audio-cartoon.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **You may also like:** [How to Extract Audio from Videos on Win/Mac/Phone >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -512,11 +512,117 @@ Follow @Benjamin Arango
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+## How to add photos to audio step by step guide
+
+### 1Import your photo and audio files
+
+ Install and run Video Editor. Choose from “16:9” or “4:3” ratio rate. Then click the “Import” button to import your photo and audio files. You can also directly drag and drop the files to the program.
+
+![how to add photos to audio](https://images.wondershare.com/images/multimedia/video-editor/video-editor-main-interface.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+### 2Add photos to audio and rearrange them
+
+ Then select these added files and move them to the corresponding tracks on the timeline panel below. The photos should be placed on the video track and the audio file on the music track. Then put the photos in the order you want them to appear in your creation. After that, adjust timing by highlighting and target file and moving the red slider.
+
+ Besides that, you can also improve the quality of your photos and even apply special effects to them. To review the list of available filters and effects, click the “Effects” button in the tool bar to display the menu. Here is a detailed guide about how to apply effects to video.
+
+ If the audio file needs editing, double click it and adjust the volume and pitch or add fade in or fade out effect in the pop up window.
+
+![add photos to audio](https://images.wondershare.com/images/multimedia/video-editor/audio-detach.jpg)
+
+### 3Share or save our own creation
+
+ After adding photos to audio, you can save the creation in different ways. In the “Format” tab, you can save the file in any popular media format. If you want the file be played on mobile devices, go to the “Device” tab and choose one of the devices from the list.
+
+ Of course, publish it in social media like Facebook and YouTube is also another good choice if you want to share the video with your friend. To do this, click the “Create” button and go to the “YouTube” tab. Fill in the information and this program will publish your creation to the social media pages - it will be uploaded promptly and properly. You can also burn a DVD and present your family or friends with a beautifully packaged disk.
+
+![how to add photos to audio](https://images.wondershare.com/images/multimedia/video-editor/video-editor-output.jpg)
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+Shanoon Cox
+
+Shanoon Cox is a writer and a lover of all things video.
+
+Follow @Shanoon Cox
+
+##### Shanoon Cox
+
+ Mar 27, 2024• Proven solutions
+
+ Want to add photos to audio so that you can upload it to YouTube? Or want to turn your photo albums into a stunning slideshow? You can do it quickly in the video editing software like [Wondershare Filmora (originally Wondershare Video Editor)](https://tools.techidaily.com/wondershare/filmora/download/). This powerful tool will help you easily make a creative creation on your own. Follow the simple five-step instructions below to learn how to add photos to audio with just three simple steps.
+
+ Simply free download filmora video editor if you don't have it yet.
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+## How to add photos to audio step by step guide
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+### 1Import your photo and audio files
+
+ Install and run Video Editor. Choose from “16:9” or “4:3” ratio rate. Then click the “Import” button to import your photo and audio files. You can also directly drag and drop the files to the program.
+
+![how to add photos to audio](https://images.wondershare.com/images/multimedia/video-editor/video-editor-main-interface.jpg)
+
+### 2Add photos to audio and rearrange them
+
+ Then select these added files and move them to the corresponding tracks on the timeline panel below. The photos should be placed on the video track and the audio file on the music track. Then put the photos in the order you want them to appear in your creation. After that, adjust timing by highlighting and target file and moving the red slider.
+
+ Besides that, you can also improve the quality of your photos and even apply special effects to them. To review the list of available filters and effects, click the “Effects” button in the tool bar to display the menu. Here is a detailed guide about how to apply effects to video.
+
+ If the audio file needs editing, double click it and adjust the volume and pitch or add fade in or fade out effect in the pop up window.
+
+![add photos to audio](https://images.wondershare.com/images/multimedia/video-editor/audio-detach.jpg)
+
+### 3Share or save our own creation
+
+ After adding photos to audio, you can save the creation in different ways. In the “Format” tab, you can save the file in any popular media format. If you want the file be played on mobile devices, go to the “Device” tab and choose one of the devices from the list.
+
+ Of course, publish it in social media like Facebook and YouTube is also another good choice if you want to share the video with your friend. To do this, click the “Create” button and go to the “YouTube” tab. Fill in the information and this program will publish your creation to the social media pages - it will be uploaded promptly and properly. You can also burn a DVD and present your family or friends with a beautifully packaged disk.
+
+![how to add photos to audio](https://images.wondershare.com/images/multimedia/video-editor/video-editor-output.jpg)
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+Shanoon Cox
+
+Shanoon Cox is a writer and a lover of all things video.
+
+Follow @Shanoon Cox
+
+##### Shanoon Cox
+
+ Mar 27, 2024• Proven solutions
+
+ Want to add photos to audio so that you can upload it to YouTube? Or want to turn your photo albums into a stunning slideshow? You can do it quickly in the video editing software like [Wondershare Filmora (originally Wondershare Video Editor)](https://tools.techidaily.com/wondershare/filmora/download/). This powerful tool will help you easily make a creative creation on your own. Follow the simple five-step instructions below to learn how to add photos to audio with just three simple steps.
+
+ Simply free download filmora video editor if you don't have it yet.
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to add photos to audio step by step guide
@@ -537,43 +643,43 @@ Follow @Benjamin Arango
 
 ![add photos to audio](https://images.wondershare.com/images/multimedia/video-editor/audio-detach.jpg)
 
+### 3Share or save our own creation
+
+ After adding photos to audio, you can save the creation in different ways. In the “Format” tab, you can save the file in any popular media format. If you want the file be played on mobile devices, go to the “Device” tab and choose one of the devices from the list.
+
+ Of course, publish it in social media like Facebook and YouTube is also another good choice if you want to share the video with your friend. To do this, click the “Create” button and go to the “YouTube” tab. Fill in the information and this program will publish your creation to the social media pages - it will be uploaded promptly and properly. You can also burn a DVD and present your family or friends with a beautifully packaged disk.
+
+![how to add photos to audio](https://images.wondershare.com/images/multimedia/video-editor/video-editor-output.jpg)
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+Shanoon Cox
+
+Shanoon Cox is a writer and a lover of all things video.
+
+Follow @Shanoon Cox
+
+##### Shanoon Cox
+
+ Mar 27, 2024• Proven solutions
+
+ Want to add photos to audio so that you can upload it to YouTube? Or want to turn your photo albums into a stunning slideshow? You can do it quickly in the video editing software like [Wondershare Filmora (originally Wondershare Video Editor)](https://tools.techidaily.com/wondershare/filmora/download/). This powerful tool will help you easily make a creative creation on your own. Follow the simple five-step instructions below to learn how to add photos to audio with just three simple steps.
+
+ Simply free download filmora video editor if you don't have it yet.
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+## How to add photos to audio step by step guide
+
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
-### 3Share or save our own creation
-
- After adding photos to audio, you can save the creation in different ways. In the “Format” tab, you can save the file in any popular media format. If you want the file be played on mobile devices, go to the “Device” tab and choose one of the devices from the list.
-
- Of course, publish it in social media like Facebook and YouTube is also another good choice if you want to share the video with your friend. To do this, click the “Create” button and go to the “YouTube” tab. Fill in the information and this program will publish your creation to the social media pages - it will be uploaded promptly and properly. You can also burn a DVD and present your family or friends with a beautifully packaged disk.
-
-![how to add photos to audio](https://images.wondershare.com/images/multimedia/video-editor/video-editor-output.jpg)
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
-
-Shanoon Cox
-
-Shanoon Cox is a writer and a lover of all things video.
-
-Follow @Shanoon Cox
-
-##### Shanoon Cox
-
- Mar 27, 2024• Proven solutions
-
- Want to add photos to audio so that you can upload it to YouTube? Or want to turn your photo albums into a stunning slideshow? You can do it quickly in the video editing software like [Wondershare Filmora (originally Wondershare Video Editor)](https://tools.techidaily.com/wondershare/filmora/download/). This powerful tool will help you easily make a creative creation on your own. Follow the simple five-step instructions below to learn how to add photos to audio with just three simple steps.
-
- Simply free download filmora video editor if you don't have it yet.
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-## How to add photos to audio step by step guide
-
 ### 1Import your photo and audio files
 
  Install and run Video Editor. Choose from “16:9” or “4:3” ratio rate. Then click the “Import” button to import your photo and audio files. You can also directly drag and drop the files to the program.
@@ -590,97 +696,12 @@ Follow @Shanoon Cox
 
 ![add photos to audio](https://images.wondershare.com/images/multimedia/video-editor/audio-detach.jpg)
 
-### 3Share or save our own creation
-
- After adding photos to audio, you can save the creation in different ways. In the “Format” tab, you can save the file in any popular media format. If you want the file be played on mobile devices, go to the “Device” tab and choose one of the devices from the list.
-
- Of course, publish it in social media like Facebook and YouTube is also another good choice if you want to share the video with your friend. To do this, click the “Create” button and go to the “YouTube” tab. Fill in the information and this program will publish your creation to the social media pages - it will be uploaded promptly and properly. You can also burn a DVD and present your family or friends with a beautifully packaged disk.
-
-![how to add photos to audio](https://images.wondershare.com/images/multimedia/video-editor/video-editor-output.jpg)
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
-
-Shanoon Cox
-
-Shanoon Cox is a writer and a lover of all things video.
-
-Follow @Shanoon Cox
-
-##### Shanoon Cox
-
- Mar 27, 2024• Proven solutions
-
- Want to add photos to audio so that you can upload it to YouTube? Or want to turn your photo albums into a stunning slideshow? You can do it quickly in the video editing software like [Wondershare Filmora (originally Wondershare Video Editor)](https://tools.techidaily.com/wondershare/filmora/download/). This powerful tool will help you easily make a creative creation on your own. Follow the simple five-step instructions below to learn how to add photos to audio with just three simple steps.
-
- Simply free download filmora video editor if you don't have it yet.
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-## How to add photos to audio step by step guide
-
-### 1Import your photo and audio files
-
- Install and run Video Editor. Choose from “16:9” or “4:3” ratio rate. Then click the “Import” button to import your photo and audio files. You can also directly drag and drop the files to the program.
-
-![how to add photos to audio](https://images.wondershare.com/images/multimedia/video-editor/video-editor-main-interface.jpg)
-
-### 2Add photos to audio and rearrange them
-
- Then select these added files and move them to the corresponding tracks on the timeline panel below. The photos should be placed on the video track and the audio file on the music track. Then put the photos in the order you want them to appear in your creation. After that, adjust timing by highlighting and target file and moving the red slider.
-
- Besides that, you can also improve the quality of your photos and even apply special effects to them. To review the list of available filters and effects, click the “Effects” button in the tool bar to display the menu. Here is a detailed guide about how to apply effects to video.
-
- If the audio file needs editing, double click it and adjust the volume and pitch or add fade in or fade out effect in the pop up window.
-
-![add photos to audio](https://images.wondershare.com/images/multimedia/video-editor/audio-detach.jpg)
-
-### 3Share or save our own creation
-
- After adding photos to audio, you can save the creation in different ways. In the “Format” tab, you can save the file in any popular media format. If you want the file be played on mobile devices, go to the “Device” tab and choose one of the devices from the list.
-
- Of course, publish it in social media like Facebook and YouTube is also another good choice if you want to share the video with your friend. To do this, click the “Create” button and go to the “YouTube” tab. Fill in the information and this program will publish your creation to the social media pages - it will be uploaded promptly and properly. You can also burn a DVD and present your family or friends with a beautifully packaged disk.
-
-![how to add photos to audio](https://images.wondershare.com/images/multimedia/video-editor/video-editor-output.jpg)
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
-
-Shanoon Cox
-
-Shanoon Cox is a writer and a lover of all things video.
-
-Follow @Shanoon Cox
-
-##### Shanoon Cox
-
- Mar 27, 2024• Proven solutions
-
- Want to add photos to audio so that you can upload it to YouTube? Or want to turn your photo albums into a stunning slideshow? You can do it quickly in the video editing software like [Wondershare Filmora (originally Wondershare Video Editor)](https://tools.techidaily.com/wondershare/filmora/download/). This powerful tool will help you easily make a creative creation on your own. Follow the simple five-step instructions below to learn how to add photos to audio with just three simple steps.
-
- Simply free download filmora video editor if you don't have it yet.
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-## How to add photos to audio step by step guide
-
-### 1Import your photo and audio files
-
- Install and run Video Editor. Choose from “16:9” or “4:3” ratio rate. Then click the “Import” button to import your photo and audio files. You can also directly drag and drop the files to the program.
-
-![how to add photos to audio](https://images.wondershare.com/images/multimedia/video-editor/video-editor-main-interface.jpg)
-
-### 2Add photos to audio and rearrange them
-
- Then select these added files and move them to the corresponding tracks on the timeline panel below. The photos should be placed on the video track and the audio file on the music track. Then put the photos in the order you want them to appear in your creation. After that, adjust timing by highlighting and target file and moving the red slider.
-
- Besides that, you can also improve the quality of your photos and even apply special effects to them. To review the list of available filters and effects, click the “Effects” button in the tool bar to display the menu. Here is a detailed guide about how to apply effects to video.
-
- If the audio file needs editing, double click it and adjust the volume and pitch or add fade in or fade out effect in the pop up window.
-
-![add photos to audio](https://images.wondershare.com/images/multimedia/video-editor/audio-detach.jpg)
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3Share or save our own creation
 
@@ -716,20 +737,17 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/1716069536407-new-2024-approved-efficient-chrome-os-snaps-4-techniques-to-try/"><u>[New] 2024 Approved Efficient Chrome OS Snaps - 4 Techniques to Try!</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-why-are-status-emojis-blue-understanding-fbs-visual-language/"><u>[Updated] 2024 Approved Why Are Status Emojis Blue? Understanding FB's Visual Language</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-professional-drone-review-best-5-to-consider/"><u>[Updated] Professional Drone Review Best 5 to Consider</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/windows-112024-8/"><u>【Windows 11】2024新着！最適な無料動画編集ツール ランキングトップ8選び方説明</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-streamlining-screen-record-on-snapchats-with-your-phone/"><u>2024 Approved Streamlining Screen Record on Snapchats with Your Phone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/achieving-livestream-control-fifteen-innovative-techniques/"><u>Achieving Livestream Control Fifteen Innovative Techniques</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/essential-roles-and-their-impact-during-filming-phase/"><u>Essential Roles and Their Impact During Filming Phase</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/in-2024-50-best-film-scores-an-assortment-for-every-video-format-and-theme/"><u>In 2024, 50 Best Film Scores An Assortment for Every Video Format and Theme</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-full-guide-to-bypass-samsung-galaxy-z-fold-5-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Samsung Galaxy Z Fold 5 FRP</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-how-to-add-a-streamline-of-youtube-playlists-on-your-website/"><u>In 2024, How to Add a Streamline of YouTube Playlists on Your Website</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-finding-the-best-dog-noise-samples-for-audio-creators/"><u>New 2024 Approved Finding the Best Dog Noise Samples for Audio Creators</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-your-ultimate-source-list-the-top-picks-of-copyright-friendly-comic-soundtracks-websites/"><u>New Your Ultimate Source List The Top Picks of Copyright-Friendly Comic Soundtracks Websites</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/top-12-prominent-oppo-find-n3-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Oppo Find N3 Fingerprint Not Working Solutions</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-amplify-visual-audio-levels-enhancing-video-clarity-and-audibility/"><u>Updated 2024 Approved Amplify Visual Audio Levels Enhancing Video Clarity and Audibility</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-step-by-step-to-silence-zoom-microphones-on-windows-macos-and-android-devices-for-2024/"><u>Updated Step by Step to Silence Zoom Microphones on Windows, macOS, and Android Devices for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-achieving-high-definition-zoom-calls-with-filter-skills/"><u>[New] 2024 Approved Achieving High-Definition Zoom Calls with Filter Skills</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-the-pinnacle-of-iphone-photography-finding-ultimate-angles-for-2024/"><u>[New] The Pinnacle of iPhone Photography Finding Ultimate Angles for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/2024-approved-locating-the-dynamics-of-whistling-audio/"><u>2024 Approved Locating the Dynamics of Whistling Audio</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/essential-sites-for-fetching-video-intro-files/"><u>Essential Sites for Fetching Video Intro Files</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-cutting-edge-technology-with-toms-hardware-hub/"><u>Exploring Cutting-Edge Technology with Tom's Hardware Hub</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/final-cut-pro-time-lapse-tutorial-from-start-to-finish/"><u>Final Cut Pro Time Lapse Tutorial From Start to Finish</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-free-software-showdown-the-leading-10-audio-capture-utilities/"><u>In 2024, Free Software Showdown The Leading 10 Audio Capture Utilities</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-6s-plus-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 6s Plus?</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/navigating-to-horror-film-soundscape-pieces/"><u>Navigating to Horror Film Soundscape Pieces</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-no-fuss-vocal-elimination-procedures-for-audacity-professionals/"><u>Updated 2024 Approved No-Fuss Vocal Elimination Procedures for Audacity Professionals</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-awaken-your-creative-flow-pro-bargain-tunes-for-video-editing-for-2024/"><u>Updated Awaken Your Creative Flow Pro Bargain Tunes for Video Editing for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-discovering-the-chirping-noise-of-crickets/"><u>Updated In 2024, Discovering the Chirping Noise of Crickets</u></a></li>
 </ul></div>
 

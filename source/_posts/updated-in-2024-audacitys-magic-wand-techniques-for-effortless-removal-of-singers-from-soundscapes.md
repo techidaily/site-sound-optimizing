@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Audacitys Magic Wand Techniques for Effortless Removal of Singers From Soundscapes
-date: 2024-09-12T22:37:48.073Z
-updated: 2024-09-14T23:20:02.624Z
+date: 2024-09-20T17:04:50.445Z
+updated: 2024-09-23T16:40:32.812Z
 tags: 
   - audio editing software
   - audio editing
@@ -46,13 +46,6 @@ Select the song or audio track from which you want to remove the vocals. This al
 
 ![file import](https://images.wondershare.com/filmora/article-images/2023/quick-and-easy-vocal-removal-in-audacity-a-guide-3.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Step 4: Export as MP3**
 
 Backup the file so that you still have the whole song available for use later. Go to File > Export > Export as MP3\. Audacity will export the track in the original file format. If it was a WAV audio file, the export will be to that type. This ensures that the audio artifacts are kept in the best condition for editing. Be sure to name the exported file in something you will easily remember.
@@ -64,6 +57,13 @@ Backup the file so that you still have the whole song available for use later. G
 Once you have exported the audio file, click “Close “on the original file. Then import the file you exported in the last step.
 
 ![import new audio file](https://images.wondershare.com/filmora/article-images/2023/quick-and-easy-vocal-removal-in-audacity-a-guide-5.JPG)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Step 6: Apply Vocal Reduction and Isolation**
 
@@ -94,19 +94,6 @@ Start by importing your audio track or song file into Audacity.
 In the title of the audio, click the Down Arrow. Then select Split Stereo to Mono.
 
 ![split stereo to mono](https://images.wondershare.com/filmora/article-images/2023/quick-and-easy-vocal-removal-in-audacity-a-guide-9.JPG)
-
-<!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Step 3: Play Solo**
 
@@ -180,13 +167,6 @@ The first thing you need to do is open the Audacity software in preparation for 
 
 ![open audacity](https://images.wondershare.com/filmora/article-images/2023/quick-and-easy-vocal-removal-in-audacity-a-guide-1.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Step 2: Import the Audio Track**
 
 Go to File > Import > Audio to import the audio track you want to edit.
@@ -205,13 +185,6 @@ Backup the file so that you still have the whole song available for use later. G
 
 ![export audio](https://images.wondershare.com/filmora/article-images/2023/quick-and-easy-vocal-removal-in-audacity-a-guide-4.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Step 5: Import the New Audio File**
 
 Once you have exported the audio file, click “Close “on the original file. Then import the file you exported in the last step.
@@ -223,6 +196,13 @@ Once you have exported the audio file, click “Close “on the original file. T
 Click on Select, then Select All. On the Effect drop-down menu, select Audacity Vocal Reduction and Isolation.
 
 ![apply vocal reduction](https://images.wondershare.com/filmora/article-images/2023/quick-and-easy-vocal-removal-in-audacity-a-guide-6.JPG)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Step 7: Remove Vocals**
 
@@ -282,6 +262,13 @@ Click on the Filmora icon on your desktop to launch the software. Log in to sign
 
 ![launch filmora](https://images.wondershare.com/filmora/article-images/2023/quick-and-easy-vocal-removal-in-audacity-a-guide-12.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### **Step 2: Import Source Files and Add to Timeline**
 
 On the Main Filmora Interface, select Media from the custom toolbar. Then click Files and import the files you want to use to Filmora. Select the imported files, and drag and drop them into the timeline panel.
@@ -299,6 +286,13 @@ Select the audio track or music clip you want to use in the timeline. Navigate t
 Once you upload media Filmora, select the media that you want to remove vocal from. Then drag and drop it to the timeline panel. Right-click on the video and choose the AI Vocal Remover from the options panel. This will automatically remove vocals from the video.
 
 ![ai vocal remover method 2](https://images.wondershare.com/filmora/article-images/2023/quick-and-easy-vocal-removal-in-audacity-a-guide-15.JPG)
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Compared to Audacity, Filmora’s AI Vocal Remover tool is quick and easy to use. It will facilitate your video editing process by allowing you to remove vocals and use instrumentals on the go. For instance, this feature allows you to easily dub any video without having to cover up the current vocals. This means that your videos will be more entertaining and engaging while keeping great soundtracks. Match the energy in your videos with the quality of the instrumentals with just a few clicks.
 
@@ -368,6 +362,13 @@ Using Thematic is not at all difficult. You have to become a member of it. As so
 
 ![thematic](https://images.wondershare.com/filmora/article-images/2022/popular-sites-to-download-bgm-music-in-2022-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 6\. ccMixter
 
 Up next is the ccMixter in line. This is a collaborative platform for musicians. On ccMixter, firstly, singers upload their vocals. Then musicians share samples. Lastly, DJs mix them to create stunning songs. All the songs on ccMixter are under Creative Commons License. Its price range is free but with attribution.
@@ -399,13 +400,6 @@ Jumping on to the next site. This is Incompetech. Kevin Macleod, an American com
 The interface of Incompetech is straightforward. You can easily understand it and search for your background music. The site offers a wide range of backgrounds like horror, BGM, comedy, etc.
 
 ![incompetech](https://images.wondershare.com/filmora/article-images/2022/popular-sites-to-download-bgm-music-in-2022-9.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 10\. StoryBlocks
 
@@ -521,6 +515,19 @@ Select a file to be imported or drag and drop it to the slides. Click Apply Sett
 
 ![apply audio settings](https://images.wondershare.com/filmora/article-images/2-apply-audio-settings.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Open the Audio effects drop-down menu, tap on Filters, and finally on Gate.
 
 ![audio effects](https://images.wondershare.com/filmora/article-images/3-audio-effects.jpg)
@@ -612,6 +619,13 @@ Playback your video on the line and check whether the voice quality has been imp
 Filmora supports various video formats. You can select the format you want and export the video or upload your video to Youtube and Vimeo directly. Once done, click Export to save or export your video.
 
 ![filmora export panel](https://images.wondershare.com/filmora/article-images/filmora-export-panel-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Tips:
 
@@ -942,6 +956,13 @@ Open the Audio effects drop-down menu, tap on Filters, and finally on Gate.
 Now, adjust the threshold level in the right panel by reducing it.
 
 ![adjust threshold value](https://images.wondershare.com/filmora/article-images/4-adjust-threshold-level.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Similarly, adjust the Attack and Release levels to reduce the background noise.
 
@@ -997,21 +1018,22 @@ Detailed tutorials provided by the official channel
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-top-screen-savers-webs-best-free-choices-for-2024/"><u>[New] Top Screen Savers Web's Best Free Choices for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-leading-video-call-applications-for-conference-success/"><u>[Updated] In 2024, Leading Video Call Applications for Conference Success</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-mastering-the-mechanics-of-zoom-techniques-for-top-notch-podcast-recordings/"><u>2024 Approved Mastering the Mechanics of Zoom Techniques for Top-Notch Podcast Recordings</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/2024-approved-modifying-sound-intensity-in-video-and-music-files/"><u>2024 Approved Modifying Sound Intensity in Video and Music Files</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/fast-track-missing-snap-finders-for-2024/"><u>Fast-Track Missing Snap Finders for 2024</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/in-2024-guide-to-removing-melodic-elements-focusing-on-basslines-for-media-projects/"><u>In 2024, Guide to Removing Melodic Elements Focusing on Basslines for Media Projects</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Honor X50 GT | Dr.fone</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-share-live-feeds-skip-the-retweet-tactics/"><u>In 2024, Share Live Feeds Skip the Retweet Tactics</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/in-2024-the-ultimate-guide-to-affordable-stock-photography-insights-from-pexelscom/"><u>In 2024, The Ultimate Guide to Affordable Stock Photography Insights From Pexels.com</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-transforming-engagement-on-instagram-top-10-compelling-igtv-content-concepts-for-brands/"><u>In 2024, Transforming Engagement on Instagram Top 10 Compelling IGTV Content Concepts for Brands</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-the-editors-edge-techniques-for-removing-background-noise-and-selective-muting-in-video-post-production/"><u>New In 2024, The Editors Edge Techniques for Removing Background Noise and Selective Muting in Video Post-Production</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-the-ultimate-tutorial-computer-sound-recordings-with-audacity/"><u>New In 2024, The Ultimate Tutorial Computer Sound Recordings with Audacity</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-the-essential-guide-to-implementing-lame-for-high-quality-auditory-outputs-in-audacity/"><u>New The Essential Guide to Implementing Lame for High-Quality Auditory Outputs in Audacity</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-vivo-v30-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Vivo V30 to PC- Detailed Steps | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlock-the-potential-of-chatgpt-on-your-macos-device/"><u>Unlock the Potential of ChatGPT on Your macOS Device</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-auditory-cuts-and-segments-convenient-methods-to-divide-your-music-files/"><u>Updated 2024 Approved Auditory Cuts and Segments Convenient Methods to Divide Your Music Files</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-mastering-the-art-of-navigating-telegram-web-applications/"><u>[New] Mastering the Art of Navigating Telegram Web Applications</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-obs-studio-explained-capturing-ps4-playthroughs/"><u>[New] OBS Studio Explained Capturing PS4 Playthroughs</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-all-encompassing-az-screenshot-tool-app-evaluations-for-2024/"><u>[Updated] All-Encompassing AZ Screenshot Tool App Evaluations for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-crafting-videos-youtube-tools-and-more-for-2024/"><u>[Updated] Crafting Videos YouTube Tools and More for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-adapt-images-to-any-size-on-your-iphone-instantly/"><u>2024 Approved Adapt Images to Any Size on Your iPhone Instantly</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/a-comedians-guide-to-the-best-free-royalty-free-background-music-sources/"><u>A Comedians Guide to the Best Free, Royalty-Free Background Music Sources</u></a></li>
+<li><a href="https://some-tips.techidaily.com/automated-marketing-with-customized-user-tracking/"><u>Automated Marketing with Customized User Tracking</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-techniques-for-swiftly-finding-deleted-reddit-contributions/"><u>In 2024, Techniques for Swiftly Finding Deleted Reddit Contributions</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-realme-narzo-60x-5g-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Realme Narzo 60x 5G without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-5-popular-tools-to-help-you-distort-audio/"><u>New 2024 Approved 5 Popular Tools to Help You Distort Audio</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-top-5-effects-for-reshaping-sound-tracks/"><u>New 2024 Approved Top 5 Effects for Reshaping Sound Tracks</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/simple-setup-winning-the-art-of-fishy-voice-transformation/"><u>Simple Setup Winning the Art of Fishy Voice Transformation</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-approaches-to-isolate-and-omit-audio-from-video-content/"><u>Updated 2024 Approved Approaches to Isolate and Omit Audio From Video Content</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-crafting-silent-elegance-the-art-of-audio-ducking-in-video-editing-with-adobe-premiere-pro-on-mac/"><u>Updated 2024 Approved Crafting Silent Elegance The Art of Audio Ducking in Video Editing with Adobe Premiere Pro on Mac</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-cutting-edge-music-editing-software-roundup-the-top-10-compatible-apps-for-windows-and-mac/"><u>Updated 2024 Approved Cutting-Edge Music Editing Software Roundup The Top 10 Compatible Apps for Windows and Mac</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-how-to-remove-audio-from-mkv-2023-update-for-2024/"><u>Updated How to Remove Audio From MKV-2023 Update for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-securing-purity-in-recordings-the-art-of-removing-hum-and-hissing-sounds/"><u>Updated In 2024, Securing Purity in Recordings The Art of Removing Hum and Hissing Sounds</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Issue: How to Resolve 'Elden Ring' Initializing with a Black Display"
-date: 2024-09-14T19:22:42.355Z
-updated: 2024-09-18T17:12:17.239Z
+date: 2024-09-17T18:30:10.890Z
+updated: 2024-09-23T18:26:29.446Z
 tags:
   - win11
   - win10
@@ -40,19 +40,6 @@ thumbnail: https://thmb.techidaily.com/9d142af41b1de506fdf32554a7ece9543f1d4a28a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/click-on-the-Check-for-updates-tab.png)
 
-<!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### On Windows 11
 
 1. On your keyboard, hit the**Windows** key, then type**check for update** s, then click C**heck for updates** .  
@@ -79,15 +66,22 @@ thumbnail: https://thmb.techidaily.com/9d142af41b1de506fdf32554a7ece9543f1d4a28a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/audio-run-the-troubleshooter.png)  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If there are no troubleshooters showing up here, click**Additional troubleshooters** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/troubleshoot-additional-troubleshooters.png)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### On Windows 11
@@ -95,6 +89,13 @@ thumbnail: https://thmb.techidaily.com/9d142af41b1de506fdf32554a7ece9543f1d4a28a
 1. On your keyboard, press the **Windows log** o key + **R** at the same time. Type **control**  in the Run box, and press **Enter** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/03/control.jpg)
 2. On the top right corner, click View by **Large icons** . Scroll down and select **Troubleshooting** .  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2021/03/troubleshooting.jpg)
 3. Click **Run** for **Audio**  troubleshooter.  
@@ -114,7 +115,21 @@ If Windows fails to troubleshoot your issues, try the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/set-thx-spatial-audio-as-default-playback-device.png)
 3. Then in the APPLICATION MIXER section, select**Spatial Audio** as the output.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/application-mixer.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After you’ve done these, you should be able to enjoy the THX Spatial feature on your audio device.
 
@@ -133,6 +148,13 @@ If Windows fails to troubleshoot your issues, try the next fix below.
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/Realtek-High-Definition-Audio.jpg)
 4. After updating, restart your computer to take effect.
@@ -140,6 +162,13 @@ If Windows fails to troubleshoot your issues, try the next fix below.
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  When the update completes, restart your computer. Then play supported content to check for changes.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Perform a system restore
 
@@ -152,27 +181,14 @@ If Windows fails to troubleshoot your issues, try the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/perform-a-system-restore-step-1.png)
 2. Under the Protection Settings section, select your System driver and click on the**Configure…** button if the protection is not turned on.  
 
-<!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/configure-protection.png)
 3. Tick**Turn on system protection** . Then click**OK** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/turn-on-system-protection.png)
@@ -185,13 +201,6 @@ If Windows fails to troubleshoot your issues, try the next fix below.
 6. When it successfully created the restore point, click**Close** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/close-the-window.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  However, if none of the solutions listed above gives you any luck, you may need to check if there are any missing or corrupted system files. You can use the System File Checker tool (sfc /scannow) to look for any critical system issues, but most of the time it only scans major files and may miss minor issues.
 
@@ -224,16 +233,15 @@ If Windows fails to troubleshoot your issues, try the next fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/5-must-have-openers-for-maximum-youtube-engagement/"><u>[New] 15 Must-Have Openers for Maximum YouTube Engagement</u></a></li>
-<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-oppo-reno-8t-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Oppo Reno 8T | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Samsung Galaxy F54 5G? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-contacts-from-infinix-gt-10-pro-by-fonelab-android-recover-contacts/"><u>How to get back lost contacts from Infinix GT 10 Pro.</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-3-ways-to-unlock-your-iphone-15-for-free-by-drfone-ios/"><u>In 2024, 3 Ways to Unlock Your iPhone 15 for Free</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-essential-knowledge-for-compiling-a-top-notch-auditory-archive-on-youtube/"><u>New Essential Knowledge for Compiling a Top-Notch Auditory Archive on YouTube</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolve-your-nvidia-geforce-overlay-problem-today-with-these-expert-tips/"><u>Resolve Your Nvidia GeForce Overlay Problem Today with These Expert Tips</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/seeking-out-elaborate-zombie-soundtracks-for-2024/"><u>Seeking Out Elaborate Zombie Soundtracks for 2024</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/the-art-of-low-pitched-audio-transforming-your-voice-in-filmora-2023-for-2024/"><u>The Art of Low-Pitched Audio Transforming Your Voice in Filmora 2023 for 2024</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-experts-choice-the-top-10-digital-stores-specializing-in-montage-music-downloads/"><u>Updated 2024 Approved Experts Choice The Top 10 Digital Stores Specializing in Montage Music Downloads</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-realme-gt-3-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Realme GT 3? | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-top-10-escape-room-games-you-should-try/"><u>[New] 2024 Approved Top 10 Escape Room Games You Should Try</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-a-comprehensive-guide-to-softening-images-with-iphone-software/"><u>[New] A Comprehensive Guide to Softening Images with iPhone Software</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-freemacos-the-ultimate-screen-logger-for-2024/"><u>[Updated] FreeMacOS The Ultimate Screen Logger for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-legal-landscapes-understanding-youtube-and-cc-divergences/"><u>[Updated] Legal Landscapes Understanding YouTube & CC Divergences</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/gratuito-conversor-de-imagens-do-formato-ppm-para-bmp-online-usando-o-software-de-visualizacao-da-movavi/"><u>Gratuito Conversor De Imagens Do Formato PPM Para BMP Online - Usando O Software De Visualização Da Movavi</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-freeware-harmonies-to-accentuate-photo-stories-for-2024/"><u>New Freeware Harmonies to Accentuate Photo Stories for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-echo-eradication-professional-strategies-for-silencing-unwanted-acoustic-features/"><u>New In 2024, Echo Eradication Professional Strategies for Silencing Unwanted Acoustic Features</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-harmonizing-soundscape-a-comprehensive-guide-to-eq-adjustments/"><u>New In 2024, Harmonizing Soundscape A Comprehensive Guide to EQ Adjustments</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/resolving-handbrakes-encoding-interruption-problem/"><u>Resolving HandBrake's Encoding Interruption Problem</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-awaken-your-creative-flow-pro-bargain-tunes-for-video-editing-for-2024/"><u>Updated Awaken Your Creative Flow Pro Bargain Tunes for Video Editing for 2024</u></a></li>
 </ul></div>
 

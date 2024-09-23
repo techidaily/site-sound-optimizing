@@ -1,7 +1,7 @@
 ---
 title: New The Ultimate Guide to Pre-Processing Tracks Using Lame & Audacity for 2024
-date: 2024-09-14T19:16:11.159Z
-updated: 2024-09-18T18:18:05.833Z
+date: 2024-09-20T16:35:04.769Z
+updated: 2024-09-23T18:27:32.658Z
 tags: 
   - audio editing software
   - audio editing
@@ -52,6 +52,13 @@ You may either download or develop a suitable version of the Lame mp3 encoder, a
 
 ![preferences-for-library-resources](https://images.wondershare.com/preferences-for-library-resources.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Some distributions, such as the Ubuntu(Current) distribution, provide packages for Audacity, which includes mp3 encoding, and Libav, which is connected to the appropriate system libraries. It is not necessary to identify LAME or FFmpeg in the Audacity builds that have previously been packaged since there are no library choices for Audacity.
 
 If you construct Audacity from source code, you may disable libraries' preferences by setting Audacity as follows: Disable > Dynamic > Encoding > Disable > Dynamic > Encoding > Disable > Dynamic > Encoding. Finally, create an instance of Audacity that is connected to the LAME system. Additionally, you may build FFmpeg or Libav on your own computer if you so wish.
@@ -89,13 +96,6 @@ Chrome OS does not support the most recent version of Audacity. It is possible t
 
 ![lame-for-audacity-windows](https://images.wondershare.com/how-to-download-lame-for-audacity.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Installing Lame for Audacity is a simple process with no extra tools required. Right-click and choose "Install," then restart your computer. Continue to press the "Next" button until you've completed the task. A lame mp3 encoder may now be installed. However, here are the procedures to follow in order to utilize and begin the mp3 encoding process:
 
 * Open Audacity and choose "Edit" from the drop-down menu.
@@ -105,13 +105,6 @@ Installing Lame for Audacity is a simple process with no extra tools required. R
 * The "Preferences" menu in Audacity has a number of optional options. There is an option to modify the bit rate. Once you have finished adjusting the bit rate, you may return to the main Audacity page by clicking on the "OK" button.
 * Select "File" and then "Export to mp3" from the drop-down menu.
 * Save the file on your computer. You will be required to input the ID3 tags for the artist's name and the title of the music into the Audacity program. By clicking "Ok," the encoding procedure for the file into the mp3 format will begin.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Lame for Audacity Windows
 
@@ -303,6 +296,13 @@ Install and run this Wondershare Filmora. Then click the “Import” button to 
 
 ![extract audio from video - import media](https://images.wondershare.com/filmora/article-images/extract-audio-from-video-filmora9-media-library.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### 2. Start extracting audio from video
 
 ![extract audio from video](https://images.wondershare.com/filmora/article-images/detach-audio-filmora9.jpg)
@@ -368,10 +368,10 @@ Install and run this Wondershare Filmora. Then click the “Import” button to 
 ![extract audio from video](https://images.wondershare.com/filmora/article-images/detach-audio-filmora9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 After importing video to Wondershare Filmora, drag the video from the media library to the video Timeline. You can then right-click the video clip and choose “Audio Detach” to extract audio from the video. After a while, video and audio will be displayed on different tracks. If you don’t want to keep the video file, right-click it and choose “Delete” to remove it from the video timeline.
@@ -457,10 +457,10 @@ After that, click the “Export” button to export the extracted audio track. H
 ![save extracted audio in MP3](https://images.wondershare.com/filmora/article-images/mp3-export.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 To customize the audio Encoder, Sample Rate, Bit Rate or Channel settings, click the SETTINGS button to start.
@@ -474,10 +474,10 @@ Tips: Filmora supports a wide range of audio and video formats. You can easily e
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
@@ -539,6 +539,13 @@ Select a desirable output method and then click the “Export” button to save 
 Tips: Filmora supports a wide range of audio and video formats. You can easily extract mp3 from mp4 video, or extract the audio from video and then save it in .wav format.
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
@@ -613,6 +620,26 @@ Do you think editing is a chore? Try Fission Audio Editor, and this will change 
 Are you ready to learn more about Fission Audio Editor? This editing software allows Smart Split, Quick Audio Removal, and much more. It supports various formats, including FLAC, AIFF, MP3, WAV, etc. Should we share something remarkable about the editor? Well, it lets you create unique ringtones.
 
 ![fission audio editing](https://images.wondershare.com/filmora/article-images/2022/best-audio-editor-5.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 6\. Sound Forge Audio Editor
 
@@ -706,17 +733,15 @@ For macOS 10.12 or later
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-guideline-on-budgeting-for-music-video-filming/"><u>[New] Guideline on Budgeting for Music Video Filming</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/2024-approved-perfected-acoustic-parameters-for-electronics-optimization/"><u>2024 Approved Perfected Acoustic Parameters for Electronics Optimization</u></a></li>
-<li><a href="https://win11.techidaily.com/54sh5paz44gn5qw944gx44ka77yb44or44k944kz44oz5bcc55so44gu5pya6auy44gu5yaz55yf44k544op44kk44oj44k344on44o844oe44o844or44oq44k544oi/"><u>無料で楽しむ！パソコン専用の最高の写真スライドショーツールリスト</u></a></li>
-<li><a href="https://extra-information.techidaily.com/capture-clarity-selecting-best-gimbals-for-your-camera/"><u>Capture Clarity Selecting Best Gimbals for Your Camera</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/delay-in-ford-explorer-evs-arrival-expected-availability-now-set-for-next-years-summer-season/"><u>Delay in Ford Explorer EV's Arrival - Expected Availability Now Set for Next Year's Summer Season</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-device-descriptor-request-failed-expert-tips-to-resolve-your-usb-issues/"><u>Fixing Device Descriptor Request Failed - Expert Tips to Resolve Your USB Issues</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/in-2024-enhancing-visual-storytelling-with-background-tunes-a-filmora-approach/"><u>In 2024, Enhancing Visual Storytelling with Background Tunes A Filmora Approach</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/in-2024-global-top-rated-mp3-editing-applications/"><u>In 2024, Global Top-Rated MP3 Editing Applications</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-vivo-v27e-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Vivo V27e | Dr.fone</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-best-10-websites-to-download-montage-music/"><u>New Best 10 Websites to Download Montage Music</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/scheduled-file-destruction-made-simple-with-the-stellar-standard-eraser-for-macos/"><u>Scheduled File Destruction Made Simple with the Stellar Standard Eraser for macOS</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-mute-the-movie-guide-to-erasing-auditory-elements-from-various-video-formats/"><u>Updated 2024 Approved Mute the Movie Guide to Erasing Auditory Elements From Various Video Formats</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-simplified-guide-integrating-snapchat-with-your-mac-for-2024/"><u>[Updated] Simplified Guide Integrating Snapchat with Your Mac for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-mastering-medias-closing-chapters/"><u>2024 Approved Mastering Media's Closing Chapters</u></a></li>
+<li><a href="https://windows11.techidaily.com/clear-the-way-to-privacy-with-simple-steps-for-ms-defender/"><u>Clear the Way to Privacy with Simple Steps for MS Defender</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-guide-troubleshooting-and-correcting-stop-code-0x0000003d-issues/"><u>Comprehensive Guide: Troubleshooting and Correcting Stop Code 0X0000003D Issues</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-special-features-virtual-location-on-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Samsung Galaxy Z Flip 5? | Dr.fone</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/in-2024-audio-enhancement-the-2023-methodology-for-softening-volume-transitions/"><u>In 2024, Audio Enhancement The 2023 Methodology for Softening Volume Transitions</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigating-the-world-of-wireless-wallets-a-detailed-walkthrough-for-using-apple-pay-with-your-apple-watch/"><u>Navigating the World of Wireless Wallets: A Detailed Walkthrough for Using Apple Pay with Your Apple Watch</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-how-to-remove-hiss-from-audio-tips-and-tricks/"><u>New How to Remove Hiss From Audio Tips and Tricks</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-how-to-add-audio-fade-out-effect-for-2024/"><u>Updated How to Add Audio Fade Out Effect for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-locate-vocal-noise-sample/"><u>Updated Locate Vocal Noise Sample</u></a></li>
 </ul></div>
 

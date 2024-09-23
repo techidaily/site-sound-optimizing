@@ -1,7 +1,7 @@
 ---
 title: Unlock the Mystery Behind Phasmophobia's 90%% Load Plateau in Game Launches
-date: 2024-09-18T00:16:19.367Z
-updated: 2024-09-18T18:17:51.429Z
+date: 2024-09-16T17:48:35.258Z
+updated: 2024-09-23T17:32:12.230Z
 tags:
   - win11
   - win10
@@ -28,6 +28,13 @@ Phasmophobia is, according to the reviews, the best ghost game ever made. It all
 5. **[Run Steam as an administrator](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Reset your network](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Uninstall and reinstall Phasmophobia](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 1: Make sure your computer meets the specs
 
@@ -73,13 +80,6 @@ OR
 
  Once you’ve downloaded the drivers, double-click on the downloaded file and follow the on-screen instructions to install the drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Option 2 – Automatically update your drivers**
 
  If you don’t have the time, patience, or computer skills to update drivers manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -91,13 +91,6 @@ OR
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![update drivers automatically](https://images.drivereasy.com/wp-content/uploads/2020/09/scan-now-driver-easy-1.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.)
@@ -119,19 +112,6 @@ OR
 
 ![verify integrity of game files Phasmophobia stuck at 90% loading screen](https://images.drivereasy.com/wp-content/uploads/2020/10/click-on-Properties-1.png)
 
-<!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Select the**LOCAL FILES** tab and click the**VERIFY INTEGRITY OF GAME FILES…** button.
 
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files-1200x610.jpg)
@@ -139,6 +119,13 @@ OR
  3) Steam will verify the game’s files and this process may take several minutes. After it’s finished, launch your game to check if it works for you. If not, move on to the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 4: Delete the game’s save file
 
@@ -150,6 +137,13 @@ OR
 
 ![delete save file Phasmophobia stuck at 90% loading screen](https://images.drivereasy.com/wp-content/uploads/2020/10/delete-save-file.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Locate the**saveData.txt** file and delete it.
 
  4) Now relaunch your game to check if the issue is fixed.
@@ -157,6 +151,13 @@ OR
  Deleting the saved file has proven to be working for many users. But it probably would delete your progress.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 5: Run Steam as an administrator
 
@@ -171,15 +172,22 @@ OR
 ![run Steam as an administrator to fix Phasmophobia stuck at 90% loading screen](https://images.drivereasy.com/wp-content/uploads/2020/11/run-Steam-as-an-administrator-select-Properties-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Select the**Compatibility**  tab and check the box next to **Run this program as an administrator** . Then click **Apply > OK** .
 
 ![run Steam as an administrator to fix Phasmophobia stuck at 90% loading screen](https://images.drivereasy.com/wp-content/uploads/2020/11/run-steam-as-an-administrator-apply-ok.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 If this didn’t work, move on to the next fix.
 
@@ -199,19 +207,6 @@ Here’s how you can do this:
   
 ![do a network reset](https://images.drivereasy.com/wp-content/uploads/2020/10/network-reset-click-Reset-now.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click **Yes** .
 
 ![reset network to fix phosmophobia stuck at 90% loading screen](https://images.drivereasy.com/wp-content/uploads/2020/10/network-reset-click-Yes.jpg)
@@ -220,6 +215,13 @@ Now restart your computer and your problem should be fixed.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 7: Uninstall and reinstall Phasmophobia
 
  If, unfortunately, none of the fixes listed above work for you, you should consider uninstalling and reinstalling Phasmophobia. Though this will remove your progress.
@@ -227,6 +229,13 @@ Now restart your computer and your problem should be fixed.
 Take these steps:
 
  1) On your keyboard, press the**Windows logo key** ![windows logo key](https://images.drivereasy.com/wp-content/uploads/2020/10/Windows.png) and**R** at the same time to invoke the Run box.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Type**%appdata%LocalLowKinetic Games** and press**Enter** .
 
@@ -262,20 +271,14 @@ Take these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-fix-noted-shorts-now-shown-prominently-for-2024/"><u>[New] Fix Noted Shorts Now Shown Prominently for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-bridging-the-gap-between-youtube-and-instagram-stories-effectively/"><u>[New] In 2024, Bridging the Gap Between YouTube & Instagram Stories Effectively</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-ten-practical-ways-to-prevent-vr-sickness/"><u>[Updated] 2024 Approved Ten Practical Ways to Prevent VR Sickness</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-precision-tools-17-excellent-options-for-image-edits/"><u>2024 Approved Precision Tools 17 Excellent Options for Image Edits</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/basic-tips-how-to-record-and-save-google-voice-calls/"><u>Basic Tips How to Record and Save Google Voice Calls</u></a></li>
-<li><a href="https://change-location.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-vivo-x100-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On Vivo X100 | Dr.fone</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/exploring-online-collaboration-google-meet-for-2024/"><u>Exploring Online Collaboration Google Meet for 2024</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/in-2024-top-8-must-try-audio-capture-apps-for-live-broadcasting/"><u>In 2024, Top 8 Must-Try Audio Capture Apps for Live Broadcasting</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-call-of-duty-warzone-techniques-to-eliminate-hiccups-and-up-your-games-fps/"><u>Mastering Call of Duty: Warzone - Techniques to Eliminate Hiccups and Up Your Game's FPS</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/navigating-the-path-to-a-discounted-youtube-premium-account-as-a-learner/"><u>Navigating the Path to a Discounted YouTube Premium Account as a Learner</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-auditory-hunt-locating-authentic-cricket-sfx/"><u>Updated 2024 Approved Auditory Hunt Locating Authentic Cricket SFX</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-precision-in-recording-cutting-down-ambient-noises-using-advanced-filters/"><u>Updated 2024 Approved Precision in Recording Cutting Down Ambient Noises Using Advanced Filters</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-digital-music-layering-and-editing-suite/"><u>Updated In 2024, Digital Music Layering & Editing Suite</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-mp3-conversion-made-simple-3-effective-techniques-for-podcast-files/"><u>Updated In 2024, MP3 Conversion Made Simple 3 Effective Techniques for Podcast Files</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-rewind-and-play-the-quintet-of-best-opposite-direction-melodies-for-2024/"><u>Updated Rewind and Play The Quintet of Best Opposite-Direction Melodies for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-enhancing-engagement-through-thoughtful-youtube-tags/"><u>[Updated] In 2024, Enhancing Engagement Through Thoughtful YouTube Tags</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-instagram-video-magic-techniques-to-elevate-your-social-media-impact/"><u>[Updated] In 2024, Instagram Video Magic Techniques to Elevate Your Social Media Impact</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-become-a-headline-hero-proven-strategies-in-focus/"><u>2024 Approved Become a Headline Hero Proven Strategies in Focus</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-groovegrid-an-online-repository-of-dj-classics/"><u>New 2024 Approved GrooveGrid An Online Repository of DJ Classics</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-mastering-audio-downloads-a-guide-to-collecting-podcast-episodes-on-pc/"><u>New 2024 Approved Mastering Audio Downloads A Guide to Collecting Podcast Episodes on PC</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-final-cut-pro-x-a-step-by-step-guide-to-adding-subtitles-and-captions-for-2024/"><u>New Final Cut Pro X A Step-by-Step Guide to Adding Subtitles and Captions for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-trimming-mp4-content-a-focus-on-solo-soundtrack/"><u>New Trimming MP4 Content A Focus on Solo Soundtrack</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/pattern-locks-are-unsafe-secure-your-nokia-g310-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Nokia G310 Phone Now with These Tips</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/pinpoint-wolfs-howling-frequency-for-2024/"><u>Pinpoint Wolfs Howling Frequency for 2024</u></a></li>
 </ul></div>
 

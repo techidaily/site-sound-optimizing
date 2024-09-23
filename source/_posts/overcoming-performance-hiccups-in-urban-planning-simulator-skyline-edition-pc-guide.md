@@ -1,7 +1,7 @@
 ---
 title: Overcoming Performance Hiccups in Urban Planning Simulator Skyline Edition - PC Guide
-date: 2024-09-13T21:55:37.343Z
-updated: 2024-09-18T23:51:40.297Z
+date: 2024-09-16T18:14:32.440Z
+updated: 2024-09-23T19:08:11.961Z
 tags:
   - win11
   - win10
@@ -44,9 +44,23 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
 3. [Delete specific files from the save folder](https://tools.techidaily.com/drivereasy/download/)
 4. [Underclock your clock speed](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Download the latest patch
 
  If you haven’t been updated your game for a while, you can update your game. The official keeps releasing new patches, the latest version may solve the crashing issue.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Manage Virtual Memory
 
@@ -56,6 +70,14 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
 2. Click**Advanced system settings.**  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/1-4.jpg)
 3. Under the**Advanced** tab, click**Settings** .  
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2-4.jpg)
 4. Under**Virtual memory** , click**Change** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/3-2.jpg)
@@ -63,13 +85,6 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/4-2.jpg)
 6. Click**Set > OK** .
 7. Reboot your computer can check whether the crash will appear or not.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Delete specific files from the save folder
 
@@ -82,18 +97,18 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/browse-2.jpg)
 4. Navigate to the save folder, delete Data(999).sav & Data(999).bak.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Reboot your computer and check the issue is solved or not.
 
 ### Fix 4: Underclock your clock speed
 
  The game is built with an old Unreal Engine version. This may be the reason for the random crashes. You can underclock your CPU speed by 100 MHz or 150 MHz to see whether it helps or not.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Bonus: Update your drivers
 
@@ -142,18 +157,17 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-best-free-design-resources-in-after-effects-land/"><u>[New] 2024 Approved Best Free Design Resources in After Effects Land</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-streamline-broadcasting-going-from-xbox-to-fb-live/"><u>[New] 2024 Approved Streamline Broadcasting Going From Xbox to FB Live</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-bandicam-revisited-a-deep-dive-into-screen-recording-for-2024/"><u>[New] Bandicam Revisited A Deep Dive Into Screen Recording for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-itel-p40-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Itel P40 | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-harmonizing-photos-with-musical-scores/"><u>2024 Approved Harmonizing Photos With Musical Scores</u></a></li>
-<li><a href="https://win-dash.techidaily.com/amd-hardware-install-blockchain-ready-drivers-on-your-pc-with-windows-os/"><u>AMD Hardware: Install Blockchain-Ready Drivers on Your PC with Windows OS</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/decoding-reality-through-artificial-dreams/"><u>Decoding Reality Through Artificial Dreams</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/essential-steps-for-adobe-presenter-recordings/"><u>Essential Steps for Adobe Presenter Recordings</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-delete-icloud-account-with-or-without-password-from-your-apple-iphone-13-miniwindowsmac-by-drfone-ios/"><u>In 2024, How to Delete iCloud Account with or without Password from your Apple iPhone 13 mini/Windows/Mac</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/in-2024-sonic-imagery-graphically-representing-audio-and-crafting-animation-masterpieces-in-adobe-after-effects/"><u>In 2024, Sonic Imagery Graphically Representing Audio & Crafting Animation Masterpieces in Adobe After Effects</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-advanced-strategies-to-convert-your-spotify-playlist-into-a-local-library/"><u>New 2024 Approved Advanced Strategies to Convert Your Spotify Playlist Into a Local Library</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-best-free-online-montage-track-collections/"><u>New 2024 Approved Best Free Online Montage Track Collections</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-ideal-soundtracks-the-15-ultimate-music-selections-for-diverse-film-projects/"><u>New Ideal Soundtracks The 15 Ultimate Music Selections for Diverse Film Projects</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/2024-approved-how-to-eliminate-background-music-from-your-mp4-videos/"><u>2024 Approved How to Eliminate Background Music From Your MP4 Videos</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/audisynchx-enhancing-audio-cohesion-for-multimedia-projects-using-adobe-premiere-pro/"><u>AudiSynchX Enhancing Audio Cohesion for Multimedia Projects Using Adobe Premiere Pro</u></a></li>
+<li><a href="https://extra-information.techidaily.com/chimecrafted-a-step-by-step-guide-to-creating-your-own-ringtone-tracks-for-2024/"><u>ChimeCrafted A Step-by-Step Guide to Creating Your Own Ringtone Tracks for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/craft-your-cinematic-iphone-footage-creating-and-editing-slow-movement-sequences/"><u>Craft Your Cinematic iPhone Footage Creating & Editing Slow Movement Sequences</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On HTC U23 Pro? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-vivo-y100-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Vivo Y100 | Dr.fone</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-eliminating-background-rattle-a-detailed-process-to-enhance-clarity-during-audio-capture-for-2024/"><u>New Eliminating Background Rattle A Detailed Process to Enhance Clarity During Audio Capture for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-mute-the-movie-guide-to-erasing-auditory-elements-from-various-video-formats-for-2024/"><u>New Mute the Movie Guide to Erasing Auditory Elements From Various Video Formats for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175660760-stay-chilled-out-with-the-new-release-of-the-150-noctua-flagship-the-nh-d15-g2-next-gen-cooling-solution/"><u>Stay Chilled Out With the New Release of the $150 Noctua Flagship - The NH-D15 G2 Next-Gen Cooling Solution</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/top-10-movie-trailer-apps-for-iphones-and-ipads-for-2024/"><u>Top 10 Movie Trailer Apps for iPhones and iPads for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-strategies-to-overcome-and-prevent-error-0x8000ffff-from-crashing-your-windows-system/"><u>Top Strategies to Overcome and Prevent Error 0X8000ffff From Crashing Your Windows System</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-your-ultimate-source-list-the-top-picks-of-copyright-friendly-comic-soundtracks-websites/"><u>Updated In 2024, Your Ultimate Source List The Top Picks of Copyright-Friendly Comic Soundtracks Websites</u></a></li>
 </ul></div>
 

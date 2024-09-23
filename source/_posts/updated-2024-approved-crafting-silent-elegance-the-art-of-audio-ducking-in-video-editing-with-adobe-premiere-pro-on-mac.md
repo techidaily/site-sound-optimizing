@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Crafting Silent Elegance The Art of Audio Ducking in Video Editing with Adobe Premiere Pro on Mac
-date: 2024-09-08T17:35:37.457Z
-updated: 2024-09-14T16:43:03.216Z
+date: 2024-09-21T18:19:40.555Z
+updated: 2024-09-23T18:03:29.246Z
 tags: 
   - audio editing software
   - audio editing
@@ -162,13 +162,6 @@ Who knew it would be so easy to do auto-ducking in Premiere Pro, right? Though, 
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121332/18498" target="_top" id="2121332">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121332" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121332/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.
@@ -216,6 +209,13 @@ Furthermore, you can also perform an instant hard ducking in Premiere Pro. For t
 As you can see, the Premiere Pro audio ducking feature can get a bit complicated if you are a beginner. Therefore, if you are looking for a simpler and more effective automatic ducking solution, then use Wondershare Filmora. This intuitive and diverse video/audio editing tool has an automatic audio ducking option that would make your job a whole lot easier.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 To learn how to perform automatic audio ducking in your videos on Mac via Wondershare Filmora, one can follow these steps:
 
@@ -290,6 +290,19 @@ Furthermore, you can also perform an instant hard ducking in Premiere Pro. For t
 As you can see, the Premiere Pro audio ducking feature can get a bit complicated if you are a beginner. Therefore, if you are looking for a simpler and more effective automatic ducking solution, then use Wondershare Filmora. This intuitive and diverse video/audio editing tool has an automatic audio ducking option that would make your job a whole lot easier.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 To learn how to perform automatic audio ducking in your videos on Mac via Wondershare Filmora, one can follow these steps:
 
@@ -479,16 +492,16 @@ So, in this article, you learned about different noises, and about different too
 
 ![wondershare filmora x](https://images.wondershare.com/filmora/article-images/2022/07/ai-denoise-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 With this, you will see the Smart Denoise, where you are able to change opacity of the clip, threshold and radius.
 
 ![see smart denoise](https://images.wondershare.com/filmora/article-images/2022/07/ai-denoise-7.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 You can now reduce Opacity until you are satisfied with the result. The box next to Smart Denoise will show you the scene before and after the effect.
 
@@ -502,19 +515,6 @@ Drag and drop your video into the timeline. Right-click on the clip and hit Deta
 
 ![drag and drop video into timeline](https://images.wondershare.com/filmora/article-images/2022/07/ai-denoise-8.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Double-click on the audio track and have access to the editing panel, where you can see Remove background noise – it is not needed to emphasize what this option does for you!
 
 ![double click on audio track](https://images.wondershare.com/filmora/article-images/2022/07/ai-denoise-9.jpg)
@@ -524,6 +524,13 @@ Keep in mind that there is a second way to achieve the same result as well, but 
 If the voice recording doesn’t sound natural anymore, you can do the following: Click on Customize and Customize Equalizer window will open.
 
 ![click on customize](https://images.wondershare.com/filmora/article-images/2022/07/ai-denoise-10.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 On the left, you can see the low tunes, while the highs are on the right. Background noises are often on the left, so you can lower them to get rid of them, but in order to have a more natural sound, raise the middle ones a little – and you are done when you are content with the sound!
 
@@ -543,6 +550,13 @@ So, in this article, you learned about different noises, and about different too
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Shanoon Cox
 
  Mar 27, 2024• Proven solutions
@@ -550,6 +564,13 @@ So, in this article, you learned about different noises, and about different too
  Got video with more than one audio track and want to remove the unnecessary one? Or want to extract audio, sound, or background music from home movies, YouTube videos, and any other video file? Well, what you need is an easy-to-use audio remover. This following article will introduce a step-by-step instruction on how to use powerful video editing software- [Wondershare Filmora (originally Wondershare Video Editor)](https://tools.techidaily.com/wondershare/filmora/download/). With it, you can extract audio from video files like AVI, MP4, FLV, AVI, ect and save them in different for formats.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### 1 Add the AVI file to the program
 
@@ -621,13 +642,6 @@ Follow @Shanoon Cox
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Shanoon Cox
 
 Shanoon Cox is a writer and a lover of all things video.
@@ -641,6 +655,13 @@ Follow @Shanoon Cox
  Got video with more than one audio track and want to remove the unnecessary one? Or want to extract audio, sound, or background music from home movies, YouTube videos, and any other video file? Well, what you need is an easy-to-use audio remover. This following article will introduce a step-by-step instruction on how to use powerful video editing software- [Wondershare Filmora (originally Wondershare Video Editor)](https://tools.techidaily.com/wondershare/filmora/download/). With it, you can extract audio from video files like AVI, MP4, FLV, AVI, ect and save them in different for formats.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### 1 Add the AVI file to the program
 
@@ -664,18 +685,18 @@ Follow @Shanoon Cox
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135476/26400" target="_top" id="2135476">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135476/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Now just follow the above detailed guide and easily remove audio from AVI or delete the unwanted sound track. Besides removing audio, you can also use Wondershare Filmora (originally Wondershare Video Editor) to [split video](https://tools.techidaily.com/wondershare/filmora/download/), [merge videos into one](/video-editing-tips/combine-videos.html), [rotate video](https://tools.techidaily.com/wondershare/filmora/download/), [trim and crop video](https://tools.techidaily.com/wondershare/filmora/download/), [add image to video](/video-editing-tips/add-image-to-mp3.html), [make multi screen video](/video-editing-tips/make-multi-screen-video.html) and more. Just download this ideal video editing tool and enrich your video life.
 
  Here is a video tutorial:
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -743,14 +764,18 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-peak-psd-opacity-adjustments/"><u>[New] Peak PSD Opacity Adjustments</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-fiverr-cover-content-proportions/"><u>2024 Approved Fiverr Cover Content Proportions</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/boost-your-creativity-how-chatgpt-can-assist-in-crafting-a-storybook/"><u>Boost Your Creativity: How ChatGPT Can Assist in Crafting a Storybook</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/guarding-againnst-ai-crawlers-stop-openai-from-scraping-your-website/"><u>Guarding Againnst AI Crawlers: Stop OpenAI From Scraping Your Website</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-coherencecore-the-innovative-approach-to-synchronized-sound-design-in-adobe-premiere-pro-2023-for-2024/"><u>New CoherenceCore The Innovative Approach to Synchronized Sound Design in Adobe Premiere Pro 2023 for 2024</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-chart-wolfs-sonorous-call-pattern/"><u>New In 2024, Chart Wolfs Sonorous Call Pattern</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solution-guide-for-mic-not-working-problem-with-steelseries-arctis-prime/"><u>Solution Guide for 'Mic Not Working' Problem with SteelSeries Arctis Prime</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unlocking-performance-top-picks-from-toms-computing-insights/"><u>Unlocking Performance: Top Picks From Tom's Computing Insights</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-cutting-edge-software-choices-for-distorting-and-enhancing-audio-quality/"><u>Updated In 2024, Cutting-Edge Software Choices for Distorting and Enhancing Audio Quality</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-all-about-camstudio-screen-recorder-efficiency/"><u>[New] All About CamStudio Screen Recorder Efficiency</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-essential-techniques-for-insta-photo-cover-highlights-for-2024/"><u>[New] Essential Techniques for Insta Photo Cover Highlights for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-redesign-instant-twitter-video-view/"><u>[Updated] In 2024, Redesign Instant Twitter Video View</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-do-google-pixel-8-pro-screen-sharing-drfone-by-drfone-android/"><u>How To Do Google Pixel 8 Pro Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-discover-the-best-phone-apps-to-improve-vocality/"><u>In 2024, Discover the Best Phone Apps to Improve Vocality</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-magic-behind-luts-crafting-captivating-photos/"><u>In 2024, The Magic Behind LUTs Crafting Captivating Photos</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-10-best-audio-editor-windows-mac/"><u>New 2024 Approved 10 Best Audio Editor Windows, Mac</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-evolving-sound-quality-issues-within-the-2023-adobe-rush-iteration-for-2024/"><u>New Evolving Sound Quality Issues Within the 2023 Adobe Rush Iteration for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-top-ranked-ringtones-to-enhance-your-call-experience/"><u>New Top-Ranked Ringtones to Enhance Your Call Experience</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-in-depth-gadget-analysis-t17239718750361/"><u>Tom's Tech Reviews: In-Depth Gadget Analysis</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-free-video-clippers-for-windows-11-8-and-7-and-macos-ergatiere-le-riprese-video-non-necessarie/"><u>Top Free Video Clippers for Windows 11, 8 & 7 and macOS - Ergatiere Le Riprese Video Non Necessarie</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-procuring-specialized-sounds-mimicking-intestinal-gas-release-for-enhanced-aural-realism/"><u>Updated Procuring Specialized Sounds Mimicking Intestinal Gas Release for Enhanced Aural Realism</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/why-does-itools-virtual-location-not-work-for-apple-iphone-8ipad-solved-drfone-by-drfone-virtual-ios/"><u>Why Does iTools Virtual Location Not Work For Apple iPhone 8/iPad? Solved | Dr.fone</u></a></li>
 </ul></div>
 

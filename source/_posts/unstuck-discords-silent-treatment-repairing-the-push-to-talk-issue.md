@@ -1,7 +1,7 @@
 ---
 title: "Unstuck Discord's Silent Treatment: Repairing the Push-to-Talk Issue"
-date: 2024-09-14T01:42:55.618Z
-updated: 2024-09-18T22:28:57.521Z
+date: 2024-09-17T17:52:01.144Z
+updated: 2024-09-23T17:37:54.392Z
 tags:
   - win11
   - win10
@@ -78,6 +78,13 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-281.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
@@ -105,6 +112,13 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-809.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If your issue continues, try **[Fix4](https://tools.techidaily.com/drivereasy/download/)**  .
 
 ---
@@ -118,6 +132,13 @@ OR
 **2)** Check your current **CPU and memory usage** to see what processes are consuming your resources most.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-805.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)**  Right-click the resource-consuming process and select **End task** .
 
@@ -137,6 +158,19 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-402-1.jpg)
 
+<!-- affiliate ads begin -->
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)**  Click **Begin Scan** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-422.jpg)
@@ -144,10 +178,10 @@ OR
  Wait for the scans to be complete, then relaunch_Hearthstone_ to test your issue. If the audio issue persists, read on and try the fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Disable Compatibility Mode
@@ -167,10 +201,10 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-425.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Relaunch your game to check if the sound comes back. If not, go ahead with the fix below.
@@ -184,15 +218,28 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-300.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **2)** Click the**Sound & Notifications tab** , then click**Reset to Defaults** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-549.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)** Click**Reset** .
 
@@ -206,31 +253,11 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-552.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **6)** Click**DONE** to save the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-553.jpg)
 
  Relaunch your game to test your issue. If the audio is still missing in_Hearthstone_ , try the next fix, below.
-
-<!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 7: Reinstall_Hearthstone_ and/or the Blizzard launcher
 
@@ -303,15 +330,22 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-high-quality-fast-downloaders-for-vimeo-content-for-2024/"><u>[New] High-Quality, Fast Downloaders for Vimeo Content for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-the-insiders-guide-to-youtube-success/"><u>[Updated] 2024 Approved The Insider's Guide to YouTube Success</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-swiftly-start-sharing-joy-installing-the-ifunny-meme-app/"><u>[Updated] Swiftly Start Sharing Joy Installing the iFunny Meme App</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/2024-approved-professional-methods-for-excising-auditory-elements-from-mp4-formats/"><u>2024 Approved Professional Methods for Excising Auditory Elements From MP4 Formats</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/best-noise-canceling-tools-top-choices-for-clean-audio-for-2024/"><u>Best Noise-Canceling Tools Top Choices for Clean Audio for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On Apple iPhone 12 | Dr.fone</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/in-2024-the-artisans-of-cinematic-magic-unveiling-every-roles-importance-in-movie-creation/"><u>In 2024, The Artisans of Cinematic Magic Unveiling Every Roles Importance in Movie Creation</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unveiling-the-process-chrome-windows-11-link-up/"><u>Unveiling the Process: Chrome, Windows 11 Link-Up</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-a-guide-to-mixing-sound-and-picture-in-quicktime-format-for-2024/"><u>Updated A Guide to Mixing Sound and Picture in QuickTime Format for 2024</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-mastering-adobe-premiere-top-6-tricks-for-professional-video-editing/"><u>Updated In 2024, Mastering Adobe Premiere Top 6 Tricks for Professional Video Editing</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-mastering-video-capture-a-deep-dive-into-tunefab-products/"><u>[New] 2024 Approved Mastering Video Capture A Deep Dive Into Tunefab Products</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-unlock-your-potential-best-free-mac-screen-recorder-software-reviewed/"><u>[New] 2024 Approved Unlock Your Potential Best Free Mac Screen Recorder Software Reviewed</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-find-your-comments-on-youtube-on-desktopiphoneandroid/"><u>[Updated] 2024 Approved How to Find Your Comments on YouTube on Desktop/iPhone/Android</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-how-mozilla-revolutionized-screen-splitting-with-ffxp/"><u>[Updated] How Mozilla Revolutionized Screen Splitting with FFXP</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-cutting-edge-websites-for-digital-3d-gold-text-art/"><u>2024 Approved Cutting-Edge Websites for Digital 3D Gold Text Art</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/icicle-impressions-2022s-olympic-skaters/"><u>Icicle Impressions 2022'S Olympic Skaters</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/in-2024-50-best-film-scores-an-assortment-for-every-video-format-and-theme/"><u>In 2024, 50 Best Film Scores An Assortment for Every Video Format and Theme</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-five-cozy-seasons-ideal-backgrounds-to-warm-up-videos/"><u>In 2024, Five Cozy Seasons Ideal Backgrounds to Warm Up Videos</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/in-2024-the-audacity-advantage-effective-methods-for-quieting-audio-distractions/"><u>In 2024, The Audacity Advantage Effective Methods for Quieting Audio Distractions</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-10-best-audio-editor-windows-mac/"><u>New 2024 Approved 10 Best Audio Editor Windows, Mac</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-crafting-the-perfect-soundtrack-for-your-project-step-by-step-audio-replacement-tactics/"><u>New Crafting the Perfect Soundtrack for Your Project Step-by-Step Audio Replacement Tactics</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-xiaomi-redmi-note-12-4g-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Xiaomi Redmi Note 12 4G Users</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-locating-chuckles-the-guide-to-comedy-audio-tones/"><u>Updated 2024 Approved Locating Chuckles The Guide to Comedy Audio Tones</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-auditory-balance-expert-tips-on-achieving-even-audio-volume-in-video-formats/"><u>Updated Auditory Balance Expert Tips on Achieving Even Audio Volume in Video Formats</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-cutting-edge-ios-daw-apps-a-guide-to-the-8-best-choices-for-tablets-and-smartphones/"><u>Updated Cutting-Edge iOS DAW Apps A Guide to the 8 Best Choices for Tablets and Smartphones</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-revolutionizing-your-music-tracks-with-7-key-audio-effects-of-the-year/"><u>Updated In 2024, Revolutionizing Your Music Tracks with 7 Key Audio Effects of the Year</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/virtual-journey-logging-top-6-methods-for-minecraft-recordings-for-2024/"><u>Virtual Journey Logging Top 6 Methods for Minecraft Recordings for 2024</u></a></li>
 </ul></div>
 
