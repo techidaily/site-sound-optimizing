@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Efficiently Incorporate and Retract Audacity Into Your Chromebooks Audio Workflow
-date: 2024-09-21T17:53:07.599Z
-updated: 2024-09-23T18:04:14.530Z
+date: 2024-09-24T22:39:43.652Z
+updated: 2024-09-27T19:00:10.833Z
 tags: 
   - audio editing software
   - audio editing
@@ -104,12 +104,77 @@ This is what you'll see when you click on the Terminal.
 
 ![install-audacity-chromebook-step4](https://images.wondershare.com/filmora/article-images/install-audacity-chromebook-step4.png)
 
+This screenshot shows how the installation process is progressing.
+
+* Finally, you'll notice the green-colored text at the finish of the orders. Your program has been successfully installed, as shown by this message.
+
+![install-audacity-chromebook-step5](https://images.wondershare.com/filmora/article-images/install-audacity-chromebook-step5.png)
+
+* It's only a matter of selecting Audacity from the Launcher.
+
+![install-audacity-chromebook-step6](https://images.wondershare.com/filmora/article-images/install-audacity-chromebook-step6.png)
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## How to Uninstall Audacity
+
+Just like installing it, Audacity can be uninstalled with a few clicks. For this, execute the command below in the Linux Terminal (and you can copy & paste it).
+
+**sudo apt remove audacity**
+
+When this is done on Linux, you'll be asked whether you want to proceed with the uninstalling procedure or not. If you hit "y" the same way as previously, Audacity will be removed from your Chromebook in a matter of seconds.
+
+A screenshot of Audacity in operation is here.
+
+![install-audacity-chromebook-step7](https://images.wondershare.com/filmora/article-images/install-audacity-via-ppa-step5.png)
+
+While recording your podcast using the built-in microphone on your Chromebook is a great way to start, it's not the only way to fine-tune the final product. You must drag the track and sound to the center of the screen in order to begin the magic with this program. Once you've done this, you'll be offered a variety of alternatives to get the editing process started.
+
+Using Audacity for multitrack recording & editing is doable, but it's best to use non-linear tools if primary focus is on that element. Apart from that, Audacity is widely regarded as one of the best audio editors on the market.
+
+## Conclusion
+
+Your Chromebook may be able to run a variety of audio recording applications. As with Audacity, you won't be limited in your ability to produce high-quality music with a wide range of unique effects. We also go through Filmora's voice effects & how users may use them to change and improve their voices. Filmora allows you to re-voice video/audio & previously recorded voiceovers. For video/audio & voiceover files, the Pitch option on the Timeline may be used. Change the tone of a video and recording to make it sound different. You can quickly alter the voices in the videos using Filmora. Your viral should be accompanied by a story or a video. Using the Changing Pitch option, you may change the pitch of your voice. You may modify the pace of the video to change your voice (Optional). Make a duplicate of the video or audio that has been altered.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For Win 7 or later (64-bit)
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+This is what you'll see when you click on the Terminal.
+
+* To begin installing Audacity, enter the following command in the Terminal window that has already opened.
+
+![install-audacity-chromebook-step2](https://images.wondershare.com/filmora/article-images/install-audacity-chromebook-step2.png)
+
+* If you've done everything correctly up to this point, you'll be able to enjoy the full benefits of the Linux operating system. What follows instead is a bewildering cacophony of bluster.
+
+![install-audacity-chromebook-step3](https://images.wondershare.com/filmora/article-images/install-audacity-chromebook-step3.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+* It seems that Linux is questioning whether or not you wish to proceed. To respond, use the "y" key on your keyboard.
+
+![install-audacity-chromebook-step4](https://images.wondershare.com/filmora/article-images/install-audacity-chromebook-step4.png)
 
 This screenshot shows how the installation process is progressing.
 
@@ -173,13 +238,6 @@ This screenshot shows how the installation process is progressing.
 
 ![install-audacity-chromebook-step6](https://images.wondershare.com/filmora/article-images/install-audacity-chromebook-step6.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Uninstall Audacity
 
 Just like installing it, Audacity can be uninstalled with a few clicks. For this, execute the command below in the Linux Terminal (and you can copy & paste it).
@@ -208,65 +266,6 @@ For Win 7 or later (64-bit)
 
 For macOS 10.12 or later
 
-This is what you'll see when you click on the Terminal.
-
-* To begin installing Audacity, enter the following command in the Terminal window that has already opened.
-
-![install-audacity-chromebook-step2](https://images.wondershare.com/filmora/article-images/install-audacity-chromebook-step2.png)
-
-* If you've done everything correctly up to this point, you'll be able to enjoy the full benefits of the Linux operating system. What follows instead is a bewildering cacophony of bluster.
-
-![install-audacity-chromebook-step3](https://images.wondershare.com/filmora/article-images/install-audacity-chromebook-step3.png)
-
-* It seems that Linux is questioning whether or not you wish to proceed. To respond, use the "y" key on your keyboard.
-
-![install-audacity-chromebook-step4](https://images.wondershare.com/filmora/article-images/install-audacity-chromebook-step4.png)
-
-This screenshot shows how the installation process is progressing.
-
-* Finally, you'll notice the green-colored text at the finish of the orders. Your program has been successfully installed, as shown by this message.
-
-![install-audacity-chromebook-step5](https://images.wondershare.com/filmora/article-images/install-audacity-chromebook-step5.png)
-
-* It's only a matter of selecting Audacity from the Launcher.
-
-![install-audacity-chromebook-step6](https://images.wondershare.com/filmora/article-images/install-audacity-chromebook-step6.png)
-
-## How to Uninstall Audacity
-
-Just like installing it, Audacity can be uninstalled with a few clicks. For this, execute the command below in the Linux Terminal (and you can copy & paste it).
-
-**sudo apt remove audacity**
-
-When this is done on Linux, you'll be asked whether you want to proceed with the uninstalling procedure or not. If you hit "y" the same way as previously, Audacity will be removed from your Chromebook in a matter of seconds.
-
-A screenshot of Audacity in operation is here.
-
-![install-audacity-chromebook-step7](https://images.wondershare.com/filmora/article-images/install-audacity-via-ppa-step5.png)
-
-While recording your podcast using the built-in microphone on your Chromebook is a great way to start, it's not the only way to fine-tune the final product. You must drag the track and sound to the center of the screen in order to begin the magic with this program. Once you've done this, you'll be offered a variety of alternatives to get the editing process started.
-
-Using Audacity for multitrack recording & editing is doable, but it's best to use non-linear tools if primary focus is on that element. Apart from that, Audacity is widely regarded as one of the best audio editors on the market.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-## Conclusion
-
-Your Chromebook may be able to run a variety of audio recording applications. As with Audacity, you won't be limited in your ability to produce high-quality music with a wide range of unique effects. We also go through Filmora's voice effects & how users may use them to change and improve their voices. Filmora allows you to re-voice video/audio & previously recorded voiceovers. For video/audio & voiceover files, the Pitch option on the Timeline may be used. Change the tone of a video and recording to make it sound different. You can quickly alter the voices in the videos using Filmora. Your viral should be accompanied by a story or a video. Using the Changing Pitch option, you may change the pitch of your voice. You may modify the pace of the video to change your voice (Optional). Make a duplicate of the video or audio that has been altered.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For Win 7 or later (64-bit)
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.12 or later
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -279,13 +278,6 @@ For macOS 10.12 or later
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Breakdown of Job Functions in the World of Movie-Making
 
@@ -298,13 +290,6 @@ To simplify the scenario, we have divided the crew into these major departments,
 ## What Is the Role of a Producer?
 
 The producer is the main handler of the filming. Before filming, he finds out the content and directions and links with the director and DP for each direction to get the best vision of the music video. The producer are responsible for:
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. Schedule the crew members
 
@@ -336,6 +321,13 @@ The first lead is mainly in charge of time management, communicate with the crew
 
 ![note](https://images.wondershare.com/assets/images-common/icon-note.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Note:** If there is no dialogue in the shorts, then the director usually gives reference pictures of the scenes and moods to act in that way.
 
 You need to work with different people in the industry to check their personalities and work according to them. There is no need to work with the same people repeatedly.
@@ -347,6 +339,13 @@ The next and foremost department is the production design. In this the productio
 In this department, the production designer is mainly involved in decorating the sets, making props, and setting up the lighting.
 
 ![working of production designing team](https://images.wondershare.com/filmora/article-images/2023/04/working-of-production-designing-team.gif)
+
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
+  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Cinematographers Department**
 
@@ -379,6 +378,13 @@ The 2nd AC has to consider the slates of the shots, place exact locations and ma
 ### Gaffers and key grip
 
 Gaffers and key grip have their own teams for maintaining the lighting and grip work assigned by the DP according to the creative plans.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Digital media technician
 
@@ -430,6 +436,13 @@ Due to this, they can change the direction and the setup wherever they want and 
 
 ![director monitor](https://images.wondershare.com/filmora/article-images/2023/04/director-monitor.gif)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Camera operators
 
 To operate the camera, the DPs are not involved, but there is a specific job of the camera operators, which handle the shots and moves according to the director's directions. There are also 1st and 2nd Assistant Cameras (AC) with the camera operators.
@@ -441,19 +454,6 @@ The duty of the 1st AC is to focus on the required target, pulling, swapping the
 **2nd Assistant Camera**
 
 The 2nd AC has to consider the slates of the shots, place exact locations and markers for the characters, and give exposed footage to save for the backup.
-
-<!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Gaffers and key grip
 
@@ -488,6 +488,13 @@ If you are a starter, then there is no need to worry to pull-off all the roles i
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Achieving Sonic Clarity: Overcoming Hiss and Other Unwanted Noises in Audio Tracks
 
@@ -523,13 +530,6 @@ Removing hiss from audio is important for a professional sound because it makes 
 * Increases listener engagement
 * More understandable vocals and more vibrant instrumentals
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Part 2\. Remove Hiss from Audio With Premiere Pro: Step-by-Step Guide**
 
 When you discover hiss or reverb sound in your recordings, you may use professional video editing software to reduce it. Audacity remove hiss is a good option when you are on a budget. However, it may take longer and require more effort to reduce hiss with the software. Another great and effective approach is to remove hiss Premiere Pro. The software removes hisses, background noises, and low ambient noises in your recording. Let’s explore the steps you need to take:
@@ -553,6 +553,13 @@ Hiss removal on Premiere Pro is made possible by the denoise effect. On the Wind
 When you add an effect to your clicks, it shows in the Effects Control panel. Adjust the custom settings of the DeNoise effect until it sounds just right. Open the Clip Fx Editor from the Custom Setup to modify the amount of DeNoise you want to apply. The Gain slider and presets allow you to make appropriate adjustments.
 
 ![adjust settings](https://images.wondershare.com/filmora/article-images/2023/how-to-remove-reverb-from-audio-tips-and-tricks-4.JPG)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Step 4: Repair the Audio**
 
@@ -629,13 +636,6 @@ Hiss and reverb background noise is an annoying problem. The unwanted sounds aff
 A hiss is a broadband noise across the audible spectrum of your audio. It becomes more intense in high frequencies, affecting the quality of the vocals and instrumentals in your audio. A hiss could sound like blue noise and is often caused by the electronic components themselves, which is referred to as self or inherent noise.
 
 ![hiss in audio](https://images.wondershare.com/filmora/article-images/2023/how-to-remove-reverb-from-audio-tips-and-tricks-1.JPG)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 A hiss is measured by decibels and is usually difficult to avoid because it is produced by electronic components. You will usually hear the hiss as air that is getting out of a narrow passage. You may also hear a reverb, which is a sound that occurs in space and sends sound waves out in all directions. Since this is a component of the original recording, it is impossible to delete it. However, hiss reduction is possible with the right editing software.
 
@@ -759,5 +759,21 @@ Hiss and reverb background noise is an annoying problem. The unwanted sounds aff
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/rom-youtube-to-webm-unveiling-the-premium-converters/"><u>[New] From YouTube to WebM Unveiling the Premium Converters</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-top-10-best-sites-for-downloading-youtube-template-videos/"><u>[Updated] In 2024, Top 10 Best Sites for Downloading YouTube Template Videos</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/choosing-your-camera-companion-for-editing-hero-session-x-vs-cube-for-2024/"><u>Choosing Your Camera Companion for Editing Hero Session X V/S Cube for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/crafting-commanding-audio-deepening-your-vocal-expressiveness-with-filmora/"><u>Crafting Commanding Audio Deepening Your Vocal Expressiveness with Filmora</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/fixing-the-quake-tips-for-steadying-gopro-videos-for-2024/"><u>Fixing the Quake Tips for Steadying GoPro Videos for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-vivo-y100i-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Vivo Y100i to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/in-2024-mastering-pc-sound-recording-using-audacity-at-no-cost/"><u>In 2024, Mastering PC Sound Recording Using Audacity at No Cost</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-cresting-waves-in-sound-discovering-true-cricket-noises/"><u>New 2024 Approved Cresting Waves in Sound Discovering True Cricket Noises</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-essential-listings-for-authentic-copyright-free-comic-audio-music-streams/"><u>New 2024 Approved Essential Listings for Authentic Copyright-Free Comic Audio Music Streams</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-finding-authentic-clap-sound-implementations-for-projects/"><u>New Finding Authentic Clap Sound Implementations for Projects</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resetting-display-to-use-gpu-on-win1011-laptops/"><u>Resetting Display to Use GPU on Win10/11 Laptops</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/unwrapped-in-depth-look-at-screenflow-v4-on-macos-for-2024/"><u>Unwrapped In-Depth Look at ScreenFlow v4 on macOS for 2024</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/updated-how-to-add-emojis-to-discord-on-desktop-computer-and-mobile/"><u>Updated How to Add Emojis To Discord on Desktop Computer and Mobile</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-top-4-ringtone-cuuter-to-use/"><u>Updated Top 4 Ringtone Cuuter to Use</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How the Kobo Nia Stacks Up as a Rival to the Kindle by Amazon
-date: 2024-09-16T19:13:43.392Z
-updated: 2024-09-23T18:38:06.960Z
+date: 2024-09-26T19:21:37.455Z
+updated: 2024-09-28T07:11:11.276Z
 categories:
   - BestProducts
 description: This Article Describes How the Kobo Nia Stacks Up as a Rival to the Kindle by Amazon
@@ -38,10 +38,10 @@ thumbnail: https://www.lifewire.com/thmb/l-thYcivDg_wxc7mx5_01YaMCKg=/400x300/fi
 4.9
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZMI PowerPack 20000
@@ -73,16 +73,10 @@ thumbnail: https://www.lifewire.com/thmb/l-thYcivDg_wxc7mx5_01YaMCKg=/400x300/fi
  Lifewire / Andrew Hayward
 
 <!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Design: Small but powerful**
@@ -99,6 +93,13 @@ thumbnail: https://www.lifewire.com/thmb/l-thYcivDg_wxc7mx5_01YaMCKg=/400x300/fi
 
 ![ZMI PowerPack 20000](https://www.lifewire.com/thmb/vaINPELrwcWnOZDsX1ztKkCouww=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/zmi-03-1530f666df824f6281040c2ae3285eb2-2e7956941b91403aa888795a7e5e2e33.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Lifewire / Andrew Hayward
 
 ## **Setup Process: Easy does it**
@@ -114,13 +115,6 @@ Lifewire / Andrew Hayward
  The PowerPack 20000 also charged a[Samsung Galaxy S10](https://www.lifewire.com/samsung-galaxy-s10-review-4685690) smartphone from nothing to 100 percent in 1 hour, 47 minutes using the USB-C PD port, with four lights still remaining on the power bank. This sizable power bank should be able to charge an average smartphone a few times over, not to mention a[Nintendo Switch](https://www.lifewire.com/nintendo-switch-review-4707563) . Larger laptop batteries will naturally suck away more of the battery capacity on a full charge.
 
 ![ZMI PowerPack 20000](https://www.lifewire.com/thmb/asGVK-moJ54HvqyY9N6Kb-KM8hw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/zmi-04-828899fb01024cd4a0e35980251c04b4.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Lifewire / Andrew Hayward
 
@@ -141,10 +135,16 @@ Lifewire / Andrew Hayward
  It’s honestly difficult to find anything to complain about with the ZMI PowerPack 20000\. It’s powerful and does a great job of charging laptops and phones, it has enough capacity to handle those tasks with ease, it’s compact and well-designed, and the price is fantastic. It’s half the size of the giant Anker power brick that I’ve brought on my last two international trips and can handle all of the same tasks. In other words,_this_ is the power brick I’m bringing on my next trip.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Specs
@@ -171,5 +171,21 @@ Lifewire / Andrew Hayward
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-mastering-mov-file-capture-in-win10/"><u>[New] Mastering MOV File Capture in Win10</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-saving-strategies-securing-your-mov-on-windows-pcs/"><u>[Updated] 2024 Approved Saving Strategies Securing Your .mov On Windows PCs</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-leading-speed-change-audio-utilities-list-for-2024/"><u>[Updated] Leading Speed-Change Audio Utilities List for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-spin-stitch-and-swirl-videos-on-your-android-tabletphone/"><u>[Updated] Spin, Stitch & Swirl Videos on Your Android Tablet/Phone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-the-final-verdict-on-screen-capture-obs-vs-twitch-studio-for-2024/"><u>[Updated] The Final Verdict on Screen Capture OBS vs Twitch Studio for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-one-step-trick-stellar-instagram-collage-design/"><u>2024 Approved One-Step Trick Stellar Instagram Collage Design</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/5-essential-strategies-for-capturing-high-quality-chromebook-sound/"><u>5 Essential Strategies for Capturing High-Quality Chromebook Sound</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-guide-to-the-samsung-galaxy-watch-active-the-ultimate-health-and-fitness-companion/"><u>Comprehensive Guide to the Samsung Galaxy Watch Active - The Ultimate Health & Fitness Companion</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/final-cut-pro-sound-visualization-step-by-step-on-rendering-audio-waveforms-and-their-animation-integration-for-2024/"><u>Final Cut Pro Sound Visualization Step-by-Step on Rendering Audio Waveforms and Their Animation Integration for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/halve-your-4khd-video-footage-with-advanced-h264-compression-techniques/"><u>Halve Your 4K/HD Video Footage with Advanced H.264 Compression Techniques</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/tailoring-voice-effects-a-comprehensive-instruction-for-audacity-users-on-autotune-use-for-2024/"><u>Tailoring Voice Effects A Comprehensive Instruction for Audacity Users on Autotune Use for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-simplifying-the-art-of-audiobook-making-a-complete-step-by-step-tutorial-for-aspiring-authors/"><u>Updated 2024 Approved Simplifying the Art of Audiobook Making A Complete, Step-by-Step Tutorial for Aspiring Authors</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-chromebook-guide-integrating-audacity-setup-and-removal-tips/"><u>Updated Chromebook Guide Integrating Audacity - Setup & Removal Tips</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-identifying-venues-with-vibrant-loud-cheers-for-2024/"><u>Updated Identifying Venues with Vibrant Loud Cheers for 2024</u></a></li>
+</ul></div>
 

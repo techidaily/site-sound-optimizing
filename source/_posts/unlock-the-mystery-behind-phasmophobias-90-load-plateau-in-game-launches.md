@@ -1,7 +1,7 @@
 ---
 title: Unlock the Mystery Behind Phasmophobia's 90%% Load Plateau in Game Launches
-date: 2024-09-16T17:48:35.258Z
-updated: 2024-09-23T17:32:12.230Z
+date: 2024-09-24T22:59:12.993Z
+updated: 2024-09-27T20:25:45.910Z
 tags:
   - win11
   - win10
@@ -30,10 +30,10 @@ Phasmophobia is, according to the reviews, the best ghost game ever made. It all
 7. **[Uninstall and reinstall Phasmophobia](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 1: Make sure your computer meets the specs
@@ -74,11 +74,25 @@ OR
 
 **[Option 2 – Automatically (Recommended)](https://www.drivereasy.com/knowledge/solved-phasmophobia-stuck-at-90-loading-screen/#option2)**  – This is the quickest and easiest option. It’s all done with just a couple of mouse clicks.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Option 1 – Manually update your drivers
 
 [NVIDIA](https://tools.techidaily.com/drivereasy/download/) , [AMD](https://www.amd.com/en/support) , and[Intel](https://www.intel.com/content/www/us/en/download-center/home.html) keep releasing driver updates. To get them, you need to go to the official websites, find the correct drivers, and download them manually.
 
  Once you’ve downloaded the drivers, double-click on the downloaded file and follow the on-screen instructions to install the drivers.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Option 2 – Automatically update your drivers**
 
@@ -120,29 +134,22 @@ OR
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 4: Delete the game’s save file
 
  If your game files are corrupt, they can cause your game to be stuck on the loading screen. Deleting the files can sometimes resolve the problem:
 
  1) On your keyboard, press the**Windows logo key** ![windows logo key](https://images.drivereasy.com/wp-content/uploads/2020/09/Start-icon.jpg) and**R** at the same time to invoke the Run box.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Type**%appdata%LocalLowKinetic GamesPhasmophobia** , then press**Enter** on your keyboard.
 
 ![delete save file Phasmophobia stuck at 90% loading screen](https://images.drivereasy.com/wp-content/uploads/2020/10/delete-save-file.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Locate the**saveData.txt** file and delete it.
 
@@ -151,13 +158,6 @@ OR
  Deleting the saved file has proven to be working for many users. But it probably would delete your progress.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 5: Run Steam as an administrator
 
@@ -172,10 +172,10 @@ OR
 ![run Steam as an administrator to fix Phasmophobia stuck at 90% loading screen](https://images.drivereasy.com/wp-content/uploads/2020/11/run-Steam-as-an-administrator-select-Properties-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Select the**Compatibility**  tab and check the box next to **Run this program as an administrator** . Then click **Apply > OK** .
@@ -207,6 +207,13 @@ Here’s how you can do this:
   
 ![do a network reset](https://images.drivereasy.com/wp-content/uploads/2020/10/network-reset-click-Reset-now.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click **Yes** .
 
 ![reset network to fix phosmophobia stuck at 90% loading screen](https://images.drivereasy.com/wp-content/uploads/2020/10/network-reset-click-Yes.jpg)
@@ -214,13 +221,6 @@ Here’s how you can do this:
 Now restart your computer and your problem should be fixed.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 7: Uninstall and reinstall Phasmophobia
 
@@ -230,16 +230,16 @@ Take these steps:
 
  1) On your keyboard, press the**Windows logo key** ![windows logo key](https://images.drivereasy.com/wp-content/uploads/2020/10/Windows.png) and**R** at the same time to invoke the Run box.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Type**%appdata%LocalLowKinetic Games** and press**Enter** .
 
 ![uninstall and reinstall Phasmophobia stuck at 90% loading screen](https://images.drivereasy.com/wp-content/uploads/2020/10/delete-save-file.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Delete everything in the**Kinetic Games folder** .
 
@@ -269,5 +269,19 @@ Take these steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-nine-powerful-windows-apps-for-seamless-animated-gif-recording/"><u>[New] 2024 Approved Nine Powerful Windows Apps For Seamless Animated GIF Recording</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-illuminating-images-in-lightroom-a-step-by-step-hdr-guide/"><u>[New] Illuminating Images in Lightroom A Step-by-Step HDR Guide</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-building-a-brand-through-effective-live-streaming-practices/"><u>[Updated] In 2024, Building a Brand Through Effective Live Streaming Practices</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/2024-approved-how-to-eliminate-background-music-from-your-mp4-videos/"><u>2024 Approved How to Eliminate Background Music From Your MP4 Videos</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/audisynchx-enhancing-audio-cohesion-for-multimedia-projects-using-adobe-premiere-pro/"><u>AudiSynchX Enhancing Audio Cohesion for Multimedia Projects Using Adobe Premiere Pro</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/bridging-the-gap-7-ai-insights-for-professionals/"><u>Bridging the Gap: 7 AI Insights for Professionals</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-lock-apps-on-motorola-edge-2023-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Motorola Edge 2023 to Protect Your Individual Information</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-xiaomi-redmi-k70-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Xiaomi Redmi K70 Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-samsung-galaxy-a14-4g-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Samsung Galaxy A14 4G to New Android? | Dr.fone</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-eliminating-background-rattle-a-detailed-process-to-enhance-clarity-during-audio-capture-for-2024/"><u>New Eliminating Background Rattle A Detailed Process to Enhance Clarity During Audio Capture for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-mute-the-movie-guide-to-erasing-auditory-elements-from-various-video-formats-for-2024/"><u>New Mute the Movie Guide to Erasing Auditory Elements From Various Video Formats for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722976296633-ultimate-guide-step-by-step-instructions-to-install-arduino-nano-drivers-on-windows-easily/"><u>Ultimate Guide: Step-by-Step Instructions to Install Arduino Nano Drivers on Windows Easily</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Fallout Asterisk 76 Server Connection Issues? Here's How to Resolve Them on Windows
-date: 2024-09-21T17:16:48.417Z
-updated: 2024-09-23T17:58:48.722Z
+date: 2024-09-26T05:56:41.940Z
+updated: 2024-09-27T16:39:26.744Z
 tags:
   - win11
   - win10
@@ -30,10 +30,10 @@ Recently many Fallout 76 players have been plagued by the**Fallout 76 disconnect
 7. **[Is Fallout 76 down?](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1:**Reset Winsock**
@@ -46,18 +46,18 @@ Here is how to reset Winsock data:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-566.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) When prompted for permission, click**Yes** to run Command Prompt.
 
  3) In the Command Prompt, type **netsh winsock reset**  and hit **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap7-5.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4) Restart your computer.
 
@@ -76,13 +76,6 @@ Here is how to do it:
  2) Right-click on **a bandwidth hogging app** and click **End Task** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1deba6c03f2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Repeat step **2)** on every other bandwidth hogging programs.
 
@@ -116,6 +109,13 @@ Here is how to do it:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4: Restart your network
 
  The Fallout 76 won’t connect to server issue may be a glitch caused by your router. So you can restart your modem to see if it fixes the issue.
@@ -126,29 +126,9 @@ Here is how to restart your network:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap2-8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 _modem_
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap3-5.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 _wireless router_
 
@@ -176,11 +156,25 @@ _wireless router_
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap9-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### To renew your IP
 
  1) On your keyboard, press **the Windows Logo Key** and type **cmd** . Then right-click Command Prompt when it comes up as a result and select **Run as administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-566.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) When prompted for permission, click**Yes** to run Command Prompt.
 
@@ -212,6 +206,13 @@ Here is how to switch the DNS server to Google Public DNS:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-542.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) In **View by** , choose **Category** . Then click **View network status and tasks** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-611.png)
@@ -221,10 +222,10 @@ Here is how to switch the DNS server to Google Public DNS:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-612.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Right-click on**your current network** and click**Properties** .
@@ -240,10 +241,16 @@ Here is how to switch the DNS server to Google Public DNS:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-614.png)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 7) Restart your computer for the changes to take effect.
@@ -253,13 +260,6 @@ Here is how to switch the DNS server to Google Public DNS:
  Problem still not yet solved? Please try**Fix 7** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 7: Is Fallout 76 down?
 
@@ -286,5 +286,18 @@ Here is how to switch the DNS server to Google Public DNS:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-vdg-screen-snatcher-synopsis-full-breakdown/"><u>[New] VDG Screen Snatcher Synopsis Full Breakdown</u></a></li>
+<li><a href="https://os-tips.techidaily.com/guide-mastering-the-features-of-apple-musics-shared-playlists/"><u>Guide: Mastering the Features of Apple Music's Shared Playlists</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-disabling-iphone-13-pro-max-parental-restrictions-withwithout-password-drfone-by-drfone-ios/"><u>In 2024, Disabling iPhone 13 Pro Max Parental Restrictions With/Without Password | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-harmonizing-audioscapevisumedia-network/"><u>In 2024, Harmonizing Audioscape/Visumedia Network</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-step-by-step-guide-acquiring-audio-content-for-your-computer/"><u>New Step-by-Step Guide Acquiring Audio Content for Your Computer</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/skylake-system-construction-showdown-announcing-the-champions-of-toms-hardware-competition/"><u>Skylake System Construction Showdown: Announcing the Champions of Tom’s Hardware Competition</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/the-definitive-manual-for-windows-10-perfecting-your-audio-recordings/"><u>The Definitive Manual for Windows 10 Perfecting Your Audio Recordings</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/ultimate-dj-streaming-repository-for-2024/"><u>Ultimate DJ Streaming Repository for 2024</u></a></li>
+<li><a href="https://ai-video.techidaily.com/updated-2024-approved-top-10-ai-subtitle-translators-for-content-creators-that-anyone-can-use/"><u>Updated 2024 Approved Top 10 AI Subtitle Translators for Content Creators That Anyone Can Use</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-voice-memos-made-simple-your-comprehensive-guide-to-high-quality-audio-recordings-on-windows-10/"><u>Updated 2024 Approved Voice Memos Made Simple Your Comprehensive Guide to High-Quality Audio Recordings on Windows 10</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/xsplit-evaluation-direct-access-to-game-splits/"><u>XSplit Evaluation Direct Access to Game Splits</u></a></li>
+</ul></div>
 

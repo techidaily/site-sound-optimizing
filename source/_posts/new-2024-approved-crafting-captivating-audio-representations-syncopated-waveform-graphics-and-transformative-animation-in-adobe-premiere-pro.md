@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Crafting Captivating Audio Representations Syncopated Waveform Graphics and Transformative Animation in Adobe Premiere Pro
-date: 2024-09-19T19:00:21.380Z
-updated: 2024-09-23T19:32:16.361Z
+date: 2024-09-24T22:10:03.938Z
+updated: 2024-09-27T20:52:25.949Z
 tags: 
   - audio editing software
   - audio editing
@@ -27,6 +27,13 @@ Users frequently complain that the audio waveform can suddenly disappear while e
 If you are not seeing them on audio clips on your timeline, then you drag on an audio clip to your timeline or your sequence and just click on the **wrench** and check to show audio waveform.
 
 ![click the wrench icon on settings button](https://images.wondershare.com/filmora/article-images/2022/08/premiere-pro-audio-waveform-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Once you check that you should see the audio waveforms on your clip you can click it again you should see a checkmark and it is highlighted in blue and if you don't want to see them all you have to do is click it again.
 
@@ -65,6 +72,13 @@ After creating a new project in After Effects, you need to choose a new solid of
 Search audio waveform and drag and drop this effect on your solid. The waveform will now respond to the audio in your film if you use the audio layer option for your clip in the effect parameters for your solid change.
 
 ![open audio waveform effect](https://images.wondershare.com/filmora/article-images/2022/08/premiere-pro-audio-waveform-7.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##### Step4Adjust the audio waveform effect
 
@@ -504,13 +518,6 @@ once everything sounds good, export the video into the Filmora timeline so you c
 
 ![export the video into the Filmora timeline](https://images.wondershare.com/filmora/article-images/2022/12/silence-detection-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Moreover, Filmora also has another feature called "Audio ducking". Audio ducking is a way to turn down the volume of the background when one voiceover comes on.
 
 How to use audio ducking with Filmora
@@ -545,13 +552,6 @@ Step2 Select the title box in the timeline, then right-click. After that, click 
 
 ![tts step 2](https://images.wondershare.com/filmora/article-images/2022/12/tts-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step3 In the TTS parameter setting bar, choose the language this title is in and the voice's name.
 
 ![tts step 3](https://images.wondershare.com/filmora/article-images/2022/12/tts-3.jpg)
@@ -578,6 +578,13 @@ Step3 Once you import your video into Clipchamp. Then, go to "Audio" and simply 
 
 ![mute audio clipchamp step 3](https://images.wondershare.com/filmora/article-images/2022/12/climpchamp-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step4 When exporting the video is done, click "Save to your computer" to save the video.
 
 ![mute audio clipchamp step 4](https://images.wondershare.com/filmora/article-images/2022/12/climpchamp-4.jpg)
@@ -585,10 +592,10 @@ Step4 When exporting the video is done, click "Save to your computer" to save th
 ## Part4: FAQ
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Why do we need to mute audio from the video?
@@ -604,13 +611,6 @@ Basically, it's easy to **remove sound from video windows 10**. You can use the 
 Step2 In this step, you need to find the video you want to mute on your computer and import it to Filmora. Then, drag your video onto Filmora's timeline.
 
 ![filmora mute audio 2](https://images.wondershare.com/filmora/article-images/2022/12/filmora-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step3 Once you've dragged your video onto Filmora's timeline, click on your video in the timeline and then right-click. Afterwards, choose "detach audio."
 
@@ -632,24 +632,18 @@ Step1 Right-click on the clip in the resource, select the video clip on the time
 
 ![select the video clip on the timeline](https://images.wondershare.com/filmora/article-images/2022/12/silence-detection-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step2 The silent detection tool will automatically detect the silent and low sound points.
 
 Furthermore, you can adjust the parameters to recalculate the silence detection or manually fine-tune what the feature has already detected
 
 ![detect the silent and low sound points](https://images.wondershare.com/filmora/article-images/2022/12/silence-detection-2.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 once everything sounds good, export the video into the Filmora timeline so you can continue editing your video.
 
@@ -662,6 +656,13 @@ How to use audio ducking with Filmora
 Step1 Let's say you already have your voiceover and the audio in your video. If you want you to use duking voice feature, firstly, you need to decide which part of the audio you want to lower. After that, double-click the selected part until the ducking voice feature comes out.
 
 ![use duking voice](https://images.wondershare.com/filmora/article-images/2022/12/audio-ducking.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step2 Next, you just need to drag the audio ducking bar to the left or right. Indeed, if you drag to the right, it will lower the audio. Once you are done adjusting the audio, click "Ok", and you can preview the result.
 
@@ -693,6 +694,13 @@ Step3 In the TTS parameter setting bar, choose the language this title is in and
 
 ![tts step 3](https://images.wondershare.com/filmora/article-images/2022/12/tts-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 3: Use Windows 10 officially recommend video editor
 
 **1\. Climpchamp**
@@ -700,13 +708,6 @@ Step3 In the TTS parameter setting bar, choose the language this title is in and
 Clipchamp is an online video editor that makes it easy for anyone to make videos, even if they have never edited before. It lets you combine your videos, images, and audio files, remove audio from the video and then save the finished video to your computer. On the Climpchamp homepage, you can sign up for a free account and start editing your videos right away.
 
 ![climpchamp](https://images.wondershare.com/filmora/article-images/2022/12/climpchamp.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 How to mute audio from the video with Climpchamp
 
@@ -722,29 +723,22 @@ Step3 Once you import your video into Clipchamp. Then, go to "Audio" and simply 
 
 ![mute audio clipchamp step 3](https://images.wondershare.com/filmora/article-images/2022/12/climpchamp-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step4 When exporting the video is done, click "Save to your computer" to save the video.
 
 ![mute audio clipchamp step 4](https://images.wondershare.com/filmora/article-images/2022/12/climpchamp-4.jpg)
 
 ## Part4: FAQ
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Why do we need to mute audio from the video?
 
 Getting rid of the audio from some clips might be necessary for a variety of reasons: perhaps the background noise is too loud, maybe you want to censor something from it, or maybe you simply don't need it because you plan to use the video as B-roll or play music over it.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -764,5 +758,26 @@ Basically, it's easy to **remove sound from video windows 10**. You can use the 
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-best-of-the-best-unlimited-recorders-top12-for-2024/"><u>[New] Best of the Best Unlimited Recorders, #Top12 for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/affordable-led-sleekgamer-display/"><u>Affordable LED SleekGamer Display</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/best-audio-editors-to-remove-background-noise-from-audio-windows-for-2024/"><u>Best Audio Editors to Remove Background Noise From Audio Windows for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/deciphering-the-prowess-of-magix-samplitude-in-modern-music-production/"><u>Deciphering the Prowess of MAGIX Samplitude in Modern Music Production</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/elevating-your-voice-how-to-enhance-your-podcast-experience-using-audacity-for-2024/"><u>Elevating Your Voice How to Enhance Your Podcast Experience Using Audacity for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/error-22-in-gpu-drivers-addressed/"><u>Error 22 in GPU Drivers Addressed</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/harmony-in-transition-15-masterful-scores-enhancing-diverse-video-styles/"><u>Harmony in Transition 15 Masterful Scores Enhancing Diverse Video Styles</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-address-and-correct-stop-code-0x0000001d-on-your-pc/"><u>How to Address and Correct Stop Code 0X0000001D on Your PC</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/in-2024-how-to-add-audio-fade-in-effect/"><u>In 2024, How to Add Audio Fade In Effect</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/in-2024-leading-internet-mp3-editing-solution/"><u>In 2024, Leading Internet MP3 Editing Solution</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/lg-stylo-6-review/"><u>LG Stylo 6 Review</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-best-lego-stop-motion-maker/"><u>New Best Lego Stop Motion Maker</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-most-attractive-ringtones-for-your-phone-for-2024/"><u>New Most Attractive Ringtones for Your Phone for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-pioneering-audio-creation-with-lexisedit-a-beginners-blueprint/"><u>New Pioneering Audio Creation with LexisEdit A Beginners Blueprint</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/power-meets-portability-in-the-razer-blade-pro-17-review/"><u>Power Meets Portability in the Razer Blade Pro 17 Review</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/step-by-step-guide-mastering-creative-effects-in-online-zoom-sessions-for-2024/"><u>Step-by-Step Guide Mastering Creative Effects in Online Zoom Sessions for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-virtual-vistas-of-calm-top-ten-online-journeys-for-mental-clarity-and-stress-relief-this-year/"><u>Updated In 2024, Virtual Vistas of Calm Top Ten Online Journeys for Mental Clarity and Stress Relief This Year</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-top-5-digital-audio-editors-for-optimal-sound-quality-for-2024/"><u>Updated Top 5 Digital Audio Editors for Optimal Sound Quality for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/wwe-2k22-stability-issues-solved-ensure-uninterrupted-gameplay-on-your-pc/"><u>WWE 2K22 Stability Issues Solved: Ensure Uninterrupted Gameplay on Your PC</u></a></li>
+</ul></div>
 

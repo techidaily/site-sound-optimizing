@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Approaches to Isolate and Omit Audio From Video Content
-date: 2024-09-20T19:10:02.656Z
-updated: 2024-09-23T16:23:08.400Z
+date: 2024-09-23T05:46:21.126Z
+updated: 2024-09-28T00:52:54.371Z
 tags: 
   - audio editing software
   - audio editing
@@ -168,6 +168,13 @@ You can preview the video as well to check if the audio is removed permanently o
 
 ![export your edited video](https://images.wondershare.com/filmora/article-images/2022/background-music-remover-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 3: How to Remove Background Music on Mac?
 
 Allow us to introduce you to another background music remover. iMovie is a free tool that comes pre-built in Mac. It has an extremely interactive interface that makes workability flawless. If you are a beginner, you shouldn’t worry for a second.
@@ -177,6 +184,13 @@ With an extensive range of audio tools and classy themes on the go, iMovie has g
 iMovie is also responsible for your security. Hence, there is no need to worry if your data is on the line. The “Audio Detach” functionality helps remove background music from video. The quick edits and workable interface make iMovie the best for Mac lovers.
 
 Follow our lead to know how to remove background music from video via iMovie.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Step 1: Preliminary Process
 
@@ -190,6 +204,13 @@ Moving on, use the “Control” button from your keyboard and bring the mouse t
 
 ![choose detach audio option](https://images.wondershare.com/filmora/article-images/2022/background-music-remover-8.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Step 3: Sharing the Output
 
 Click on the audio to delete it. After that, click on “Share,” located in the top right corner of the interface. Hit “Export File” from the displayed options. You can change the resolution, quality, description, tag, and compress type from the window that pops up.
@@ -197,10 +218,10 @@ Click on the audio to delete it. After that, click on “Share,” located in th
 ![select export file option](https://images.wondershare.com/filmora/article-images/2022/background-music-remover-9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Step 4: Final Process
@@ -256,13 +277,6 @@ Launch Wondershare Filmora from your Windows operating system. The interface app
 Use the system to import the file after it is displayed in the Media Library, drag and drop it to the timeline. Change the resolution or frame rate as you deem necessary. After that, the user is directed to right-click on the media in the timeline. Hit “Audio” from the menu.
 
 ![confirm project settings](https://images.wondershare.com/filmora/article-images/2022/background-music-remover-4.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Step 3: Detaching Process
 
@@ -352,6 +366,13 @@ Launch Wondershare Filmora from your Windows operating system. The interface app
 
 ![import the media files](https://images.wondershare.com/filmora/article-images/2022/background-music-remover-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Step 2: Importing Process
 
 Use the system to import the file after it is displayed in the Media Library, drag and drop it to the timeline. Change the resolution or frame rate as you deem necessary. After that, the user is directed to right-click on the media in the timeline. Hit “Audio” from the menu.
@@ -369,6 +390,13 @@ Select “Detach Audio” from the “Audio” sub-menu. The audio will be detac
 You can preview the video as well to check if the audio is removed permanently or not. The user can export the video now by clicking on the “Export” button. Select the output format and hit “Export” to save the video without background music on your computer.
 
 ![export your edited video](https://images.wondershare.com/filmora/article-images/2022/background-music-remover-6.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3: How to Remove Background Music on Mac?
 
@@ -397,13 +425,6 @@ Moving on, use the “Control” button from your keyboard and bring the mouse t
 Click on the audio to delete it. After that, click on “Share,” located in the top right corner of the interface. Hit “Export File” from the displayed options. You can change the resolution, quality, description, tag, and compress type from the window that pops up.
 
 ![select export file option](https://images.wondershare.com/filmora/article-images/2022/background-music-remover-9.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Step 4: Final Process
 
@@ -465,13 +486,6 @@ Either click "Import" or drag and drop your MP4 video & audio track to this prog
 
 ![add audio to mp4](https://images.wondershare.com/images/multimedia/video-editor/video-editor-interface.jpg "add audio to mp4")
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### 2\. Remove original audio file (optional)
 
 You can remove the original audio in a pretty easy way if you want. To do this, just right click the video clip on Timeline, and select "Audio Detach". or "Mute" as per your needs. If "Audio Detach" has been selected, you'll find a single audio file appearing in the Music Timeline immediately. Then you can easily delete it.
@@ -525,165 +539,178 @@ Supports almost all kinds of audio formats including MP3, WMA, MKA, M4A and more
 * Supported OS: Windows (Windows 10 included) & Mac OS X (above 10.6).
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-#### 1\. Import your media files
-
-Either click "Import" or drag and drop your MP4 video & audio track to this program. When all files imported, they'll show in thumbnails in the Media library. Now drag and drop them into the their respective track on the Timeline.
-
-![add audio to mp4](https://images.wondershare.com/images/multimedia/video-editor/video-editor-interface.jpg "add audio to mp4")
-
-#### 2\. Remove original audio file (optional)
-
-You can remove the original audio in a pretty easy way if you want. To do this, just right click the video clip on Timeline, and select "Audio Detach". or "Mute" as per your needs. If "Audio Detach" has been selected, you'll find a single audio file appearing in the Music Timeline immediately. Then you can easily delete it.
-
-![add audio to mp4](https://images.wondershare.com/images/multimedia/video-editor/video-editor-time-line.jpg "add audio to mp4")
-
-#### 3\. Add audio to MP4 video
-
-When all files come to place, you can begin to make the audio and video perfectly matched. In the Video Timeline, cut and paste any video clip to rearrange the order, and trim out unwanted portion while keeping the others. (Note: Don't overlap one into another, or you'll split the original file).
-
-Now play your source MP4 video, and drag the audio track to the exact position that you want it to begin. If you just want a short part showing up, pause it when it comes to the right place. Then click the Scissors icon above the Timeline to split it into two parts. Keep what you want, and remove the others by hit "Delete" on the keyboard. Note that you can always click Undo/Redo to control your operation.
-
-![add audio to mp4](https://images.wondershare.com/images/multimedia/video-editor/editing-files-2.jpg "add audio to mp4")
-
-#### 4\. Adjust the audio file (optional)
-
-After syncing your music file and MP4 video perfectly, you can further adjust the audio file in the editing panel, like change the playing speed, volume, pitch, etc. To do this, just double click the target MP4 video file and edit it in the pop up window.
-
-![add audio to mp4](https://images.wondershare.com/topic/video-editing/edit-audio-speedup-fade-in-out.jpg "add audio to mp4")
-
-#### 5\. Save and share your creation
-
-Check your video in the right previewing window. When you're satisfied, click "Create" to export your new work. This program offers four flexible ways letting you save and share video with ease. In the format tab, you'll find almost all popular formats are available to save on your computer. If you want to share your masterpiece on YouTube, select this option to upload it right away. Even you can burn a DVD disk in minutes to watch it on your home cinema.
-
-![add audio to mp4](https://images.wondershare.com/images/multimedia/video-editor/output.jpg "add audio to mp4")
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
-
-Shanoon Cox
-
-Shanoon Cox is a writer and a lover of all things video.
-
-Follow @Shanoon Cox
-
-##### Shanoon Cox
-
- Mar 27, 2024• Proven solutions
-
-Chances are you want to create a new work by adding an audio track to your source video like MP4\. This is because your MP4 file has very good video quality, but gets rather bad sound. Or you just create it for fun.
-
-Well, this is not a difficult thing once you get an efficient video tool like [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/). As a professional and easy-to-use video editing application, it helps you add any music to MP4 video effortlessly. What's more, it also helps to remove or mute your original audio track to achieve the best result if necessary. Record your own voice-over is also possible.
-
-## Powerful Video Editing Tool: Wondershare Filmora
-
-Supports almost all kinds of audio formats including MP3, WMA, MKA, M4A and more;
-
-* Add audio to video without quality loss;
-* Export your new video in different ways;
-* Supported OS: Windows (Windows 10 included) & Mac OS X (above 10.6).
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-#### 1\. Import your media files
-
-Either click "Import" or drag and drop your MP4 video & audio track to this program. When all files imported, they'll show in thumbnails in the Media library. Now drag and drop them into the their respective track on the Timeline.
-
-![add audio to mp4](https://images.wondershare.com/images/multimedia/video-editor/video-editor-interface.jpg "add audio to mp4")
-
-#### 2\. Remove original audio file (optional)
-
-You can remove the original audio in a pretty easy way if you want. To do this, just right click the video clip on Timeline, and select "Audio Detach". or "Mute" as per your needs. If "Audio Detach" has been selected, you'll find a single audio file appearing in the Music Timeline immediately. Then you can easily delete it.
-
-![add audio to mp4](https://images.wondershare.com/images/multimedia/video-editor/video-editor-time-line.jpg "add audio to mp4")
-
-#### 3\. Add audio to MP4 video
-
-When all files come to place, you can begin to make the audio and video perfectly matched. In the Video Timeline, cut and paste any video clip to rearrange the order, and trim out unwanted portion while keeping the others. (Note: Don't overlap one into another, or you'll split the original file).
-
-Now play your source MP4 video, and drag the audio track to the exact position that you want it to begin. If you just want a short part showing up, pause it when it comes to the right place. Then click the Scissors icon above the Timeline to split it into two parts. Keep what you want, and remove the others by hit "Delete" on the keyboard. Note that you can always click Undo/Redo to control your operation.
-
-![add audio to mp4](https://images.wondershare.com/images/multimedia/video-editor/editing-files-2.jpg "add audio to mp4")
-
-#### 4\. Adjust the audio file (optional)
-
-After syncing your music file and MP4 video perfectly, you can further adjust the audio file in the editing panel, like change the playing speed, volume, pitch, etc. To do this, just double click the target MP4 video file and edit it in the pop up window.
-
-![add audio to mp4](https://images.wondershare.com/topic/video-editing/edit-audio-speedup-fade-in-out.jpg "add audio to mp4")
-
-#### 5\. Save and share your creation
-
-Check your video in the right previewing window. When you're satisfied, click "Create" to export your new work. This program offers four flexible ways letting you save and share video with ease. In the format tab, you'll find almost all popular formats are available to save on your computer. If you want to share your masterpiece on YouTube, select this option to upload it right away. Even you can burn a DVD disk in minutes to watch it on your home cinema.
-
-![add audio to mp4](https://images.wondershare.com/images/multimedia/video-editor/output.jpg "add audio to mp4")
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
-
-Shanoon Cox
-
-Shanoon Cox is a writer and a lover of all things video.
-
-Follow @Shanoon Cox
-
-##### Shanoon Cox
-
- Mar 27, 2024• Proven solutions
-
-Chances are you want to create a new work by adding an audio track to your source video like MP4\. This is because your MP4 file has very good video quality, but gets rather bad sound. Or you just create it for fun.
-
-Well, this is not a difficult thing once you get an efficient video tool like [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/). As a professional and easy-to-use video editing application, it helps you add any music to MP4 video effortlessly. What's more, it also helps to remove or mute your original audio track to achieve the best result if necessary. Record your own voice-over is also possible.
-
-## Powerful Video Editing Tool: Wondershare Filmora
-
-Supports almost all kinds of audio formats including MP3, WMA, MKA, M4A and more;
-
-* Add audio to video without quality loss;
-* Export your new video in different ways;
-* Supported OS: Windows (Windows 10 included) & Mac OS X (above 10.6).
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-#### 1\. Import your media files
-
-Either click "Import" or drag and drop your MP4 video & audio track to this program. When all files imported, they'll show in thumbnails in the Media library. Now drag and drop them into the their respective track on the Timeline.
-
-![add audio to mp4](https://images.wondershare.com/images/multimedia/video-editor/video-editor-interface.jpg "add audio to mp4")
-
-#### 2\. Remove original audio file (optional)
-
-You can remove the original audio in a pretty easy way if you want. To do this, just right click the video clip on Timeline, and select "Audio Detach". or "Mute" as per your needs. If "Audio Detach" has been selected, you'll find a single audio file appearing in the Music Timeline immediately. Then you can easily delete it.
-
-![add audio to mp4](https://images.wondershare.com/images/multimedia/video-editor/video-editor-time-line.jpg "add audio to mp4")
-
-#### 3\. Add audio to MP4 video
-
-When all files come to place, you can begin to make the audio and video perfectly matched. In the Video Timeline, cut and paste any video clip to rearrange the order, and trim out unwanted portion while keeping the others. (Note: Don't overlap one into another, or you'll split the original file).
-
-Now play your source MP4 video, and drag the audio track to the exact position that you want it to begin. If you just want a short part showing up, pause it when it comes to the right place. Then click the Scissors icon above the Timeline to split it into two parts. Keep what you want, and remove the others by hit "Delete" on the keyboard. Note that you can always click Undo/Redo to control your operation.
-
-![add audio to mp4](https://images.wondershare.com/images/multimedia/video-editor/editing-files-2.jpg "add audio to mp4")
-
-#### 4\. Adjust the audio file (optional)
-
-After syncing your music file and MP4 video perfectly, you can further adjust the audio file in the editing panel, like change the playing speed, volume, pitch, etc. To do this, just double click the target MP4 video file and edit it in the pop up window.
-
-![add audio to mp4](https://images.wondershare.com/topic/video-editing/edit-audio-speedup-fade-in-out.jpg "add audio to mp4")
-
-#### 5\. Save and share your creation
-
-Check your video in the right previewing window. When you're satisfied, click "Create" to export your new work. This program offers four flexible ways letting you save and share video with ease. In the format tab, you'll find almost all popular formats are available to save on your computer. If you want to share your masterpiece on YouTube, select this option to upload it right away. Even you can burn a DVD disk in minutes to watch it on your home cinema.
-
-![add audio to mp4](https://images.wondershare.com/images/multimedia/video-editor/output.jpg "add audio to mp4")
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+#### 1\. Import your media files
+
+Either click "Import" or drag and drop your MP4 video & audio track to this program. When all files imported, they'll show in thumbnails in the Media library. Now drag and drop them into the their respective track on the Timeline.
+
+![add audio to mp4](https://images.wondershare.com/images/multimedia/video-editor/video-editor-interface.jpg "add audio to mp4")
+
+#### 2\. Remove original audio file (optional)
+
+You can remove the original audio in a pretty easy way if you want. To do this, just right click the video clip on Timeline, and select "Audio Detach". or "Mute" as per your needs. If "Audio Detach" has been selected, you'll find a single audio file appearing in the Music Timeline immediately. Then you can easily delete it.
+
+![add audio to mp4](https://images.wondershare.com/images/multimedia/video-editor/video-editor-time-line.jpg "add audio to mp4")
+
+#### 3\. Add audio to MP4 video
+
+When all files come to place, you can begin to make the audio and video perfectly matched. In the Video Timeline, cut and paste any video clip to rearrange the order, and trim out unwanted portion while keeping the others. (Note: Don't overlap one into another, or you'll split the original file).
+
+Now play your source MP4 video, and drag the audio track to the exact position that you want it to begin. If you just want a short part showing up, pause it when it comes to the right place. Then click the Scissors icon above the Timeline to split it into two parts. Keep what you want, and remove the others by hit "Delete" on the keyboard. Note that you can always click Undo/Redo to control your operation.
+
+![add audio to mp4](https://images.wondershare.com/images/multimedia/video-editor/editing-files-2.jpg "add audio to mp4")
+
+#### 4\. Adjust the audio file (optional)
+
+After syncing your music file and MP4 video perfectly, you can further adjust the audio file in the editing panel, like change the playing speed, volume, pitch, etc. To do this, just double click the target MP4 video file and edit it in the pop up window.
+
+![add audio to mp4](https://images.wondershare.com/topic/video-editing/edit-audio-speedup-fade-in-out.jpg "add audio to mp4")
+
+#### 5\. Save and share your creation
+
+Check your video in the right previewing window. When you're satisfied, click "Create" to export your new work. This program offers four flexible ways letting you save and share video with ease. In the format tab, you'll find almost all popular formats are available to save on your computer. If you want to share your masterpiece on YouTube, select this option to upload it right away. Even you can burn a DVD disk in minutes to watch it on your home cinema.
+
+![add audio to mp4](https://images.wondershare.com/images/multimedia/video-editor/output.jpg "add audio to mp4")
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+Shanoon Cox
+
+Shanoon Cox is a writer and a lover of all things video.
+
+Follow @Shanoon Cox
+
+##### Shanoon Cox
+
+ Mar 27, 2024• Proven solutions
+
+Chances are you want to create a new work by adding an audio track to your source video like MP4\. This is because your MP4 file has very good video quality, but gets rather bad sound. Or you just create it for fun.
+
+Well, this is not a difficult thing once you get an efficient video tool like [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/). As a professional and easy-to-use video editing application, it helps you add any music to MP4 video effortlessly. What's more, it also helps to remove or mute your original audio track to achieve the best result if necessary. Record your own voice-over is also possible.
+
+## Powerful Video Editing Tool: Wondershare Filmora
+
+Supports almost all kinds of audio formats including MP3, WMA, MKA, M4A and more;
+
+* Add audio to video without quality loss;
+* Export your new video in different ways;
+* Supported OS: Windows (Windows 10 included) & Mac OS X (above 10.6).
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+#### 1\. Import your media files
+
+Either click "Import" or drag and drop your MP4 video & audio track to this program. When all files imported, they'll show in thumbnails in the Media library. Now drag and drop them into the their respective track on the Timeline.
+
+![add audio to mp4](https://images.wondershare.com/images/multimedia/video-editor/video-editor-interface.jpg "add audio to mp4")
+
+#### 2\. Remove original audio file (optional)
+
+You can remove the original audio in a pretty easy way if you want. To do this, just right click the video clip on Timeline, and select "Audio Detach". or "Mute" as per your needs. If "Audio Detach" has been selected, you'll find a single audio file appearing in the Music Timeline immediately. Then you can easily delete it.
+
+![add audio to mp4](https://images.wondershare.com/images/multimedia/video-editor/video-editor-time-line.jpg "add audio to mp4")
+
+#### 3\. Add audio to MP4 video
+
+When all files come to place, you can begin to make the audio and video perfectly matched. In the Video Timeline, cut and paste any video clip to rearrange the order, and trim out unwanted portion while keeping the others. (Note: Don't overlap one into another, or you'll split the original file).
+
+Now play your source MP4 video, and drag the audio track to the exact position that you want it to begin. If you just want a short part showing up, pause it when it comes to the right place. Then click the Scissors icon above the Timeline to split it into two parts. Keep what you want, and remove the others by hit "Delete" on the keyboard. Note that you can always click Undo/Redo to control your operation.
+
+![add audio to mp4](https://images.wondershare.com/images/multimedia/video-editor/editing-files-2.jpg "add audio to mp4")
+
+#### 4\. Adjust the audio file (optional)
+
+After syncing your music file and MP4 video perfectly, you can further adjust the audio file in the editing panel, like change the playing speed, volume, pitch, etc. To do this, just double click the target MP4 video file and edit it in the pop up window.
+
+![add audio to mp4](https://images.wondershare.com/topic/video-editing/edit-audio-speedup-fade-in-out.jpg "add audio to mp4")
+
+#### 5\. Save and share your creation
+
+Check your video in the right previewing window. When you're satisfied, click "Create" to export your new work. This program offers four flexible ways letting you save and share video with ease. In the format tab, you'll find almost all popular formats are available to save on your computer. If you want to share your masterpiece on YouTube, select this option to upload it right away. Even you can burn a DVD disk in minutes to watch it on your home cinema.
+
+![add audio to mp4](https://images.wondershare.com/images/multimedia/video-editor/output.jpg "add audio to mp4")
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+Shanoon Cox
+
+Shanoon Cox is a writer and a lover of all things video.
+
+Follow @Shanoon Cox
+
+##### Shanoon Cox
+
+ Mar 27, 2024• Proven solutions
+
+Chances are you want to create a new work by adding an audio track to your source video like MP4\. This is because your MP4 file has very good video quality, but gets rather bad sound. Or you just create it for fun.
+
+Well, this is not a difficult thing once you get an efficient video tool like [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/). As a professional and easy-to-use video editing application, it helps you add any music to MP4 video effortlessly. What's more, it also helps to remove or mute your original audio track to achieve the best result if necessary. Record your own voice-over is also possible.
+
+## Powerful Video Editing Tool: Wondershare Filmora
+
+Supports almost all kinds of audio formats including MP3, WMA, MKA, M4A and more;
+
+* Add audio to video without quality loss;
+* Export your new video in different ways;
+* Supported OS: Windows (Windows 10 included) & Mac OS X (above 10.6).
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+#### 1\. Import your media files
+
+Either click "Import" or drag and drop your MP4 video & audio track to this program. When all files imported, they'll show in thumbnails in the Media library. Now drag and drop them into the their respective track on the Timeline.
+
+![add audio to mp4](https://images.wondershare.com/images/multimedia/video-editor/video-editor-interface.jpg "add audio to mp4")
+
+#### 2\. Remove original audio file (optional)
+
+You can remove the original audio in a pretty easy way if you want. To do this, just right click the video clip on Timeline, and select "Audio Detach". or "Mute" as per your needs. If "Audio Detach" has been selected, you'll find a single audio file appearing in the Music Timeline immediately. Then you can easily delete it.
+
+![add audio to mp4](https://images.wondershare.com/images/multimedia/video-editor/video-editor-time-line.jpg "add audio to mp4")
+
+#### 3\. Add audio to MP4 video
+
+When all files come to place, you can begin to make the audio and video perfectly matched. In the Video Timeline, cut and paste any video clip to rearrange the order, and trim out unwanted portion while keeping the others. (Note: Don't overlap one into another, or you'll split the original file).
+
+Now play your source MP4 video, and drag the audio track to the exact position that you want it to begin. If you just want a short part showing up, pause it when it comes to the right place. Then click the Scissors icon above the Timeline to split it into two parts. Keep what you want, and remove the others by hit "Delete" on the keyboard. Note that you can always click Undo/Redo to control your operation.
+
+![add audio to mp4](https://images.wondershare.com/images/multimedia/video-editor/editing-files-2.jpg "add audio to mp4")
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+#### 4\. Adjust the audio file (optional)
+
+After syncing your music file and MP4 video perfectly, you can further adjust the audio file in the editing panel, like change the playing speed, volume, pitch, etc. To do this, just double click the target MP4 video file and edit it in the pop up window.
+
+![add audio to mp4](https://images.wondershare.com/topic/video-editing/edit-audio-speedup-fade-in-out.jpg "add audio to mp4")
+
+#### 5\. Save and share your creation
+
+Check your video in the right previewing window. When you're satisfied, click "Create" to export your new work. This program offers four flexible ways letting you save and share video with ease. In the format tab, you'll find almost all popular formats are available to save on your computer. If you want to share your masterpiece on YouTube, select this option to upload it right away. Even you can burn a DVD disk in minutes to watch it on your home cinema.
+
+![add audio to mp4](https://images.wondershare.com/images/multimedia/video-editor/output.jpg "add audio to mp4")
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -775,13 +802,6 @@ Lastly, publish the video by clicking the Next button.
 
 ![how to turn off tiktok original sound](https://images.wondershare.com/filmora/article-images/2022/12/how-to-mute-tiktok-audio-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2: Method 2: Use Filmora to Remove the Original Audio and Upload it to TikTok Directly
 
 On TikTok, you cannot mute the video's sound and then repost it. Instead, you will need to choose new music that works better with the movie and then sync the file. [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) from Wondershare is a multifunctional audio editor that you can use to handle the sound files of TikTok. This editor offers features that include muting the music on TikTok, syncing the audio with the video, increasing the audio loudness, and many more. You can also modify the audio files, reduce the audio clip, combine several sound recordings, and use other complex capabilities.
@@ -805,13 +825,6 @@ You can insert another sound or mute the current sound completely. Adjust the Vo
 Now, log in to your TikTok account and export your video directly to TikTok.
 
 ![login tiktok from filmora](https://images.wondershare.com/filmora/article-images/2022/12/how-to-mute-tiktok-audio-6.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3: FAQs
 
@@ -862,13 +875,6 @@ Now, log in to your TikTok account and export your video directly to TikTok.
 
 ![login tiktok from filmora](https://images.wondershare.com/filmora/article-images/2022/12/how-to-mute-tiktok-audio-6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 3: FAQs
 
 ### 1\. How do I mute a video in an editor?
@@ -908,5 +914,23 @@ Thus, this tutorial covered **how to mute your TikTok audio** before and after y
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-ultimate-seo-guide-elevating-your-video-rankings-in-a-digital-age/"><u>[New] 2024 Approved Ultimate SEO Guide Elevating Your Video Rankings in a Digital Age</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-elevate-your-video-game-with-fb-upload-on-pc-and-android/"><u>[New] In 2024, Elevate Your Video Game with FB Upload on PC and Android</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-premier-text-motion-manuals/"><u>[New] Premier Text Motion Manuals</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/2024-approved-chromebook-users-companion-to-launching-and-deleting-audacity/"><u>2024 Approved Chromebook Users Companion to Launching and Deleting Audacity</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/2024-approved-the-a-list-of-audio-harvesters-10-indispensable-tools-to-master-your-sound-design/"><u>2024 Approved The A-List of Audio Harvesters 10 Indispensable Tools to Master Your Sound Design</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-complete-guide-to-troubleshooting-the-windows-camera-app/"><u>A Complete Guide to Troubleshooting the Windows Camera App</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/cutting-corners-with-care-10plus-top-ranked-free-audio-editors-online-for-2024/"><u>Cutting Corners with Care 10+ Top-Ranked Free Audio Editors Online for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/descargar-gratuito-y-convertir-facilmente-dts-a-mp4-con-herramientas-online-de-conversion/"><u>Descargar Gratuito Y Convertir Fácilmente DTS a MP4 Con Herramientas Online De Conversión</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-updated-printer-software-for-epson-l3e-3150-compatible-with-win-1087-systems/"><u>Download Updated Printer Software for Epson L3e-3150 - Compatible with Win 10/8/7 Systems</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-realme-note-50-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Realme Note 50 to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolve-configuration-system-didnt-initialize-error-on-your-windows-10-pc-guide/"><u>Resolve 'Configuration System Didn't Initialize' Error on Your Windows 10 PC [Guide]</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/temporal-trials-inverting-and-rewinding-your-vids-on-iphone/"><u>Temporal Trials Inverting and Rewinding Your Vids on iPhone</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-tailoring-auditory-experiences-to-your-videos-with-ease-and-precision/"><u>Updated 2024 Approved Tailoring Auditory Experiences to Your Videos with Ease and Precision</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-apowersoft-audio-recorder-tutorial-and-4-alternatives/"><u>Updated In 2024, Apowersoft Audio Recorder Tutorial and 4 Alternatives</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-silent-film-techniques-how-to-minimize-background-noise-in-your-mac-imovie-projects-for-2024/"><u>Updated Silent Film Techniques How to Minimize Background Noise in Your Mac iMovie Projects for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-synchronizing-sound-and-movement-crafting-clear-audio-visualization-waves-and-incorporating-animation-flourishes-in-adobe-premiere-pro/"><u>Updated Synchronizing Sound and Movement Crafting Clear Audio Visualization Waves & Incorporating Animation Flourishes in Adobe Premiere Pro</u></a></li>
+</ul></div>
 
