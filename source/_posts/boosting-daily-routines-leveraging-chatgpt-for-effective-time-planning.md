@@ -1,7 +1,7 @@
 ---
 title: "Boosting Daily Routines: Leveraging ChatGPT for Effective Time Planning"
-date: 2024-09-26T19:24:01.166Z
-updated: 2024-09-28T08:18:16.897Z
+date: 2024-09-29T16:06:12.294Z
+updated: 2024-10-02T22:06:57.219Z
 tags:
   - chatgpt
   - open-ai
@@ -38,10 +38,10 @@ thumbnail: https://thmb.techidaily.com/cda03445bb5af4617363a25ef0e62c6e1b665fa4b
 ![Screenshot of copying text from PDF opened in Microsoft Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-copying-text-from-pdf-opened-in-ms-edge-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The text can then be pasted into a ChatGPT prompt, and the desired results attained. In this case, we asked it to bullet point the main points in the text.
@@ -49,19 +49,26 @@ thumbnail: https://thmb.techidaily.com/cda03445bb5af4617363a25ef0e62c6e1b665fa4b
 ![Screenshot of ChatGPT summarizing copied text](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-chatgpt-summarizing-copied-text.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  As you can see, ChatGPT will easily respond to prompts with text pasted into them. Just remember not to ask too much of it in a single request. This technique will work with most applications that can open PDFs.
+
+<!-- affiliate ads begin -->
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Convert the PDF Into a Text Document
 
@@ -76,28 +83,21 @@ thumbnail: https://thmb.techidaily.com/cda03445bb5af4617363a25ef0e62c6e1b665fa4b
 ![Screenshot of Word opening PDF file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-word-opening-pdf-file.jpg)
 3. When you open the file you will be asked to convert the document, press**OK** to proceed.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Screenshot of Word PDF Conversion](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-word-pdf-conversion.jpg)
 4. Word will now convert and open the file, you can use the**Save As** command to save it as a Word or text document as preferred.
 
  Once the conversion is complete, you can copy the text directly into ChatGPT and run prompts on it to get your desired results.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Install and Use an Extension
 
 ![chatgpt with file uploader extension](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-extension.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Unfortunately, at this time, ChatGPT does not include a way to automatically upload PDF files or any files for that matter. Sure, you can copy the text from a PDF or convert it into a text document, but is there a simpler way to go about it? Luckily, there is. One of the easiest ways to get ChatGPT to read PDFs is to just install and use an extension.
 
@@ -126,22 +126,17 @@ thumbnail: https://thmb.techidaily.com/cda03445bb5af4617363a25ef0e62c6e1b665fa4b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-fps-fanatics-compendium-selecting-superior-extensions-for-2024/"><u>[New] FPS Fanatics' Compendium Selecting Superior Extensions for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-crucial-collections-8-innovative-products-to-boost-your-professional-edge/"><u>2024 Approved Crucial Collections 8 Innovative Products to Boost Your Professional Edge</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/audiences-choice-in-drama-writings/"><u>Audience's Choice in Drama Writings</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/expert-virtual-audio-fusion-and-cutting-program/"><u>Expert Virtual Audio Fusion and Cutting Program</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-does-mms-work-step-by-step-tutorial-for-turning-on-rich-media-sending-in-your-phone/"><u>How Does MMS Work? Step-by-Step Tutorial for Turning On Rich Media Sending in Your Phone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-vivo-y200-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Vivo Y200</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/in-2024-chill-out-playlists-for-non-profit-video-arrangements/"><u>In 2024, Chill-Out Playlists for Non-Profit Video Arrangements</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/in-2024-mastering-ai-powered-vocal-replication-two-techniques-for-authenticity/"><u>In 2024, Mastering AI-Powered Vocal Replication Two Techniques for Authenticity</u></a></li>
-<li><a href="https://video-capture.techidaily.com/leading-the-way-in-video-game-recording-software-without-fbx-dependence-for-2024/"><u>Leading the Way in Video Game Recording Software Without FBX Dependence for 2024</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-premiere-pro-essentials-how-to-seamlessly-integrate-sound-with-visuals/"><u>New 2024 Approved Premiere Pro Essentials How to Seamlessly Integrate Sound with Visuals</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-honor-x50i-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Honor X50i Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/rapid-method-for-silencing-audio-in-audacity-essential-tips/"><u>Rapid Method for Silencing Audio in Audacity Essential Tips</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/streamlining-video-logging-on-periscope-platforms-for-2024/"><u>Streamlining Video Logging on Periscope Platforms for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/unlocking-youtube-content-as-lively-download-free-animated-gifs-for-2024/"><u>Unlocking YouTube Content as Lively, Download-Free Animated GIFs for 2024</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-audio-free-video-formats-mastering-the-art-of-silence-removal-in-popular-file-types-mp4-mkv-avi-mov-wmv/"><u>Updated In 2024, Audio-Free Video Formats Mastering the Art of Silence Removal in Popular File Types (MP4, MKV, AVI, MOV, WMV)</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-streamlining-speaker-audio-in-microsoft-powerpoint-cross-platform-solutions-for-windows-and-mac/"><u>Updated Streamlining Speaker Audio in Microsoft PowerPoint Cross-Platform Solutions for Windows and Mac</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-unveiling-the-essence-of-sound-pairing-waveforms-with-dynamic-animations-for-adobe-premiere-pro-creatives-for-2024/"><u>Updated Unveiling the Essence of Sound Pairing Waveforms with Dynamic Animations for Adobe Premiere Pro Creatives for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-pro-tips-for-shooting-quality-gopro-time-lapse-videos/"><u>[New] In 2024, Pro Tips for Shooting Quality GoPro Time-Lapse Videos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-maximizing-engagement-youtube-links-as-a-catalyst/"><u>[New] Maximizing Engagement YouTube Links as a Catalyst</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/solved-hp-printer-driver-is-unavailable-on-windows-1110/"><u>[Solved] HP Printer Driver Is Unavailable on Windows 11/10</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-camera-companion-dilemma-polaroid-cube-or-gopro-hero-edition/"><u>[Updated] Camera Companion Dilemma Polaroid Cube or GoPro Hero Edition</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-comprehensive-vivacut-analysis-and-editors-blueprint/"><u>2024 Approved Comprehensive VivaCut Analysis & Editor's Blueprint</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/2024-approved-mastering-audio-balance-achieving-consistent-volume-levels-with-vlc-media-player/"><u>2024 Approved Mastering Audio Balance Achieving Consistent Volume Levels with VLC Media Player</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-daily-deeds-for-digital-diaries-tips-on-virtual-journeys/"><u>In 2024, Daily Deeds for Digital Diaries Tips on Virtual Journeys</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/master-musicians-picks-best-10-song-arrangers-for-windows-and-mac-devices/"><u>Master Musicians Picks Best 10 Song Arrangers for Windows & Mac Devices</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-elevating-audio-excellence-adjusting-pitch-in-audacity-without-compromising-quality/"><u>New In 2024, Elevating Audio Excellence Adjusting Pitch in Audacity without Compromising Quality</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-ornithological-soundscapes-mp3-compilation/"><u>New In 2024, Ornithological Soundscapes MP3 Compilation</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/revolutionize-your-viewing-experience-with-affordable-200-inch-display-400-vr-headset-for-immersive-gaming-and-movie-marathons/"><u>Revolutionize Your Viewing Experience with Affordable 200-Inch Display - $400 VR Headset for Immersive Gaming & Movie Marathons</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-enhancing-audio-quality-practical-methods-to-eradicate-low-frequency-rumble/"><u>Updated Enhancing Audio Quality Practical Methods to Eradicate Low-Frequency Rumble</u></a></li>
 </ul></div>
 

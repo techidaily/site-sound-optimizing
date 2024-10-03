@@ -1,7 +1,7 @@
 ---
 title: Audio Enhancement Techniques in After Effects A Comprehensive 2023 Guide
-date: 2024-08-02T03:28:09.682Z
-updated: 2024-08-03T03:28:09.682Z
+date: 2024-09-27T17:40:19.102Z
+updated: 2024-10-03T01:05:23.858Z
 tags: 
   - audio editing software
   - audio editing
@@ -130,6 +130,13 @@ Working with audio files in Adobe After Effects would be challenging since it is
 
 ![add audio in after effects](https://images.wondershare.com/filmora/article-images/add-audio-in-after-effects.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3\. Import the audio file to the project file as well (that is required to be added).
 
 4\. Make sure to convert the audio file to .mp3 format.
@@ -168,118 +175,12 @@ To add audio in Wondershare Filmora, you need to follow the steps as explained b
 
 Download and install the official software of Wondershare Filmora on your device. Once installed, you need to launch it and tap on “New Project” to start working on Filmora.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![click on new project](https://static.wondershare.com/images-filmora/images/article/add-audio-to-after-effects-1.jpg)
 
 **Step 2: Import Audio File**
 
 Once a new project starts, tap on 'File' followed by "Import Media." Select the option of "Import Media Files" to proceed to the next screen. Add in the required audio successfully.
 
-![import your audio file](https://static.wondershare.com/images-filmora/images/article/add-audio-to-after-effects-2.jpg)
-
-**Step 3: Drag Audio to Timeline**
-
-To perform different edits across the audio, the user needs to drag the audio on the timeline.
-
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![drag audio file to timeline](https://static.wondershare.com/images-filmora/images/article/add-audio-to-after-effects-3.jpg)
-
-**Step 4: Export Audio File**
-
-Once you are done editing the audio, you can easily save it across your device. For that, tap on "Export" to open a new window. Across the "Local" section, select "MP3" from the list of formats and figuratively set all the other settings before tapping on "Export."
-
-![click on export button](https://static.wondershare.com/images-filmora/images/article/add-audio-to-after-effects-4.jpg)
-
-#### 3\.  FL Studio 12.1.2
-
-This digital editing workstation is definitely not for beginners. Trained professionals who are familiar with editing software will not have a lot of trouble adjusting to this format. This is a professional tool that offers a convenient platform for editing and mixing.
-
-#### 4\. Adobe Audition
-
-Here you will get a mix of simplicity and professionalism. It is easy to get used to but progresses in complexity with time.
-
-#### 5\. Wavosaur
-
-Wavosaur is an old tool that doesn’t run on most modern computers and laptops. But it does offer many features and methods of processing for audio clips.
-
-![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
-
-Benjamin Arango
-
-Benjamin Arango is a writer and a lover of all things video.
-
-Follow @Benjamin Arango
-
-##### Benjamin Arango
-
- Mar 27, 2024• Proven solutions
-
-Working with audio files in Adobe After Effects would be challenging since it is basically a visual effects and motion graphics software, but audio can be added to a video in After Effects by the following method we are going to introduce in this guide.
-
----
-
-## How to Add Audio in After Effects
-
-1\. Start the program and open a new project.
-
-2\. Import the files in the project panel. Mute the video sound if neccesary
-
-![add audio in after effects](https://images.wondershare.com/filmora/article-images/add-audio-in-after-effects.jpg)
-
-3\. Import the audio file to the project file as well (that is required to be added).
-
-4\. Make sure to convert the audio file to .mp3 format.
-
-5\. Drag and drop the audio onto the composition.
-
-**To preview the audio in After Effects,** enable the audio in the timeline first and then Press cmd+0 on Mac to preview.
-
-6\. Adjust the audio settings. Double click "L" on you keyboard to show the audio waveform.
-
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![add audio in after effects](https://images.wondershare.com/filmora/article-images/audio-waveform-in-after-effects.jpg)
-
-Check this video tutorial to know the details on adding, adjusting audio in After Effects
-
-## 5 Best Audio Editing Software to Add Audio to Video
-
-#### 1\. WavePad from NCH Software
-
-This is definitely one of the most popular editing tools because of how simple and easy it is to use. It is great for beginners who need professional-level editing tools. It is possible to use any audio format on this software including MP3, WMA, OGG, VOX, GSM, etc.
-
-#### 2\. Audacity: Free open source audio editing software
-
-This is free software that works on multiple platforms and supports multi-track editing and even live audio recording. It has a very simple user interface that makes it easy to learn on and get used to while offering professional features and ensuring the best quality.
-
-**3\. Wondershare Filmora**
-
-Users are not restricted to working across After Effects to manage their audios. There are a lot of options available in the market that feature simplicity and efficiency. [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is a unique example of such a platform that provides users with a simple user interface integrated with advanced features to work on. There are a lot of functions that can be performed across audio that is added across Filmora.
-
-Multiple audio adjustment options are available across Wondershare Filmora. While fading the audio and managing its pitch, users can utilize denoising and ducking tools to make different edits across the audio.
-
-[![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
-To add audio in Wondershare Filmora, you need to follow the steps as explained below.
-
-**Step 1: Start a New Project on Wondershare Filmora**
-
-Download and install the official software of Wondershare Filmora on your device. Once installed, you need to launch it and tap on “New Project” to start working on Filmora.
-
-![click on new project](https://static.wondershare.com/images-filmora/images/article/add-audio-to-after-effects-1.jpg)
-
-**Step 2: Import Audio File**
-
-Once a new project starts, tap on 'File' followed by "Import Media." Select the option of "Import Media Files" to proceed to the next screen. Add in the required audio successfully.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![import your audio file](https://static.wondershare.com/images-filmora/images/article/add-audio-to-after-effects-2.jpg)
 
 **Step 3: Drag Audio to Timeline**
@@ -329,6 +230,127 @@ Working with audio files in Adobe After Effects would be challenging since it is
 2\. Import the files in the project panel. Mute the video sound if neccesary
 
 ![add audio in after effects](https://images.wondershare.com/filmora/article-images/add-audio-in-after-effects.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+3\. Import the audio file to the project file as well (that is required to be added).
+
+4\. Make sure to convert the audio file to .mp3 format.
+
+5\. Drag and drop the audio onto the composition.
+
+**To preview the audio in After Effects,** enable the audio in the timeline first and then Press cmd+0 on Mac to preview.
+
+6\. Adjust the audio settings. Double click "L" on you keyboard to show the audio waveform.
+
+![add audio in after effects](https://images.wondershare.com/filmora/article-images/audio-waveform-in-after-effects.jpg)
+
+Check this video tutorial to know the details on adding, adjusting audio in After Effects
+
+## 5 Best Audio Editing Software to Add Audio to Video
+
+#### 1\. WavePad from NCH Software
+
+This is definitely one of the most popular editing tools because of how simple and easy it is to use. It is great for beginners who need professional-level editing tools. It is possible to use any audio format on this software including MP3, WMA, OGG, VOX, GSM, etc.
+
+#### 2\. Audacity: Free open source audio editing software
+
+This is free software that works on multiple platforms and supports multi-track editing and even live audio recording. It has a very simple user interface that makes it easy to learn on and get used to while offering professional features and ensuring the best quality.
+
+**3\. Wondershare Filmora**
+
+Users are not restricted to working across After Effects to manage their audios. There are a lot of options available in the market that feature simplicity and efficiency. [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is a unique example of such a platform that provides users with a simple user interface integrated with advanced features to work on. There are a lot of functions that can be performed across audio that is added across Filmora.
+
+Multiple audio adjustment options are available across Wondershare Filmora. While fading the audio and managing its pitch, users can utilize denoising and ducking tools to make different edits across the audio.
+
+[![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+To add audio in Wondershare Filmora, you need to follow the steps as explained below.
+
+**Step 1: Start a New Project on Wondershare Filmora**
+
+Download and install the official software of Wondershare Filmora on your device. Once installed, you need to launch it and tap on “New Project” to start working on Filmora.
+
+![click on new project](https://static.wondershare.com/images-filmora/images/article/add-audio-to-after-effects-1.jpg)
+
+**Step 2: Import Audio File**
+
+Once a new project starts, tap on 'File' followed by "Import Media." Select the option of "Import Media Files" to proceed to the next screen. Add in the required audio successfully.
+
+![import your audio file](https://static.wondershare.com/images-filmora/images/article/add-audio-to-after-effects-2.jpg)
+
+**Step 3: Drag Audio to Timeline**
+
+To perform different edits across the audio, the user needs to drag the audio on the timeline.
+
+![drag audio file to timeline](https://static.wondershare.com/images-filmora/images/article/add-audio-to-after-effects-3.jpg)
+
+**Step 4: Export Audio File**
+
+Once you are done editing the audio, you can easily save it across your device. For that, tap on "Export" to open a new window. Across the "Local" section, select "MP3" from the list of formats and figuratively set all the other settings before tapping on "Export."
+
+![click on export button](https://static.wondershare.com/images-filmora/images/article/add-audio-to-after-effects-4.jpg)
+
+#### 3\.  FL Studio 12.1.2
+
+This digital editing workstation is definitely not for beginners. Trained professionals who are familiar with editing software will not have a lot of trouble adjusting to this format. This is a professional tool that offers a convenient platform for editing and mixing.
+
+#### 4\. Adobe Audition
+
+Here you will get a mix of simplicity and professionalism. It is easy to get used to but progresses in complexity with time.
+
+#### 5\. Wavosaur
+
+Wavosaur is an old tool that doesn’t run on most modern computers and laptops. But it does offer many features and methods of processing for audio clips.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+Benjamin Arango
+
+Benjamin Arango is a writer and a lover of all things video.
+
+Follow @Benjamin Arango
+
+##### Benjamin Arango
+
+ Mar 27, 2024• Proven solutions
+
+Working with audio files in Adobe After Effects would be challenging since it is basically a visual effects and motion graphics software, but audio can be added to a video in After Effects by the following method we are going to introduce in this guide.
+
+---
+
+## How to Add Audio in After Effects
+
+1\. Start the program and open a new project.
+
+2\. Import the files in the project panel. Mute the video sound if neccesary
+
+![add audio in after effects](https://images.wondershare.com/filmora/article-images/add-audio-in-after-effects.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 3\. Import the audio file to the project file as well (that is required to be added).
 
@@ -426,11 +448,31 @@ Follow @Benjamin Arango
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Shanoon Cox
 
  Mar 27, 2024• Proven solutions
 
 The recordings of important business meetings or stunning moments from the events you attended contain both sound and video. Creating a new audio file from a video clip is a routine operation that enables you to combine the sound of one clip with any number of video clips you include in your projects or use it as a separate audio file. You don’t even need a desktop-based video editing software to extract audio from video files since a growing number of online platforms offer this service for free. That’s why, in this article, we are going to take you through some of the best online tools that allow you to separate audio from video files in just a few easy steps.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Top 6 Online Audio Extractors
 
@@ -519,6 +561,13 @@ Follow @Shanoon Cox
  Mar 27, 2024• Proven solutions
 
 The recordings of important business meetings or stunning moments from the events you attended contain both sound and video. Creating a new audio file from a video clip is a routine operation that enables you to combine the sound of one clip with any number of video clips you include in your projects or use it as a separate audio file. You don’t even need a desktop-based video editing software to extract audio from video files since a growing number of online platforms offer this service for free. That’s why, in this article, we are going to take you through some of the best online tools that allow you to separate audio from video files in just a few easy steps.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Top 6 Online Audio Extractors
 
@@ -630,9 +679,6 @@ Another workable feature of this audio distorter is that it supports various aud
 
 The global market recognizes Aduacity as the premiere pro distorted audio software that is free of charge. The tool has become popular due to the multiple advanced features it brings to the table. For instance, professionals can count on this application to add effects such as bass and treble. The tool does a phenomenal job in noise removal and distorting it.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![audacity editor interface](https://images.wondershare.com/filmora/article-images/2021/best-tools-to-distort-audio-2.jpg)
 
 Aduacity comes first in a user’s mind if several analysis tools are the need of the hour. From beat finder to silence finder and sound finder, Aduacity has got you pretty much all covered. Covers pretty much, right?
@@ -665,6 +711,13 @@ Sound Forge is on the list of perfectly designed audio editors and audio distort
 
 ![sound forge editor design](https://images.wondershare.com/filmora/article-images/2021/best-tools-to-distort-audio-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Sound Forge is in the market with a diverse range of versions. The Pro version is designed for professionals and offers multi-track recording, voice activity detection, Disc Description protocol, and much more. The application can be relied upon for it works on artificial intelligence to bring nothing but the best.
 
 The Audio Studio of Sound Forge lets the user record, edit, restore, and master songs with professional effects. The Windows and Mac users can safely use the tool effortlessly.
@@ -685,10 +738,22 @@ The Audio Studio of Sound Forge lets the user record, edit, restore, and master 
      data-full-width-responsive="true"></ins>
 
 
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-smart-pick-android-apps-for-large-video-meetings/"><u>[New] 2024 Approved Smart Pick Android Apps for Large Video Meetings</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-dailymotion-elites-in-snapchat-world/"><u>[Updated] 2024 Approved Dailymotion Elites in Snapchat World</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-harnessing-the-power-of-followers-for-impactful-advertising-campaigns/"><u>[Updated] In 2024, Harnessing the Power of Followers for Impactful Advertising Campaigns</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-unmarked-eyes-facebook-story-viewer/"><u>[Updated] Unmarked Eyes Facebook Story Viewer</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-3-premium-phones-excelling-in-quality-video-capture/"><u>2024 Approved Top 3 Premium Phones Excelling in Quality Video Capture</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/google-unveils-future-plans-comprehensive-coverage-of-next-event-and-speculation/"><u>Google Unveils Future Plans: Comprehensive Coverage of Next Event & Speculation</u></a></li>
+<li><a href="https://discover-best.techidaily.com/how-to-burn-a-dvd-on-hard-drive-with-windows-10windows/"><u>How to Burn a DVD on Hard Drive with Windows 10/Windows</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/kindle-or-fire-tablet-deciding-which-device-is-right-for-you/"><u>Kindle or Fire Tablet - Deciding Which Device Is Right for You?</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-10-best-audio-editor-windows-mac/"><u>New 2024 Approved 10 Best Audio Editor Windows, Mac</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-vibrant-soundscapes-10-melodies-that-elevate-your-video-montages/"><u>New 2024 Approved Vibrant Soundscapes 10 Melodies That Elevate Your Video Montages</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-crafting-the-perfect-soundtrack-for-your-project-step-by-step-audio-replacement-tactics/"><u>New Crafting the Perfect Soundtrack for Your Project Step-by-Step Audio Replacement Tactics</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-evolving-sound-quality-issues-within-the-2023-adobe-rush-iteration-for-2024/"><u>New Evolving Sound Quality Issues Within the 2023 Adobe Rush Iteration for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-top-ranked-ringtones-to-enhance-your-call-experience/"><u>New Top-Ranked Ringtones to Enhance Your Call Experience</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-finest-active-sports-movies-that-will-inspire-you-tonight/"><u>The Finest Active Sports Movies That Will Inspire You Tonight!</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-procuring-specialized-sounds-mimicking-intestinal-gas-release-for-enhanced-aural-realism/"><u>Updated Procuring Specialized Sounds Mimicking Intestinal Gas Release for Enhanced Aural Realism</u></a></li>
+</ul></div>
 

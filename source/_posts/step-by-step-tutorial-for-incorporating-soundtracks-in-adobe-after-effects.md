@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Tutorial for Incorporating Soundtracks in Adobe After Effects
-date: 2024-08-02T03:28:31.597Z
-updated: 2024-08-03T03:28:31.597Z
+date: 2024-09-28T00:24:41.922Z
+updated: 2024-10-02T23:00:46.851Z
 tags: 
   - audio editing software
   - audio editing
@@ -130,6 +130,13 @@ Working with audio files in Adobe After Effects would be challenging since it is
 
 ![add audio in after effects](https://images.wondershare.com/filmora/article-images/add-audio-in-after-effects.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3\. Import the audio file to the project file as well (that is required to be added).
 
 4\. Make sure to convert the audio file to .mp3 format.
@@ -141,6 +148,13 @@ Working with audio files in Adobe After Effects would be challenging since it is
 6\. Adjust the audio settings. Double click "L" on you keyboard to show the audio waveform.
 
 ![add audio in after effects](https://images.wondershare.com/filmora/article-images/audio-waveform-in-after-effects.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Check this video tutorial to know the details on adding, adjusting audio in After Effects
 
@@ -254,9 +268,6 @@ Users are not restricted to working across After Effects to manage their audios.
 
 Multiple audio adjustment options are available across Wondershare Filmora. While fading the audio and managing its pitch, users can utilize denoising and ducking tools to make different edits across the audio.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 To add audio in Wondershare Filmora, you need to follow the steps as explained below.
@@ -486,6 +497,13 @@ For Win 7 or later (64-bit)
 
 For macOS 10.12 or later
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Why Choose Wondershare Filmora
 
 * Remove audio from all kinds of video formats, including AVI, WMV, WTV, MOV, MKV, FLV, etc;
@@ -502,9 +520,69 @@ For Win 7 or later (64-bit)
 
 For macOS 10.12 or later
 
+### 1\. Import your videos
+
+![remove video](https://images.wondershare.com/images/multimedia/video-editor/video-editor-interface.jpg "remove audio from video")
+
+Click "Import" to browse your file folder on hard disk and then pick up the videos you want to remove audio. To select multiple files, hold down the "Ctrl" button when choosing other files. All loaded files will display as thumbnails in the file tray. Doubling click them, you can preview it in the right screen window.
+
+### 2\. Remove audio from video
+
+![remove audio from video](https://images.wondershare.com/images/multimedia/video-editor/video-editor-time-line.jpg "remove audio from video")
+
+Drag video from file tray to the Video Timeline. Right-click it and select "Audio Detach." Immediately, you'll see a separate audio file in the Music Timeline. Yes, this is the audio track of your original video. Now just hit "Delete" on the keyboard to remove the audio.
+
+**Tips**:
+1\. The files on Video Timeline will be merged seamlessly together by default. If you have multiple files to remove audio and need to save to separate files, please click the left top program icon and save to different project files first. After that, load the project file again and export the output file one by one.  
+2\. You can also use the "Mute" option to remove the audio from the video, but you won't get the audio track with this option.
+
+### 3\. Save the video
+
+![remove audio from video file](https://images.wondershare.com/images/multimedia/video-editor/output.jpg "remove audio from video file")
+
 <!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+Double click the file in Video Timeline to check if this is what you want. If necessary, you can add some music files that fit this video. Or directly click "Create" to export only the video track. Pick your wanted format to save it on your computer in the pop-up format window.
+
+##### Versatile Video Editor - Wondershare Filmora
+
+An easy yet powerful editor
+
+Numerous effects to choose from
+
+Detailed tutorials provided by the official channel
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For Win 7 or later (64-bit)
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+## Why Choose Wondershare Filmora
+
+* Remove audio from all kinds of video formats, including AVI, WMV, WTV, MOV, MKV, FLV, etc;
+* Completely remove the audio from video to keep video-only stream or mute the audio of a source video;
+* Other functions such as add effect/subtitle/watermark to video; trim/crop/rotate video files and more;
+* Save your video in different formats, burn to DVD or upload to YouTube and Facebook;
+* Supported OS: Windows (Windows 8 included) & Mac OS X (above 10.6).
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For Win 7 or later (64-bit)
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
 ### 1\. Import your videos
 
 ![remove video](https://images.wondershare.com/images/multimedia/video-editor/video-editor-interface.jpg "remove audio from video")
@@ -563,68 +641,6 @@ For macOS 10.12 or later
 
 ### 1\. Import your videos
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![remove video](https://images.wondershare.com/images/multimedia/video-editor/video-editor-interface.jpg "remove audio from video")
-
-Click "Import" to browse your file folder on hard disk and then pick up the videos you want to remove audio. To select multiple files, hold down the "Ctrl" button when choosing other files. All loaded files will display as thumbnails in the file tray. Doubling click them, you can preview it in the right screen window.
-
-### 2\. Remove audio from video
-
-![remove audio from video](https://images.wondershare.com/images/multimedia/video-editor/video-editor-time-line.jpg "remove audio from video")
-
-Drag video from file tray to the Video Timeline. Right-click it and select "Audio Detach." Immediately, you'll see a separate audio file in the Music Timeline. Yes, this is the audio track of your original video. Now just hit "Delete" on the keyboard to remove the audio.
-
-**Tips**:
-1\. The files on Video Timeline will be merged seamlessly together by default. If you have multiple files to remove audio and need to save to separate files, please click the left top program icon and save to different project files first. After that, load the project file again and export the output file one by one.  
-2\. You can also use the "Mute" option to remove the audio from the video, but you won't get the audio track with this option.
-
-### 3\. Save the video
-
-![remove audio from video file](https://images.wondershare.com/images/multimedia/video-editor/output.jpg "remove audio from video file")
-
-Double click the file in Video Timeline to check if this is what you want. If necessary, you can add some music files that fit this video. Or directly click "Create" to export only the video track. Pick your wanted format to save it on your computer in the pop-up format window.
-
-##### Versatile Video Editor - Wondershare Filmora
-
-An easy yet powerful editor
-
-Numerous effects to choose from
-
-Detailed tutorials provided by the official channel
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For Win 7 or later (64-bit)
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.12 or later
-
-## Why Choose Wondershare Filmora
-
-* Remove audio from all kinds of video formats, including AVI, WMV, WTV, MOV, MKV, FLV, etc;
-* Completely remove the audio from video to keep video-only stream or mute the audio of a source video;
-* Other functions such as add effect/subtitle/watermark to video; trim/crop/rotate video files and more;
-* Save your video in different formats, burn to DVD or upload to YouTube and Facebook;
-* Supported OS: Windows (Windows 8 included) & Mac OS X (above 10.6).
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For Win 7 or later (64-bit)
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.12 or later
-
-### 1\. Import your videos
-
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remove video](https://images.wondershare.com/images/multimedia/video-editor/video-editor-interface.jpg "remove audio from video")
 
 Click "Import" to browse your file folder on hard disk and then pick up the videos you want to remove audio. To select multiple files, hold down the "Ctrl" button when choosing other files. All loaded files will display as thumbnails in the file tray. Doubling click them, you can preview it in the right screen window.
@@ -660,8 +676,6 @@ Detailed tutorials provided by the official channel
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 ## Top 4 Best Music Editor Applications for Mac
 
@@ -725,6 +739,13 @@ A complete range of tutorials also supports adobe Audition to help you get the m
 
 ![Adobe Audition](https://images.wondershare.com/filmora/article-images/audition.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Section 3\. How to choose Music Editor for Mac users?
 
 Choosing a music editor for Mac, including the ability to edit and output to MP3 and MP4 formats, depends entirely on your needs. If your needs are modest and limited features or functionality work for you, several free-to-use options will get the job done. If you need more robust functionality and professional quality, a pay program will offer more satisfying performance. Keep in mind the following questions when making your choice:
@@ -751,6 +772,13 @@ So how do you choose a music editor for Mac that can do everything you want? In 
 ## Section 1\. Free Music Editors for Mac
 
 Free-to-use is great, especially when you get all the performance and features you need in a music editor. Two free music and audio editors for Mac we recommend are:
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. Audio Editor: OcenAudio
 
@@ -798,6 +826,13 @@ A complete range of tutorials also supports adobe Audition to help you get the m
 
 ![Adobe Audition](https://images.wondershare.com/filmora/article-images/audition.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Section 3\. How to choose Music Editor for Mac users?
 
 Choosing a music editor for Mac, including the ability to edit and output to MP3 and MP4 formats, depends entirely on your needs. If your needs are modest and limited features or functionality work for you, several free-to-use options will get the job done. If you need more robust functionality and professional quality, a pay program will offer more satisfying performance. Keep in mind the following questions when making your choice:
@@ -831,9 +866,6 @@ Free-to-use is great, especially when you get all the performance and features y
 
 OcenAudio supports MP3, WAV, FLAC, WMA, and many other audio formats.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ocenaudio](https://images.wondershare.com/filmora/article-images/ocenaudio.jpg)
 
 ### 2\. MP3 Editor: Audacity
@@ -843,6 +875,13 @@ OcenAudio supports MP3, WAV, FLAC, WMA, and many other audio formats.
 Audacity supports many formats, including WAV, AIFF, FLAC, MP2, MP3, and OGG.
 
 ![Audacity](https://images.wondershare.com/filmora/article-images/audacity.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Section 2\. Professional Quality Music Editors for Mac
 
@@ -982,10 +1021,19 @@ Detailed tutorials provided by the official channel
      data-full-width-responsive="true"></ins>
 
 
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-efficient-techniques-for-secure-and-effective-lecture-capturing-using-imac-for-2024/"><u>[Updated] Efficient Techniques for Secure and Effective Lecture Capturing Using iMac for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-tecno-spark-20-proplus-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Tecno Spark 20 Pro+? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-go-joystick-on-tecno-spark-10-5g-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Tecno Spark 10 5G? | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-transform-your-videos-comprehensive-guide-to-video-enhancer-22/"><u>In 2024, Transform Your Videos Comprehensive Guide to Video Enhancer 2.2</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-youtubes-financial-frontier-achieving-video-monetization-mastery/"><u>In 2024, YouTube's Financial Frontier Achieving Video Monetization Mastery</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-or-upgrade-the-tp-link-ub400-bluetooth-adapter-software-now/"><u>Install or Upgrade the TP-Link UB400 Bluetooth Adapter Software Now!</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-best-10-websites-to-download-montage-music/"><u>New 2024 Approved Best 10 Websites to Download Montage Music</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-a-comprehensive-handbook-on-crafting-unique-smartphone-melodies/"><u>New A Comprehensive Handbook on Crafting Unique Smartphone Melodies</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-the-editors-playlist-top-tips-for-crafting-memorable-mvs/"><u>New In 2024, The Editors Playlist Top Tips for Crafting Memorable MVs</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-beatbank-your-digital-library-of-dj-masterpieces-for-2024/"><u>Updated BeatBank Your Digital Library of DJ Masterpieces for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-converting-audacity-audio-productions-to-mp3-format/"><u>Updated Converting Audacity Audio Productions to MP3 Format</u></a></li>
+<li><a href="https://techtrends.techidaily.com/winning-the-battle-against-trustedinstaller-permissions-on-your-windows-11-pc/"><u>Winning the Battle Against TrustedInstaller Permissions on Your Windows 11 PC</u></a></li>
+</ul></div>
 

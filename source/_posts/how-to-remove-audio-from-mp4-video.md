@@ -1,7 +1,7 @@
 ---
 title: How to Remove Audio From MP4 Video
-date: 2024-08-02T03:28:21.384Z
-updated: 2024-08-03T03:28:21.384Z
+date: 2024-10-02T02:41:04.294Z
+updated: 2024-10-02T17:45:49.033Z
 tags: 
   - audio editing software
   - audio editing
@@ -119,38 +119,49 @@ Sometimes, you might wish to mute a video clip for many reasons, then the Filmor
 
 To reach it, you only need to drag and drop your targeted MP4 video into the timeline, and then, right-click on it and choose "**Mute**" option. Then, click "Export" to export and save the edited videos.
 
+![detach video](https://images.iskysoft.com/filmora-video-editor/audio-edit.jpg)
+
+## Conclusion
+
+Now, it's your turn to have a try. Above are the steps to remove audio from video. Leave a comment to let us know if you have any questions.
+
+##### Versatile Video Editor - Wondershare Filmora
+
+An easy yet powerful editor
+
+Numerous effects to choose from
+
+Detailed tutorials provided by the official channel
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For Win 7 or later (64-bit)
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-![detach video](https://images.iskysoft.com/filmora-video-editor/audio-edit.jpg)
-
-## Conclusion
-
-Now, it's your turn to have a try. Above are the steps to remove audio from video. Leave a comment to let us know if you have any questions.
-
-##### Versatile Video Editor - Wondershare Filmora
-
-An easy yet powerful editor
-
-Numerous effects to choose from
-
-Detailed tutorials provided by the official channel
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For Win 7 or later (64-bit)
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.12 or later
 
 ### Step 1: Import your MP4 file
 
 Free download the audio track remover- Video Editor, install, and run it. Then the following interface will pop up. Click the "Import" button to add the video file you want to remove audio tracks.
 
 ![remove video](https://images.wondershare.com/filmora/article-images/filmora9-interface-post.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Step 2: Remove audio from the file
 
@@ -202,6 +213,13 @@ Free download the audio track remover- Video Editor, install, and run it. Then t
 
 ![remove video](https://images.wondershare.com/filmora/article-images/filmora9-interface-post.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Step 2: Remove audio from the file
 
 Drag-n-drop the mp4 file to the timeline, right-click and choose "Detach Audio" to detach the audio tracks from the original mp4 file. Then the separated audio track will appear in the Audio Timeline. You can right-click the audio and choose "Delete" to remove audio from mp4.
@@ -249,7 +267,6 @@ Detailed tutorials provided by the official channel
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
 
 
 ## Audacity's Secret Techniques for Disentangling Primary Soundscapes From Background Tracks
@@ -290,13 +307,17 @@ First, you will have to install Audacity on your computеr before you can bеgin
 
 ![install audacity](https://images.wondershare.com/filmora/article-images/2023/the-ultimate-guide-to-remove-background-music-in-audacity-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### Step 2: Open Audacity
 
 Launch Audacity once it has been installed. The Audacity icon consists of a blue set of headphones enclosed by an orange wave of sound.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![open audacity](https://images.wondershare.com/filmora/article-images/2023/the-ultimate-guide-to-remove-background-music-in-audacity-2.jpg)
 
 #### Step 3: Select File from the Menu
@@ -397,9 +418,6 @@ During the recording process, you can automatically lower the volume of the musi
 
 The latest version includes improved noise reduction features. ensuring your audio remains clear and free from unwanted background noise.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![filmora noise reduction](https://images.wondershare.com/filmora/article-images/2023/the-ultimate-guide-to-remove-background-music-in-audacity-13.jpg)
 
 ##### ● AI Audio Stretch
@@ -418,6 +436,13 @@ From your Windows computer, launch Wondershare Filmora.It takеs a couplе of s�
 
 ![launch filmora](https://images.wondershare.com/filmora/article-images/2023/the-ultimate-guide-to-remove-background-music-in-audacity-15.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### Step 2: Import the File
 
 Import the file from the Media Library by dragging and dropping it to the timeline. Make the resolution or frame rate whatever you want. In the timeline, the user should right-click on the media. From the menu, click "Audio."
@@ -433,6 +458,13 @@ The "Audio" sub-menu contains the option to "Detach Audio." This will sеparatе
 It can also bе dеlеtеd by clicking on it and prеssing "Dеlеtе. "
 
 ![click on delete](https://images.wondershare.com/filmora/article-images/2023/the-ultimate-guide-to-remove-background-music-in-audacity-18.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Step 4: Exporting Process
 
@@ -536,6 +568,13 @@ Audacity offers a noise reduction tool with various settings. Adjust the noise r
 
 ![click noise reduction](https://images.wondershare.com/filmora/article-images/2023/the-ultimate-guide-to-remove-background-music-in-audacity-10.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * Step 3 - You will need to click Noise Reduction. There is a drop-down menu near the middle of the Effects menu.
 * Step 4 - Click on Get Noise Profile. On the window's top, you'll find this button. Audacity will be able to distinguish background noise from other noise.
 
@@ -574,9 +613,6 @@ Before delving into the background music removal process, let's take a moment to
 
 During the recording process, you can automatically lower the volume of the music under speech so another track can be heard clearly. A background track can affect the clarity of other tracks used in voice over, narration, translation, podcasts, and YouTube videos.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![filmora audio ducking](https://images.wondershare.com/filmora/article-images/2023/the-ultimate-guide-to-remove-background-music-in-audacity-12.jpg)
 
 ##### ● Enhanced Noise Reduction
@@ -590,6 +626,13 @@ The latest version includes improved noise reduction features. ensuring your aud
 Almost instantly retime a video's audio track to match the length. It's easy and fast to manage audio levels with audio ducking when capturing voiceovers or other audio productions.
 
 ![filmora audio stretch](https://images.wondershare.com/filmora/article-images/2023/the-ultimate-guide-to-remove-background-music-in-audacity-14.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Step-by-Step Guide on How to Remove Background Music with Wondershare Filmora
 
@@ -644,9 +687,6 @@ Cut mp3, cut ringtone application help you cut a favorite part of an audio song,
 This app is a best choice to make your own ringtones (support WAV, FLAC, AAC formats). User can record a live audio then use this app as editor to edit and trim the best parts.  
 editor supports MP3, WAV, AAC, AMR, FLAC and most other music formats. Music editor, alarm tone maker, ringtone cutter or notification tone creator are other names of this application.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 1\. MP3 CUTTER AND RINGTONE MAKER
 
 Professional audio editor. MP3 Cutter & Ringtone Maker enables you to select audio length quickly with waveform zooming or one tap to set start time or end time manually. And you can trim music and re-edit music clips inside the audio editor. ♪ Efficient audio trimmer.
@@ -707,10 +747,22 @@ Admittedly, there are countless other apps in the store that can do the job of c
      data-full-width-responsive="true"></ins>
 
 
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-8-top-tier-filters-to-elevate-your-live-feed/"><u>[Updated] 2024 Approved 8 Top-Tier Filters to Elevate Your Live Feed</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-the-invisible-hand-decoding-instagrams-update-effects/"><u>[Updated] In 2024, The Invisible Hand Decoding Instagram’s Update Effects</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unlocking-creative-potential-with-filmora-answers/"><u>[Updated] Unlocking Creative Potential with Filmora Answers</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/audio-upgrade-adding-melodies-to-your-windows-11-videos-effectively-for-2024/"><u>Audio Upgrade Adding Melodies to Your Windows 11 Videos Effectively for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-lock-apps-on-honor-80-pro-straight-screen-edition-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Honor 80 Pro Straight Screen Edition to Protect Your Individual Information</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-best-free-video-effects-sites/"><u>In 2024, Best Free Video Effects Sites</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/in-2024-the-ultimate-guide-to-removing-speech-from-recordings-using-adobe-audition/"><u>In 2024, The Ultimate Guide to Removing Speech From Recordings Using Adobe Audition</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-from-raw-footage-to-hit-vids-a-step-by-step-guide-for-editors-for-2024/"><u>New From Raw Footage to Hit Vids A Step-by-Step Guide for Editors for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-precision-listening-top-audio-customization-techniques/"><u>New In 2024, Precision Listening Top Audio Customization Techniques</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-prime-budget-optimized-mac-audio-adjustment-software/"><u>New In 2024, Prime Budget-Optimized Mac Audio Adjustment Software</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/rapid-rendering-of-fortnite-icons-for-2024/"><u>Rapid Rendering of Fortnite Icons for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/revitalizing-databases-stellars-new-dawn/"><u>Revitalizing Databases: Stellar's New Dawn</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-game-changer-in-portable-pcs-delving-into-the-asus-zephyrus-g14s-unique-offerings/"><u>The Game Changer in Portable PCs? Delving Into the Asus Zephyrus G14's Unique Offerings</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-top-10-bgm-audio-archives/"><u>Updated 2024 Approved Top 10 BGM Audio Archives</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-unveiling-magix-samplitudes-capabilities-are-they-superseding-competitors/"><u>Updated Unveiling MAGIX Samplitudes Capabilities Are They Superseding Competitors?</u></a></li>
+</ul></div>
 

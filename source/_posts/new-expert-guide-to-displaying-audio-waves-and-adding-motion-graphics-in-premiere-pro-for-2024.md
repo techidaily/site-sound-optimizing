@@ -1,7 +1,7 @@
 ---
 title: New Expert Guide to Displaying Audio Waves and Adding Motion Graphics in Premiere Pro for 2024
-date: 2024-09-23T03:50:13.922Z
-updated: 2024-09-28T01:57:18.685Z
+date: 2024-09-30T22:34:33.352Z
+updated: 2024-10-02T21:14:42.930Z
 tags: 
   - audio editing software
   - audio editing
@@ -21,6 +21,13 @@ By using waveform of the sound waves in Premiere Pro, we can better edit audio. 
 ## Part 1\. How to show Audio Waveform on clips in Premiere Pro? (2 ways)
 
 Users frequently complain that the audio waveform can suddenly disappear while editing audio in Premiere Pro, which is quite annoying to deal with. In the following tutorial, I'm going to show you how to make the audio waveforms visible.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. Click the wrench icon on settings button
 
@@ -44,6 +51,13 @@ Second, for creating audio waveforms on clips that don't have them, select the c
 
 ![select the clips](https://images.wondershare.com/filmora/article-images/2022/08/premiere-pro-audio-waveform-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2\. How to add audio waveform animation in Premiere Pro?
 
 If you want to simply add a dynamic effect to your audio, just follow the tutorial below.
@@ -59,13 +73,6 @@ First, make sure both the video and audio are selected. Right-click and select r
 After creating a new project in After Effects, you need to choose a new solid of any color in your composition.
 
 ![create a new solid in after effects](https://images.wondershare.com/filmora/article-images/2022/08/premiere-pro-audio-waveform-6.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##### Step3Open audio waveform effect
 
@@ -135,10 +142,10 @@ This article will help you in resolving various audio waveform issues in Premier
 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Separate Audio From Video in iMovie on Mac?
@@ -147,26 +154,26 @@ This article will help you in resolving various audio waveform issues in Premier
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
+##### Liza Brown
+
+ Oct 26, 2023• Proven solutions
+
+Apple's video editing program, iMovie, is a popular choice. By removing background noise and raising audio levels of quiet clips, iMovie may likewise modify and enhance the audio of a project.
+
+iMovie gives you the basic, no-frills editing tools you need to make a movie out of a collection of video clips. Without using videotape, you can easily browse from scene to scene and save your edits and changes in digital format. The end product is a high-quality digital video movie that you can save as a QuickTime file or dump back to digital videotape.
+
+Now let's look at how to **separate audio from video in iMovie on Mac**.
+
+* [**Part 1\. How to Separate/Detach/Split Audio from Video in iMovie on Mac**](#part1)
+* [**Part 2\. Separate Audio from Video on Mac with the Best Alternative to iMovie**](#part2)
+* [**Part 3\. FAQs about Separating Audio from Video in iMovie**](#part3)
+
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
 </a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-##### Liza Brown
-
- Oct 26, 2023• Proven solutions
-
-Apple's video editing program, iMovie, is a popular choice. By removing background noise and raising audio levels of quiet clips, iMovie may likewise modify and enhance the audio of a project.
-
-iMovie gives you the basic, no-frills editing tools you need to make a movie out of a collection of video clips. Without using videotape, you can easily browse from scene to scene and save your edits and changes in digital format. The end product is a high-quality digital video movie that you can save as a QuickTime file or dump back to digital videotape.
-
-Now let's look at how to **separate audio from video in iMovie on Mac**.
-
-* [**Part 1\. How to Separate/Detach/Split Audio from Video in iMovie on Mac**](#part1)
-* [**Part 2\. Separate Audio from Video on Mac with the Best Alternative to iMovie**](#part2)
-* [**Part 3\. FAQs about Separating Audio from Video in iMovie**](#part3)
 
 ## Part 1\. How to Separate/Detach/Split Audio from Video in iMovie on Mac
 
@@ -314,32 +321,32 @@ Want to extract the music file from a video clip's audio and visual tracks? Or d
 
 [![Download Filmora Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+You can make your own MP3 file of the amazing piece of music for enjoyment on the move, whether it's from a music video, TV show, or concert footage. To separate your audio from your video, follow the steps outlined below.
+
+#### Step 1\. Import your media files into Filmora
+
+To enter the editing mode, run the software and select the 16:9 or 4:3 ratio that best suits your demands. Then select **Import** to import video clips, audio, or photographs from your computer's file folder.
+
+It's worth noting that this tool is highly compatible with a variety of formats, allowing you to edit them frame by frame while maintaining the original quality. Drag and drop videos onto the timeline after they've been imported. All files in the timeline are combined without any gaps by default.
+
+#### Step 2\. Separate the audio and video with a single click
+
+Select "Detach Audio" from the context menu of the video file from which you wish to extract the audio track. You'll see an audio file appearing on the audio track right away. Yes, this is the source video's actual audio file.
+
+You've successfully detached the audio track from the video file.
+
+#### Step 3\. Save the video or audio that has been split
+
+Because the audio and video tracks have been split, you may simply delete the audio or video track you don't need and replace it with the new one. Then press "Export" to save the audio track as an MP3 file, or go straight to the "iPod" preset to listen on the move.
+
+You should first save the split video frame or audio track to a project file on your hard disk if you wish to save it separately in a new file. Reload the project file that contains the video frame after you've finished exporting the audio track, and then export it to a new video file.
+
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-You can make your own MP3 file of the amazing piece of music for enjoyment on the move, whether it's from a music video, TV show, or concert footage. To separate your audio from your video, follow the steps outlined below.
-
-#### Step 1\. Import your media files into Filmora
-
-To enter the editing mode, run the software and select the 16:9 or 4:3 ratio that best suits your demands. Then select **Import** to import video clips, audio, or photographs from your computer's file folder.
-
-It's worth noting that this tool is highly compatible with a variety of formats, allowing you to edit them frame by frame while maintaining the original quality. Drag and drop videos onto the timeline after they've been imported. All files in the timeline are combined without any gaps by default.
-
-#### Step 2\. Separate the audio and video with a single click
-
-Select "Detach Audio" from the context menu of the video file from which you wish to extract the audio track. You'll see an audio file appearing on the audio track right away. Yes, this is the source video's actual audio file.
-
-You've successfully detached the audio track from the video file.
-
-#### Step 3\. Save the video or audio that has been split
-
-Because the audio and video tracks have been split, you may simply delete the audio or video track you don't need and replace it with the new one. Then press "Export" to save the audio track as an MP3 file, or go straight to the "iPod" preset to listen on the move.
-
-You should first save the split video frame or audio track to a project file on your hard disk if you wish to save it separately in a new file. Reload the project file that contains the video frame after you've finished exporting the audio track, and then export it to a new video file.
 
 ## Part 3\. FAQs about Separating Audio from Video in iMovie
 
@@ -618,19 +625,6 @@ If a video has music, sounds, or voices that you'd like to separate from the vid
 And if iMovie can’t meet your need, don’t worry. Wondershare Filmora can be your better choice.
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Liza Brown
 
@@ -667,10 +661,10 @@ Step 4: Open Equalizer for Chrome browser extension and select from preset equal
 ![chrome](https://images.wondershare.com/filmora/article-images/chrome.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Best iPhone Equalizer Settings (<https://apps.apple.com/us/app/equalizer-fx-bass-booster-app/id1084228340>)
@@ -704,13 +698,6 @@ Step 2: If you are using headphones, select your headphone type for better resul
 Step 3: Go to Equalizer tab and set any preset equalizer setting as per your requirement.
 
 ![tab and set](https://images.wondershare.com/filmora/article-images/tab-and-set.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 4: Go to Advanced tab top customizer equalizer and the changes will reflect if you are playing anything on the background.
 
@@ -769,10 +756,10 @@ Step 5: Select from preset equalizers. You can also click on Customize button an
 ![customize button](https://images.wondershare.com/filmora/article-images/customize-button.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion –
@@ -813,6 +800,19 @@ Step 2: Select New project and go to File > Import Media and click on Import Med
 
 ![import media files](https://images.wondershare.com/filmora/article-images/import-media-files.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 3: Select the audio or the video file that you want to work with and then drag the file from Project Media to Timeline.
 
 ![drag to timeline](https://images.wondershare.com/filmora/article-images/drag-to-timeline.jpg)
@@ -843,16 +843,20 @@ We have provided you with the best apps with the best settings for equalizer. Yo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-vlc-analysis-and-substitutes-revisited/"><u>[New] 2024 Approved VLC Analysis & Substitutes Revisited</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/2024-approved-how-to-eliminate-background-music-from-your-mp4-videos/"><u>2024 Approved How to Eliminate Background Music From Your MP4 Videos</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/capturing-and-crafting-your-essential-guide-to-gopro-4k-edits-for-2024/"><u>Capturing and Crafting Your Essential Guide to GoPro 4K Edits for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-vivo-v29-pro-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From Vivo V29 Pro To iPhone 15/14/13? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-samsung-galaxy-a14-4g-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Samsung Galaxy A14 4G via a USB Cable | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/in-2024-youtube-intros-unveiled-two-proven-ways-for-impact/"><u>In 2024, YouTube Intros Unveiled Two Proven Ways for Impact</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-mute-the-movie-guide-to-erasing-auditory-elements-from-various-video-formats-for-2024/"><u>New Mute the Movie Guide to Erasing Auditory Elements From Various Video Formats for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/resolving-display-errors-solutions-for-epic-games-launcher-blackout-scenario/"><u>Resolving Display Errors: Solutions for Epic Games Launcher Blackout Scenario</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/uninterrupted-broadcasts-the-ultimate-fix-for-social-live-issues-2023-edition-for-2024/"><u>Uninterrupted Broadcasts The Ultimate Fix for Social Live Issues, 2023 Edition for 2024</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-your-ultimate-source-list-the-top-picks-of-copyright-friendly-comic-soundtracks-websites/"><u>Updated In 2024, Your Ultimate Source List The Top Picks of Copyright-Friendly Comic Soundtracks Websites</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-the-ultimate-imovie-strategy-to-eliminate-unwanted-sounds-in-your-projects-for-2024/"><u>Updated The Ultimate iMovie Strategy to Eliminate Unwanted Sounds in Your Projects for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-spin-innovator-pack/"><u>[Updated] 2024 Approved Spin Innovator Pack</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-pro-tips-on-selecting-the-best-mac-snipers/"><u>[Updated] Pro Tips on Selecting the Best Mac Snipers</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/best-audio-editors-to-remove-background-noise-from-audio-windows-for-2024/"><u>Best Audio Editors to Remove Background Noise From Audio Windows for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/deciphering-the-prowess-of-magix-samplitude-in-modern-music-production/"><u>Deciphering the Prowess of MAGIX Samplitude in Modern Music Production</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/elevating-your-voice-how-to-enhance-your-podcast-experience-using-audacity-for-2024/"><u>Elevating Your Voice How to Enhance Your Podcast Experience Using Audacity for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/hardware-highlights-with-tom-cutting-edge-gadget-reviews-and-comparisons/"><u>Hardware Highlights with Tom: Cutting-Edge Gadget Reviews and Comparisons</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/harmony-in-transition-15-masterful-scores-enhancing-diverse-video-styles/"><u>Harmony in Transition 15 Masterful Scores Enhancing Diverse Video Styles</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/se-in-unprecedented-reality-stories/"><u>Immerse in Unprecedented Reality Stories</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-honor-90-lite-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Honor 90 Lite to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/in-2024-how-to-add-audio-fade-in-effect/"><u>In 2024, How to Add Audio Fade In Effect</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/manual-de-uso-integral-para-el-programa-winxdvd-una-guia-facil-de-seguir/"><u>Manual De Uso Integral Para El Programa WinXDVD: Una Guía Fácil De Seguir</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-most-attractive-ringtones-for-your-phone-for-2024/"><u>New Most Attractive Ringtones for Your Phone for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/secure-again-combating-2023s-facebook-vulnerability-for-2024/"><u>Secure Again Combating 2023'S Facebook Vulnerability for 2024</u></a></li>
+<li><a href="https://dvd-bd.techidaily.com/ultimate-winxdvd-mastery-step-by-step-installation-and-usage-tutorial/"><u>Ultimate WinXDVD Mastery: Step-by-Step Installation & Usage Tutorial</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/updated-2024-approved-narakeet-review-convenient-text-to-speech-voice-maker/"><u>Updated 2024 Approved Narakeet Review Convenient Text to Speech Voice Maker</u></a></li>
 </ul></div>
 

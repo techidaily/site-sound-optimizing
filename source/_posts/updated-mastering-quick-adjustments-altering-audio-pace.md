@@ -1,7 +1,7 @@
 ---
 title: Updated Mastering Quick Adjustments Altering Audio Pace
-date: 2024-09-12T22:11:04.799Z
-updated: 2024-09-14T20:19:46.127Z
+date: 2024-09-25T23:04:17.609Z
+updated: 2024-10-02T18:09:25.374Z
 tags: 
   - audio editing software
   - audio editing
@@ -46,231 +46,259 @@ Ensure that the audio track is selected in the timeline. Click the **Speedometer
 
 ![adjust audio speed in Filmora](https://images.wondershare.com/filmora/article-images/adjust-audio-with-custom-speed.jpg)
 
-**Note:** Usually, the audio pitch wouldn't change as long as you pick the values anywhere between 0.5x and 5x. However, if you select any option beyond this range, you may experience variations in the pitch according the value you selected.
-
-### Step 3: Set Custom Speed or Reverse the Audio
-
-Click the **Speedometer** icon from above the timeline, and click **Custom Speed** from the menu. Use the slider to slow down (move to the left) or speed up (move to the right) the audio on the Custom Speed box. Alternatively, you can manually enter your preferred value in the available field for granular control. In addition, you can also check the **Reverse Speed** box to reverse the audio if need be.
-
-![change audio speed in Filmora](https://images.wondershare.com/filmora/article-images/custom-speed-window.jpg)
-
-### Step 4: Export the Output
-
-Click **EXPORT** from the top-center area of the interface, go to the **Local** tab on the **Export** box that opens next, select your preferred audio format from the **Format** list in the left, make necessary customizations from the right pane, and click **EXPORT** from the bottom-right corner of the box to export the audio with the modified speed.
-
-![change audio speed then export](https://images.wondershare.com/filmora/article-images/filmora9-export-options.jpg)
-
-## How to Change the Speed of Audio with Video in Filmora
-
-The process to **change audio speed** that also has a video is identical to what is explained in the previous section. The only additional step required in this case is separating the audio track from that of video.
-
-You can learn how to get this done by following the instructions given below:
-
-### Step 1: Import File to Media Window and then Add to Timeline
-
-Use the method explained in **Step 1** of the previous section to import a file to Filmora, drag the media to the timeline, and click **MATCH TO MEDIA** when the **Project Setting** box appears and prompts for confirmation. **Note:** Except for the **Project Setting** box, the rest of the process for adding audio and video files to the timeline is the same.
-
-### Step 2: Separate Audio from Video
-
-Select and then right-click the video track with audio in the timeline, and click **Detach Audio** from the context menu.
-
-![detach audio from video](https://images.wondershare.com/filmora/article-images/detach-audio-filmora9.jpg)
-
-### Step 3: Adjust the Audio Speed
-
-After the audio is detached, you can select the audio track and follow the method explained in the previous section to adjust its speed as needed. As for the video, you can use the trimming and cropping options to adjust its duration and size and export the entire project as explained in **Step 4** of the previous section. **Note:** To export the project as video, all you need to do is, choose a video format like MP4 or something similar to that when on the **Export** box.
-
-## How to Change Audio Speed without Changing Pitch in Audacity for Free
-
-One of the most downloaded, used, and admired applications, Audacity, is an open-source and free audio editing software available for Windows, Mac, and Linux computers in both x32 and x64 variants. The software has all the professionals' tools for basic to advanced sound editing to produce industry-standard outputs.
-
-You can follow the steps given below to learn how to **change audio speed** with Audacity without changing the pitch of the sound:
-
-* Launch **Audacity**
-* Click **File**
-* Go to **Import** \> **Audio**
-
-![change audio speed in Audacity](https://images.wondershare.com/filmora/article-images/adjust-audio-speed-audacity.jpg)
-
-* Import the audio you want to speed up or slow down
-* Press **Ctrl** \+ **A** on the keyboard to select the whole audio track
-* Go to the **Effect** menu
-* Click **Change Tempo**
-
-![change audio speed on audacity](https://images.wondershare.com/filmora/article-images/change-audio-tempo-audacity.jpg)
-
-* In the **Percent Change** field, enter a value with or without minus (-) to reduce or increase the tempo of the audio respectively.
-
-![adjust audio speed in Audacity](https://images.wondershare.com/filmora/article-images/change-audio-tempo-window-audacity.jpg)
-
-* Click **OK**
-* Go to **file**\> **Export**
-* Select your preferred option from the submenu to export the modified audio as needed
-
-**Note:** Changing the tempo usually doesn't change the pitch of the audio up to some extent. However, you can expect some variations in the pitch if the new tempo value is too high or too low.
-
-### Conclusion
-
-You may want to **slow down or speed up audio** if the existing one is not up to the mark, and you wish to manage the ambiance with the help of the music track either while playing a video or when merely a soundtrack is to be played during some event. In either case, the best tool for all your needs is Wondershare Filmora, and if you are looking for a program dedicated to audio only, Audacity is something worth trying.
-
-##### Versatile Video Editor - Wondershare Filmora
-
-An easy yet powerful editor
-
-Numerous effects to choose from
-
-Detailed tutorials provided by the official channel
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For Win 7 or later (64-bit)
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.12 or later
-
-You can follow the steps given below to learn how to **change audio speed** with Wondershare Filmora:
-
-### Step 1: Import Audio and Add to Filmora Timeline
-
-Launch Filmora on your Windows or Mac computer, make sure that the **Media** icon is selected from the standard toolbar at the top, click the **+** icon in the **Media** (also referred to as **Library** here) window (on Mac) or anywhere in the **Media** window itself (on Windows) from the upper-left corner of the interface, and import the audio file that you want to manage the playback speed of. Next, drag the media file from the **Library** to the timeline.
-
-![add audio to timeline Filmora](https://images.wondershare.com/filmora/article-images/add-audio-to-timeline.jpg)
-
-### Step 2: Increase or Decrease Audio Speed
-
-Ensure that the audio track is selected in the timeline. Click the **Speedometer** icon from the timeline toolbar at the upper section, hover mouse to the **Slow** option from the menu, and click your preferred value form the submenu to reduce the sound speed. Likewise, hover the mouse to the **Fast** option, and choose a value from the submenu to increase it.
-
-![adjust audio speed in Filmora](https://images.wondershare.com/filmora/article-images/adjust-audio-with-custom-speed.jpg)
-
-**Note:** Usually, the audio pitch wouldn't change as long as you pick the values anywhere between 0.5x and 5x. However, if you select any option beyond this range, you may experience variations in the pitch according the value you selected.
-
-### Step 3: Set Custom Speed or Reverse the Audio
-
-Click the **Speedometer** icon from above the timeline, and click **Custom Speed** from the menu. Use the slider to slow down (move to the left) or speed up (move to the right) the audio on the Custom Speed box. Alternatively, you can manually enter your preferred value in the available field for granular control. In addition, you can also check the **Reverse Speed** box to reverse the audio if need be.
-
-![change audio speed in Filmora](https://images.wondershare.com/filmora/article-images/custom-speed-window.jpg)
-
-### Step 4: Export the Output
-
-Click **EXPORT** from the top-center area of the interface, go to the **Local** tab on the **Export** box that opens next, select your preferred audio format from the **Format** list in the left, make necessary customizations from the right pane, and click **EXPORT** from the bottom-right corner of the box to export the audio with the modified speed.
-
-![change audio speed then export](https://images.wondershare.com/filmora/article-images/filmora9-export-options.jpg)
-
-## How to Change the Speed of Audio with Video in Filmora
-
-The process to **change audio speed** that also has a video is identical to what is explained in the previous section. The only additional step required in this case is separating the audio track from that of video.
-
-You can learn how to get this done by following the instructions given below:
-
-### Step 1: Import File to Media Window and then Add to Timeline
-
-Use the method explained in **Step 1** of the previous section to import a file to Filmora, drag the media to the timeline, and click **MATCH TO MEDIA** when the **Project Setting** box appears and prompts for confirmation. **Note:** Except for the **Project Setting** box, the rest of the process for adding audio and video files to the timeline is the same.
-
-### Step 2: Separate Audio from Video
-
-Select and then right-click the video track with audio in the timeline, and click **Detach Audio** from the context menu.
-
-![detach audio from video](https://images.wondershare.com/filmora/article-images/detach-audio-filmora9.jpg)
-
-### Step 3: Adjust the Audio Speed
-
-After the audio is detached, you can select the audio track and follow the method explained in the previous section to adjust its speed as needed. As for the video, you can use the trimming and cropping options to adjust its duration and size and export the entire project as explained in **Step 4** of the previous section. **Note:** To export the project as video, all you need to do is, choose a video format like MP4 or something similar to that when on the **Export** box.
-
-## How to Change Audio Speed without Changing Pitch in Audacity for Free
-
-One of the most downloaded, used, and admired applications, Audacity, is an open-source and free audio editing software available for Windows, Mac, and Linux computers in both x32 and x64 variants. The software has all the professionals' tools for basic to advanced sound editing to produce industry-standard outputs.
-
-You can follow the steps given below to learn how to **change audio speed** with Audacity without changing the pitch of the sound:
-
-* Launch **Audacity**
-* Click **File**
-* Go to **Import** \> **Audio**
-
-![change audio speed in Audacity](https://images.wondershare.com/filmora/article-images/adjust-audio-speed-audacity.jpg)
-
-* Import the audio you want to speed up or slow down
-* Press **Ctrl** \+ **A** on the keyboard to select the whole audio track
-* Go to the **Effect** menu
-* Click **Change Tempo**
-
-![change audio speed on audacity](https://images.wondershare.com/filmora/article-images/change-audio-tempo-audacity.jpg)
-
-* In the **Percent Change** field, enter a value with or without minus (-) to reduce or increase the tempo of the audio respectively.
-
-![adjust audio speed in Audacity](https://images.wondershare.com/filmora/article-images/change-audio-tempo-window-audacity.jpg)
-
-* Click **OK**
-* Go to **file**\> **Export**
-* Select your preferred option from the submenu to export the modified audio as needed
-
-**Note:** Changing the tempo usually doesn't change the pitch of the audio up to some extent. However, you can expect some variations in the pitch if the new tempo value is too high or too low.
-
-### Conclusion
-
-You may want to **slow down or speed up audio** if the existing one is not up to the mark, and you wish to manage the ambiance with the help of the music track either while playing a video or when merely a soundtrack is to be played during some event. In either case, the best tool for all your needs is Wondershare Filmora, and if you are looking for a program dedicated to audio only, Audacity is something worth trying.
-
-##### Versatile Video Editor - Wondershare Filmora
-
-An easy yet powerful editor
-
-Numerous effects to choose from
-
-Detailed tutorials provided by the official channel
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For Win 7 or later (64-bit)
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.12 or later
-
-You can follow the steps given below to learn how to **change audio speed** with Wondershare Filmora:
-
-### Step 1: Import Audio and Add to Filmora Timeline
-
-Launch Filmora on your Windows or Mac computer, make sure that the **Media** icon is selected from the standard toolbar at the top, click the **+** icon in the **Media** (also referred to as **Library** here) window (on Mac) or anywhere in the **Media** window itself (on Windows) from the upper-left corner of the interface, and import the audio file that you want to manage the playback speed of. Next, drag the media file from the **Library** to the timeline.
-
-![add audio to timeline Filmora](https://images.wondershare.com/filmora/article-images/add-audio-to-timeline.jpg)
-
-### Step 2: Increase or Decrease Audio Speed
-
-Ensure that the audio track is selected in the timeline. Click the **Speedometer** icon from the timeline toolbar at the upper section, hover mouse to the **Slow** option from the menu, and click your preferred value form the submenu to reduce the sound speed. Likewise, hover the mouse to the **Fast** option, and choose a value from the submenu to increase it.
-
-![adjust audio speed in Filmora](https://images.wondershare.com/filmora/article-images/adjust-audio-with-custom-speed.jpg)
-
-**Note:** Usually, the audio pitch wouldn't change as long as you pick the values anywhere between 0.5x and 5x. However, if you select any option beyond this range, you may experience variations in the pitch according the value you selected.
-
-### Step 3: Set Custom Speed or Reverse the Audio
-
-Click the **Speedometer** icon from above the timeline, and click **Custom Speed** from the menu. Use the slider to slow down (move to the left) or speed up (move to the right) the audio on the Custom Speed box. Alternatively, you can manually enter your preferred value in the available field for granular control. In addition, you can also check the **Reverse Speed** box to reverse the audio if need be.
-
-![change audio speed in Filmora](https://images.wondershare.com/filmora/article-images/custom-speed-window.jpg)
-
-### Step 4: Export the Output
-
-Click **EXPORT** from the top-center area of the interface, go to the **Local** tab on the **Export** box that opens next, select your preferred audio format from the **Format** list in the left, make necessary customizations from the right pane, and click **EXPORT** from the bottom-right corner of the box to export the audio with the modified speed.
-
-![change audio speed then export](https://images.wondershare.com/filmora/article-images/filmora9-export-options.jpg)
-
-## How to Change the Speed of Audio with Video in Filmora
-
-The process to **change audio speed** that also has a video is identical to what is explained in the previous section. The only additional step required in this case is separating the audio track from that of video.
-
-You can learn how to get this done by following the instructions given below:
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
+**Note:** Usually, the audio pitch wouldn't change as long as you pick the values anywhere between 0.5x and 5x. However, if you select any option beyond this range, you may experience variations in the pitch according the value you selected.
+
+### Step 3: Set Custom Speed or Reverse the Audio
+
+Click the **Speedometer** icon from above the timeline, and click **Custom Speed** from the menu. Use the slider to slow down (move to the left) or speed up (move to the right) the audio on the Custom Speed box. Alternatively, you can manually enter your preferred value in the available field for granular control. In addition, you can also check the **Reverse Speed** box to reverse the audio if need be.
+
+![change audio speed in Filmora](https://images.wondershare.com/filmora/article-images/custom-speed-window.jpg)
+
+### Step 4: Export the Output
+
+Click **EXPORT** from the top-center area of the interface, go to the **Local** tab on the **Export** box that opens next, select your preferred audio format from the **Format** list in the left, make necessary customizations from the right pane, and click **EXPORT** from the bottom-right corner of the box to export the audio with the modified speed.
+
+![change audio speed then export](https://images.wondershare.com/filmora/article-images/filmora9-export-options.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## How to Change the Speed of Audio with Video in Filmora
+
+The process to **change audio speed** that also has a video is identical to what is explained in the previous section. The only additional step required in this case is separating the audio track from that of video.
+
+You can learn how to get this done by following the instructions given below:
+
+### Step 1: Import File to Media Window and then Add to Timeline
+
+Use the method explained in **Step 1** of the previous section to import a file to Filmora, drag the media to the timeline, and click **MATCH TO MEDIA** when the **Project Setting** box appears and prompts for confirmation. **Note:** Except for the **Project Setting** box, the rest of the process for adding audio and video files to the timeline is the same.
+
+### Step 2: Separate Audio from Video
+
+Select and then right-click the video track with audio in the timeline, and click **Detach Audio** from the context menu.
+
+![detach audio from video](https://images.wondershare.com/filmora/article-images/detach-audio-filmora9.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+### Step 3: Adjust the Audio Speed
+
+After the audio is detached, you can select the audio track and follow the method explained in the previous section to adjust its speed as needed. As for the video, you can use the trimming and cropping options to adjust its duration and size and export the entire project as explained in **Step 4** of the previous section. **Note:** To export the project as video, all you need to do is, choose a video format like MP4 or something similar to that when on the **Export** box.
+
+## How to Change Audio Speed without Changing Pitch in Audacity for Free
+
+One of the most downloaded, used, and admired applications, Audacity, is an open-source and free audio editing software available for Windows, Mac, and Linux computers in both x32 and x64 variants. The software has all the professionals' tools for basic to advanced sound editing to produce industry-standard outputs.
+
+You can follow the steps given below to learn how to **change audio speed** with Audacity without changing the pitch of the sound:
+
+* Launch **Audacity**
+* Click **File**
+* Go to **Import** \> **Audio**
+
+![change audio speed in Audacity](https://images.wondershare.com/filmora/article-images/adjust-audio-speed-audacity.jpg)
+
+* Import the audio you want to speed up or slow down
+* Press **Ctrl** \+ **A** on the keyboard to select the whole audio track
+* Go to the **Effect** menu
+* Click **Change Tempo**
+
+![change audio speed on audacity](https://images.wondershare.com/filmora/article-images/change-audio-tempo-audacity.jpg)
+
+* In the **Percent Change** field, enter a value with or without minus (-) to reduce or increase the tempo of the audio respectively.
+
+![adjust audio speed in Audacity](https://images.wondershare.com/filmora/article-images/change-audio-tempo-window-audacity.jpg)
+
+* Click **OK**
+* Go to **file**\> **Export**
+* Select your preferred option from the submenu to export the modified audio as needed
+
+**Note:** Changing the tempo usually doesn't change the pitch of the audio up to some extent. However, you can expect some variations in the pitch if the new tempo value is too high or too low.
+
+### Conclusion
+
+You may want to **slow down or speed up audio** if the existing one is not up to the mark, and you wish to manage the ambiance with the help of the music track either while playing a video or when merely a soundtrack is to be played during some event. In either case, the best tool for all your needs is Wondershare Filmora, and if you are looking for a program dedicated to audio only, Audacity is something worth trying.
+
+##### Versatile Video Editor - Wondershare Filmora
+
+An easy yet powerful editor
+
+Numerous effects to choose from
+
+Detailed tutorials provided by the official channel
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For Win 7 or later (64-bit)
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+You can follow the steps given below to learn how to **change audio speed** with Wondershare Filmora:
+
+### Step 1: Import Audio and Add to Filmora Timeline
+
+Launch Filmora on your Windows or Mac computer, make sure that the **Media** icon is selected from the standard toolbar at the top, click the **+** icon in the **Media** (also referred to as **Library** here) window (on Mac) or anywhere in the **Media** window itself (on Windows) from the upper-left corner of the interface, and import the audio file that you want to manage the playback speed of. Next, drag the media file from the **Library** to the timeline.
+
+![add audio to timeline Filmora](https://images.wondershare.com/filmora/article-images/add-audio-to-timeline.jpg)
+
+### Step 2: Increase or Decrease Audio Speed
+
+Ensure that the audio track is selected in the timeline. Click the **Speedometer** icon from the timeline toolbar at the upper section, hover mouse to the **Slow** option from the menu, and click your preferred value form the submenu to reduce the sound speed. Likewise, hover the mouse to the **Fast** option, and choose a value from the submenu to increase it.
+
+![adjust audio speed in Filmora](https://images.wondershare.com/filmora/article-images/adjust-audio-with-custom-speed.jpg)
+
+**Note:** Usually, the audio pitch wouldn't change as long as you pick the values anywhere between 0.5x and 5x. However, if you select any option beyond this range, you may experience variations in the pitch according the value you selected.
+
+### Step 3: Set Custom Speed or Reverse the Audio
+
+Click the **Speedometer** icon from above the timeline, and click **Custom Speed** from the menu. Use the slider to slow down (move to the left) or speed up (move to the right) the audio on the Custom Speed box. Alternatively, you can manually enter your preferred value in the available field for granular control. In addition, you can also check the **Reverse Speed** box to reverse the audio if need be.
+
+![change audio speed in Filmora](https://images.wondershare.com/filmora/article-images/custom-speed-window.jpg)
+
+### Step 4: Export the Output
+
+Click **EXPORT** from the top-center area of the interface, go to the **Local** tab on the **Export** box that opens next, select your preferred audio format from the **Format** list in the left, make necessary customizations from the right pane, and click **EXPORT** from the bottom-right corner of the box to export the audio with the modified speed.
+
+![change audio speed then export](https://images.wondershare.com/filmora/article-images/filmora9-export-options.jpg)
+
+## How to Change the Speed of Audio with Video in Filmora
+
+The process to **change audio speed** that also has a video is identical to what is explained in the previous section. The only additional step required in this case is separating the audio track from that of video.
+
+You can learn how to get this done by following the instructions given below:
+
+### Step 1: Import File to Media Window and then Add to Timeline
+
+Use the method explained in **Step 1** of the previous section to import a file to Filmora, drag the media to the timeline, and click **MATCH TO MEDIA** when the **Project Setting** box appears and prompts for confirmation. **Note:** Except for the **Project Setting** box, the rest of the process for adding audio and video files to the timeline is the same.
+
+### Step 2: Separate Audio from Video
+
+Select and then right-click the video track with audio in the timeline, and click **Detach Audio** from the context menu.
+
+![detach audio from video](https://images.wondershare.com/filmora/article-images/detach-audio-filmora9.jpg)
+
+### Step 3: Adjust the Audio Speed
+
+After the audio is detached, you can select the audio track and follow the method explained in the previous section to adjust its speed as needed. As for the video, you can use the trimming and cropping options to adjust its duration and size and export the entire project as explained in **Step 4** of the previous section. **Note:** To export the project as video, all you need to do is, choose a video format like MP4 or something similar to that when on the **Export** box.
+
+## How to Change Audio Speed without Changing Pitch in Audacity for Free
+
+One of the most downloaded, used, and admired applications, Audacity, is an open-source and free audio editing software available for Windows, Mac, and Linux computers in both x32 and x64 variants. The software has all the professionals' tools for basic to advanced sound editing to produce industry-standard outputs.
+
+You can follow the steps given below to learn how to **change audio speed** with Audacity without changing the pitch of the sound:
+
+* Launch **Audacity**
+* Click **File**
+* Go to **Import** \> **Audio**
+
+![change audio speed in Audacity](https://images.wondershare.com/filmora/article-images/adjust-audio-speed-audacity.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+* Import the audio you want to speed up or slow down
+* Press **Ctrl** \+ **A** on the keyboard to select the whole audio track
+* Go to the **Effect** menu
+* Click **Change Tempo**
+
+![change audio speed on audacity](https://images.wondershare.com/filmora/article-images/change-audio-tempo-audacity.jpg)
+
+* In the **Percent Change** field, enter a value with or without minus (-) to reduce or increase the tempo of the audio respectively.
+
+![adjust audio speed in Audacity](https://images.wondershare.com/filmora/article-images/change-audio-tempo-window-audacity.jpg)
+
+* Click **OK**
+* Go to **file**\> **Export**
+* Select your preferred option from the submenu to export the modified audio as needed
+
+**Note:** Changing the tempo usually doesn't change the pitch of the audio up to some extent. However, you can expect some variations in the pitch if the new tempo value is too high or too low.
+
+### Conclusion
+
+You may want to **slow down or speed up audio** if the existing one is not up to the mark, and you wish to manage the ambiance with the help of the music track either while playing a video or when merely a soundtrack is to be played during some event. In either case, the best tool for all your needs is Wondershare Filmora, and if you are looking for a program dedicated to audio only, Audacity is something worth trying.
+
+##### Versatile Video Editor - Wondershare Filmora
+
+An easy yet powerful editor
+
+Numerous effects to choose from
+
+Detailed tutorials provided by the official channel
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For Win 7 or later (64-bit)
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+You can follow the steps given below to learn how to **change audio speed** with Wondershare Filmora:
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+### Step 1: Import Audio and Add to Filmora Timeline
+
+Launch Filmora on your Windows or Mac computer, make sure that the **Media** icon is selected from the standard toolbar at the top, click the **+** icon in the **Media** (also referred to as **Library** here) window (on Mac) or anywhere in the **Media** window itself (on Windows) from the upper-left corner of the interface, and import the audio file that you want to manage the playback speed of. Next, drag the media file from the **Library** to the timeline.
+
+![add audio to timeline Filmora](https://images.wondershare.com/filmora/article-images/add-audio-to-timeline.jpg)
+
+### Step 2: Increase or Decrease Audio Speed
+
+Ensure that the audio track is selected in the timeline. Click the **Speedometer** icon from the timeline toolbar at the upper section, hover mouse to the **Slow** option from the menu, and click your preferred value form the submenu to reduce the sound speed. Likewise, hover the mouse to the **Fast** option, and choose a value from the submenu to increase it.
+
+![adjust audio speed in Filmora](https://images.wondershare.com/filmora/article-images/adjust-audio-with-custom-speed.jpg)
+
+**Note:** Usually, the audio pitch wouldn't change as long as you pick the values anywhere between 0.5x and 5x. However, if you select any option beyond this range, you may experience variations in the pitch according the value you selected.
+
+### Step 3: Set Custom Speed or Reverse the Audio
+
+Click the **Speedometer** icon from above the timeline, and click **Custom Speed** from the menu. Use the slider to slow down (move to the left) or speed up (move to the right) the audio on the Custom Speed box. Alternatively, you can manually enter your preferred value in the available field for granular control. In addition, you can also check the **Reverse Speed** box to reverse the audio if need be.
+
+![change audio speed in Filmora](https://images.wondershare.com/filmora/article-images/custom-speed-window.jpg)
+
+### Step 4: Export the Output
+
+Click **EXPORT** from the top-center area of the interface, go to the **Local** tab on the **Export** box that opens next, select your preferred audio format from the **Format** list in the left, make necessary customizations from the right pane, and click **EXPORT** from the bottom-right corner of the box to export the audio with the modified speed.
+
+![change audio speed then export](https://images.wondershare.com/filmora/article-images/filmora9-export-options.jpg)
+
+## How to Change the Speed of Audio with Video in Filmora
+
+The process to **change audio speed** that also has a video is identical to what is explained in the previous section. The only additional step required in this case is separating the audio track from that of video.
+
+You can learn how to get this done by following the instructions given below:
+
 ### Step 1: Import File to Media Window and then Add to Timeline
 
 Use the method explained in **Step 1** of the previous section to import a file to Filmora, drag the media to the timeline, and click **MATCH TO MEDIA** when the **Project Setting** box appears and prompts for confirmation. **Note:** Except for the **Project Setting** box, the rest of the process for adding audio and video files to the timeline is the same.
@@ -353,10 +381,10 @@ Ensure that the audio track is selected in the timeline. Click the **Speedometer
 **Note:** Usually, the audio pitch wouldn't change as long as you pick the values anywhere between 0.5x and 5x. However, if you select any option beyond this range, you may experience variations in the pitch according the value you selected.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Step 3: Set Custom Speed or Reverse the Audio
@@ -364,6 +392,13 @@ Ensure that the audio track is selected in the timeline. Click the **Speedometer
 Click the **Speedometer** icon from above the timeline, and click **Custom Speed** from the menu. Use the slider to slow down (move to the left) or speed up (move to the right) the audio on the Custom Speed box. Alternatively, you can manually enter your preferred value in the available field for granular control. In addition, you can also check the **Reverse Speed** box to reverse the audio if need be.
 
 ![change audio speed in Filmora](https://images.wondershare.com/filmora/article-images/custom-speed-window.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Step 4: Export the Output
 
@@ -457,23 +492,9 @@ To help you out, we've explored different reliable methods that can come in hand
 
 Yes, of course. Podcasts can be converted to MP3 by using either your podcast player, an online audio conversion tool, audio converter software, or iTunes.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2\. Why Should You Convert Podcast to mp3?
 
 The main reason why you might need to convert podcasts to MP3 is that MP3 is a widely accepted format. Although some podcast player supports WAV formats, it's advisable to keep your podcast file in MP3 so you won't be castigated over your podcast's audio format by listeners.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120867/26400?prodsku=mars" target="_top" id="2120867">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120867/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3\. How To Convert Podcast to mp3?
 
@@ -565,13 +586,6 @@ Step2 Click the drop-down icon next to **To** and select Audio. Then, choose MP3
 
 ![begin the conversion process](https://images.wondershare.com/filmora/article-images/2023/04/convert-podcast-to-mp3-online-with-mediaio-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123468/16836" target="_top" id="2123468">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123468" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123468/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step3 Once the file has been successfully converted to MP3, click the Download button to save it to your device's local storage.
 
 ![click the download button](https://images.wondershare.com/filmora/article-images/2023/04/convert-podcast-to-mp3-online-with-mediaio-3.jpg)
@@ -624,6 +638,13 @@ See the steps to convert podcast to MP3 with iTunes;
 Step1 Open the iTunes app on your computer and click File from the top-left. Then, select Add File to Library to upload the podcast that you're looking to convert.
 
 ![select add file](https://images.wondershare.com/filmora/article-images/2023/04/convert-podcast-to-mp3-with-itunes-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step2 Once you upload the podcast, click Edit from the top bar. Then, select Preferences.
 
@@ -828,5 +849,24 @@ Overall, make sure you read the pros and cons attached to using each method so y
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-adeptly-archive-your-fb-friends-lives-in-seconds/"><u>[Updated] In 2024, Adeptly Archive Your Fb Friends' Lives in Seconds</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-economic-elders-youtubes-most-knowledgeable-financial-stations/"><u>[Updated] In 2024, Economic Elders YouTube's Most Knowledgeable Financial Stations</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-one-step-shot-simplify-podcast-streaming-for-2024/"><u>[Updated] One Step Shot Simplify Podcast Streaming for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-orientation-overhaul-instagrams-video-rotation-secret-for-2024/"><u>[Updated] Orientation Overhaul Instagram's Video Rotation Secret for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/2024-approved-locating-the-dynamics-of-whistling-audio/"><u>2024 Approved Locating the Dynamics of Whistling Audio</u></a></li>
+<li><a href="https://facebook.techidaily.com/digital-harmony-taking-leisinasse-using-facebook-timer/"><u>Digital Harmony: Taking Leisinasse Using Facebook Timer</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/harness-the-power-of-personalization-with-cookiebot-solutions/"><u>Harness the Power of Personalization with Cookiebot Solutions</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/mondlys-synergy-with-pearson-back-buttons-enhanced/"><u>Mondly's Synergy with Pearson Back Buttons Enhanced</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/navigating-to-horror-film-soundscape-pieces/"><u>Navigating to Horror Film Soundscape Pieces</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-echo-eradication-professional-strategies-for-silencing-unwanted-acoustic-features/"><u>New In 2024, Echo Eradication Professional Strategies for Silencing Unwanted Acoustic Features</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-understanding-audacitys-noise-suppression-techniques-step-by-step-guide/"><u>New In 2024, Understanding Audacitys Noise Suppression Techniques Step-by-Step Guide</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-unlocking-clearer-listening-the-complete-process-of-audio-level-standardization-in-vlc/"><u>New In 2024, Unlocking Clearer Listening The Complete Process of Audio Level Standardization in VLC</u></a></li>
+<li><a href="https://apple-account.techidaily.com/the-easy-way-to-remove-an-apple-id-from-your-macbook-for-your-iphone-11-by-drfone-ios/"><u>The Easy Way to Remove an Apple ID from Your MacBook For your iPhone 11</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-compilation-of-ea-plays-ps5-games/"><u>The Ultimate Compilation of EA Play's PS5 Games</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-enhancing-narrative-flow-advanced-methods-for-cross-clip-integration/"><u>Updated 2024 Approved Enhancing Narrative Flow Advanced Methods for Cross-Clip Integration</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-no-fuss-vocal-elimination-procedures-for-audacity-professionals/"><u>Updated 2024 Approved No-Fuss Vocal Elimination Procedures for Audacity Professionals</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-discovering-the-chirping-noise-of-crickets/"><u>Updated In 2024, Discovering the Chirping Noise of Crickets</u></a></li>
+</ul></div>
 
