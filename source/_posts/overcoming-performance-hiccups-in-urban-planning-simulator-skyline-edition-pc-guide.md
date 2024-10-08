@@ -1,7 +1,7 @@
 ---
 title: Overcoming Performance Hiccups in Urban Planning Simulator Skyline Edition - PC Guide
-date: 2024-10-01T06:14:53.286Z
-updated: 2024-10-03T03:44:48.042Z
+date: 2024-10-02T19:47:52.783Z
+updated: 2024-10-08T19:12:28.295Z
 tags:
   - win11
   - win10
@@ -45,10 +45,10 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
 4. [Underclock your clock speed](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Download the latest patch
@@ -64,6 +64,13 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/1-4.jpg)
 3. Under the**Advanced** tab, click**Settings** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2-4.jpg)
 4. Under**Virtual memory** , click**Change** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/3-2.jpg)
@@ -71,13 +78,6 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/4-2.jpg)
 6. Click**Set > OK** .
 7. Reboot your computer can check whether the crash will appear or not.
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Delete specific files from the save folder
 
@@ -93,15 +93,22 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
 5. Reboot your computer and check the issue is solved or not.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Underclock your clock speed
 
  The game is built with an old Unreal Engine version. This may be the reason for the random crashes. You can underclock your CPU speed by 100 MHz or 150 MHz to see whether it helps or not.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Bonus: Update your drivers
 
@@ -131,19 +138,6 @@ OR
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Thanks for reading. Hope this article meets your need. And you are welcome to leave comments below.
 
 * [games](https://tools.techidaily.com/drivereasy/download/)
@@ -163,17 +157,15 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-the-ultimate-macos-experience-with-screenflow-reviewed/"><u>[New] The Ultimate MacOS Experience with ScreenFlow Reviewed</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-boosting-performance-allocating-additional-ram-to-minecraft/"><u>[Updated] In 2024, Boosting Performance Allocating Additional RAM to Minecraft</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-find-anything-you-want-to-know-about-instagram-video-limit/"><u>[Updated] In 2024, Find Anything You Want to Know About Instagram Video Limit</u></a></li>
-<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-oppo-a2-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Oppo A2 | Dr.fone</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/bitots-spots-are-foamy-white-accumulations-on-the-conjunctiva-that-suggest-a-deficiency-in-vitamin-a-and-may-be-seen-in-malnutrition-or-malabsorption-syndro47/"><u>Bitot's Spots Are Foamy, White Accumulations on the Conjunctiva that Suggest a Deficiency in Vitamin A and May Be Seen in Malnutrition or Malabsorption Syndromes Like Celiac Disease.</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-10-best-websites-to-download-ding-sound-effect-easily-for-2024/"><u>New 10 Best Websites to Download Ding Sound Effect Easily for 2024</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/step-by-step-tutorial-for-incorporating-soundtracks-in-adobe-after-effects/"><u>Step-by-Step Tutorial for Incorporating Soundtracks in Adobe After Effects</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-ultimate-guide-to-cloud-storage-pricing-comparisons/"><u>The Ultimate Guide to Cloud Storage Pricing Comparisons</u></a></li>
-<li><a href="https://extra-information.techidaily.com/ultimate-conversion-roadmap-turning-sdr-into-hdr-cinema/"><u>Ultimate Conversion Roadmap Turning SDR Into HDR Cinema</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-turning-the-tables-on-sound-innovations-in-audio-reversal-technology/"><u>Updated In 2024, Turning the Tables on Sound Innovations in Audio Reversal Technology</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-locate-the-ringing-bell-audio-sample-for-2024/"><u>Updated Locate the Ringing Bell Audio Sample for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-visionaries-tools-revealed-premium-360cameras-of-2023/"><u>In 2024, Visionaries' Tools Revealed Premium 360°Cameras of 2023</u></a></li>
+<li><a href="https://windows11.techidaily.com/innovative-designs-and-advanced-tech-years-best-windows-laptops/"><u>Innovative Designs and Advanced Tech - Year's Best Windows Laptops</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/leading-edge-quick-frame-gatherer-5-for-2024/"><u>Leading Edge Quick Frame Gatherer #5 for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-ornithological-soundscapes-mp3-compilation/"><u>New In 2024, Ornithological Soundscapes MP3 Compilation</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/resolving-srt-export-woes-in-adobe-premiere/"><u>Resolving SRT Export Woes in Adobe Premiere</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-mac-video-editing-made-easy-avs-editor/"><u>Updated 2024 Approved Mac Video Editing Made Easy AVS Editor</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-enhancing-audio-quality-practical-methods-to-eradicate-low-frequency-rumble/"><u>Updated Enhancing Audio Quality Practical Methods to Eradicate Low-Frequency Rumble</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-best-places-to-download-and-listen-to-bird-songs-in-mp3-format/"><u>Updated In 2024, Best Places to Download and Listen to Bird Songs in MP3 Format</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-the-art-of-harmonizing-moving-images-and-sounds-a-2023-approach/"><u>Updated The Art of Harmonizing Moving Images and Sounds (A 2023 Approach)</u></a></li>
 </ul></div>
 

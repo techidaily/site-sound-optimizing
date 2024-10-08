@@ -1,7 +1,7 @@
 ---
 title: "Unstuck Discord's Silent Treatment: Repairing the Push-to-Talk Issue"
-date: 2024-10-02T13:29:30.776Z
-updated: 2024-10-03T09:12:46.289Z
+date: 2024-10-07T18:05:58.714Z
+updated: 2024-10-08T17:42:47.027Z
 tags:
   - win11
   - win10
@@ -28,6 +28,13 @@ If you’re playing_Hearthstone_ and the audio cuts out abruptly, or there is no
 5. **[Disable Compatibility Mode](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Reset sound settings](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Reinstall_Hearthstone_ and/or the Blizzard launcher](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1: Check cables and volume
 
@@ -78,6 +85,13 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-281.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
@@ -95,16 +109,16 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-763.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Click the **Processes** tab. Then, check your current **CPU and memory usage** to see what processes are consuming your resources most.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-794.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **3)** Right-click the resource-consuming process and select **End Process Tree** .
 
@@ -134,6 +148,13 @@ OR
 
  Try launching_Hearthstone_ again to see if the sound works properly now. If your issue still exists, read on and check the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4: Repair_Hearthstone_ files
 
  The audio issue in_Hearthstone_ is sometimes triggered by damaged or missing game files. To see if that’s the problem for you, try verifying the integrity of your game files. Here is how to do it:
@@ -149,20 +170,13 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-422.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Wait for the scans to be complete, then relaunch_Hearthstone_ to test your issue. If the audio issue persists, read on and try the fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Disable Compatibility Mode
 
@@ -172,33 +186,20 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-423.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Click the**Compatibility tab** , then uncheck**Run this program in compatibility mode for:** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-424.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Click**Apply** then**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-425.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Relaunch your game to check if the sound comes back. If not, go ahead with the fix below.
 
@@ -215,10 +216,10 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-549.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **3)** Click**Reset** .
@@ -238,13 +239,6 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-553.jpg)
 
  Relaunch your game to test your issue. If the audio is still missing in_Hearthstone_ , try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 7: Reinstall_Hearthstone_ and/or the Blizzard launcher
 
@@ -275,6 +269,13 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-441.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Under**View by** , select**Category** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-443.jpg)
@@ -282,13 +283,6 @@ OR
 **3)** Click**Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-443-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **4)** Right-click**Battle.net** , then click**Uninstall/Change** .
 
@@ -324,24 +318,20 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-dive-into-instagram-filters-2023s-latest-trends/"><u>[New] Dive Into Instagram Filters 2023'S Latest Trends</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ioneering-insights-into-asmr-video-content/"><u>[New] Pioneering Insights Into ASMR Video Content</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-winning-the-game-with-a-strong-video-game-youtube-presence/"><u>[New] Winning the Game with a Strong Video Game Youtube Presence</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-explore-picshots-magic-for-quick-photo-cohesion/"><u>[Updated] Explore Picshot’s Magic for Quick Photo Cohesion</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/2024-approved-locating-the-dynamics-of-whistling-audio/"><u>2024 Approved Locating the Dynamics of Whistling Audio</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/2024-approved-removing-background-music-and-sounds-from-new-avi-files/"><u>2024 Approved Removing Background Music and Sounds From New AVI Files</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-nubia-red-magic-9-pro-is-unlocked-by-drfone-android/"><u>How To Check if Your Nubia Red Magic 9 Pro Is Unlocked</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-remove-screen-lock-pin-on-itel-a70-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Itel A70 Like A Pro 5 Easy Ways</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-realme-11x-5g-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Realme 11X 5G | Dr.fone</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-best-zero-cost-chromebook-recorders/"><u>In 2024, Best Zero Cost Chromebook Recorders</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-unlocking-clearer-listening-the-complete-process-of-audio-level-standardization-in-vlc/"><u>New In 2024, Unlocking Clearer Listening The Complete Process of Audio Level Standardization in VLC</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/revolutionizing-ps2-playtime-on-ios-with-top-emulators/"><u>Revolutionizing PS2 Playtime on iOS with Top Emulators</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/ultimate-shot-upgrade-no-money-needed/"><u>Ultimate Shot Upgrade - No Money Needed</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-enhancing-narrative-flow-advanced-methods-for-cross-clip-integration/"><u>Updated 2024 Approved Enhancing Narrative Flow Advanced Methods for Cross-Clip Integration</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-no-fuss-vocal-elimination-procedures-for-audacity-professionals/"><u>Updated 2024 Approved No-Fuss Vocal Elimination Procedures for Audacity Professionals</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-show-audio-waveform-and-add-waveform-animation-in-final-cut-protuto/"><u>Updated 2024 Approved Show Audio Waveform and Add Waveform Animation in Final Cut ProTuto</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-how-to-normalize-audio-in-davinci-resolve-for-2024/"><u>Updated How To Normalize Audio In DaVinci Resolve for 2024</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-discovering-the-chirping-noise-of-crickets/"><u>Updated In 2024, Discovering the Chirping Noise of Crickets</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-tutorial-on-audio-ducking-in-adobe-premiere-pro-on-mac/"><u>Updated In 2024, Tutorial on Audio Ducking in Adobe Premiere Pro on Mac</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixed-windows-host-process-rundll32-has-stopped-working/"><u>[Fixed] Windows Host Process (Rundll32) Has Stopped Working</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-journey-through-animated-expression-your-guide-to-snapface-magic/"><u>[New] 2024 Approved Journey Through Animated Expression Your Guide to Snapface Magic</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-understanding-vimeo-online-movie-marketplace/"><u>[New] 2024 Approved Understanding Vimeo Online Movie Marketplace</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/bmpwysiwyg-ppm-movavi/"><u>「BMPに一発変える!無料WYSIWYG PPM画像コンバーター - Movavi」</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-master-the-quick-and-easy-photo-fixes-in-windows/"><u>2024 Approved Master the Quick & Easy Photo Fixes in Windows</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-mastering-youtubes-studio-editor-comprehensive-video-edits/"><u>2024 Approved Mastering YouTube's Studio Editor Comprehensive Video Edits</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-secure-your-fb-story-views-with-these-5-techniques/"><u>2024 Approved Secure Your FB Story Views with These 5 Techniques</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/all-about-iphone-se-unlock-chip-you-need-to-know-by-drfone-ios/"><u>All About iPhone SE Unlock Chip You Need to Know</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/experience-unparalleled-audio-visual-sync-in-the-best-av-mixers-for-2024/"><u>Experience Unparalleled Audio-Visual Sync in the Best AV Mixers for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-cut-compress-and-conquer-mastering-avidemux-for-audio-post-production-edition/"><u>New In 2024, Cut, Compress & Conquer Mastering Avidemux for Audio Post Production (Edition)</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcome-minecraft-pc-issues-latest-tips-to-eliminate-freezing-and-crashes/"><u>Overcome Minecraft PC Issues - Latest Tips to Eliminate Freezing & Crashes</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-leading-platforms-for-seamless-mp3-refinement-and-cutting/"><u>Updated 2024 Approved Leading Platforms for Seamless MP3 Refinement and Cutting</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-silencing-the-chatter-essential-methods-for-muting-tiktok-audio/"><u>Updated 2024 Approved Silencing the Chatter Essential Methods for Muting TikTok Audio</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-non-licensed-music-choices-excelling-in-video-montages/"><u>Updated In 2024, Non-Licensed Music Choices Excelling in Video Montages</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-techniques-to-remove-audio-from-updated-avi-software-file/"><u>Updated In 2024, Techniques to Remove Audio From Updated AVI Software File</u></a></li>
 </ul></div>
 

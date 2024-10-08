@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Restarting Internet Explorer When It Crashes or Fails"
-date: 2024-09-27T10:22:41.408Z
-updated: 2024-10-03T12:37:06.191Z
+date: 2024-10-06T19:20:15.569Z
+updated: 2024-10-08T18:44:18.561Z
 tags:
   - win11
   - win10
@@ -56,13 +56,6 @@ thumbnail: https://thmb.techidaily.com/14b0662c78e5872a3461f2dbc1feb1f76e4bd1f28
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/browse.jpg)
 4. Then click**Options** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/Minecraft-options-1.jpg)
 5. In the pop-up window, select**High performance** and click**Save** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/high-performance-3.jpg)
@@ -70,13 +63,6 @@ thumbnail: https://thmb.techidaily.com/14b0662c78e5872a3461f2dbc1feb1f76e4bd1f28
  Once done, run Minecraft again and see if the stuttering issue still appears.
 
 If this solution doesn’t help, continue with the next fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 2: Update your graphics driver
 
@@ -98,16 +84,10 @@ If this solution doesn’t help, continue with the next fix below.
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
 <!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
@@ -120,13 +100,6 @@ If this solution doesn’t help, continue with the next fix below.
 
 If the stuttering issue persists, move on to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 3: Lower your Render Distance
 
  In Minecraft, chunks make up your world. And the render distance controls how many chunks of the world are visible at once. So if you set a high value of chunks, you may face the issue of fps drops or stuttering. To get better performance, you should lower the value to 8 or less, depending on your PC’s hardware. Here’s how:
@@ -135,14 +108,34 @@ If the stuttering issue persists, move on to the next fix.
 2. Click**Options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/options.jpg)
 3. Click**Video Settings** .  
+
+<!-- affiliate ads begin -->
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/video-settings.jpg)
 4. Lower the**Render distance** according to your need.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/render-distance-1.jpg)
@@ -155,6 +148,13 @@ But if it doesn’t, take a look at the next fix.
 
  Sometimes the stuttering issue might occur due to a frame rate discrepancy between the monitor and GPU. But luckily you can fix it by enabling VSync in your graphics control panel.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Via NVIDIA Control Panel
 
 1. Right-click your desktop and select**NVIDIA Control Panel** .  
@@ -163,10 +163,10 @@ But if it doesn’t, take a look at the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/turn-on-vsync.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Via AMD Radeon Settings
@@ -174,13 +174,6 @@ But if it doesn’t, take a look at the next fix.
 1. Right-click your desktop and select**AMD Radeon Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/amdradeon-settings.jpg)
 2. Click the**Gaming** Tab.  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/amd-gaming-1.jpg)
 3. Then click**Global Settings** .  
@@ -193,6 +186,13 @@ But if it doesn’t, take a look at the next fix.
 
 If enabling Vsync didn’t do the trick, proceed to the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 5: Turn off threaded optimization
 
  Threaded optimization is a setting in NVIDIA Control Panel that controls the use of multithreaded optimization for all 3D games on systems with multi-core/HyperThreaded CPUs. Most new games perform better with threaded optimization enabled. However, some gamers reported that they fixed the stuttering issue in Minecraft by turning off threaded optimization. You can give it a shot. To do so:
@@ -200,6 +200,20 @@ If enabling Vsync didn’t do the trick, proceed to the next fix.
 1. Right-click your desktop and select**NVIDIA Control Panel** from the menu.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/nvidia-control-panel.jpg)
 2. In the left panel, click**Manage 3D settings** , navigate to the**Program Settings** tab, and select**Minecraft Launcher.exe** from the first dropdown menu.  
+
+<!-- affiliate ads begin -->
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/step1.jpg)
 3. Scroll down to the bottom of the list and find the**Threaded optimization** , then click the dropdown menu next to it and**change the value from Auto to Off** . Click**Apply** to save changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/step2.jpg)
@@ -218,6 +232,14 @@ If the stuttering issue remains, try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/edit.jpg)
 3. Click**MORE OPTIONS** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/more-options.jpg)
 4. Under the**JVM ARGUMENTS** section, there’s a line of text. **Change the amount of RAM that Minecraft can utilize after Xmx** (for example, Xmx4G means Minecraft is allowed to use 4GB RAM). Then click**Save** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/4g-save.jpg)
@@ -231,13 +253,6 @@ If this solution doesn’t work, take a look at the next fix.
  OptiFine is a Minecraft optimization mod, which allows the game to run faster and look better. However, it consumes some resources and may cause the stuttering issue. To see if that’s the case for you, you can try uninstalling OptiFine.
 
  If the stuttering issue remains after uninstalling OptiFine, check out the last fix.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 8: Reinstall Minecraft
 
@@ -264,17 +279,18 @@ If this solution doesn’t work, take a look at the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-harmony-in-minutes-no-credit-due/"><u>[New] Harmony in Minutes, No Credit Due</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-instas-music-guide-essentials/"><u>[New] In 2024, Insta's Music Guide Essentials</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-unlocking-6-hidden-sources-for-custom-youtube-symbols/"><u>[Updated] Unlocking 6 Hidden Sources for Custom YouTube Symbols</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-vivo-g2-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Vivo G2 Phones with/without a PC</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-premier-listing-top-5-free-vector-graphics-online-hubs/"><u>In 2024, Premier Listing Top 5 FREE Vector Graphics Online Hubs</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-comprehensive-analysis-of-audio-editing-software-sound-forge-edition/"><u>New 2024 Approved Comprehensive Analysis of Audio Editing Software Sound Forge Edition</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-demystifying-pexels-your-comprehensive-guide-to-free-imagery/"><u>New 2024 Approved Demystifying Pexels Your Comprehensive Guide to Free Imagery</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-download-8-best-audio-spectrum-templates-for-video-for-2024/"><u>New Download 8 Best Audio Spectrum Templates for Video for 2024</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-harmonizing-your-library-the-best-places-to-stream-and-save-background-music/"><u>New Harmonizing Your Library The Best Places to Stream and Save Background Music</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-the-ultimate-list-of-bgm-audio-archives-for-2024/"><u>New The Ultimate List of BGM Audio Archives for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/passos-faceis-aprenda-como-dividir-a-tela-no-sistema-operacional-windows/"><u>Passos Fáceis: Aprenda Como Dividir a Tela No Sistema Operacional Windows</u></a></li>
-<li><a href="https://win-able.techidaily.com/top-5-solutions-for-resolving-zooms-failed-video-launch/"><u>Top 5 Solutions for Resolving Zoom's Failed Video Launch</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-ideal-low-impact-recording-devices-for-eco-conscious-filmmakers/"><u>2024 Approved Ideal Low-Impact Recording Devices for Eco-Conscious Filmmakers</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-honor-play-8t-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Honor Play 8T | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-get-the-correct-epson-xp-400-printer-driver-a-step-by-step-process/"><u>How to Get the Correct Epson Xp-400 Printer Driver - A Step by Step Process</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/how-to-remove-audio-from-avi-for-2024/"><u>How to Remove Audio From AVI for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-honor-90-lite-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Honor 90 Lite to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-selecting-snug-winter-scenes-as-video-sets/"><u>In 2024, Selecting Snug Winter Scenes as Video Sets</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/leveraging-pip-for-multitasking-in-edge-browser/"><u>Leveraging PIP for Multitasking in Edge Browser</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/mysterious-video-issue-with-sony-a6400-for-2024/"><u>Mysterious Video Issue with Sony A6400 for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-audit-findings-on-sound-forges-integration-and-workflow-efficiency/"><u>New Audit Findings on Sound Forges Integration and Workflow Efficiency</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-final-cut-pro-sound-visualization-step-by-step-on-rendering-audio-waveforms-and-their-animation-integration-for-2024/"><u>New Final Cut Pro Sound Visualization Step-by-Step on Rendering Audio Waveforms and Their Animation Integration for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-karaoke-and-audio-mastery-leading-voice-suppression-tools-for-enhanced-sound-quality/"><u>New Karaoke & Audio Mastery Leading Voice Suppression Tools for Enhanced Sound Quality</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-ultimate-guide-to-color-theory-and-practical-application-techniques/"><u>The Ultimate Guide to Color Theory and Practical Application Techniques</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/youtube-masterclass-beginners-kit-free-courses-collection-for-2024/"><u>YouTube Masterclass Beginners Kit Free Courses Collection for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Defeat Scavengers on Windows: Ultimate Winning Strategies Unveiled!"
-date: 2024-09-27T11:19:35.292Z
-updated: 2024-10-03T03:17:16.533Z
+date: 2024-10-04T18:50:53.680Z
+updated: 2024-10-08T19:51:32.006Z
 tags:
   - win11
   - win10
@@ -30,13 +30,6 @@ Recently, we’ve seen many players reporting that**Dirt 5 keeps crashing** on t
 5. **[Set launch options on Steam](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Stop overclocking](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 1: Update your graphics driver
 
 The outdated or broken graphics driver often crashes the game.
@@ -56,18 +49,25 @@ The outdated or broken graphics driver often crashes the game.
 ![Driver Easy Scan Now](https://images.drivereasy.com/wp-content/uploads/2021/03/Driver-Easy-Scan-Now.jpg)
 3. Click the **Update** button next to a device to automatically download the correct version of their driver, then you can manually install the driver (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 4. Restart your PC after you finished updating your graphics driver.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  See if the latest graphics driver stops the Dirt 5 from crashing. If not, don’t worry. Try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 2: Verify the game files
 
@@ -77,22 +77,15 @@ The outdated or broken graphics driver often crashes the game.
 ![Steam->properties](https://images.drivereasy.com/wp-content/uploads/2019/04/image-122.png)
 2. Click **the LOCAL FILES tab** , then click **VERIFY INTEGRITY OF GAME CACHE…** . After that, click **CLOSE** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![LOCAL FILES>VERIFY INTEGRITY OF GAME CACHE...](https://images.drivereasy.com/wp-content/uploads/2019/04/image-120.png)
 
  It may take some time to finish verifying the game files. Launch the game after the verifying process completed to see if this fix works. If not, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 3: Install the latest game patch
@@ -111,16 +104,16 @@ The outdated or broken graphics driver often crashes the game.
 ![Steam->properties](https://images.drivereasy.com/wp-content/uploads/2019/04/image-122.png)
 2. Uncheck**Enable Steam Overlay while in-game** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Disable Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-Steam-Overlay.jpg)
 
  Launch Dirt 5 to see if the game crashes. If the issue persists, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 5: Set launch options on Steam
 
@@ -134,6 +127,13 @@ The outdated or broken graphics driver often crashes the game.
 `-useallavailablecores -high`
 
  Launch the game to see if it crashes again. If it still crashes, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 6: Stop overclocking
 
@@ -165,18 +165,24 @@ The outdated or broken graphics driver often crashes the game.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/updated-swing-mastery-kit/"><u>[Updated] Swing Mastery Kit</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-prime-hashtag-combinations-driving-view-count-higher/"><u>2024 Approved Prime Hashtag Combinations Driving View Count Higher</u></a></li>
-<li><a href="https://facebook.techidaily.com/breaking-down-social-media-downtime-reasons/"><u>Breaking Down Social Media Downtime Reasons</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/corrective-guide-dealing-with-msodll-cannot-be-located-message/"><u>Corrective Guide: Dealing with 'mso.dll Cannot Be Located' Message</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/easy-ways-to-get-free-views-on-youtube-alternative-methods-for-2024/"><u>Easy Ways To Get Free Views on YouTube! Alternative Methods for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-character-creation-in-dungeons-and-dragons-with-ai-a-guide-to-using-chatgpt-and-dall-e/"><u>Mastering Character Creation in Dungeons & Dragons with AI: A Guide to Using ChatGPT & DALL-E</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-mastering-audio-downloads-a-guide-to-collecting-podcast-episodes-on-pc/"><u>New 2024 Approved Mastering Audio Downloads A Guide to Collecting Podcast Episodes on PC</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-trimming-mp4-content-a-focus-on-solo-soundtrack/"><u>New Trimming MP4 Content A Focus on Solo Soundtrack</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/pinpoint-wolfs-howling-frequency-for-2024/"><u>Pinpoint Wolfs Howling Frequency for 2024</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-mute-the-movie-guide-to-erasing-auditory-elements-from-various-video-formats/"><u>Updated 2024 Approved Mute the Movie Guide to Erasing Auditory Elements From Various Video Formats</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-best-free-animated-explainer-tools-for-pc-and-mac-2024-update/"><u>Updated Best Free Animated Explainer Tools for PC and Mac (2024 Update)</u></a></li>
-<li><a href="https://techidaily.com/what-to-do-if-iphone-x-is-not-listed-when-i-run-the-software-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>What to do if iPhone X is not listed when I run the software? | Stellar</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-itel-p55-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Itel P55 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-ultimate-streamlabs-obs-setup-and-configuration-manual/"><u>[New] Ultimate Streamlabs OBS Setup and Configuration Manual</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-harness-ease-of-video-editing-on-windows-11/"><u>[Updated] Harness Ease of Video Editing on Windows 11</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-hero5-black-versus-yi-4k-latest-updates-on-high-res-cameras/"><u>[Updated] Hero5 Black Versus Yi 4K Latest Updates on High-Res Cameras</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-canon-image-masters-10plus-luts-some-are-free/"><u>2024 Approved Canon Image Masters - 10+ LUTs, Some Are Free</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/2024-approved-ultimate-car-audio-blend-tool-for-mac-users/"><u>2024 Approved Ultimate Car Audio Blend Tool for Mac Users</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/2024-approved-virtual-sound-crafting-platform-split-and-stitch-mp3s/"><u>2024 Approved Virtual Sound Crafting Platform Split & Stitch MP3s</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/amor-in-motion-ingenious-italian-flirting-strategies/"><u>Amor in Motion: Ingenious Italian Flirting Strategies</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/guide-switching-to-an-alternative-web-browser-on-your-samsung-tv/"><u>Guide: Switching to an Alternative Web Browser on Your Samsung TV</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-boosting-video-management-creating-an-effective-youtube-watch-later-list/"><u>In 2024, Boosting Video Management Creating an Effective YouTube Watch Later List</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/macx-dvd-ripper-pro-windows70/"><u>MacX DVD Ripper Pro 特別価格: 「官方」でWindows版70%オフクーポンが手に入る！</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-10-must-have-sound-recording-devices-for-broadcast-enthusiasts-for-2024/"><u>New 10 Must-Have Sound Recording Devices for Broadcast Enthusiasts for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-achieving-clarity-in-sound-strategies-to-dampen-unwanted-echoes/"><u>New 2024 Approved Achieving Clarity in Sound Strategies to Dampen Unwanted Echoes</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-cost-effective-mac-sound-editor-software/"><u>New 2024 Approved Cost-Effective Mac Sound Editor Software</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-efficient-cost-effective-steps-to-convert-voices-to-text-comprehensive-guide/"><u>New 2024 Approved Efficient, Cost-Effective Steps to Convert Voices to Text Comprehensive Guide</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-unleash-your-creative-potential-with-these-5-leading-audio-distortion-programs/"><u>New In 2024, Unleash Your Creative Potential with These 5 Leading Audio Distortion Programs</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/review-of-apples-215-inch-4k-imac-the-perfect-blend-of-elegance-and-performance/"><u>Review of Apple's 21.5-Inch 4K iMac: The Perfect Blend of Elegance & Performance</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-5-leading-digital-audio-workstation-options-for-professional-guitarists-updated/"><u>Updated 2024 Approved 5 Leading Digital Audio Workstation Options for Professional Guitarists, Updated</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-step-by-step-walkthrough-for-extracting-vocals-from-audio-files-using-adobe-audition/"><u>Updated Step-by-Step Walkthrough for Extracting Vocals From Audio Files Using Adobe Audition</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/youtube-kiddie-corner-10-year-old-ryan-hits-millionaire-mark-for-2024/"><u>YouTube Kiddie Corner 10-Year-Old Ryan Hits Millionaire Mark for 2024</u></a></li>
 </ul></div>
 

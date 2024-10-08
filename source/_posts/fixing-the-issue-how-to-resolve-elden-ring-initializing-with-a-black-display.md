@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Issue: How to Resolve 'Elden Ring' Initializing with a Black Display"
-date: 2024-10-01T16:43:14.965Z
-updated: 2024-10-03T11:33:50.730Z
+date: 2024-10-06T18:58:51.209Z
+updated: 2024-10-08T20:10:13.738Z
 tags:
   - win11
   - win10
@@ -41,10 +41,10 @@ thumbnail: https://thmb.techidaily.com/9d142af41b1de506fdf32554a7ece9543f1d4a28a
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/click-on-the-Check-for-updates-tab.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### On Windows 11
@@ -53,24 +53,25 @@ thumbnail: https://thmb.techidaily.com/9d142af41b1de506fdf32554a7ece9543f1d4a28a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-18.png)
 2. Click**Check for updates** , and Windows will scan for any available updates.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-19.png)
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Upon reboot, play supported content to check if it works. If your THX Spatial Audio is still not working, move on to the next fix.
 
@@ -87,10 +88,10 @@ thumbnail: https://thmb.techidaily.com/9d142af41b1de506fdf32554a7ece9543f1d4a28a
 3. Select**Troubleshoot** from the left pane. Then highlight the**Playing Audio** troubleshooter and click**Run the troubleshooter** .  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/audio-run-the-troubleshooter.png)  
@@ -108,13 +109,6 @@ thumbnail: https://thmb.techidaily.com/9d142af41b1de506fdf32554a7ece9543f1d4a28a
 ![](https://www.drivereasy.com/wp-content/uploads/2021/03/troubleshooting.jpg)
 3. Click **Run** for **Audio**  troubleshooter.  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2021/03/sound-troubleshooter.png)
 4. Follow the on-screen instructions to run the troubleshooter and apply any fix if you see it.
 
@@ -131,9 +125,23 @@ If Windows fails to troubleshoot your issues, try the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/set-thx-spatial-audio-as-default-playback-device.png)
 3. Then in the APPLICATION MIXER section, select**Spatial Audio** as the output.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/application-mixer.png)
 
  After you’ve done these, you should be able to enjoy the THX Spatial feature on your audio device.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Update your audio drivers
 
@@ -158,6 +166,13 @@ If Windows fails to troubleshoot your issues, try the next fix below.
 
  When the update completes, restart your computer. Then play supported content to check for changes.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Perform a system restore
 
  After everything else, you can restore your system to a point from before THX Spatial Audio was acting up. It’s possible that the issue you’re having was facilitated by a change that your system has gone through recently which you cannot pinpoint.
@@ -178,21 +193,14 @@ If Windows fails to troubleshoot your issues, try the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/create-a-system-point-now.png)
 5. Type a description for your restore point that you can recognize. Then click**Create** .  
 
+![](https://images.drivereasy.com/wp-content/uploads/2021/12/type-a-descriptin.png)
+6. When it successfully created the restore point, click**Close** .  
+
 <!-- affiliate ads begin -->
 <a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
   <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
 <img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-![](https://images.drivereasy.com/wp-content/uploads/2021/12/type-a-descriptin.png)
-6. When it successfully created the restore point, click**Close** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/close-the-window.png)
@@ -206,13 +214,6 @@ If Windows fails to troubleshoot your issues, try the next fix below.
 3. Once the scan is finished, you’ll see a complete overview of your system and issues. Click**Start Repair** to start the repair process and wait for Fortect to fix the problem.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
-  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The repair is available with the paid version of Fortect which comes with full technical support. If you encounter any issues while using Fortect, feel free to contact their support team.
 
@@ -235,16 +236,20 @@ If Windows fails to troubleshoot your issues, try the next fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-effortless-integration-of-xbox-and-facebook-streams/"><u>[New] 2024 Approved Effortless Integration of Xbox and Facebook Streams</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-audioarchitects-building-without-dacast/"><u>[Updated] AudioArchitects Building Without DaCast</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-enriched-viewing-experience-with-these-free-downloader-apps-for-youtubes-for-2024/"><u>[Updated] Enriched Viewing Experience with These Free Downloader Apps for YouTubes for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-peeling-back-the-curtain-on-youtubes-content-popularity-index-for-2024/"><u>[Updated] Peeling Back the Curtain on YouTube's Content Popularity Index for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-determining-cost-effectiveness-of-youtubers/"><u>2024 Approved Determining Cost-Effectiveness of Youtubers</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/2024-approved-innovations-in-capturing-high-fidelity-broadcast-sound/"><u>2024 Approved Innovations in Capturing High-Fidelity Broadcast Sound</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-select-4-websites-easy-skype-tone-downloads/"><u>2024 Approved Select 4 Websites Easy Skype Tone Downloads</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/in-2024-complete-vimeo-media-file-data-with-aspect-ratio-highlighted/"><u>In 2024, Complete Vimeo Media File Data with Aspect Ratio Highlighted</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-discovering-the-most-advanced-online-tools-for-mp3-file-tagging-and-categorization/"><u>New In 2024, Discovering the Most Advanced Online Tools for MP3 File Tagging and Categorization</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-quick-fixes-to-keep-tiktok-sound-off-a-step-by-step-approach-for-2024/"><u>New Quick Fixes to Keep TikTok Sound Off A Step-by-Step Approach for 2024</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-auditory-sculpture-in-motion-constructing-vibrant-audio-visual-compositions-with-premiere-pro/"><u>Updated In 2024, Auditory Sculpture in Motion Constructing Vibrant Audio-Visual Compositions with Premiere Pro</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-delight-in-these-top-10-insta-memes-that-spark-joy-and-sobs-for-2024/"><u>[New] Delight in These Top 10 Insta Memes That Spark Joy & Sobs for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-perfect-pitch-perfection-the-top-7-apps-to-change-your-voice-online/"><u>[New] Perfect Pitch Perfection The Top 7 Apps to Change Your Voice Online</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-an-in-depth-guide-to-every-element-of-srt/"><u>2024 Approved An In-Depth Guide to Every Element of SRT</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-fish-tastic-top-5-action-cameras-for-catch/"><u>2024 Approved Fish-Tastic Top 5 Action Cameras for Catch</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-learn-how-to-convert-audio-clips-into-written-text-with-microsoft-words-speech-recognition-features/"><u>In 2024, Learn How To Convert Audio Clips Into Written Text with Microsoft Word's Speech Recognition Features</u></a></li>
+<li><a href="https://driver-install.techidaily.com/install-canon-mx870-driver-for-windows-11-7-and-8/"><u>Install Canon MX870 Driver for Windows 11, 7 & 8</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-identifying-sources-for-authentic-canine-symphony-sounds/"><u>New Identifying Sources for Authentic Canine Symphony Sounds</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-step-by-step-adding-and-eliminating-audacity-from-chromebooks-for-2024/"><u>New Step-by-Step Adding and Eliminating Audacity From Chromebooks for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-the-acoustic-trail-of-cricket-searching-for-realistic-sfx/"><u>New The Acoustic Trail of Cricket Searching for Realistic SFX</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/solution-radiographic-testing-rt-uses-x-rays-or-gamma-rays-therefore-strict-safety-protocols-must-be-followed-to-protect-against-ionizing-radiation-exposure266/"><u>Solution: Radiographic Testing (RT) Uses X-Rays or Gamma Rays; Therefore, Strict Safety Protocols Must Be Followed to Protect Against Ionizing Radiation Exposure.</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/speedy-silencing-eradicating-static-and-white-noise-from-audio-tracks-for-2024/"><u>Speedy Silencing Eradicating Static and White Noise From Audio Tracks for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/the-premier-a-tunes-for-mobile-musicians-worldwide/"><u>The Premier A-Tunes for Mobile Musicians Worldwide</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/top-social-networking-visual-delights-on-fb/"><u>Top Social Networking Visual Delights on FB</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-discovering-the-value-a-comprehensive-guide-to-using-pexelscom-imagery/"><u>Updated 2024 Approved Discovering the Value A Comprehensive Guide to Using Pexels.com Imagery</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-innovative-communication-how-to-preserve-your-discussions-using-google-voice-for-2024/"><u>Updated Innovative Communication How to Preserve Your Discussions Using Google Voice for 2024</u></a></li>
 </ul></div>
 

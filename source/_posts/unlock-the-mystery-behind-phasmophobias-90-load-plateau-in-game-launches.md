@@ -1,7 +1,7 @@
 ---
 title: Unlock the Mystery Behind Phasmophobia's 90%% Load Plateau in Game Launches
-date: 2024-09-25T23:03:19.758Z
-updated: 2024-10-02T21:54:48.683Z
+date: 2024-10-02T20:00:28.338Z
+updated: 2024-10-08T17:31:11.816Z
 tags:
   - win11
   - win10
@@ -30,10 +30,10 @@ Phasmophobia is, according to the reviews, the best ghost game ever made. It all
 7. **[Uninstall and reinstall Phasmophobia](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 1: Make sure your computer meets the specs
@@ -62,13 +62,6 @@ Phasmophobia is, according to the reviews, the best ghost game ever made. It all
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 2: Update your graphics driver
 
  Using outdated drivers can affect performance. So we recommend checking for driver updates on a regular basis. When you encounter the issue of a loading screen stuck, updating your drivers especially your graphics driver could be the best shot you take.
@@ -80,13 +73,6 @@ There are two ways you can update your graphics driver:
 OR
 
 **[Option 2 – Automatically (Recommended)](https://www.drivereasy.com/knowledge/solved-phasmophobia-stuck-at-90-loading-screen/#option2)**  – This is the quickest and easiest option. It’s all done with just a couple of mouse clicks.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Option 1 – Manually update your drivers
 
@@ -106,6 +92,13 @@ OR
 
 ![update drivers automatically](https://images.drivereasy.com/wp-content/uploads/2020/09/scan-now-driver-easy-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.)
 
@@ -119,10 +112,10 @@ OR
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 3: Verify the integrity of game files
@@ -141,11 +134,25 @@ OR
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 4: Delete the game’s save file
 
  If your game files are corrupt, they can cause your game to be stuck on the loading screen. Deleting the files can sometimes resolve the problem:
 
  1) On your keyboard, press the**Windows logo key** ![windows logo key](https://images.drivereasy.com/wp-content/uploads/2020/09/Start-icon.jpg) and**R** at the same time to invoke the Run box.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Type**%appdata%LocalLowKinetic GamesPhasmophobia** , then press**Enter** on your keyboard.
 
@@ -160,16 +167,10 @@ OR
 ---
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 5: Run Steam as an administrator
@@ -188,9 +189,23 @@ OR
 
 ![run Steam as an administrator to fix Phasmophobia stuck at 90% loading screen](https://images.drivereasy.com/wp-content/uploads/2020/11/run-steam-as-an-administrator-apply-ok.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 If this didn’t work, move on to the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 6: Reset your network
 
@@ -214,13 +229,6 @@ Now restart your computer and your problem should be fixed.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 7: Uninstall and reinstall Phasmophobia
 
  If, unfortunately, none of the fixes listed above work for you, you should consider uninstalling and reinstalling Phasmophobia. Though this will remove your progress.
@@ -229,23 +237,9 @@ Take these steps:
 
  1) On your keyboard, press the**Windows logo key** ![windows logo key](https://images.drivereasy.com/wp-content/uploads/2020/10/Windows.png) and**R** at the same time to invoke the Run box.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Type**%appdata%LocalLowKinetic Games** and press**Enter** .
 
 ![uninstall and reinstall Phasmophobia stuck at 90% loading screen](https://images.drivereasy.com/wp-content/uploads/2020/10/delete-save-file.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Delete everything in the**Kinetic Games folder** .
 
@@ -277,24 +271,21 @@ Take these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-fine-tuning-your-fly-top-tips-for-choosing-drone-propellers/"><u>2024 Approved Fine-Tuning Your Fly Top Tips for Choosing Drone Propellers</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/2024-approved-how-to-achieve-pristine-sound-quality-tactics-to-reduce-echo/"><u>2024 Approved How to Achieve Pristine Sound Quality Tactics to Reduce Echo</u></a></li>
-<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-poco-x6-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Poco X6? | Dr.fone</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/blending-the-tunes-and-pictures-a-step-by-step-guide-to-audio-video-integration-in-current-technology/"><u>Blending the Tunes and Pictures A Step-by-Step Guide to Audio Video Integration in Current Technology</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/break-free-the-chuckles-ranking-20-hilarious-fb-detention-scenes/"><u>Break Free the Chuckles Ranking 20 Hilarious FB Detention Scenes</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/discovering-authentic-canine-vocalizations-in-sound-libraries-for-2024/"><u>Discovering Authentic Canine Vocalizations in Sound Libraries for 2024</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/elite-sound-mixers-for-superior-stream-quality/"><u>Elite Sound Mixers for Superior Stream Quality</u></a></li>
-<li><a href="https://techtrends.techidaily.com/expert-online-assistance-hub-troubleshooting-and-guidance-for-winx-dvd-ripper-pro/"><u>Expert Online Assistance Hub: Troubleshooting and Guidance for WinX DVD Ripper Pro</u></a></li>
-<li><a href="https://change-location.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Vivo T2 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/hitachi-4k-ultra-hd-tvs-with-built-in-roku-streaming/"><u>Hitachi 4K Ultra HD TVs with Built-In Roku Streaming</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-windows-camera-not-working-issue-the-complete-guide-error-code-0xa00f4292/"><u>How to Fix Windows Camera Not Working Issue - The Complete Guide (Error Code 0XA00F4292)</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-google-pixel-fold-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Google Pixel Fold | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-motorola-edge-40-neo-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Motorola Edge 40 Neo To Phone | Dr.fone</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-swapping-sounds-in-media-files-an-in-depth-tutorial-for-seamless-edits/"><u>New 2024 Approved Swapping Sounds in Media Files An In-Depth Tutorial for Seamless Edits</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-the-essential-process-of-adding-sound-to-mkv-updated-videographies/"><u>New In 2024, The Essential Process of Adding Sound to MKV-Updated Videographies</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-the-essential-list-of-top-10-audio-editors-for-windows-and-mac-platforms/"><u>New The Essential List of Top 10 Audio Editors for Windows & Mac Platforms</u></a></li>
-<li><a href="https://android-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-nokia-c210-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Nokia C210 FRP</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-bridging-the-gap-between-sound-waves-and-storage-space-a-guide-to-downloading-audio-programs-onto-computers/"><u>Updated In 2024, Bridging the Gap Between Sound Waves and Storage Space A Guide to Downloading Audio Programs Onto Computers</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-step-by-step-audio-augmentation-for-quality-video-files-on-quicktime/"><u>Updated In 2024, Step-by-Step Audio Augmentation for Quality Video Files on QuickTime</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2023s-finest-top-ps3-game-simulations-for-pc-users-for-2024/"><u>[New] 2023'S Finest - Top PS3 Game Simulations for PC Users for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-crafting-impact-best-9-video-thumbnail-makers-reviewed/"><u>[Updated] 2024 Approved Crafting Impact Best 9 Video Thumbnail Makers Reviewed</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-the-fbx-game-recorder-playbook/"><u>[Updated] In 2024, The FBX Game Recorder Playbook</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-path-to-picsart-proficiency/"><u>[Updated] The Ultimate Path to PicsArt Proficiency</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-facebooks-forgotten-treasures-how-to-rescue-conversations-and-videos/"><u>2024 Approved Facebook's Forgotten Treasures How to Rescue Conversations and Videos</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/a-step-by-step-fix-for-neros-elusive-advrcntr2dll-error-message/"><u>A Step-by-Step Fix for Nero's Elusive Advrcntr2.dll Error Message</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-realme-11-5g-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Realme 11 5G to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/leading-music-editor-tools-ranked-windows-and-mac-edition-top-10/"><u>Leading Music Editor Tools Ranked Windows & Mac Edition, Top 10</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-expert-online-sound-calibration-services/"><u>New Expert Online Sound Calibration Services</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-finding-optimal-applications-for-effective-sound-isolation-in-videos-and-audios/"><u>New In 2024, Finding Optimal Applications for Effective Sound Isolation in Videos and Audios</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-intuitive-vocal-modification-mechanisms-an-insight-into-operational-aspects-standards-and-workarounds/"><u>New In 2024, Intuitive Vocal Modification Mechanisms An Insight Into Operational Aspects, Standards, and Workarounds</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-navigating-the-nuances-of-audio-balancing-a-deep-dive-into-obs-sound-dynamics/"><u>New In 2024, Navigating the Nuances of Audio Balancing A Deep Dive Into OBS Sound Dynamics</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-the-modern-editors-handbook-cutting-and-mixing-in-avidemux/"><u>New In 2024, The Modern Editors Handbook Cutting and Mixing in Avidemux</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/practical-guide-to-gpt-4-in-modern-chatgpt-dialogues/"><u>Practical Guide to GPT-4 in Modern ChatGPT Dialogues</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/unlocking-the-secrets-of-instagrams-saved-content/"><u>Unlocking the Secrets of Instagram's Saved Content</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-the-world-of-vocal-manipulators-an-overview-testimonials-and-substitutes/"><u>Updated The World of Vocal Manipulators An Overview, Testimonials, and Substitutes</u></a></li>
 </ul></div>
 

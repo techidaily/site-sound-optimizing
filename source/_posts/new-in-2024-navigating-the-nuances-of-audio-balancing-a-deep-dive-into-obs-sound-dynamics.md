@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Navigating the Nuances of Audio Balancing A Deep Dive Into OBS Sound Dynamics
-date: 2024-09-26T22:21:45.700Z
-updated: 2024-10-03T04:03:45.333Z
+date: 2024-10-04T18:27:06.985Z
+updated: 2024-10-08T16:40:18.543Z
 tags: 
   - audio editing software
   - audio editing
@@ -227,13 +227,6 @@ Developed for the inspired, Filmora follows its unique way of ducking sound, eas
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Download and install Wondershare Filmora by clicking on the **Try It Free** button above. Once installed, follow the steps below.
 
 **Step 1: Launch the application**
@@ -258,13 +251,6 @@ I hope you have now come to know why **ducking sound** is a must and how well **
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.
@@ -278,6 +264,13 @@ Follow @Benjamin Arango
 Video making or filmmaking has now come to the level where the history of imperfections faded away a long time ago. Yes, while the animation is still ruling the floor, an inevitable back-end process might look off-screen and a little complicated. One such job is **ducking sound** that is the process of balancing voiceover and the background audio. If you aren't a tech-savvy person, I hope to go in-depth isn't needed, and hence we stop here. To depict how you need to work out this **ducking music** process, we have this post.
 
 If you are a content creator, maybe you will be familiar with coordinating the right audio with the video. If not, it isn't a problem anymore as I have included a detailed guide of implementing **audio ducking** in a step-wise way. With primary importance to the popular software **OBS** followed by a suitable alternative, let's begin our article!
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 1: How to Balance Your Stream Sound with OBS Audio Ducking?
 
@@ -374,6 +367,13 @@ If you want to learn how you can make your voice deeper, then you just landed on
 
 So, Let's start our article with a basic question.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Can You Make Your Voice Deeper?**
 
 Yes, It is possible to make your voice deeper.
@@ -448,13 +448,6 @@ For macOS 10.12 or later
 
 ![fx-deeper-voice-step4](https://images.wondershare.com/filmora/article-images/fx-deeper-voice-step4.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 5:** Now, you need to adjust the pitch at this step. Try to lower the pitch by a point or two, and you play the video. You will notice a considerable change in your voice. You will feel that your voice has become much deeper than the original one.
 
 ![fx-deeper-voice-step5](https://images.wondershare.com/filmora/article-images/fx-deeper-voice-step5.png)
@@ -497,6 +490,13 @@ For macOS 10.12 or later
 
 ![fx-deeper-voice-step4](https://images.wondershare.com/filmora/article-images/fx-deeper-voice-step4.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 5:** Now, you need to adjust the pitch at this step. Try to lower the pitch by a point or two, and you play the video. You will notice a considerable change in your voice. You will feel that your voice has become much deeper than the original one.
 
 ![fx-deeper-voice-step5](https://images.wondershare.com/filmora/article-images/fx-deeper-voice-step5.png)
@@ -534,13 +534,6 @@ For macOS 10.12 or later
 **Step3:** Now drag the video and drop it into the timeline.
 
 ![fx-deeper-voice-step3](https://images.wondershare.com/filmora/article-images/fx-deeper-voice-step3.png)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step4:** Now, right-click on the track in the timeline and click on "Adjust Audio" from the menu.
 
@@ -702,13 +695,6 @@ The duty of the 1st AC is to focus on the required target, pulling, swapping the
 
 The 2nd AC has to consider the slates of the shots, place exact locations and markers for the characters, and give exposed footage to save for the backup.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Gaffers and key grip
 
 Gaffers and key grip have their own teams for maintaining the lighting and grip work assigned by the DP according to the creative plans.
@@ -721,6 +707,13 @@ DMT will handle the exposed footage, which Digital Memory Card will do with tape
 
 ![digital memory card](https://images.wondershare.com/filmora/article-images/2023/04/digital-memory-card.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![note](https://images.wondershare.com/assets/images-common/icon-note.png)
 
 **Note:** Making two copies for the backup will reduce the risk of corrupted files and physical accidents of losing the footage.
@@ -730,6 +723,13 @@ DMT will handle the exposed footage, which Digital Memory Card will do with tape
 If you are the music video **director**, you need a **Cinematographer** with **Camera Operators**. He will be in charge of pulling and adjusting all the camera alignments. If you have enough budget, go with the **co-producer** to help you direct the talents.
 
 ![additional roles of director department](https://images.wondershare.com/filmora/article-images/2023/04/additional-roles-of-director-department.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 To make your subject looks good and modern according to the theme, you should hire **hair and makeup artist.** If you have more budget, you can do it professionally with more and more crew members.
 
@@ -751,6 +751,13 @@ In this department, the production designer is mainly involved in decorating the
 
 The cinematic department comes to the frontline to give the shots and the lit music video final touches. In this, the head of the department is also known as the director of photography.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Director of photography
 
 He mainly decides how the shots and the music video footage look. The main action is to handle the lightning and interact with the lights with the environment and the characters. He should build relationships with each other for better illusions.
@@ -763,6 +770,13 @@ Due to this, they can change the direction and the setup wherever they want and 
 
 ![director monitor](https://images.wondershare.com/filmora/article-images/2023/04/director-monitor.gif)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Camera operators
 
 To operate the camera, the DPs are not involved, but there is a specific job of the camera operators, which handle the shots and moves according to the director's directions. There are also 1st and 2nd Assistant Cameras (AC) with the camera operators.
@@ -774,6 +788,13 @@ The duty of the 1st AC is to focus on the required target, pulling, swapping the
 **2nd Assistant Camera**
 
 The 2nd AC has to consider the slates of the shots, place exact locations and markers for the characters, and give exposed footage to save for the backup.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Gaffers and key grip
 
@@ -789,34 +810,13 @@ DMT will handle the exposed footage, which Digital Memory Card will do with tape
 
 ![note](https://images.wondershare.com/assets/images-common/icon-note.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Note:** Making two copies for the backup will reduce the risk of corrupted files and physical accidents of losing the footage.
-
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Additional Roles
 
 If you are the music video **director**, you need a **Cinematographer** with **Camera Operators**. He will be in charge of pulling and adjusting all the camera alignments. If you have enough budget, go with the **co-producer** to help you direct the talents.
 
 ![additional roles of director department](https://images.wondershare.com/filmora/article-images/2023/04/additional-roles-of-director-department.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 To make your subject looks good and modern according to the theme, you should hire **hair and makeup artist.** If you have more budget, you can do it professionally with more and more crew members.
 
@@ -840,24 +840,24 @@ If you are a starter, then there is no need to worry to pull-off all the roles i
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-twitters-top-picks-most-retweeted-and-binge-watched-series/"><u>[New] 2024 Approved Twitters' Top Picks Most Retweeted & Binge-Watched Series</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-gain-traction-in-the-digital-sphere-explore-the-quintessential-five-youtube-tactics-for-2024/"><u>[New] Gain Traction in the Digital Sphere - Explore the Quintessential Five YouTube Tactics for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-from-amateur-to-artist-top-8-beginner-camera-selections/"><u>[Updated] From Amateur to Artist Top 8 Beginner Camera Selections</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/a-guide-samsung-galaxy-s23-fe-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Samsung Galaxy S23 FE Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/applecare-plus-analysis-why-a-longer-warranty-is-beneficial/"><u>AppleCare Plus Analysis: Why a Longer Warranty Is Beneficial</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/led-insights-into-youtubes-perfected-aspect-ratios-for-2024/"><u>Detailed Insights Into YouTube's Perfected Aspect Ratios for 2024</u></a></li>
-<li><a href="https://win-news.techidaily.com/exclusive-coverage-key-announcements-from-microsofts-latest-surface-and-ai-showcase-on-zdnet/"><u>Exclusive Coverage: Key Announcements From Microsoft's Latest Surface & AI Showcase on ZDNet</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/how-to-add-audio-to-mkv-2023-update-for-2024/"><u>How to Add Audio to MKV-2023 Update for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-vivo-y100i-drfone-by-drfone-android/"><u>How to Screen Mirroring Vivo Y100i? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-vivo-x-flip-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Vivo X Flip to Roku | Dr.fone</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/in-2024-harmonize-your-hearings-top-software-to-extract-clean-soundscapes-from-original-recordings/"><u>In 2024, Harmonize Your Hearings Top Software to Extract Clean Soundscapes From Original Recordings</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/in-2024-identifying-sources-for-authentic-canine-symphony-sounds/"><u>In 2024, Identifying Sources for Authentic Canine Symphony Sounds</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/mastering-the-vr-lingo-core-terminology-guide/"><u>Mastering the VR Lingo Core Terminology Guide</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-constructing-an-elegant-transition-for-decreasing-auditory-intensity/"><u>New Constructing an Elegant Transition for Decreasing Auditory Intensity</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-mastering-audio-integration-in-updated-mkv-formats-for-2024/"><u>New Mastering Audio Integration in Updated MKV Formats for 2024</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-transforming-podcast-content-into-high-quality-mp3-audio-a-step-by-step-guide/"><u>New Transforming Podcast Content Into High-Quality MP3 Audio A Step-by-Step Guide</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-earning-beats-for-your-ears-the-art-of-accessing-free-audio-music-legally/"><u>Updated 2024 Approved Earning Beats for Your Ears The Art of Accessing FREE Audio Music Legally</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-enriched-sound-experience-synthesizing-audio-waves-and-animating-them-for-premiere-pro-audience/"><u>Updated 2024 Approved Enriched Sound Experience Synthesizing Audio Waves and Animating Them for Premiere Pro Audience</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-the-audacity-advantage-effective-methods-for-quieting-audio-distractions-for-2024/"><u>Updated The Audacity Advantage Effective Methods for Quieting Audio Distractions for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-survive-and-thrive-top-8-zombie-game-experiences/"><u>[New] 2024 Approved Survive and Thrive Top 8 Zombie Game Experiences</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-pioneering-techniques-youtube-to-facebook-amplification/"><u>[Updated] 2024 Approved Pioneering Techniques YouTube to Facebook Amplification</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/a-guide-to-blurring-and-eliminating-photo-borders-for-2024/"><u>A Guide to Blurring and Eliminating Photo Borders for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/expert-analysis-why-the-apple-iphone-12-is-a-game-changer/"><u>Expert Analysis: Why the Apple iPhone 12 Is a Game-Changer</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-oppo-reno-9a-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Oppo Reno 9A</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-vivo-x-fold-2-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Vivo X Fold 2</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-league-of-legends-solutions-for-eliminating-black-screens/"><u>Mastering League of Legends: Solutions for Eliminating Black Screens</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-chatai-for-auto-tailoring-techniques/"><u>Navigating ChatAI for Auto Tailoring Techniques</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-premiere-pro-essentials-how-to-seamlessly-integrate-sound-with-visuals/"><u>New 2024 Approved Premiere Pro Essentials How to Seamlessly Integrate Sound with Visuals</u></a></li>
+<li><a href="https://review-topics.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-infinix-note-30i-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Infinix Note 30i | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/swipe-through-facebook-downtime-real-time-monitoring-tips/"><u>Swipe Through Facebook Downtime: Real-Time Monitoring Tips</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/ultimate-3-auditory-enhancement-devices-for-mp3-files/"><u>Ultimate 3 Auditory Enhancement Devices for MP3 Files</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/ultimate-data-archiving-system/"><u>Ultimate Data Archiving System</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-the-complete-process-of-audio-integration-into-quicktime-video-files/"><u>Updated 2024 Approved The Complete Process of Audio Integration Into QuickTime Video Files</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-how-to-quickly-fix-audio-importing-issues-in-adobe-premiere-pro-for-2024/"><u>Updated How to Quickly Fix Audio Importing Issues in Adobe Premiere Pro for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-audio-free-video-formats-mastering-the-art-of-silence-removal-in-popular-file-types-mp4-mkv-avi-mov-wmv/"><u>Updated In 2024, Audio-Free Video Formats Mastering the Art of Silence Removal in Popular File Types (MP4, MKV, AVI, MOV, WMV)</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-streamlined-methods-for-obtaining-pitched-ding-sound-files-online-the-top-10-list/"><u>Updated Streamlined Methods for Obtaining Pitched Ding Sound Files Online - The Top 10 List</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-streamlining-speaker-audio-in-microsoft-powerpoint-cross-platform-solutions-for-windows-and-mac/"><u>Updated Streamlining Speaker Audio in Microsoft PowerPoint Cross-Platform Solutions for Windows and Mac</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-unveiling-the-essence-of-sound-pairing-waveforms-with-dynamic-animations-for-adobe-premiere-pro-creatives-for-2024/"><u>Updated Unveiling the Essence of Sound Pairing Waveforms with Dynamic Animations for Adobe Premiere Pro Creatives for 2024</u></a></li>
 </ul></div>
 

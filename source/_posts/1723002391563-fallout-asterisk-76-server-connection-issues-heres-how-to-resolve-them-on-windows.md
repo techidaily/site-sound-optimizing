@@ -1,7 +1,7 @@
 ---
 title: Fallout Asterisk 76 Server Connection Issues? Here's How to Resolve Them on Windows
-date: 2024-09-28T23:57:38.523Z
-updated: 2024-10-02T23:14:09.570Z
+date: 2024-10-06T18:41:07.617Z
+updated: 2024-10-08T17:36:49.805Z
 tags:
   - win11
   - win10
@@ -45,13 +45,6 @@ Here is how to reset Winsock data:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap7-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4) Restart your computer.
 
 5) Launch Fallout 76 to see if it can be connected to the game server. If yes, then great! If the issue remains, please try**Fix 2** , below.
@@ -91,22 +84,15 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5af0deb80ba.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -117,10 +103,10 @@ Here is how to do it:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Restart your network
@@ -136,6 +122,13 @@ Here is how to restart your network:
 _modem_
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap3-5.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 _wireless router_
 
@@ -157,18 +150,18 @@ _wireless router_
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-566.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) When prompted for permission, click**Yes** to run Command Prompt.
 
  3) Type**the following command line** and press **Enter**  on your keyboard.**ipconfig /flushdns**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap9-5.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### To renew your IP
 
@@ -184,24 +177,18 @@ _wireless router_
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap11-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Type**the following command line** and press **Enter**  on your keyboard.
 
 **ipconfig /renew**  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap12-5.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5) Launch Fallout 76.
 
@@ -223,13 +210,6 @@ Here is how to switch the DNS server to Google Public DNS:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-611.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) In the pop-up window, click **Change adapter settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-612.png)
@@ -239,19 +219,33 @@ Here is how to switch the DNS server to Google Public DNS:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-613.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  5) Double-click **Internet Protocol Version 4(TCP/IPv4)**  to view its properties.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap21-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  6) Select **Obtain an IP address automatically** and **Use the following DNS server addresses** . For **the Preferred DNS server** , enter the Google Public DNS address: **8.8.8.8** ; **for the Alternative DNS server** , enter the Google Public DNS address: **8.8.4.4** . Then click **OK** to save the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-614.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 7) Restart your computer for the changes to take effect.
 
@@ -288,20 +282,18 @@ Here is how to switch the DNS server to Google Public DNS:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-top-10-video-editors-rising-from-vimeos-shadow/"><u>[Updated] 2024 Approved Top 10 Video Editors Rising From Vimeo's Shadow</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/decoding-output-impedance-what-it-means-for-your-circuit-designs/"><u>Decoding Output Impedance: What It Means for Your Circuit Designs</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-lava-yuva-2-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Lava Yuva 2?</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/in-2024-best-worth-websites-to-find-your-perfect-montage-soundtrack/"><u>In 2024, Best-Worth Websites to Find Your Perfect Montage Soundtrack</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-samsung-galaxy-a23-5g-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Samsung Galaxy A23 5G Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-fine-tuning-audacitys-decibel-settings-for-perfect-balance/"><u>New 2024 Approved Fine-Tuning Audacitys Decibel Settings for Perfect Balance</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-essential-audio-setups-for-personalized-mobile-soundscapes/"><u>New Essential Audio Setups for Personalized Mobile Soundscapes</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-how-to-find-the-best-spots-on-the-internet-to-download-high-quality-ding-sounds-2023-compilation/"><u>New How to Find the Best Spots on the Internet to Download High-Quality Ding Sounds (2023 Compilation)</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-approaches-to-silence-echoes-in-professional-audio-recording/"><u>New In 2024, Approaches to Silence Echoes in Professional Audio Recording</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-removing-background-music-and-sounds-from-new-avi-files/"><u>New Removing Background Music and Sounds From New AVI Files</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/nvidia-quadro-rtx-saft-8000-driver-for-windows-free-download-win-10-8-7-supported/"><u>NVIDIA Quadro RTX ˈsaɪft 8000 Driver for Windows - Free Download | Win 10, 8, 7 Supported</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-class-registration-failures-on-windows-10-quick-fixes/"><u>Troubleshooting Class Registration Failures on Windows 10: Quick Fixes</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/unparalleled-youtube-soundscapes-to-experience-for-2024/"><u>Unparalleled YouTube Soundscapes to Experience for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/unveiling-conspiracies-the-whistleblowers-expose-of-fb-data/"><u>Unveiling Conspiracies: The Whistleblower's Expose of FB Data</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-finding-the-best-synthetic-textures-to-replicate-a-paintbrushs-swipe-for-2024/"><u>Updated Finding the Best Synthetic Textures to Replicate a Paintbrushs Swipe for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-in-game-capture-kings/"><u>[New] 2024 Approved In-Game Capture Kings</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-push-boundaries-expert-advice-on-snapchat-zooms/"><u>[Updated] Push Boundaries Expert Advice on Snapchat Zooms</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-blueprinting-a-thrilling-film-flashpoint/"><u>2024 Approved Blueprinting a Thrilling Film Flashpoint</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-master-your-youtube-banner-essential-guide-for-creators/"><u>2024 Approved Master Your YouTube Banner Essential Guide for Creators</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/all-you-need-to-know-about-sonys-2024-lineup-key-developments-and-exciting-news/"><u>All You Need To Know About Sony's 2024 Lineup - Key Developments and Exciting News!</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/crafting-commanding-audio-deepening-your-vocal-expressiveness-with-filmora/"><u>Crafting Commanding Audio Deepening Your Vocal Expressiveness with Filmora</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-realme-narzo-60x-5g-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Realme Narzo 60x 5G to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/navigating-the-download-of-auditory-broadcasts-on-home-computers-for-2024/"><u>Navigating the Download of Auditory Broadcasts on Home Computers for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-10-premier-websites-to-access-high-quality-bgm-libraries/"><u>New 2024 Approved 10 Premier Websites to Access High-Quality BGM Libraries</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-from-podcast-to-mp3-unveiling-the-top-three-conversion-strategies-for-2024/"><u>New From Podcast to MP3 Unveiling the Top Three Conversion Strategies for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-chromebook-guide-integrating-audacity-setup-and-removal-tips/"><u>New In 2024, Chromebook Guide Integrating Audacity - Setup & Removal Tips</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-the-art-of-auditory-transformation-replacing-audio-in-videos-step-by-step/"><u>New In 2024, The Art of Auditory Transformation Replacing Audio in Videos Step by Step</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-pc-issues-fix-epoch-crashes-using-the-latest-techniques/"><u>Troubleshooting PC Issues: Fix 'Epoch Crashes' Using the Latest Techniques</u></a></li>
 </ul></div>
 
