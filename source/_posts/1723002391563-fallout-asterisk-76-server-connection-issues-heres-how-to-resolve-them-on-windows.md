@@ -1,7 +1,7 @@
 ---
 title: Fallout Asterisk 76 Server Connection Issues? Here's How to Resolve Them on Windows
-date: 2024-10-06T18:41:07.617Z
-updated: 2024-10-08T17:36:49.805Z
+date: 2024-10-11T23:24:40.021Z
+updated: 2024-10-14T21:21:24.627Z
 tags:
   - win11
   - win10
@@ -51,6 +51,13 @@ Here is how to reset Winsock data:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2:**Close bandwidth hogging applications**
 
  If you’re running other programs like OneDrive, Dropbox or iCloud that use lots of bandwidth, or your family is streaming videos on YouTube or Netflix, Fallout 76 may lose connection from its game server. So you should close these bandwidth hungry apps and services to see if it can fix the**Fallout 76 disconnected from server** issue.
@@ -83,16 +90,16 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5af0deb80ba.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -101,13 +108,6 @@ Here is how to do it:
 5) Run Fallout 76 again and see if the**Fallout 76 disconnected from server** is resolved. If yes, then congrats and enjoy the game! If the issue persists, please move on to**Fix 4** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Restart your network
 
@@ -124,10 +124,10 @@ _modem_
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap3-5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 _wireless router_
@@ -151,10 +151,10 @@ _wireless router_
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-566.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) When prompted for permission, click**Yes** to run Command Prompt.
@@ -169,6 +169,13 @@ _wireless router_
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-566.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) When prompted for permission, click**Yes** to run Command Prompt.
 
  3) Type**the following command line** and press **Enter**  on your keyboard.
@@ -176,13 +183,6 @@ _wireless router_
 **ipconfig /release**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap11-5.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Type**the following command line** and press **Enter**  on your keyboard.
 
@@ -210,6 +210,13 @@ Here is how to switch the DNS server to Google Public DNS:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-611.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) In the pop-up window, click **Change adapter settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-612.png)
@@ -218,22 +225,15 @@ Here is how to switch the DNS server to Google Public DNS:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-613.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  5) Double-click **Internet Protocol Version 4(TCP/IPv4)**  to view its properties.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap21-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  6) Select **Obtain an IP address automatically** and **Use the following DNS server addresses** . For **the Preferred DNS server** , enter the Google Public DNS address: **8.8.8.8** ; **for the Alternative DNS server** , enter the Google Public DNS address: **8.8.4.4** . Then click **OK** to save the changes.
@@ -241,10 +241,10 @@ Here is how to switch the DNS server to Google Public DNS:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-614.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 7) Restart your computer for the changes to take effect.
@@ -282,18 +282,16 @@ Here is how to switch the DNS server to Google Public DNS:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-in-game-capture-kings/"><u>[New] 2024 Approved In-Game Capture Kings</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-push-boundaries-expert-advice-on-snapchat-zooms/"><u>[Updated] Push Boundaries Expert Advice on Snapchat Zooms</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-blueprinting-a-thrilling-film-flashpoint/"><u>2024 Approved Blueprinting a Thrilling Film Flashpoint</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-master-your-youtube-banner-essential-guide-for-creators/"><u>2024 Approved Master Your YouTube Banner Essential Guide for Creators</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/all-you-need-to-know-about-sonys-2024-lineup-key-developments-and-exciting-news/"><u>All You Need To Know About Sony's 2024 Lineup - Key Developments and Exciting News!</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/crafting-commanding-audio-deepening-your-vocal-expressiveness-with-filmora/"><u>Crafting Commanding Audio Deepening Your Vocal Expressiveness with Filmora</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-realme-narzo-60x-5g-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Realme Narzo 60x 5G to Apple TV | Dr.fone</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/navigating-the-download-of-auditory-broadcasts-on-home-computers-for-2024/"><u>Navigating the Download of Auditory Broadcasts on Home Computers for 2024</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-10-premier-websites-to-access-high-quality-bgm-libraries/"><u>New 2024 Approved 10 Premier Websites to Access High-Quality BGM Libraries</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-from-podcast-to-mp3-unveiling-the-top-three-conversion-strategies-for-2024/"><u>New From Podcast to MP3 Unveiling the Top Three Conversion Strategies for 2024</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-chromebook-guide-integrating-audacity-setup-and-removal-tips/"><u>New In 2024, Chromebook Guide Integrating Audacity - Setup & Removal Tips</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-the-art-of-auditory-transformation-replacing-audio-in-videos-step-by-step/"><u>New In 2024, The Art of Auditory Transformation Replacing Audio in Videos Step by Step</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-pc-issues-fix-epoch-crashes-using-the-latest-techniques/"><u>Troubleshooting PC Issues: Fix 'Epoch Crashes' Using the Latest Techniques</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-charting-the-course-of-knowledge-best-history-yt-channels-for-students-for-2024/"><u>[New] Charting the Course of Knowledge Best History YT Channels for Students for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-explore-our-collection-50plus-unique-free-youtube-banner-ads/"><u>[Updated] Explore Our Collection 50+ Unique, Free YouTube Banner Ads</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/2024-approved-removing-background-music-and-sounds-from-new-avi-files/"><u>2024 Approved Removing Background Music and Sounds From New AVI Files</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-subtle-harmonies-on-desktop-systems/"><u>2024 Approved Subtle Harmonies on Desktop Systems</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/daily-life-in-korea-understanding-each-day/"><u>Daily Life in Korea: Understanding Each Day</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-nokia-g22-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Nokia G22 | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-nokia-c210-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Nokia C210 Phones with/without a PC</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-motorola-g24-power-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Life360 on Windows PC For Motorola G24 Power? | Dr.fone</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-show-audio-waveform-and-add-waveform-animation-in-final-cut-protuto/"><u>Updated 2024 Approved Show Audio Waveform and Add Waveform Animation in Final Cut ProTuto</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-how-to-normalize-audio-in-davinci-resolve-for-2024/"><u>Updated How To Normalize Audio In DaVinci Resolve for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-tutorial-on-audio-ducking-in-adobe-premiere-pro-on-mac/"><u>Updated In 2024, Tutorial on Audio Ducking in Adobe Premiere Pro on Mac</u></a></li>
 </ul></div>
 

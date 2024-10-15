@@ -1,7 +1,7 @@
 ---
 title: Overcoming Performance Hiccups in Urban Planning Simulator Skyline Edition - PC Guide
-date: 2024-10-02T19:47:52.783Z
-updated: 2024-10-08T19:12:28.295Z
+date: 2024-10-13T20:14:44.450Z
+updated: 2024-10-15T02:45:19.556Z
 tags:
   - win11
   - win10
@@ -44,13 +44,6 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
 3. [Delete specific files from the save folder](https://tools.techidaily.com/drivereasy/download/)
 4. [Underclock your clock speed](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
-  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Download the latest patch
 
  If you haven’t been updated your game for a while, you can update your game. The official keeps releasing new patches, the latest version may solve the crashing issue.
@@ -65,19 +58,34 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
 3. Under the**Advanced** tab, click**Settings** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2-4.jpg)
 4. Under**Virtual memory** , click**Change** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/3-2.jpg)
 5. Uncheck**Automatically manage paging file size for all drives** and make sure you’ve check**System managed size** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/4-2.jpg)
 6. Click**Set > OK** .
 7. Reboot your computer can check whether the crash will appear or not.
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Delete specific files from the save folder
 
@@ -93,22 +101,15 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
 5. Reboot your computer and check the issue is solved or not.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Underclock your clock speed
 
  The game is built with an old Unreal Engine version. This may be the reason for the random crashes. You can underclock your CPU speed by 100 MHz or 150 MHz to see whether it helps or not.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Bonus: Update your drivers
 
@@ -157,15 +158,16 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-visionaries-tools-revealed-premium-360cameras-of-2023/"><u>In 2024, Visionaries' Tools Revealed Premium 360°Cameras of 2023</u></a></li>
-<li><a href="https://windows11.techidaily.com/innovative-designs-and-advanced-tech-years-best-windows-laptops/"><u>Innovative Designs and Advanced Tech - Year's Best Windows Laptops</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/leading-edge-quick-frame-gatherer-5-for-2024/"><u>Leading Edge Quick Frame Gatherer #5 for 2024</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-ornithological-soundscapes-mp3-compilation/"><u>New In 2024, Ornithological Soundscapes MP3 Compilation</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/resolving-srt-export-woes-in-adobe-premiere/"><u>Resolving SRT Export Woes in Adobe Premiere</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-mac-video-editing-made-easy-avs-editor/"><u>Updated 2024 Approved Mac Video Editing Made Easy AVS Editor</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-enhancing-audio-quality-practical-methods-to-eradicate-low-frequency-rumble/"><u>Updated Enhancing Audio Quality Practical Methods to Eradicate Low-Frequency Rumble</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-best-places-to-download-and-listen-to-bird-songs-in-mp3-format/"><u>Updated In 2024, Best Places to Download and Listen to Bird Songs in MP3 Format</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-the-art-of-harmonizing-moving-images-and-sounds-a-2023-approach/"><u>Updated The Art of Harmonizing Moving Images and Sounds (A 2023 Approach)</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-ioss-leading-edge-the-top-5-emulators-for-psp-games-for-2024/"><u>[New] IOS's Leading Edge The Top 5 Emulators for PSP Games for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-ajeys-youtube-earnings-insight-2023-for-2024/"><u>[Updated] Ajey's YouTube Earnings Insight - 2023 for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-youtube-storytelling-made-simple-with-premiere-pro-tips/"><u>[Updated] YouTube Storytelling Made Simple - With Premiere Pro Tips</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/2024-approved-virtual-sound-crafting-platform-split-and-stitch-mp3s/"><u>2024 Approved Virtual Sound Crafting Platform Split & Stitch MP3s</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/download-the-latest-hevc-h265-codec-for-high-resolution-4k-and-8k-content/"><u>Download the Latest Hevc H.265 Codec for High-Resolution 4K and 8K Content</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/path-to-popularity-two-tactics-for-youtube-fame/"><u>Easy Path to Popularity Two Tactics for YouTube Fame</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/five-iphone-podcast-services-to-streaming/"><u>Five iPhone Podcast Services to Streaming</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-achieving-clarity-in-sound-strategies-to-dampen-unwanted-echoes/"><u>New 2024 Approved Achieving Clarity in Sound Strategies to Dampen Unwanted Echoes</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-efficient-cost-effective-steps-to-convert-voices-to-text-comprehensive-guide/"><u>New 2024 Approved Efficient, Cost-Effective Steps to Convert Voices to Text Comprehensive Guide</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-unleash-your-creative-potential-with-these-5-leading-audio-distortion-programs/"><u>New In 2024, Unleash Your Creative Potential with These 5 Leading Audio Distortion Programs</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-step-by-step-walkthrough-for-extracting-vocals-from-audio-files-using-adobe-audition/"><u>Updated Step-by-Step Walkthrough for Extracting Vocals From Audio Files Using Adobe Audition</u></a></li>
 </ul></div>
 

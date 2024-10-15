@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Fall Guys: Solutions for Game Crashes on Start-Up"
-date: 2024-10-05T17:24:40.852Z
-updated: 2024-10-08T17:11:31.730Z
+date: 2024-10-08T21:30:51.412Z
+updated: 2024-10-14T20:21:26.798Z
 tags:
   - win11
   - win10
@@ -31,6 +31,13 @@ _Hearts of Iron IV (HOI4)_ keeps crashing on your PC? Don’t worry. After readi
 8. **[Check for Windows Updates](https://tools.techidaily.com/drivereasy/download/)**
 9. **[Reinstall your game and/or Steam](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: **Check your computer specs**
 
  Many players are reporting that_Hearts of Iron 4_ crashes on their PC, and sometimes this problem can be caused by your hardware. Here are the minimum system requirements to run HOI4:
@@ -52,35 +59,29 @@ _Hearts of Iron IV (HOI4)_ keeps crashing on your PC? Don’t worry. After readi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-222.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)**  Check your **Operating System, Processor, Memory** and **DirectX Version** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-91.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **4)**  Click the **Display** tab, and then check your graphics card’s information.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-132.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If your computer meets the minimum requirements to run _HOI4_ , read on and check the fix, below.
-
-<!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: **Restart your computer**
 
@@ -178,21 +179,35 @@ To fix it, try verifying the integrity of your game files on Steam:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-321.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **3)**  Right-click **Hearts of Iron IV**  and select **Properties.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-133.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **4)**  Click the **LOCAL FILES**  tab, then click **VERIFY INTEGRITY OF GAME FILES** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-134.png)
 
  Wait for the scans to be complete, then relaunch_HOI4_ to see if your problem has been resolved. If not, try the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 7: Change your PC power settings
 
@@ -202,13 +217,6 @@ To fix it, try verifying the integrity of your game files on Steam:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-737.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)** Under **View by,** click **Large icons** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-720.png)
@@ -217,16 +225,16 @@ To fix it, try verifying the integrity of your game files on Steam:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-721.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **4)** Select **High Performance** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-738.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Restart your computer and your game to see if this worked for you. If your problem persists, try the fix below.
 
@@ -241,13 +249,6 @@ To fix it, try verifying the integrity of your game files on Steam:
 **2)**  Click **Check for updates,**  and then wait for Windows to download and install the updates automatically.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-537.png)
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **3)**  Restart your computer and your game after the update is complete.
 
@@ -271,19 +272,6 @@ To fix it, try verifying the integrity of your game files on Steam:
 **3)**  Right-click **Hearts of Iron IV**  and select **Uninstall.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-135.png)
-
-<!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **4)** Click **DELETE** .
 
@@ -317,18 +305,18 @@ Relaunch your game to test your issue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-364.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  **6)[Download](https://store.steampowered.com/about/)**  and install Steam.
 
 **7)** Right-click the **Steam icon** and select **Open file location** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-365.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **8)**  Move the backup **steamapps**  folder you create before to your current directory location.
 
@@ -359,19 +347,19 @@ Relaunch your game to test your issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/updated-ableton-live-mastering-volume-dampening-for-2024/"><u>[Updated] Ableton Live Mastering Volume Dampening for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-stop-the-stop-start-prevent-freezing-on-photo-booth/"><u>[Updated] Stop the Stop-Start Prevent Freezing on Photo Booth</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/2024-approved-perfected-acoustic-parameters-for-electronics-optimization/"><u>2024 Approved Perfected Acoustic Parameters for Electronics Optimization</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/achieve-peak-collaboration-a-complete-guide-to-slack-and-filmora-integration/"><u>Achieve Peak Collaboration A Complete Guide to Slack & Filmora Integration</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-guide-unveiling-the-power-and-versatility-of-the-samsung-galaxy-tab-s5e/"><u>Comprehensive Guide: Unveiling the Power and Versatility of the Samsung Galaxy Tab S5e</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/eliminating-echoes-and-interference-ai-strategies-for-pristine-sound-quality-for-2024/"><u>Eliminating Echoes and Interference AI Strategies for Pristine Sound Quality for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-vivo-s18-pro-phone-without-password-by-drfone-android/"><u>How To Unlock Vivo S18 Pro Phone Without Password?</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/in-2024-enhancing-visual-storytelling-with-background-tunes-a-filmora-approach/"><u>In 2024, Enhancing Visual Storytelling with Background Tunes A Filmora Approach</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/in-2024-global-top-rated-mp3-editing-applications/"><u>In 2024, Global Top-Rated MP3 Editing Applications</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On OnePlus 11 5G | Dr.fone</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-best-10-websites-to-download-montage-music/"><u>New Best 10 Websites to Download Montage Music</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-from-silence-to-symphony-a-practical-approach-to-changing-video-audio-part-1/"><u>New From Silence to Symphony A Practical Approach to Changing Video Audio (Part 1)</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/perfect-multitasking-media-setup-tips-for-using-pip-on-netflix-for-2024/"><u>Perfect Multitasking Media Setup Tips for Using PIP on Netflix for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/review-the-ns-43df71-0na19-amazons-insignia-fire-tv-edition-with-ultra-hd-and-alexa-voice-control-for-the-savvy-streamer/"><u>Review: The NS-43DF71 0NA19, Amazon's Insignia Fire TV Edition with Ultra HD and Alexa Voice Control for the Savvy Streamer</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-catalog-films-for-streamlined-playback/"><u>[Updated] Catalog Films for Streamlined Playback</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-a-closer-look-at-asuss-proart-pa-329q-an-in-depth-review-of-its-professional-standards/"><u>2024 Approved A Closer Look at Asus's ProArt PA 329Q – An In-Depth Review of Its Professional Standards</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/2024-approved-guide-to-instantly-diminish-audio-volume-gently/"><u>2024 Approved Guide to Instantly Diminish Audio Volume Gently</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/a-comedians-guide-to-the-best-free-royalty-free-background-music-sources/"><u>A Comedians Guide to the Best Free, Royalty-Free Background Music Sources</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/cities-skylines-breakdown-where-every-block-fuels-your-city-planning-addiction/"><u>Cities: Skylines Breakdown – Where Every Block Fuels Your City-Planning Addiction</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/dealing-with-msiexecexe-not-found-effective-strategies-to-correct-missing-msi-dll-errors/"><u>Dealing with 'msiexec.exe Not Found': Effective Strategies to Correct Missing MSI DLL Errors</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/efficient-meeting-management-with-slack-and-filmora-tools/"><u>Efficient Meeting Management with Slack & Filmora Tools</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-fix-apple-iphone-15-pro-stuck-on-data-transfer-verified-solution-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Fix Apple iPhone 15 Pro Stuck on Data Transfer Verified Solution! | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-media-mix-ups-how-to-restore-facebook-video-sound-on-pc-tips-for-2aster-2024/"><u>Mastering Media Mix-Ups: How to Restore Facebook Video Sound on PC (Tips for 2Aster 2024)</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/mastering-the-art-of-posting-youtube-videos-with-screen-recording-techniques/"><u>Mastering the Art of Posting YouTube Videos with Screen Recording Techniques!</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-5-popular-tools-to-help-you-distort-audio/"><u>New 2024 Approved 5 Popular Tools to Help You Distort Audio</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/speedy-silencing-eradicating-static-and-white-noise-from-audio-tracks-for-2024/"><u>Speedy Silencing Eradicating Static and White Noise From Audio Tracks for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/turn-off-autoplay-in-your-itunes-library-quick-tips-and-tricks/"><u>Turn Off AutoPlay in Your iTunes Library: Quick Tips & Tricks</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-crafting-silent-elegance-the-art-of-audio-ducking-in-video-editing-with-adobe-premiere-pro-on-mac/"><u>Updated 2024 Approved Crafting Silent Elegance The Art of Audio Ducking in Video Editing with Adobe Premiere Pro on Mac</u></a></li>
 </ul></div>
 
