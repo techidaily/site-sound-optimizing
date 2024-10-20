@@ -1,7 +1,7 @@
 ---
 title: Overcoming Performance Hiccups in Urban Planning Simulator Skyline Edition - PC Guide
-date: 2024-10-13T20:14:44.450Z
-updated: 2024-10-15T02:45:19.556Z
+date: 2024-10-18T16:01:21.867Z
+updated: 2024-10-20T16:09:02.818Z
 tags:
   - win11
   - win10
@@ -44,6 +44,13 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
 3. [Delete specific files from the save folder](https://tools.techidaily.com/drivereasy/download/)
 4. [Underclock your clock speed](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Download the latest patch
 
  If you haven’t been updated your game for a while, you can update your game. The official keeps releasing new patches, the latest version may solve the crashing issue.
@@ -58,34 +65,28 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
 3. Under the**Advanced** tab, click**Settings** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2-4.jpg)
 4. Under**Virtual memory** , click**Change** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/3-2.jpg)
 5. Uncheck**Automatically manage paging file size for all drives** and make sure you’ve check**System managed size** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/4-2.jpg)
 6. Click**Set > OK** .
-7. Reboot your computer can check whether the crash will appear or not.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+7. Reboot your computer can check whether the crash will appear or not.
 
 ### Fix 3: Delete specific files from the save folder
 
@@ -98,14 +99,14 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/browse-2.jpg)
 4. Navigate to the save folder, delete Data(999).sav & Data(999).bak.
 
-5. Reboot your computer and check the issue is solved or not.
-
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+5. Reboot your computer and check the issue is solved or not.
 
 ### Fix 4: Underclock your clock speed
 
@@ -158,16 +159,18 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-ioss-leading-edge-the-top-5-emulators-for-psp-games-for-2024/"><u>[New] IOS's Leading Edge The Top 5 Emulators for PSP Games for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-ajeys-youtube-earnings-insight-2023-for-2024/"><u>[Updated] Ajey's YouTube Earnings Insight - 2023 for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-youtube-storytelling-made-simple-with-premiere-pro-tips/"><u>[Updated] YouTube Storytelling Made Simple - With Premiere Pro Tips</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/2024-approved-virtual-sound-crafting-platform-split-and-stitch-mp3s/"><u>2024 Approved Virtual Sound Crafting Platform Split & Stitch MP3s</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/download-the-latest-hevc-h265-codec-for-high-resolution-4k-and-8k-content/"><u>Download the Latest Hevc H.265 Codec for High-Resolution 4K and 8K Content</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/path-to-popularity-two-tactics-for-youtube-fame/"><u>Easy Path to Popularity Two Tactics for YouTube Fame</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/five-iphone-podcast-services-to-streaming/"><u>Five iPhone Podcast Services to Streaming</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-achieving-clarity-in-sound-strategies-to-dampen-unwanted-echoes/"><u>New 2024 Approved Achieving Clarity in Sound Strategies to Dampen Unwanted Echoes</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-efficient-cost-effective-steps-to-convert-voices-to-text-comprehensive-guide/"><u>New 2024 Approved Efficient, Cost-Effective Steps to Convert Voices to Text Comprehensive Guide</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-unleash-your-creative-potential-with-these-5-leading-audio-distortion-programs/"><u>New In 2024, Unleash Your Creative Potential with These 5 Leading Audio Distortion Programs</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-step-by-step-walkthrough-for-extracting-vocals-from-audio-files-using-adobe-audition/"><u>Updated Step-by-Step Walkthrough for Extracting Vocals From Audio Files Using Adobe Audition</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-record-pc-sounds-effortlessly-with-x-recorder/"><u>[New] 2024 Approved Record PC Sounds Effortlessly with X-Recorder</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-tiktok-bgs-exploring-affordable-eye-catching-visuals/"><u>[New] 2024 Approved TikTok BGs Exploring Affordable, Eye-Catching Visuals</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-in-depth-look-at-the-gecata-game-capture-tool/"><u>[Updated] In 2024, In-Depth Look at the Gecata Game Capture Tool</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-original-design-potential-utilize-free-logo-templates-and-customization-tools/"><u>2024 Approved Original Design Potential Utilize FREE Logo Templates & Customization Tools</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/discover-the-oculer-quest-2-premium-vr-gaming-made-accessible-and-affordable/"><u>Discover the Oculer Quest 2: Premium VR Gaming Made Accessible and Affordable</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-the-hp-universal-printer-software-on-windows-easy-install-guide/"><u>Download the HP Universal Printer Software on Windows – Easy Install Guide</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-expert-advice-how-to-hush-tiktoks-auditory-distractions-effortlessly/"><u>New Expert Advice How to Hush TikToks Auditory Distractions Effortlessly</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-essential-insights-into-image-stock-sourcing-pexels-uncovered/"><u>New In 2024, Essential Insights Into Image Stock Sourcing Pexels Uncovered</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-the-no-matches-found-dilemma-tips-and-tricks-for-successful-bumble-swiping/"><u>Solving the 'No Matches Found' Dilemma: Tips and Tricks for Successful Bumble Swiping</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/ultimate-guide-7-premium-dvd-extraction-programs-compatible-with-windows-and-mac-including-freeware-selections/"><u>Ultimate Guide: 7 Premium DVD Extraction Programs Compatible with Windows and Mac, Including Freeware Selections</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-melody-matters-top-ranked-linux-auditory-software-evaluating-cost-and-quality/"><u>Updated 2024 Approved Melody Matters Top-Ranked Linux Auditory Software - Evaluating Cost and Quality</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-pioneering-the-silent-echo-techniques-and-tools-for-gradual-audio-fading-released/"><u>Updated 2024 Approved Pioneering the Silent Echo Techniques and Tools for Gradual Audio Fading Released</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-unraveling-the-process-of-stripping-beat-tracks-from-online-compositions/"><u>Updated In 2024, Unraveling the Process of Stripping Beat Tracks From Online Compositions</u></a></li>
 </ul></div>
 

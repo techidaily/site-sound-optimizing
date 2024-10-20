@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Soothing the Digital Soul The Leading Web Sites for Inner Peace
-date: 2024-10-11T19:20:14.527Z
-updated: 2024-10-14T17:33:42.213Z
+date: 2024-10-18T16:56:40.368Z
+updated: 2024-10-20T16:47:31.731Z
 tags: 
   - audio editing software
   - audio editing
@@ -28,6 +28,13 @@ The name itself suggests that Calm can help you achieve your goals. There are tw
 
 In addition to the music, the nature scenes depicted, such as misty riverside scenes and rays of sunlight streaming through clouds, add an extra touch. You can also download the Calm iPhone app for free but it will have limited features.
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2. Do Nothing For 2 Minutes
 
 ![do-nothing-for-2-minutes-poster](https://images.wondershare.com/filmora/article-images/do-nothing-for-2-minutes-poster.png)
@@ -55,10 +62,10 @@ Relax with this free color noise generator. Using an audio spectrum of low to hi
 Trying GetRelaxed might be the answer you're looking for if sitting still for 2 minutes doesn't appeal to you. Sit back, relax, and enjoy the beautiful images in the slideshow (the images change every three seconds). Choose from several soundscapes to complete the experience. A total of 15 soundscapes are available. They last between two and four minutes. You might be surprised by how easy it is to get back in touch with nature.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
-  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 6. Naturesoundsfor.me
@@ -80,91 +87,13 @@ An easy-to-use website that lets you mix ambient noises to your liking. A specia
 Various background noises are produced on this website, including coffee shop chatter, low fan sound, white noise, and more. Depending on your mood, you can adjust the volume of the sounds. You can also change the color of the web page depending on the mood of the sound you have selected.
 
 For those who love multitasking, there's also a Text Editor function so they can write without distractions. You can even save your work. Additionally, Noisli offers an app (iOS) so you can stay calm no matter where you are.
-
-### 9. Focus@Will
-
-![focus-will-poster](https://images.wondershare.com/filmora/article-images/focus-will-poster.png)
-
-Focus@Will is awesome! When you read, write, or study while listening to phase-sequenced instrumental music, your attention span is increased by 400 percent. In addition, it extends the standard productivity cycle from 20 to 30 minutes to approximately 100 minutes.
-
-It engages your background attention such that you don't notice it interfering with your conscious focus on the task you're working on (Alpha Chill works for me). As far as the costs are concerned, there are three account types to choose from: Guest, Personal, and Pro.
-
-### 10. Raining.fm
-
-![raining-fm-poster](https://images.wondershare.com/filmora/article-images/raining-fm-poster.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-Occasionally, all we need to soothe ourselves is a little rain. Listening to rain sounds on Raining.fm helps you relax. There is no way to tell that this is looped audio because it is so well done. A quick break reminder, an image slideshow, and a timer to silence the sound are also included.
-
-When it's time to stretch your legs and take a quick break, the reminder will let you know. Both iOS and Android users can download the Raining.fm app.
-
-## **Final Verdict**
-
-If you are feeling stressed due to your daily hectic routine or facing focus issues, all you may need is a little escape. This is our list of the 10 best calming websites that you can find on the internet. These websites will only take a few minutes and help you to get control over your nerves.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For Win 7 or later (64-bit)
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.12 or later
-
-The name itself suggests that Calm can help you achieve your goals. There are two ways to get there: guided calm or timer. A session can last anywhere from two to twenty minutes. You will hear a voice guide you on how to relax tense muscles and the mind when you choose the guided calm option. Alternatively, you can use the "timer" button to conduct a quick session without narration.
-
-In addition to the music, the nature scenes depicted, such as misty riverside scenes and rays of sunlight streaming through clouds, add an extra touch. You can also download the Calm iPhone app for free but it will have limited features.
-
-### 2. Do Nothing For 2 Minutes
-
-![do-nothing-for-2-minutes-poster](https://images.wondershare.com/filmora/article-images/do-nothing-for-2-minutes-poster.png)
-
-Its title speaks for itself. There won't be any other activity for two minutes except listening to the waves. The purpose of this website is to test your ability to resist doing nothing. If you touch your keyboard or mouse, you will get a failure message, and the clock will reset again if you do. The majority of people fail several times before they complete the task. It is quite fun and challenging at the same time. While you focus on completing the challenge, you will forget all the worries on your mind.
-
-Taking a quick break of 2 minutes can sometimes be all you need to reset your mind. It's also available as an app (for iOS).
-
-### 3. Multiplayer Piano
-
-![multiplayer-piano-poster](https://images.wondershare.com/filmora/article-images/multiplayer-piano-poster.png)
-
-You can play multiplayer piano online. In the end, everyone plays simultaneously, and it's crazy but fun. Both your mouse and keyboard can be used. Also available on the site are the possibilities of starting a chat with some random 'composers' or playing by yourself. If you don't want to play in multiplayer mode, you can switch to solo mode. You can also record the piano that you play and then listen to it. Overall this website is quite fun.
-
-### 4. Simply Noise
-
-![simply-noise-poster](https://images.wondershare.com/filmora/article-images/simply-noise-poster.png)
-
-Relax with this free color noise generator. Using an audio spectrum of low to high frequencies, the site offers a variety of colored noises. Each color represents a different sound and calming effect, with white being the softest and pink being the loudest. Keeping your workspace white prevents distractions, pink sounds like a calming waterfall, and brown is good for sleeping and relieving migraines. You can control the volume using either the volume knob or the oscillation button, automatically changing the volume.
-
-### 5. Get Relaxed
-
-![get-relaxed-poster](https://images.wondershare.com/filmora/article-images/get-relaxed-poster.png)
-
-Trying GetRelaxed might be the answer you're looking for if sitting still for 2 minutes doesn't appeal to you. Sit back, relax, and enjoy the beautiful images in the slideshow (the images change every three seconds). Choose from several soundscapes to complete the experience. A total of 15 soundscapes are available. They last between two and four minutes. You might be surprised by how easy it is to get back in touch with nature.
-
-### 6. Naturesoundsfor.me
-
-![naturesoundsfor-me-poster](https://images.wondershare.com/filmora/article-images/naturesoundsfor-me-poster.png)
-
-There are more than four kinds of sounds to choose from with naturesoundsfor.me: tribal drums, animals, fireworks, heartbeats, etc. Using a combination of different sounds like beach, child, and water, etc. You can easily create sounds according to your preferences. Create your own! Listening to the sound of the waves gently crashing on the shore as children giggle in the background is soothing yet lively. It can also be downloaded and played when you're offline.
-
-### 7. A Soft Murmur
-
-![a-soft-murmur-poster](https://images.wondershare.com/filmora/article-images/a-soft-murmur-poster.png)
-
-An easy-to-use website that lets you mix ambient noises to your liking. A special mix can include the soothing sounds of rain, singing bowls, and my favorite, the sound of a fireplace. The ambient noises can be played simultaneously, or you can pick and choose as you need. Focusing on the task at hand will be easier with the sounds. Alternatively, you can share your mix on Facebook, Twitter, or Instagram if you'd like.
-
-### 8. Noisli
-
-![XXXXXXXXXXXXX](https://picsum.photos/960/420)
-
-Various background noises are produced on this website, including coffee shop chatter, low fan sound, white noise, and more. Depending on your mood, you can adjust the volume of the sounds. You can also change the color of the web page depending on the mood of the sound you have selected.
-
-For those who love multitasking, there's also a Text Editor function so they can write without distractions. You can even save your work. Additionally, Noisli offers an app (iOS) so you can stay calm no matter where you are.
 
 ### 9. Focus@Will
 
@@ -212,13 +141,6 @@ Taking a quick break of 2 minutes can sometimes be all you need to reset your mi
 
 You can play multiplayer piano online. In the end, everyone plays simultaneously, and it's crazy but fun. Both your mouse and keyboard can be used. Also available on the site are the possibilities of starting a chat with some random 'composers' or playing by yourself. If you don't want to play in multiplayer mode, you can switch to solo mode. You can also record the piano that you play and then listen to it. Overall this website is quite fun.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 4. Simply Noise
 
 ![simply-noise-poster](https://images.wondershare.com/filmora/article-images/simply-noise-poster.png)
@@ -234,13 +156,6 @@ Trying GetRelaxed might be the answer you're looking for if sitting still for 2 
 ### 6. Naturesoundsfor.me
 
 ![naturesoundsfor-me-poster](https://images.wondershare.com/filmora/article-images/naturesoundsfor-me-poster.png)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
-  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 There are more than four kinds of sounds to choose from with naturesoundsfor.me: tribal drums, animals, fireworks, heartbeats, etc. Using a combination of different sounds like beach, child, and water, etc. You can easily create sounds according to your preferences. Create your own! Listening to the sound of the waves gently crashing on the shore as children giggle in the background is soothing yet lively. It can also be downloaded and played when you're offline.
 
@@ -321,6 +236,91 @@ Trying GetRelaxed might be the answer you're looking for if sitting still for 2 
 ![naturesoundsfor-me-poster](https://images.wondershare.com/filmora/article-images/naturesoundsfor-me-poster.png)
 
 There are more than four kinds of sounds to choose from with naturesoundsfor.me: tribal drums, animals, fireworks, heartbeats, etc. Using a combination of different sounds like beach, child, and water, etc. You can easily create sounds according to your preferences. Create your own! Listening to the sound of the waves gently crashing on the shore as children giggle in the background is soothing yet lively. It can also be downloaded and played when you're offline.
+
+### 7. A Soft Murmur
+
+![a-soft-murmur-poster](https://images.wondershare.com/filmora/article-images/a-soft-murmur-poster.png)
+
+An easy-to-use website that lets you mix ambient noises to your liking. A special mix can include the soothing sounds of rain, singing bowls, and my favorite, the sound of a fireplace. The ambient noises can be played simultaneously, or you can pick and choose as you need. Focusing on the task at hand will be easier with the sounds. Alternatively, you can share your mix on Facebook, Twitter, or Instagram if you'd like.
+
+### 8. Noisli
+
+![XXXXXXXXXXXXX](https://picsum.photos/960/420)
+
+Various background noises are produced on this website, including coffee shop chatter, low fan sound, white noise, and more. Depending on your mood, you can adjust the volume of the sounds. You can also change the color of the web page depending on the mood of the sound you have selected.
+
+For those who love multitasking, there's also a Text Editor function so they can write without distractions. You can even save your work. Additionally, Noisli offers an app (iOS) so you can stay calm no matter where you are.
+
+### 9. Focus@Will
+
+![focus-will-poster](https://images.wondershare.com/filmora/article-images/focus-will-poster.png)
+
+Focus@Will is awesome! When you read, write, or study while listening to phase-sequenced instrumental music, your attention span is increased by 400 percent. In addition, it extends the standard productivity cycle from 20 to 30 minutes to approximately 100 minutes.
+
+It engages your background attention such that you don't notice it interfering with your conscious focus on the task you're working on (Alpha Chill works for me). As far as the costs are concerned, there are three account types to choose from: Guest, Personal, and Pro.
+
+### 10. Raining.fm
+
+![raining-fm-poster](https://images.wondershare.com/filmora/article-images/raining-fm-poster.png)
+
+Occasionally, all we need to soothe ourselves is a little rain. Listening to rain sounds on Raining.fm helps you relax. There is no way to tell that this is looped audio because it is so well done. A quick break reminder, an image slideshow, and a timer to silence the sound are also included.
+
+When it's time to stretch your legs and take a quick break, the reminder will let you know. Both iOS and Android users can download the Raining.fm app.
+
+## **Final Verdict**
+
+If you are feeling stressed due to your daily hectic routine or facing focus issues, all you may need is a little escape. This is our list of the 10 best calming websites that you can find on the internet. These websites will only take a few minutes and help you to get control over your nerves.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For Win 7 or later (64-bit)
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+The name itself suggests that Calm can help you achieve your goals. There are two ways to get there: guided calm or timer. A session can last anywhere from two to twenty minutes. You will hear a voice guide you on how to relax tense muscles and the mind when you choose the guided calm option. Alternatively, you can use the "timer" button to conduct a quick session without narration.
+
+In addition to the music, the nature scenes depicted, such as misty riverside scenes and rays of sunlight streaming through clouds, add an extra touch. You can also download the Calm iPhone app for free but it will have limited features.
+
+### 2. Do Nothing For 2 Minutes
+
+![do-nothing-for-2-minutes-poster](https://images.wondershare.com/filmora/article-images/do-nothing-for-2-minutes-poster.png)
+
+Its title speaks for itself. There won't be any other activity for two minutes except listening to the waves. The purpose of this website is to test your ability to resist doing nothing. If you touch your keyboard or mouse, you will get a failure message, and the clock will reset again if you do. The majority of people fail several times before they complete the task. It is quite fun and challenging at the same time. While you focus on completing the challenge, you will forget all the worries on your mind.
+
+Taking a quick break of 2 minutes can sometimes be all you need to reset your mind. It's also available as an app (for iOS).
+
+### 3. Multiplayer Piano
+
+![multiplayer-piano-poster](https://images.wondershare.com/filmora/article-images/multiplayer-piano-poster.png)
+
+You can play multiplayer piano online. In the end, everyone plays simultaneously, and it's crazy but fun. Both your mouse and keyboard can be used. Also available on the site are the possibilities of starting a chat with some random 'composers' or playing by yourself. If you don't want to play in multiplayer mode, you can switch to solo mode. You can also record the piano that you play and then listen to it. Overall this website is quite fun.
+
+### 4. Simply Noise
+
+![simply-noise-poster](https://images.wondershare.com/filmora/article-images/simply-noise-poster.png)
+
+Relax with this free color noise generator. Using an audio spectrum of low to high frequencies, the site offers a variety of colored noises. Each color represents a different sound and calming effect, with white being the softest and pink being the loudest. Keeping your workspace white prevents distractions, pink sounds like a calming waterfall, and brown is good for sleeping and relieving migraines. You can control the volume using either the volume knob or the oscillation button, automatically changing the volume.
+
+### 5. Get Relaxed
+
+![get-relaxed-poster](https://images.wondershare.com/filmora/article-images/get-relaxed-poster.png)
+
+Trying GetRelaxed might be the answer you're looking for if sitting still for 2 minutes doesn't appeal to you. Sit back, relax, and enjoy the beautiful images in the slideshow (the images change every three seconds). Choose from several soundscapes to complete the experience. A total of 15 soundscapes are available. They last between two and four minutes. You might be surprised by how easy it is to get back in touch with nature.
+
+### 6. Naturesoundsfor.me
+
+![naturesoundsfor-me-poster](https://images.wondershare.com/filmora/article-images/naturesoundsfor-me-poster.png)
+
+There are more than four kinds of sounds to choose from with naturesoundsfor.me: tribal drums, animals, fireworks, heartbeats, etc. Using a combination of different sounds like beach, child, and water, etc. You can easily create sounds according to your preferences. Create your own! Listening to the sound of the waves gently crashing on the shore as children giggle in the background is soothing yet lively. It can also be downloaded and played when you're offline.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 7. A Soft Murmur
 
@@ -412,6 +412,13 @@ The backward of using Podcast manager apps is that it can only save your Podcast
 
 To cope with this problem, we provide third-party apps to directly download the Podcast to your computer from the manager apps.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 2- Download Podcasts From Popular Podcast Manager Apps Using Third-Party Tools
 
 To download Podcasts in unprotected formats from Spotify, you need a third-party tool to alter Spotify .ogg audio. The most helpful and commonly used tool is TuneFab Spotify Music Converter. It is free for 30 days, and you can purchase it after discovering it is compatible with you!
@@ -463,13 +470,6 @@ Step3 Open [SSYouTube](https://ssyoutube.com/en33/youtube-video-downloader) in y
 ![paste the copied link](https://images.wondershare.com/filmora/article-images/2023/04/download-podcast-from-youtube-to-computer-2.jpg)
 
 Step4 Download the Podcast video according to your preferred quality and save it to your computer.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Method 4- Download the Podcast With an Audio Recorder
 
@@ -557,6 +557,13 @@ Step6 Then click on the **Export** button at the top middle side to export it on
 
 It's all done, and you've successfully exported the podcast to your computer in a few steps!
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## FAQs
 
 ### When you save a Podcast, where does it go?
@@ -578,13 +585,6 @@ Ensure you follow all the steps mentioned above smoothly. Now, enjoy your Podcas
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Modern Techniques for Shrinking Digital File Dimensions
 
@@ -618,11 +618,59 @@ Ensure you follow all the steps mentioned above smoothly. Now, enjoy your Podcas
 
 ![how to lower volume](https://images.wondershare.com/images/multimedia/video-editor/change-volume.jpg)
 
+### 3 Save the files
+
+ Then hit the “Create” icon to save the edited files. You can save your files to different formats such as WMV, MOV, AVI, MKV, MP4 or save to play on different devices such as iPhone, iPad, PSP and Zune. To do this, switch to the related tab, enter the preset settings and press "Create" to begin the export. The exported file should have the same video, but with louder audio. You can also burn the files to DVD or directly upload to YouTube if you choose.
+
+![software to lower volume](https://images.wondershare.com/images/multimedia/video-editor/apple-device.jpg)
+
+ See, it's so easy to lower the volume of the media files. Besides this function, this powerful video editing tool also supports trimming, cropping, adding video effects and loads more. Now just download it and explore more features of it!
+
+ Here is a video tutorial for you:
+
+ About Filmora video editor:
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
+
+Liza Brown
+
+Liza Brown is a writer and a lover of all things video.
+
+Follow @Liza Brown
+
+##### Liza Brown
+
+ Mar 27, 2024• Proven solutions
+
+ Sometimes the audio of the media files is too loud no matter how much you lower the volume on your speakers. Sometimes it’s because the video source itself was too quiet, or it was encoded at a loud volume. Although these media files come in many different formats, the method for lower the volume is relatively simple and universal. Using a video editing program like [Wondershare Filmora (originally Wondershare Video Editor)](https://tools.techidaily.com/wondershare/filmora/download/), you will simply take advantage of the audio editor within the program to lower the volume. Here is a step-by-step guide to tell you how to lower volume in the media files.
+
+ Try this free software to lower the volume in the media files
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+## Lower Volume of the Media Files Step by Step Guide
+
+### 1 Add media files you want to lower volume
+
+ After downloading and running this program, click “Import” to begin importing the files. This process many take several seconds depending on the size of the media file. Then the file will appear in the “User’s Album” of program. Drag the imported file to the Timeline.
+
+![lower volume](https://images.wondershare.com/images/multimedia/video-editor/video-editor-main-interface.jpg)
+
+### 2 Lower volume of the media files
+
+ Double click the target file and the "Editing" Window will appear. Then switch to the "Audio" column, reduce volume by dragging the volume level slider left. Don't worry if you don't get the sound right the first time. You can reset the volume by clicking the "Reset" button. After adjusting the volume, click the play icon to listen to the effect.
+
+ Tip: There are more functions in this column, such as Fade in/fade out, fine tune the pitch, etc. If you want to add more effects, go to “Video” column to rotate, adjust contrast, saturation, brightness, nue and speed of the video.
+
+![how to lower volume](https://images.wondershare.com/images/multimedia/video-editor/change-volume.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3 Save the files
@@ -705,90 +753,48 @@ Follow @Liza Brown
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+## Lower Volume of the Media Files Step by Step Guide
+
+### 1 Add media files you want to lower volume
+
+ After downloading and running this program, click “Import” to begin importing the files. This process many take several seconds depending on the size of the media file. Then the file will appear in the “User’s Album” of program. Drag the imported file to the Timeline.
+
+![lower volume](https://images.wondershare.com/images/multimedia/video-editor/video-editor-main-interface.jpg)
+
+### 2 Lower volume of the media files
+
+ Double click the target file and the "Editing" Window will appear. Then switch to the "Audio" column, reduce volume by dragging the volume level slider left. Don't worry if you don't get the sound right the first time. You can reset the volume by clicking the "Reset" button. After adjusting the volume, click the play icon to listen to the effect.
+
+ Tip: There are more functions in this column, such as Fade in/fade out, fine tune the pitch, etc. If you want to add more effects, go to “Video” column to rotate, adjust contrast, saturation, brightness, nue and speed of the video.
+
+![how to lower volume](https://images.wondershare.com/images/multimedia/video-editor/change-volume.jpg)
+
+### 3 Save the files
+
+ Then hit the “Create” icon to save the edited files. You can save your files to different formats such as WMV, MOV, AVI, MKV, MP4 or save to play on different devices such as iPhone, iPad, PSP and Zune. To do this, switch to the related tab, enter the preset settings and press "Create" to begin the export. The exported file should have the same video, but with louder audio. You can also burn the files to DVD or directly upload to YouTube if you choose.
+
+![software to lower volume](https://images.wondershare.com/images/multimedia/video-editor/apple-device.jpg)
+
+ See, it's so easy to lower the volume of the media files. Besides this function, this powerful video editing tool also supports trimming, cropping, adding video effects and loads more. Now just download it and explore more features of it!
+
+ Here is a video tutorial for you:
+
+ About Filmora video editor:
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-## Lower Volume of the Media Files Step by Step Guide
-
-### 1 Add media files you want to lower volume
-
- After downloading and running this program, click “Import” to begin importing the files. This process many take several seconds depending on the size of the media file. Then the file will appear in the “User’s Album” of program. Drag the imported file to the Timeline.
-
-![lower volume](https://images.wondershare.com/images/multimedia/video-editor/video-editor-main-interface.jpg)
-
-### 2 Lower volume of the media files
-
- Double click the target file and the "Editing" Window will appear. Then switch to the "Audio" column, reduce volume by dragging the volume level slider left. Don't worry if you don't get the sound right the first time. You can reset the volume by clicking the "Reset" button. After adjusting the volume, click the play icon to listen to the effect.
-
- Tip: There are more functions in this column, such as Fade in/fade out, fine tune the pitch, etc. If you want to add more effects, go to “Video” column to rotate, adjust contrast, saturation, brightness, nue and speed of the video.
-
-![how to lower volume](https://images.wondershare.com/images/multimedia/video-editor/change-volume.jpg)
-
-### 3 Save the files
-
- Then hit the “Create” icon to save the edited files. You can save your files to different formats such as WMV, MOV, AVI, MKV, MP4 or save to play on different devices such as iPhone, iPad, PSP and Zune. To do this, switch to the related tab, enter the preset settings and press "Create" to begin the export. The exported file should have the same video, but with louder audio. You can also burn the files to DVD or directly upload to YouTube if you choose.
-
-![software to lower volume](https://images.wondershare.com/images/multimedia/video-editor/apple-device.jpg)
-
- See, it's so easy to lower the volume of the media files. Besides this function, this powerful video editing tool also supports trimming, cropping, adding video effects and loads more. Now just download it and explore more features of it!
-
- Here is a video tutorial for you:
-
- About Filmora video editor:
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
-
-Liza Brown
-
-Liza Brown is a writer and a lover of all things video.
-
-Follow @Liza Brown
-
-##### Liza Brown
-
- Mar 27, 2024• Proven solutions
-
- Sometimes the audio of the media files is too loud no matter how much you lower the volume on your speakers. Sometimes it’s because the video source itself was too quiet, or it was encoded at a loud volume. Although these media files come in many different formats, the method for lower the volume is relatively simple and universal. Using a video editing program like [Wondershare Filmora (originally Wondershare Video Editor)](https://tools.techidaily.com/wondershare/filmora/download/), you will simply take advantage of the audio editor within the program to lower the volume. Here is a step-by-step guide to tell you how to lower volume in the media files.
-
- Try this free software to lower the volume in the media files
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-## Lower Volume of the Media Files Step by Step Guide
-
-### 1 Add media files you want to lower volume
-
- After downloading and running this program, click “Import” to begin importing the files. This process many take several seconds depending on the size of the media file. Then the file will appear in the “User’s Album” of program. Drag the imported file to the Timeline.
-
-![lower volume](https://images.wondershare.com/images/multimedia/video-editor/video-editor-main-interface.jpg)
-
-### 2 Lower volume of the media files
-
- Double click the target file and the "Editing" Window will appear. Then switch to the "Audio" column, reduce volume by dragging the volume level slider left. Don't worry if you don't get the sound right the first time. You can reset the volume by clicking the "Reset" button. After adjusting the volume, click the play icon to listen to the effect.
-
- Tip: There are more functions in this column, such as Fade in/fade out, fine tune the pitch, etc. If you want to add more effects, go to “Video” column to rotate, adjust contrast, saturation, brightness, nue and speed of the video.
-
-![how to lower volume](https://images.wondershare.com/images/multimedia/video-editor/change-volume.jpg)
-
-### 3 Save the files
-
- Then hit the “Create” icon to save the edited files. You can save your files to different formats such as WMV, MOV, AVI, MKV, MP4 or save to play on different devices such as iPhone, iPad, PSP and Zune. To do this, switch to the related tab, enter the preset settings and press "Create" to begin the export. The exported file should have the same video, but with louder audio. You can also burn the files to DVD or directly upload to YouTube if you choose.
-
-![software to lower volume](https://images.wondershare.com/images/multimedia/video-editor/apple-device.jpg)
-
- See, it's so easy to lower the volume of the media files. Besides this function, this powerful video editing tool also supports trimming, cropping, adding video effects and loads more. Now just download it and explore more features of it!
-
- Here is a video tutorial for you:
-
- About Filmora video editor:
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
@@ -814,18 +820,20 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-secrets-of-saving-screenshots-tips-and-tricks-for-dell-users/"><u>[New] Secrets of Saving Screenshots Tips & Tricks for Dell Users</u></a></li>
-<li><a href="https://win-web3.techidaily.com/1-protegez-votre-ssd-sans-cout-logiciel-de-sauvegarde-innovant-et-eprouve-pour-2024/"><u>1. Protégez Votre SSD Sans Coût : Logiciel De Sauvegarde Innovant Et Éprouvé Pour 2024</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/5-best-mp3-cutters-online-for-2024/"><u>5 Best MP3 Cutters Online for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/bid-farewell-to-firefox-hiccups-proven-fixes-and-preventive-tips/"><u>Bid Farewell to Firefox Hiccups: Proven Fixes & Preventive Tips</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gpt-blueprint-custom-chatgpt-crafting-guide/"><u>GPT Blueprint: Custom ChatGPT Crafting Guide</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-turn-off-find-my-apple-iphone-se-when-phone-is-broken-drfone-by-drfone-ios/"><u>In 2024, How to Turn Off Find My Apple iPhone SE when Phone is Broken? | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigate-the-world-of-digital-coins-with-these-top-chatgpt-prompts/"><u>Navigate the World of Digital Coins with These Top ChatGPT Prompts</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-mastering-signal-processing-advanced-noise-reduction-techniques-using-artificial-intelligence/"><u>New Mastering Signal Processing Advanced Noise Reduction Techniques Using Artificial Intelligence</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/top-rated-cloud-hosting-solutions-a-comprehensive-review/"><u>Top-Rated Cloud Hosting Solutions: A Comprehensive Review</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-the-audio-architects-guide-to-stripping-down-beats-online/"><u>Updated In 2024, The Audio Architects Guide to Stripping Down Beats Online</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-the-guide-to-amplifying-your-android-footage-adding-audio-seamlessly/"><u>Updated In 2024, The Guide to Amplifying Your Android Footage Adding Audio Seamlessly</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-unleash-your-creativity-top-vertical-video-editing-apps-for-mobile/"><u>Updated In 2024, Unleash Your Creativity Top Vertical Video Editing Apps for Mobile</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/vital-insights-for-constructing-an-unparalleled-collection-of-youtube-audio-tracks/"><u>Vital Insights for Constructing an Unparalleled Collection of YouTube Audio Tracks</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-the-ultimate-tutorial-for-turning-twitter-videos-into-gifs/"><u>[New] In 2024, The Ultimate Tutorial for Turning Twitter Videos Into GIFs</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-unveiling-the-top-5-windows-screen-capturing-utilities/"><u>[Updated] 2024 Approved Unveiling The Top 5 Windows Screen Capturing Utilities</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-strategic-mastery-pinpointing-top-7-total-war-battles-for-2024/"><u>[Updated] Strategic Mastery Pinpointing Top 7 Total War Battles for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-gimbal-guide-industrys-favorites/"><u>2024 Approved Gimbal Guide Industry's Favorites</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-in-depth-theta-s-evaluation-overview/"><u>2024 Approved In-Depth Theta S Evaluation Overview</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-itel-p40-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Itel P40</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/lenovo-yoga-pro-9i-in-depth-review-highlighting-the-ergonomic-keyboard-and-slim-design/"><u>Lenovo Yoga Pro 9I In-Depth Review: Highlighting the Ergonomic Keyboard & Slim Design</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-premiere-pro-essentials-how-to-seamlessly-integrate-sound-with-visuals/"><u>New 2024 Approved Premiere Pro Essentials How to Seamlessly Integrate Sound with Visuals</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/ultimate-3-auditory-enhancement-devices-for-mp3-files/"><u>Ultimate 3 Auditory Enhancement Devices for MP3 Files</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-the-complete-process-of-audio-integration-into-quicktime-video-files/"><u>Updated 2024 Approved The Complete Process of Audio Integration Into QuickTime Video Files</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-how-to-quickly-fix-audio-importing-issues-in-adobe-premiere-pro-for-2024/"><u>Updated How to Quickly Fix Audio Importing Issues in Adobe Premiere Pro for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-audio-free-video-formats-mastering-the-art-of-silence-removal-in-popular-file-types-mp4-mkv-avi-mov-wmv/"><u>Updated In 2024, Audio-Free Video Formats Mastering the Art of Silence Removal in Popular File Types (MP4, MKV, AVI, MOV, WMV)</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-streamlined-methods-for-obtaining-pitched-ding-sound-files-online-the-top-10-list/"><u>Updated Streamlined Methods for Obtaining Pitched Ding Sound Files Online - The Top 10 List</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-streamlining-speaker-audio-in-microsoft-powerpoint-cross-platform-solutions-for-windows-and-mac/"><u>Updated Streamlining Speaker Audio in Microsoft PowerPoint Cross-Platform Solutions for Windows and Mac</u></a></li>
+<li><a href="https://games-able.techidaily.com/virtual-ventures-top-9-strategies-for-game-journeyers/"><u>Virtual Ventures: Top 9 Strategies for Game Journeyers</u></a></li>
 </ul></div>
 
