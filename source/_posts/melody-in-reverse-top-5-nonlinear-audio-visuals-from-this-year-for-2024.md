@@ -1,7 +1,7 @@
 ---
 title: Melody in Reverse Top 5 Nonlinear Audio Visuals From This Year for 2024
-date: 2024-09-27T13:42:07.969Z
-updated: 2024-10-03T04:55:15.146Z
+date: 2024-10-24T07:50:50.430Z
+updated: 2024-10-26T06:22:46.110Z
 tags: 
   - audio editing software
   - audio editing
@@ -74,50 +74,12 @@ Follow @Liza Brown
 
  Have you ever wondered what 600 pillows look like? Well now you know. The guys start by throwing pillows onto the bed and the great thing is that it is all in reverse. On top of this, it also shows the guys jump onto the pillows and the entire scene is reversed. The song that is played over the video is also great when you take a look at the way it is filmed so why not give it a watch for yourself to see the great filming styles that are present.
 
-### 3\. Tongue Tied
-
- This video is by a band called GroupLove and it was directed by Jordan Bahat. The video starts with a comical opening and after a few seconds you can start to see the backwards filming style. He starts by running backwards and before you know it, there are some wrestlers in masks following him. This video has plenty of things to show you and the effects are well and truly fantastic.
-
-### 4. Drop
-
- This is called the Drop Video and it is by a group called the Pharcyde. Spike Jonze directed this and he came up with the idea for it as well. It has a very similar style to the first video and it is all filmed in the street. The group perform plenty of dance moves and this continues to add to the style and interest that this video has to offer.
-
-### 5\. Rivers
-
- This video was done by a group called Small Feet and it really does have a lot to offer, from start to finish. Even though this video made it to number 5 on the list, doesn't mean that it isn't interesting. It was directed by Oskar Wrango and it uses nature in an attempt to tell the story of the song. This is unlike the videos that have been mentioned before and it certainly delivers an interesting result.
-
- So there you have it, the top 5 backwards music videos. Some of them include more backward shots when compared to others but that doesn't mean that they are any less interesting to watch. Some of them will blow you away and it just goes to show the amount of power and emotion that you can inject by simply using this technique in your own videos. Why don't you give it a go for yourself today by seeing what you can accomplish? You'd be surprised at the results and it gives you a complete new canvas to work with as well so there are plenty of options available when choosing the overall theme and style.
-
-![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
-
-Liza Brown
-
-Liza Brown is a writer and a lover of all things video.
-
-Follow @Liza Brown
-
-##### Liza Brown
-
- Mar 27, 2024• Proven solutions
-
- Video reverse is undoubtedly a fantastic way to demonstrate a scene in an interesting way. Filmed normally and then played backwards, this kind of videos can sometimes produce some amazing visual effects. If you want to know some pretty good videos that are played with video reversal, or backwards as some may call it, and learn from their creativeness so as to create one of your own, then you have certainly come to the right place. The following 5 videos top our list of the best backwards music videos.
-
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-## 5 of the Best Backwards music videos
-
-### 1\. Forward by Messe Kopp
-
- This video was created by Messe Kopp and it is a perfect example of how backwards video techniques have evolved over recent years. It uses all the things that you would normally see in a backwards video and it really is a great video as well. You will also find that the backwards technique adds a complete new dynamic to the video as well so it really is interesting to watch. On top of this, the song is great and the whole scene works really well so you can already start to see how the backwards technique is becoming more and more prominent in today's industry.
-
-### 2\. 2 Guys, 600 Pillows
-
- Have you ever wondered what 600 pillows look like? Well now you know. The guys start by throwing pillows onto the bed and the great thing is that it is all in reverse. On top of this, it also shows the guys jump onto the pillows and the entire scene is reversed. The song that is played over the video is also great when you take a look at the way it is filmed so why not give it a watch for yourself to see the great filming styles that are present.
 
 ### 3\. Tongue Tied
 
@@ -165,12 +127,43 @@ Follow @Liza Brown
 
  This is called the Drop Video and it is by a group called the Pharcyde. Spike Jonze directed this and he came up with the idea for it as well. It has a very similar style to the first video and it is all filmed in the street. The group perform plenty of dance moves and this continues to add to the style and interest that this video has to offer.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+### 5\. Rivers
+
+ This video was done by a group called Small Feet and it really does have a lot to offer, from start to finish. Even though this video made it to number 5 on the list, doesn't mean that it isn't interesting. It was directed by Oskar Wrango and it uses nature in an attempt to tell the story of the song. This is unlike the videos that have been mentioned before and it certainly delivers an interesting result.
+
+ So there you have it, the top 5 backwards music videos. Some of them include more backward shots when compared to others but that doesn't mean that they are any less interesting to watch. Some of them will blow you away and it just goes to show the amount of power and emotion that you can inject by simply using this technique in your own videos. Why don't you give it a go for yourself today by seeing what you can accomplish? You'd be surprised at the results and it gives you a complete new canvas to work with as well so there are plenty of options available when choosing the overall theme and style.
+
+![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
+
+Liza Brown
+
+Liza Brown is a writer and a lover of all things video.
+
+Follow @Liza Brown
+
+##### Liza Brown
+
+ Mar 27, 2024• Proven solutions
+
+ Video reverse is undoubtedly a fantastic way to demonstrate a scene in an interesting way. Filmed normally and then played backwards, this kind of videos can sometimes produce some amazing visual effects. If you want to know some pretty good videos that are played with video reversal, or backwards as some may call it, and learn from their creativeness so as to create one of your own, then you have certainly come to the right place. The following 5 videos top our list of the best backwards music videos.
+
+## 5 of the Best Backwards music videos
+
+### 1\. Forward by Messe Kopp
+
+ This video was created by Messe Kopp and it is a perfect example of how backwards video techniques have evolved over recent years. It uses all the things that you would normally see in a backwards video and it really is a great video as well. You will also find that the backwards technique adds a complete new dynamic to the video as well so it really is interesting to watch. On top of this, the song is great and the whole scene works really well so you can already start to see how the backwards technique is becoming more and more prominent in today's industry.
+
+### 2\. 2 Guys, 600 Pillows
+
+ Have you ever wondered what 600 pillows look like? Well now you know. The guys start by throwing pillows onto the bed and the great thing is that it is all in reverse. On top of this, it also shows the guys jump onto the pillows and the entire scene is reversed. The song that is played over the video is also great when you take a look at the way it is filmed so why not give it a watch for yourself to see the great filming styles that are present.
+
+### 3\. Tongue Tied
+
+ This video is by a band called GroupLove and it was directed by Jordan Bahat. The video starts with a comical opening and after a few seconds you can start to see the backwards filming style. He starts by running backwards and before you know it, there are some wrestlers in masks following him. This video has plenty of things to show you and the effects are well and truly fantastic.
+
+### 4. Drop
+
+ This is called the Drop Video and it is by a group called the Pharcyde. Spike Jonze directed this and he came up with the idea for it as well. It has a very similar style to the first video and it is all filmed in the street. The group perform plenty of dance moves and this continues to add to the style and interest that this video has to offer.
 
 ### 5\. Rivers
 
@@ -304,10 +297,10 @@ In case, if you have video content that speaks to the audience, then choose ligh
 While editing the video decide the file format you are looking for. You can choose music files in a wide range of file types like MP3, WAV and FLAC. You must select the standard file types and bring the best out of them efficiently. Choosing the right audio file types will help to overcome the compatibility issues while playing them on any media player. When you are using the Filmora Video Editor, you can change the file format of the edited file during the export option. Mostly many editors opt for an MP3 file format for music files because it is mostly compatible with many media players.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Conclusion
@@ -331,10 +324,10 @@ While looking at such resources ensure the music files are royalty-free. It shou
 03 [What is the Form of music in video editing?](#Part 3)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 1 Free Songs for Video Editing resources in the digital space
@@ -435,13 +428,6 @@ While looking at such resources ensure the music files are royalty-free. It shou
 
 03 [What is the Form of music in video editing?](#Part 3)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 1 Free Songs for Video Editing resources in the digital space
 
 In this section, you will learn about the best five web-based environments where you can view and download the desired soundtracks for your needs precisely. Quickly surf them and grab your favorite music files to edit your videos optimally.
@@ -461,6 +447,13 @@ In this section, you will learn about the best five web-based environments where
 **Audiomack**: Another emerging music platform that lists trending and top songs with artists and album details. You can download the streaming songs in your local system drive for free to use. This website is a user-friendly hub with awesome collections of songs.
 
 ![Audio-mack](https://images.wondershare.com/filmora/article-images/2022/03/audio-mack.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **NoiseTrade**: On this website, you can download the songs completely free of cost and the entire process takes place legally. You can save the file in Zip format and optimize the storage space effortlessly. The soundtracks are categorized by artists, albums, and genres.
 
@@ -516,15 +509,22 @@ Video content
 
 In case, if you have video content that speaks to the audience, then choose light music without dominating the speaker’s voice. Select the background music that suits the video content and edit them accordingly to obtain desired effects.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 3 What is the Form of music in video editing?
 
 While editing the video decide the file format you are looking for. You can choose music files in a wide range of file types like MP3, WAV and FLAC. You must select the standard file types and bring the best out of them efficiently. Choosing the right audio file types will help to overcome the compatibility issues while playing them on any media player. When you are using the Filmora Video Editor, you can change the file format of the edited file during the export option. Mostly many editors opt for an MP3 file format for music files because it is mostly compatible with many media players.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Conclusion
@@ -555,19 +555,6 @@ In this section, you will learn about the best five web-based environments where
 
 ![YouTube-MP3](https://images.wondershare.com/filmora/article-images/2022/03/youtube-mp3.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **SoundCloud**: Here is another legal way of downloading songs for video editing. SoundCloud is a space that comprises a variety of soundtracks uploaded by individual music artists and users. It is free to download the songs from this platform. Hit the free download button to get a copy of the music track in your system drive.
 
 ![Sound-cloud](https://images.wondershare.com/filmora/article-images/2022/03/sound-cloud.jpg)
@@ -579,6 +566,13 @@ In this section, you will learn about the best five web-based environments where
 **Audiomack**: Another emerging music platform that lists trending and top songs with artists and album details. You can download the streaming songs in your local system drive for free to use. This website is a user-friendly hub with awesome collections of songs.
 
 ![Audio-mack](https://images.wondershare.com/filmora/article-images/2022/03/audio-mack.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **NoiseTrade**: On this website, you can download the songs completely free of cost and the entire process takes place legally. You can save the file in Zip format and optimize the storage space effortlessly. The soundtracks are categorized by artists, albums, and genres.
 
@@ -639,16 +633,10 @@ In case, if you have video content that speaks to the audience, then choose ligh
 While editing the video decide the file format you are looking for. You can choose music files in a wide range of file types like MP3, WAV and FLAC. You must select the standard file types and bring the best out of them efficiently. Choosing the right audio file types will help to overcome the compatibility issues while playing them on any media player. When you are using the Filmora Video Editor, you can change the file format of the edited file during the export option. Mostly many editors opt for an MP3 file format for music files because it is mostly compatible with many media players.
 
 <!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Conclusion
@@ -671,18 +659,16 @@ Thus, this article gives insights on where to find songs for video editing. Choo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-essential-knowledge-for-using-final-cut-pro-effectively-for-2024/"><u>[New] Essential Knowledge for Using Final Cut Pro Effectively for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-the-editors-playbook-essential-strategies-for-youtube-video-crafting-for-2024/"><u>[Updated] The Editor's Playbook Essential Strategies for Youtube Video Crafting for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-screencast-savvy-a-comprehensive-examination-of-techniques-and-tools/"><u>2024 Approved Screencast Savvy A Comprehensive Examination of Techniques & Tools</u></a></li>
-<li><a href="https://blog-min.techidaily.com/6-ways-to-transfer-contacts-from-vivo-x100-pro-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>6 Ways To Transfer Contacts From Vivo X100 Pro to iPhone | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/direct-fix-seamless-bluetooth-driver-installation-for-windows-1011/"><u>Direct Fix: Seamless Bluetooth Driver Installation for Windows 10/11</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/enhancing-visual-storytelling-adding-audio-elements-in-adobe-premiere-pro-for-2024/"><u>Enhancing Visual Storytelling Adding Audio Elements in Adobe Premiere Pro for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/on-mission-find-the-best-for-your-youtube-channels-vision-and-voice-for-2024/"><u>Mics on Mission Find the Best for Your YouTube Channel’s Vision & Voice for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mobile-savings-and-decoding-digital-threats/"><u>Mobile Savings & Decoding Digital Threats</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/motivating-hr-chronicles-the-best-ten-vids/"><u>Motivating HR Chronicles - The Best Ten Vids</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-determining-the-perfect-orientation-for-fb-videos/"><u>[Updated] 2024 Approved Determining the Perfect Orientation for FB Videos</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/evaluating-the-value-of-auto-gpt-in-the-absence-of-gpt-4-is-it-still-a-smart-choice/"><u>Evaluating the Value of Auto-GPT in the Absence of GPT-4: Is It Still a Smart Choice?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-xiaomi-14-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Xiaomi 14 Pro | Dr.fone</u></a></li>
 <li><a href="https://sound-optimizing.techidaily.com/new-10-best-websites-to-download-ding-sound-effect-easily-for-2024/"><u>New 10 Best Websites to Download Ding Sound Effect Easily for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-deciphering-the-prowess-of-magix-samplitude-in-modern-music-production/"><u>New In 2024, Deciphering the Prowess of MAGIX Samplitude in Modern Music Production</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722979115715-nvidias-newest-windows-game-ready-drivers-download-now/"><u>NVIDIA's Newest Windows Game-Ready Drivers: Download Now!</u></a></li>
+<li><a href="https://video-capture.techidaily.com/precise-screen-record-azs-full-app-dissection-for-2024/"><u>Precise Screen Record - AZ's Full App Dissection for 2024</u></a></li>
 <li><a href="https://sound-optimizing.techidaily.com/step-by-step-tutorial-for-incorporating-soundtracks-in-adobe-after-effects/"><u>Step-by-Step Tutorial for Incorporating Soundtracks in Adobe After Effects</u></a></li>
 <li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-turning-the-tables-on-sound-innovations-in-audio-reversal-technology/"><u>Updated In 2024, Turning the Tables on Sound Innovations in Audio Reversal Technology</u></a></li>
 <li><a href="https://sound-optimizing.techidaily.com/updated-locate-the-ringing-bell-audio-sample-for-2024/"><u>Updated Locate the Ringing Bell Audio Sample for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/e-to-viral-fame-crafting-high-quality-content-as-a-travel-vlogger/"><u>Voyage to Viral Fame Crafting High-Quality Content as a Travel Vlogger</u></a></li>
 </ul></div>
 

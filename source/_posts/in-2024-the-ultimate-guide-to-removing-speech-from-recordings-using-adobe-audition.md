@@ -1,7 +1,7 @@
 ---
 title: In 2024, The Ultimate Guide to Removing Speech From Recordings Using Adobe Audition
-date: 2024-10-18T16:56:03.606Z
-updated: 2024-10-20T16:47:58.671Z
+date: 2024-10-21T16:46:06.115Z
+updated: 2024-10-26T05:14:53.064Z
 tags: 
   - audio editing software
   - audio editing
@@ -62,6 +62,13 @@ It is not easy to work with Adobe Audition. It's also likely that you'll get con
 
 The Center Channel Extractor effects and its vocal remover preset can be used to remove vocals in Adobe Audition.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Step 1\. Prepare for Adobe Audition
 
 You can import your audio files and media files into Adobe Audition.
@@ -103,10 +110,10 @@ Proceed to the Discrimination Tab once you have finished these settings. By iden
 ![click discrimination](https://images.wondershare.com/filmora/article-images/2023/how-to-remove-vocals-in-adobe-audition-unveiling-the-6-easy-steps-8.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Step 5\. Apply the Effect
@@ -122,13 +129,6 @@ To use the music tracks on your mix or videos, export them without vocals. Go to
 For video editing software such as Premiere Pro, use a Sample Type of 48 kHz. Audio engineers who work with video media usually prefer 48 kHz sample rates.
 
 ![adobe audition click export](https://images.wondershare.com/filmora/article-images/2023/how-to-remove-vocals-in-adobe-audition-unveiling-the-6-easy-steps-10.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 A Tip for Enhancing Results
 
@@ -195,6 +195,13 @@ Meanwhile, Filmora 13's AI Vocal Remover unveiled a new frontier, promising a se
 
 ![Wondershare Filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 1\. A Comprehensive Overview of Adobe Audition's Powerful Features
 
 ### An Introduction to Adobe Audition
@@ -204,6 +211,13 @@ Audio editors and musicians use Adobe Audition to edit and create music. Audio c
 It also offers noise reduction, audio restoration, and sound removal. It comes with many visualization tools too. In addition, it comes with a good interface that encourages many people to consider using it.
 
 ![introduction to adobe audition](https://images.wondershare.com/filmora/article-images/2023/how-to-remove-vocals-in-adobe-audition-unveiling-the-6-easy-steps-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Adobe Audition Features
 
@@ -255,19 +269,6 @@ After you click on Central Channel Extractor, you should see the effect window. 
 
 ![adobe audition click vocal remove](https://images.wondershare.com/filmora/article-images/2023/how-to-remove-vocals-in-adobe-audition-unveiling-the-6-easy-steps-5.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Closing the window automatically exports your new track. This process usually does work; however, sometimes it is ineffective. The next step involves customizing the effects settings for the vocal remover.
 
 ### Step 4\. Customize the Setting
@@ -281,13 +282,6 @@ Several predefined ranges are available, but we will make additional adjustments
 In this case, you will have to trim the end of the frequency range and refine some of the audio. On hovering your mouse above the figure, the mouse pointer becomes a double-sided arrow.
 
 ![adobe audition set frequency](https://images.wondershare.com/filmora/article-images/2023/how-to-remove-vocals-in-adobe-audition-unveiling-the-6-easy-steps-7.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Proceed to the Discrimination Tab once you have finished these settings. By identifying the center channel, you can further refine your audio. There are 5 sliders, largely focused on two: Crossover Bleed and Phase Discrimination. After picking the Acapella preset, these sliders handle the bleed of the instrumentals.
 
@@ -310,13 +304,6 @@ For video editing software such as Premiere Pro, use a Sample Type of 48 kHz. Au
 A Tip for Enhancing Results
 
 To get perfect results, I recommend always listening back while you adjust these sliders, since audio quality varies from one to another.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3\. Unveiling the Secrets - How to Remove Vocals from a Song in Filmora
 
@@ -355,6 +342,13 @@ Once imported, effortlessly transport the files to the timeline at the bottom of
 
 ![add to timeline](https://images.wondershare.com/filmora/article-images/2023/how-to-remove-vocals-in-adobe-audition-unveiling-the-6-easy-steps-13.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Step 3Isolating Vocals: A Streamlined Process
 
 Identify the specific music clip within the timeline that requires vocal removal. Select the music clip, and from the toolbar, choose the "Audio" option. Within the "Audio" options, pinpoint and select the "AI Vocal Remover." This strategic action triggers Filmora 13's advanced functionality, allowing you to effortlessly separate vocals and music while preserving high-quality audio.
@@ -368,13 +362,6 @@ Having successfully isolated the vocals, the final step involves exporting your 
 Filmora 13 offers various export options, ensuring compatibility with different platforms and devices. Whether your content is destined for social media, YouTube, or any other platform, Filmora 13 equips you with the tools needed to produce professional-grade audio.
 
 ![export the reasy file](https://images.wondershare.com/filmora/article-images/2023/how-to-remove-vocals-in-adobe-audition-unveiling-the-6-easy-steps-15.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -404,6 +391,13 @@ Sometimes we may want to remove audio from the original file and add a new sound
 To help finish this task, [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is the right choice. With it, you can either delete all audio tracks completely from MP4 to get the video with no audio in it at all. Or remove an extra audio track and only keep the one you like.
 
 The following article will introduce a simple way of removing audio from video in whatever situation.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## MP4 Audio Remover - Wondershare Filmora
 
@@ -444,13 +438,6 @@ After that, hit "Export" to select the desired output way. You can set the outpu
 
 ![export video](https://images.wondershare.com/filmora/article-images/export-filmora9-video.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Bonus: Mute a Video with Filmora Video Editor with 1-click
 
 Sometimes, you might wish to mute a video clip for many reasons, then the Filmora Video Editor, as the best MP4 Audio Extractor or Editor will help you do it with 1 simple click.
@@ -536,13 +523,6 @@ For macOS 10.12 or later
 Free download the audio track remover- Video Editor, install, and run it. Then the following interface will pop up. Click the "Import" button to add the video file you want to remove audio tracks.
 
 ![remove video](https://images.wondershare.com/filmora/article-images/filmora9-interface-post.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Step 2: Remove audio from the file
 
@@ -778,6 +758,13 @@ Install and run Wondershare Filmora (originally Wondershare Video Editor) and cl
 
 ![remove mkv from mkv](https://images.wondershare.com/images/multimedia/video-editor/video-editor-main-interface.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### 2 Remove audio from MKV
 
 After that, drag and drop the videos from the media library to the Timeline. Right click the video clip you want to remove audio and choose “Detach Audio” to separate audio from MKV. Then you will see video and audio displayed in different tracks, press the “Delete” button on your keyboard or right click the track and select the "Delete" command to remove the unwanted audio track from MKV.
@@ -785,6 +772,19 @@ After that, drag and drop the videos from the media library to the Timeline. Rig
 Tip: If want to add a new sound track or background music to your video, just import it to the media library and then drag and drop to the proper position of the Timeline. Here is a detailed guide on how to add background music to video.
 
 ![remove audio track from mkv](https://images.wondershare.com/images/multimedia/video-editor/audio-detach.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### 3 Preview and save the new file
 
@@ -818,21 +818,22 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-20-youtube-channels-for-all-time-favorite-bands/"><u>[New] 2024 Approved 20 YouTube Channels for All-Time Favorite Bands</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-premier-lineup-best-free-video-editors-unveiled/"><u>[New] 2024 Approved Premier Lineup Best Free Video Editors Unveiled</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-top-6-translation-devices-for-media-files/"><u>[Updated] Top 6 Translation Devices for Media Files</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-lava-storm-5g-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Lava Storm 5G</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/comprehensive-visuals-what-sets-360-apart-for-2024/"><u>Comprehensive Visuals What Sets 360° Apart for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/enduring-connection-techniques-for-tiktok-profiles/"><u>Enduring Connection Techniques for TikTok Profiles</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-the-world-of-on-device-artificial-intelligence-mechanisms-and-functionality/"><u>Exploring the World of On-Device Artificial Intelligence: Mechanisms & Functionality</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-tecno-pova-5-pro-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Tecno Pova 5 Pro to Apple TV | Dr.fone</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/in-2024-achieving-consistent-sound-levels-with-davinci-resolve/"><u>In 2024, Achieving Consistent Sound Levels with DaVinci Resolve</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-beyond-the-screen-arvr-infused-inspirational-sayings/"><u>In 2024, Beyond the Screen AR/VR-Infused Inspirational Sayings</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/in-2024-enhancing-visual-storytelling-with-background-tunes-a-filmora-approach/"><u>In 2024, Enhancing Visual Storytelling with Background Tunes A Filmora Approach</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-groovegrid-an-online-repository-of-dj-classics/"><u>New 2024 Approved GrooveGrid An Online Repository of DJ Classics</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-mastering-audio-downloads-a-guide-to-collecting-podcast-episodes-on-pc/"><u>New 2024 Approved Mastering Audio Downloads A Guide to Collecting Podcast Episodes on PC</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-trimming-mp4-content-a-focus-on-solo-soundtrack/"><u>New Trimming MP4 Content A Focus on Solo Soundtrack</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/pinpoint-wolfs-howling-frequency-for-2024/"><u>Pinpoint Wolfs Howling Frequency for 2024</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-mute-the-movie-guide-to-erasing-auditory-elements-from-various-video-formats/"><u>Updated 2024 Approved Mute the Movie Guide to Erasing Auditory Elements From Various Video Formats</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-path-to-digital-fame-starting-and-building-a-youtube-chanel/"><u>[New] 2024 Approved Path to Digital Fame Starting and Building a YouTube Chanel</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-top-8-private-video-downloaders-for-2024/"><u>[New] Top 8 Private Video Downloaders for 2024</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/2-share-your-gaming-moments-seamlessly-expert-tips-for-streaming-ps4-clips-onto-an-iphone-device/"><u>2. Share Your Gaming Moments Seamlessly: Expert Tips for Streaming PS4 Clips Onto an iPhone Device</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/2024-approved-cutting-edge-techniques-for-incorporating-smooth-audio-reduction/"><u>2024 Approved Cutting Edge Techniques for Incorporating Smooth Audio Reduction</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/best-of-the-year-exercise-soundtracks/"><u>Best of the Year: Exercise Soundtracks</u></a></li>
+<li><a href="https://win-forum.techidaily.com/conversion-sans-frais-convertissez-fichiers-aac-en-mp4-sur-demande-avec-movavi/"><u>Conversion Sans Frais: Convertissez Fichiers AAC en MP4 Sur Demande Avec Movavi</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/discovering-authentic-canine-vocalizations-in-sound-libraries-for-2024/"><u>Discovering Authentic Canine Vocalizations in Sound Libraries for 2024</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/download-fixes-resolve-stuck-downloads-for-ios-versions-18-17-16-and-15/"><u>Download Fixes: Resolve Stuck Downloads for iOS Versions 18, 17, 16 & 15</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-easy-tutorial-for-activating-icloud-from-apple-iphone-12-pro-safe-and-legal-by-drfone-ios/"><u>In 2024, Easy Tutorial for Activating iCloud from Apple iPhone 12 Pro Safe and Legal</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-5-must-have-linux-audio-capture-utilities-and-advanced-strategies-for-high-quality-recordings/"><u>New 2024 Approved 5 Must-Have Linux Audio Capture Utilities and Advanced Strategies for High-Quality Recordings</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-swapping-sounds-in-media-files-an-in-depth-tutorial-for-seamless-edits/"><u>New 2024 Approved Swapping Sounds in Media Files An In-Depth Tutorial for Seamless Edits</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-the-essential-process-of-adding-sound-to-mkv-updated-videographies/"><u>New In 2024, The Essential Process of Adding Sound to MKV-Updated Videographies</u></a></li>
+<li><a href="https://fox-links.techidaily.com/passport-self-portrait-maker-free-access-to-top-quality-images/"><u>Passport Self-Portrait Maker – Free Access to Top Quality Images</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/transforming-your-dvds-10-effective-methods-to-convert-to-mp4-format-on-windows-and-mac-os/"><u>Transforming Your DVDs: 10 Effective Methods to Convert to MP4 Format on Windows and Mac OS</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-audacity-setup-guide-for-ubuntu-installs-uninstalls-and-troubleshooting-tips/"><u>Updated Audacity Setup Guide for Ubuntu Installs, Uninstalls & Troubleshooting Tips</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-bridging-the-gap-between-sound-waves-and-storage-space-a-guide-to-downloading-audio-programs-onto-computers/"><u>Updated In 2024, Bridging the Gap Between Sound Waves and Storage Space A Guide to Downloading Audio Programs Onto Computers</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-streamlining-silence-simplified-guide-to-extracting-background-noise-from-music-tracks-using-audacity/"><u>Updated Streamlining Silence Simplified Guide to Extracting Background Noise From Music Tracks Using Audacity</u></a></li>
 </ul></div>
 

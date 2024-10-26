@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Sonic Design Lab Pioneering Audio Manipulation in Sony Vegas Pro
-date: 2024-10-11T21:33:07.736Z
-updated: 2024-10-14T17:14:53.610Z
+date: 2024-10-18T19:14:44.227Z
+updated: 2024-10-26T04:58:52.687Z
 tags: 
   - audio editing software
   - audio editing
@@ -167,16 +167,151 @@ First of all you need to import your desired audio file to timeline of Vegas Pro
 
 ![Track header](https://images.wondershare.com/edit-audio-in-vegas-pro-1.jpg)
 
+* Mute the Audio Track: Press M
+
+![Mute audio](https://images.wondershare.com/edit-audio-in-vegas-pro-2.jpg)
+
+* Manage volume control for all events of loaded track: Use Volume Slider switch that is denoted by dB.
+* Pan Slider: It is possible to make adjustments for audio pan using a slider named as Center. Users can slide it to left side or right side as per audio project requirements.
+
+**Note:**
+
+1\. Put on your headphone to better verify the output result.
+
+2\. To reset the volume, just double click on the options.
+
+Those who want to control volume separately for different portions of audio file can go to **Audio Envelop** (go Insert > Audio Envelopes)and then make all essential settings as:
+
+**Mute:** A blue line is visible on timeline at your selected audio event, simply double click over it for addition of a specific point and then right click for mute adjustments. From appeared drop down menu you can select muted or not muted and the adjustments will be effective on right side of event point.
+
+![Mute audio to selected part](https://images.wondershare.com/edit-audio-in-vegas-pro-3.jpg)
+
+**Volume:** Check the deep blue line on selected event and then double click over it for addition of a marking point. Drag this point up or down for appropriate volume settings and use right click option for additional adjustments.
+
+![Adjust audio volume](https://images.wondershare.com/edit-audio-in-vegas-pro-4.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+**Pan:** Pan Adjustments can be done using red lien control over event. Double click over it and move the point up or down to set pan at specific range. Use right click button for advanced options.
+
+![Adjust audio pan](https://images.wondershare.com/edit-audio-in-vegas-pro-5.jpg)
+
+#### Section 2: Fade in and Fade Out
+
+Some professional settings to audio project can be made using fade in/out options. Users can pull the fade adjust curser to any direction for easy customization.
+
+Hover your cursor on the audio event in timeline, you will find the fade in/out offset handle at the up side corner of the audio event. Pull the Fade in/out offset handle as long as you want:
+
+![Fade in/out audio](https://images.wondershare.com/edit-audio-in-vegas-pro-6.jpg)
+
+#### Section 3: Speed up or Slow down
+
+If you want to change the speed of specific portions of your audio project then hold CTRL button and then start moving your curser over Trim Event handle. If you drag it to right side then it will directly speed up your audio clip and dragging to left side will automatically reduce speed.
+
+![Speed up or down video](https://images.wondershare.com/edit-audio-in-vegas-pro-7.jpg)
+
+#### Section 4: Reverse audio clip
+
+One can easily reverse his selected audio clip; simply right click over it and then choose Reverse option from drop down menu; it will help to move audio frames in reverse order.
+
+![Reverse audio](https://images.wondershare.com/edit-audio-in-vegas-pro-8.jpg)
+
+#### Section 5: Noise Removal
+
+One classic feature of Vegas Pro is its Sound Restoration in Audio FX control. But it does not work as good compared to Audacity. Check this article to [see how to remove noise from audio](http://www.technospot.net/blogs/remove-background-noise-sony-vegas-audacity/) using Sony Vegas Pro & Audacity.
+
+Or check this video tutorial below:
+
+#### Section 6: Apply unique Audio Effects
+
+If you want to add specific effects to your audio files then use two simple methods on Vegas Pro with its Audio FX tool: One is to add effects on entire video file and second option is to make changes to specific layers of audio project. Use these steps to achieve great results:
+
+**To entire audio layer**
+
+![To entire audio layer](https://images.wondershare.com/edit-audio-in-vegas-pro-9.jpg)
+
+**To an individual portion of the audio layer**
+
+![To portion](https://images.wondershare.com/edit-audio-in-vegas-pro-10.jpg)
+
+**Step 1:** First of all go to Track Description Box and then press the Track FX icon, an audio track FX will soon appear on your device screen. The three basic controls are always activated, that are Track Compressor, Track EQ and Track Noise Gate.
+
+![Audio track FX](https://images.wondershare.com/edit-audio-in-vegas-pro-11.jpg)
+
+For additional personalization you need to use plug-in chain button from right corner.
+
+![Audio plugins](https://images.wondershare.com/edit-audio-in-vegas-pro-12.jpg)
+
+**Step 2:** Now select any desired effect from list that can make your audio track more impressive and press Add; once applied then hit OK.
+
+![Add audio effect](https://images.wondershare.com/edit-audio-in-vegas-pro-13.jpg)
+
+**Step 3:** Make required adjustments with the help of slider or users can also open the drop down box on screen for selection of present templates as per need.
+
+![audio preset templates](https://images.wondershare.com/edit-audio-in-vegas-pro-14.jpg)
+
+#### Recommendation
+
+The Vegas Pro is rated as a professional editing software tool due to its advanced user interface, high price range and availability on Mac devices only. If you are searching for some video editing tools that can work on Windows as well as Mac devices then [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is one of the best options for you all.
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+---
+
+![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+Benjamin Arango
+
+Benjamin Arango is a writer and a lover of all things video.
+
+Follow @Benjamin Arango
+
+##### Benjamin Arango
+
+ Mar 27, 2024• Proven solutions
+
+Being the most commonly used professional video editing tool, Sony (Magix) Vegas Pro provides complete control over audio files inside every project. If you are new to this platform then following details will help you to get complete information about how to edit audio volume, apply unique effects, remove noise and adjust fade in as well as fade out options for projects.
+
+**You May Also Like:** [How to Edit YouTube Audio >>](https://tools.techidaily.com/wondershare/filmora/download/)
+
+## Sony (Magix) Vegas Audio Editor: How to edit audio in Vegas Pro
+
+This tutorial is divided into 6 different sections that contain complete details about all possible audio track adjustments and customization options.
+
+* [Section 1: Edit volume for audio track](#section1)
+* [Section 2: Fade in and Fade Out](#section2)
+* [Section 3: Speed up or Slow down](#section3)
+* [Section 4: Reverse audio clip](#section4)
+* [Section 5: Noise Removal](#section5)
+* [Section 6: Apply unique Audio Effects](#section6)
+
+#### Section 1: Edit volume for audio track
+
+First of all you need to import your desired audio file to timeline of Vegas Pro; it can be done by using drag and drop option directly. On Vegas timeline you will find so many sound adjustment options that appear on audio track header.
+
+![Track header](https://images.wondershare.com/edit-audio-in-vegas-pro-1.jpg)
 
 * Mute the Audio Track: Press M
 
 ![Mute audio](https://images.wondershare.com/edit-audio-in-vegas-pro-2.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * Manage volume control for all events of loaded track: Use Volume Slider switch that is denoted by dB.
 * Pan Slider: It is possible to make adjustments for audio pan using a slider named as Center. Users can slide it to left side or right side as per audio project requirements.
@@ -208,13 +343,6 @@ Some professional settings to audio project can be made using fade in/out option
 Hover your cursor on the audio event in timeline, you will find the fade in/out offset handle at the up side corner of the audio event. Pull the Fade in/out offset handle as long as you want:
 
 ![Fade in/out audio](https://images.wondershare.com/edit-audio-in-vegas-pro-6.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### Section 3: Speed up or Slow down
 
@@ -372,142 +500,6 @@ If you want to add specific effects to your audio files then use two simple meth
 
 ![Audio track FX](https://images.wondershare.com/edit-audio-in-vegas-pro-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-For additional personalization you need to use plug-in chain button from right corner.
-
-![Audio plugins](https://images.wondershare.com/edit-audio-in-vegas-pro-12.jpg)
-
-**Step 2:** Now select any desired effect from list that can make your audio track more impressive and press Add; once applied then hit OK.
-
-![Add audio effect](https://images.wondershare.com/edit-audio-in-vegas-pro-13.jpg)
-
-**Step 3:** Make required adjustments with the help of slider or users can also open the drop down box on screen for selection of present templates as per need.
-
-![audio preset templates](https://images.wondershare.com/edit-audio-in-vegas-pro-14.jpg)
-
-#### Recommendation
-
-The Vegas Pro is rated as a professional editing software tool due to its advanced user interface, high price range and availability on Mac devices only. If you are searching for some video editing tools that can work on Windows as well as Mac devices then [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is one of the best options for you all.
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
----
-
-![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
-
-Benjamin Arango
-
-Benjamin Arango is a writer and a lover of all things video.
-
-Follow @Benjamin Arango
-
-##### Benjamin Arango
-
- Mar 27, 2024• Proven solutions
-
-Being the most commonly used professional video editing tool, Sony (Magix) Vegas Pro provides complete control over audio files inside every project. If you are new to this platform then following details will help you to get complete information about how to edit audio volume, apply unique effects, remove noise and adjust fade in as well as fade out options for projects.
-
-**You May Also Like:** [How to Edit YouTube Audio >>](https://tools.techidaily.com/wondershare/filmora/download/)
-
-## Sony (Magix) Vegas Audio Editor: How to edit audio in Vegas Pro
-
-This tutorial is divided into 6 different sections that contain complete details about all possible audio track adjustments and customization options.
-
-* [Section 1: Edit volume for audio track](#section1)
-* [Section 2: Fade in and Fade Out](#section2)
-* [Section 3: Speed up or Slow down](#section3)
-* [Section 4: Reverse audio clip](#section4)
-* [Section 5: Noise Removal](#section5)
-* [Section 6: Apply unique Audio Effects](#section6)
-
-#### Section 1: Edit volume for audio track
-
-First of all you need to import your desired audio file to timeline of Vegas Pro; it can be done by using drag and drop option directly. On Vegas timeline you will find so many sound adjustment options that appear on audio track header.
-
-![Track header](https://images.wondershare.com/edit-audio-in-vegas-pro-1.jpg)
-
-* Mute the Audio Track: Press M
-
-![Mute audio](https://images.wondershare.com/edit-audio-in-vegas-pro-2.jpg)
-
-* Manage volume control for all events of loaded track: Use Volume Slider switch that is denoted by dB.
-* Pan Slider: It is possible to make adjustments for audio pan using a slider named as Center. Users can slide it to left side or right side as per audio project requirements.
-
-**Note:**
-
-1\. Put on your headphone to better verify the output result.
-
-2\. To reset the volume, just double click on the options.
-
-Those who want to control volume separately for different portions of audio file can go to **Audio Envelop** (go Insert > Audio Envelopes)and then make all essential settings as:
-
-**Mute:** A blue line is visible on timeline at your selected audio event, simply double click over it for addition of a specific point and then right click for mute adjustments. From appeared drop down menu you can select muted or not muted and the adjustments will be effective on right side of event point.
-
-![Mute audio to selected part](https://images.wondershare.com/edit-audio-in-vegas-pro-3.jpg)
-
-**Volume:** Check the deep blue line on selected event and then double click over it for addition of a marking point. Drag this point up or down for appropriate volume settings and use right click option for additional adjustments.
-
-![Adjust audio volume](https://images.wondershare.com/edit-audio-in-vegas-pro-4.jpg)
-
-**Pan:** Pan Adjustments can be done using red lien control over event. Double click over it and move the point up or down to set pan at specific range. Use right click button for advanced options.
-
-![Adjust audio pan](https://images.wondershare.com/edit-audio-in-vegas-pro-5.jpg)
-
-#### Section 2: Fade in and Fade Out
-
-Some professional settings to audio project can be made using fade in/out options. Users can pull the fade adjust curser to any direction for easy customization.
-
-Hover your cursor on the audio event in timeline, you will find the fade in/out offset handle at the up side corner of the audio event. Pull the Fade in/out offset handle as long as you want:
-
-![Fade in/out audio](https://images.wondershare.com/edit-audio-in-vegas-pro-6.jpg)
-
-#### Section 3: Speed up or Slow down
-
-If you want to change the speed of specific portions of your audio project then hold CTRL button and then start moving your curser over Trim Event handle. If you drag it to right side then it will directly speed up your audio clip and dragging to left side will automatically reduce speed.
-
-![Speed up or down video](https://images.wondershare.com/edit-audio-in-vegas-pro-7.jpg)
-
-#### Section 4: Reverse audio clip
-
-One can easily reverse his selected audio clip; simply right click over it and then choose Reverse option from drop down menu; it will help to move audio frames in reverse order.
-
-![Reverse audio](https://images.wondershare.com/edit-audio-in-vegas-pro-8.jpg)
-
-#### Section 5: Noise Removal
-
-One classic feature of Vegas Pro is its Sound Restoration in Audio FX control. But it does not work as good compared to Audacity. Check this article to [see how to remove noise from audio](http://www.technospot.net/blogs/remove-background-noise-sony-vegas-audacity/) using Sony Vegas Pro & Audacity.
-
-Or check this video tutorial below:
-
-#### Section 6: Apply unique Audio Effects
-
-If you want to add specific effects to your audio files then use two simple methods on Vegas Pro with its Audio FX tool: One is to add effects on entire video file and second option is to make changes to specific layers of audio project. Use these steps to achieve great results:
-
-**To entire audio layer**
-
-![To entire audio layer](https://images.wondershare.com/edit-audio-in-vegas-pro-9.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-**To an individual portion of the audio layer**
-
-![To portion](https://images.wondershare.com/edit-audio-in-vegas-pro-10.jpg)
-
-**Step 1:** First of all go to Track Description Box and then press the Track FX icon, an audio track FX will soon appear on your device screen. The three basic controls are always activated, that are Track Compressor, Track EQ and Track Noise Gate.
-
-![Audio track FX](https://images.wondershare.com/edit-audio-in-vegas-pro-11.jpg)
-
 For additional personalization you need to use plug-in chain button from right corner.
 
 ![Audio plugins](https://images.wondershare.com/edit-audio-in-vegas-pro-12.jpg)
@@ -550,10 +542,16 @@ Follow @Benjamin Arango
 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Harmonizing MP4 Visuals with Top-Tier Music Selection Methods
@@ -646,33 +644,93 @@ Either click "Import" or drag and drop your MP4 video & audio track to this prog
 
 ![add audio to mp4](https://images.wondershare.com/images/multimedia/video-editor/video-editor-interface.jpg "add audio to mp4")
 
+#### 2\. Remove original audio file (optional)
+
+You can remove the original audio in a pretty easy way if you want. To do this, just right click the video clip on Timeline, and select "Audio Detach". or "Mute" as per your needs. If "Audio Detach" has been selected, you'll find a single audio file appearing in the Music Timeline immediately. Then you can easily delete it.
+
+![add audio to mp4](https://images.wondershare.com/images/multimedia/video-editor/video-editor-time-line.jpg "add audio to mp4")
+
+#### 3\. Add audio to MP4 video
+
+When all files come to place, you can begin to make the audio and video perfectly matched. In the Video Timeline, cut and paste any video clip to rearrange the order, and trim out unwanted portion while keeping the others. (Note: Don't overlap one into another, or you'll split the original file).
+
+Now play your source MP4 video, and drag the audio track to the exact position that you want it to begin. If you just want a short part showing up, pause it when it comes to the right place. Then click the Scissors icon above the Timeline to split it into two parts. Keep what you want, and remove the others by hit "Delete" on the keyboard. Note that you can always click Undo/Redo to control your operation.
+
+![add audio to mp4](https://images.wondershare.com/images/multimedia/video-editor/editing-files-2.jpg "add audio to mp4")
+
+#### 4\. Adjust the audio file (optional)
+
+After syncing your music file and MP4 video perfectly, you can further adjust the audio file in the editing panel, like change the playing speed, volume, pitch, etc. To do this, just double click the target MP4 video file and edit it in the pop up window.
+
+![add audio to mp4](https://images.wondershare.com/topic/video-editing/edit-audio-speedup-fade-in-out.jpg "add audio to mp4")
+
+#### 5\. Save and share your creation
+
+Check your video in the right previewing window. When you're satisfied, click "Create" to export your new work. This program offers four flexible ways letting you save and share video with ease. In the format tab, you'll find almost all popular formats are available to save on your computer. If you want to share your masterpiece on YouTube, select this option to upload it right away. Even you can burn a DVD disk in minutes to watch it on your home cinema.
+
+![add audio to mp4](https://images.wondershare.com/images/multimedia/video-editor/output.jpg "add audio to mp4")
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+Shanoon Cox
+
+Shanoon Cox is a writer and a lover of all things video.
+
+Follow @Shanoon Cox
+
+##### Shanoon Cox
+
+ Mar 27, 2024• Proven solutions
+
+Chances are you want to create a new work by adding an audio track to your source video like MP4\. This is because your MP4 file has very good video quality, but gets rather bad sound. Or you just create it for fun.
+
+Well, this is not a difficult thing once you get an efficient video tool like [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/). As a professional and easy-to-use video editing application, it helps you add any music to MP4 video effortlessly. What's more, it also helps to remove or mute your original audio track to achieve the best result if necessary. Record your own voice-over is also possible.
+
+## Powerful Video Editing Tool: Wondershare Filmora
+
+Supports almost all kinds of audio formats including MP3, WMA, MKA, M4A and more;
+
+* Add audio to video without quality loss;
+* Export your new video in different ways;
+* Supported OS: Windows (Windows 10 included) & Mac OS X (above 10.6).
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+#### 1\. Import your media files
+
+Either click "Import" or drag and drop your MP4 video & audio track to this program. When all files imported, they'll show in thumbnails in the Media library. Now drag and drop them into the their respective track on the Timeline.
+
+![add audio to mp4](https://images.wondershare.com/images/multimedia/video-editor/video-editor-interface.jpg "add audio to mp4")
+
+#### 2\. Remove original audio file (optional)
+
+You can remove the original audio in a pretty easy way if you want. To do this, just right click the video clip on Timeline, and select "Audio Detach". or "Mute" as per your needs. If "Audio Detach" has been selected, you'll find a single audio file appearing in the Music Timeline immediately. Then you can easily delete it.
+
+![add audio to mp4](https://images.wondershare.com/images/multimedia/video-editor/video-editor-time-line.jpg "add audio to mp4")
+
+#### 3\. Add audio to MP4 video
+
+When all files come to place, you can begin to make the audio and video perfectly matched. In the Video Timeline, cut and paste any video clip to rearrange the order, and trim out unwanted portion while keeping the others. (Note: Don't overlap one into another, or you'll split the original file).
+
+Now play your source MP4 video, and drag the audio track to the exact position that you want it to begin. If you just want a short part showing up, pause it when it comes to the right place. Then click the Scissors icon above the Timeline to split it into two parts. Keep what you want, and remove the others by hit "Delete" on the keyboard. Note that you can always click Undo/Redo to control your operation.
+
+![add audio to mp4](https://images.wondershare.com/images/multimedia/video-editor/editing-files-2.jpg "add audio to mp4")
+
+#### 4\. Adjust the audio file (optional)
+
+After syncing your music file and MP4 video perfectly, you can further adjust the audio file in the editing panel, like change the playing speed, volume, pitch, etc. To do this, just double click the target MP4 video file and edit it in the pop up window.
+
+![add audio to mp4](https://images.wondershare.com/topic/video-editing/edit-audio-speedup-fade-in-out.jpg "add audio to mp4")
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
-#### 2\. Remove original audio file (optional)
-
-You can remove the original audio in a pretty easy way if you want. To do this, just right click the video clip on Timeline, and select "Audio Detach". or "Mute" as per your needs. If "Audio Detach" has been selected, you'll find a single audio file appearing in the Music Timeline immediately. Then you can easily delete it.
-
-![add audio to mp4](https://images.wondershare.com/images/multimedia/video-editor/video-editor-time-line.jpg "add audio to mp4")
-
-#### 3\. Add audio to MP4 video
-
-When all files come to place, you can begin to make the audio and video perfectly matched. In the Video Timeline, cut and paste any video clip to rearrange the order, and trim out unwanted portion while keeping the others. (Note: Don't overlap one into another, or you'll split the original file).
-
-Now play your source MP4 video, and drag the audio track to the exact position that you want it to begin. If you just want a short part showing up, pause it when it comes to the right place. Then click the Scissors icon above the Timeline to split it into two parts. Keep what you want, and remove the others by hit "Delete" on the keyboard. Note that you can always click Undo/Redo to control your operation.
-
-![add audio to mp4](https://images.wondershare.com/images/multimedia/video-editor/editing-files-2.jpg "add audio to mp4")
-
-#### 4\. Adjust the audio file (optional)
-
-After syncing your music file and MP4 video perfectly, you can further adjust the audio file in the editing panel, like change the playing speed, volume, pitch, etc. To do this, just double click the target MP4 video file and edit it in the pop up window.
-
-![add audio to mp4](https://images.wondershare.com/topic/video-editing/edit-audio-speedup-fade-in-out.jpg "add audio to mp4")
-
 #### 5\. Save and share your creation
 
 Check your video in the right previewing window. When you're satisfied, click "Create" to export your new work. This program offers four flexible ways letting you save and share video with ease. In the format tab, you'll find almost all popular formats are available to save on your computer. If you want to share your masterpiece on YouTube, select this option to upload it right away. Even you can burn a DVD disk in minutes to watch it on your home cinema.
@@ -739,67 +797,21 @@ Check your video in the right previewing window. When you're satisfied, click "C
 
 ![add audio to mp4](https://images.wondershare.com/images/multimedia/video-editor/output.jpg "add audio to mp4")
 
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
-
-Shanoon Cox
-
-Shanoon Cox is a writer and a lover of all things video.
-
-Follow @Shanoon Cox
-
-##### Shanoon Cox
-
- Mar 27, 2024• Proven solutions
-
-Chances are you want to create a new work by adding an audio track to your source video like MP4\. This is because your MP4 file has very good video quality, but gets rather bad sound. Or you just create it for fun.
-
-Well, this is not a difficult thing once you get an efficient video tool like [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/). As a professional and easy-to-use video editing application, it helps you add any music to MP4 video effortlessly. What's more, it also helps to remove or mute your original audio track to achieve the best result if necessary. Record your own voice-over is also possible.
-
-## Powerful Video Editing Tool: Wondershare Filmora
-
-Supports almost all kinds of audio formats including MP3, WMA, MKA, M4A and more;
-
-* Add audio to video without quality loss;
-* Export your new video in different ways;
-* Supported OS: Windows (Windows 10 included) & Mac OS X (above 10.6).
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-#### 1\. Import your media files
-
-Either click "Import" or drag and drop your MP4 video & audio track to this program. When all files imported, they'll show in thumbnails in the Media library. Now drag and drop them into the their respective track on the Timeline.
-
-![add audio to mp4](https://images.wondershare.com/images/multimedia/video-editor/video-editor-interface.jpg "add audio to mp4")
-
-#### 2\. Remove original audio file (optional)
-
-You can remove the original audio in a pretty easy way if you want. To do this, just right click the video clip on Timeline, and select "Audio Detach". or "Mute" as per your needs. If "Audio Detach" has been selected, you'll find a single audio file appearing in the Music Timeline immediately. Then you can easily delete it.
-
-![add audio to mp4](https://images.wondershare.com/images/multimedia/video-editor/video-editor-time-line.jpg "add audio to mp4")
-
-#### 3\. Add audio to MP4 video
-
-When all files come to place, you can begin to make the audio and video perfectly matched. In the Video Timeline, cut and paste any video clip to rearrange the order, and trim out unwanted portion while keeping the others. (Note: Don't overlap one into another, or you'll split the original file).
-
-Now play your source MP4 video, and drag the audio track to the exact position that you want it to begin. If you just want a short part showing up, pause it when it comes to the right place. Then click the Scissors icon above the Timeline to split it into two parts. Keep what you want, and remove the others by hit "Delete" on the keyboard. Note that you can always click Undo/Redo to control your operation.
-
-![add audio to mp4](https://images.wondershare.com/images/multimedia/video-editor/editing-files-2.jpg "add audio to mp4")
-
-#### 4\. Adjust the audio file (optional)
-
-After syncing your music file and MP4 video perfectly, you can further adjust the audio file in the editing panel, like change the playing speed, volume, pitch, etc. To do this, just double click the target MP4 video file and edit it in the pop up window.
-
-![add audio to mp4](https://images.wondershare.com/topic/video-editing/edit-audio-speedup-fade-in-out.jpg "add audio to mp4")
-
-#### 5\. Save and share your creation
-
-Check your video in the right previewing window. When you're satisfied, click "Create" to export your new work. This program offers four flexible ways letting you save and share video with ease. In the format tab, you'll find almost all popular formats are available to save on your computer. If you want to share your masterpiece on YouTube, select this option to upload it right away. Even you can burn a DVD disk in minutes to watch it on your home cinema.
-
-![add audio to mp4](https://images.wondershare.com/images/multimedia/video-editor/output.jpg "add audio to mp4")
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
@@ -814,6 +826,13 @@ Follow @Shanoon Cox
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Advanced Techniques for Rendering Audio Waveform Graphs and Incorporating Animation Into Video Projects Using Premiere Pro
 
@@ -867,13 +886,6 @@ Search audio waveform and drag and drop this effect on your solid. The waveform 
 
 ![open audio waveform effect](https://images.wondershare.com/filmora/article-images/2022/08/premiere-pro-audio-waveform-7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Step4Adjust the audio waveform effect
 
 The position of the waveform on your video can be changed by utilizing the start and end point settings. Make sure the last values for each selections are the same to maintain an even level. Next, you can change the characteristics to give your waveform the desired appearance. Here, I applied some fundamental settings that are effective for singing. Using the two-color picker options and the display options, you may also change the waveform's inner and outer colors.
@@ -907,10 +919,10 @@ The following time you open the project, these files will be cleared. Rebuilding
 In reality, based on the above process, it is clear that you must use After Effects to add audio waveform animation effects in Premiere Pro. Although you can further modify the animation, this approach is very difficult for beginners to understand, and it has a high learning cost. In this situation, we strongly advise you to try [Filmora Audio Visualizer](https://tools.techidaily.com/wondershare/filmora/download/). We provide more than 25 animation effects and fixed pre-made waveform elements, and you can also adjust the color and frequency in Advanced Settings. Come and give it a try!
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -945,20 +957,22 @@ This article will help you in resolving various audio waveform issues in Premier
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-perfect-your-wedding-countdown-experience-with-these-top-apps-androidios/"><u>[New] Perfect Your Wedding Countdown Experience with These Top Apps (Android/iOS)</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-hurdlehop-pausevidsnapshot-for-2024/"><u>[Updated] HurdleHop PauseVidSnapshot for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-microsofts-vision-of-tomorrow-with-hololens-exploration/"><u>2024 Approved Microsoft’s Vision of Tomorrow With HoloLens Exploration</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-navigating-the-world-of-video-chats-on-your-xbox-console/"><u>2024 Approved Navigating the World of Video Chats on Your Xbox Console</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/2024-approved-perfected-acoustic-parameters-for-electronics-optimization/"><u>2024 Approved Perfected Acoustic Parameters for Electronics Optimization</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-transforming-zoom-calls-enhance-your-visuals-here/"><u>2024 Approved Transforming Zoom Calls Enhance Your Visuals Here</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/eliminating-echoes-and-interference-ai-strategies-for-pristine-sound-quality-for-2024/"><u>Eliminating Echoes and Interference AI Strategies for Pristine Sound Quality for 2024</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/in-2024-enhancing-visual-storytelling-with-background-tunes-a-filmora-approach/"><u>In 2024, Enhancing Visual Storytelling with Background Tunes A Filmora Approach</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/in-2024-global-top-rated-mp3-editing-applications/"><u>In 2024, Global Top-Rated MP3 Editing Applications</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-14-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 14? | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-ultimate-plugins-list-after-effects-edition/"><u>In 2024, Ultimate Plugins List After Effects Edition</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/increase-engagement-by-linking-your-pinterest-board-directly-from-your-facebook-page/"><u>Increase Engagement by Linking Your Pinterest Board Directly From Your Facebook Page</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-best-10-websites-to-download-montage-music/"><u>New Best 10 Websites to Download Montage Music</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-from-silence-to-symphony-a-practical-approach-to-changing-video-audio-part-1/"><u>New From Silence to Symphony A Practical Approach to Changing Video Audio (Part 1)</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-mute-the-movie-guide-to-erasing-auditory-elements-from-various-video-formats/"><u>Updated 2024 Approved Mute the Movie Guide to Erasing Auditory Elements From Various Video Formats</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-cinematic-supreme-our-selection-of-top-7-4k-cameras/"><u>[New] Cinematic Supreme Our Selection of Top 7 4K Cameras</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-the-heart-of-adventure-polaroid-cubeplus-video-analysis/"><u>[Updated] 2024 Approved The Heart of Adventure Polaroid Cube+ Video Analysis</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-navigating-the-landscape-intricacies-of-using-the-background-eraser-feature/"><u>[Updated] Navigating the Landscape Intricacies of Using the Background Eraser Feature</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-recordcast-review/"><u>[Updated] RecordCast Review</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/te-your-marketing-game-free-50-youtube-adornments-here-for-2024/"><u>Elevate Your Marketing Game - Free 50 YouTube Adornments Here for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/in-2024-the-essential-list-of-top-10-audio-editors-for-windows-and-mac-platforms/"><u>In 2024, The Essential List of Top 10 Audio Editors for Windows & Mac Platforms</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/in-2024-the-ultimate-guide-to-removing-speech-from-recordings-using-adobe-audition/"><u>In 2024, The Ultimate Guide to Removing Speech From Recordings Using Adobe Audition</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-tips-for-trimming-down-facebook-vids-intrusions/"><u>In 2024, Tips for Trimming Down Facebook Vids' Intrusions</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-from-raw-footage-to-hit-vids-a-step-by-step-guide-for-editors-for-2024/"><u>New From Raw Footage to Hit Vids A Step-by-Step Guide for Editors for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-precision-listening-top-audio-customization-techniques/"><u>New In 2024, Precision Listening Top Audio Customization Techniques</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-prime-budget-optimized-mac-audio-adjustment-software/"><u>New In 2024, Prime Budget-Optimized Mac Audio Adjustment Software</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ssional-filmmaking-made-easy-with-right-lenses/"><u>Professional Filmmaking Made Easy with Right Lenses</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-guide-to-downloading-and-installing-essential-amd-ryzen-n-5-2600-graphics-driver-updates-do-it-today/"><u>Step-by-Step Guide to Downloading & Installing Essential AMD Ryzen N 5 2600 Graphics Driver Updates - Do It Today</u></a></li>
+<li><a href="https://win-web.techidaily.com/step-by-step-guide-clearing-your-iphones-cache-models-15-14-and-13/"><u>Step-by-Step Guide: Clearing Your iPhone's Cache - Models 15, 14 & 13</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-top-10-bgm-audio-archives/"><u>Updated 2024 Approved Top 10 BGM Audio Archives</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-steps-for-integrating-sound-into-the-latest-avi-format/"><u>Updated In 2024, Steps for Integrating Sound Into the Latest AVI Format</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-unveiling-magix-samplitudes-capabilities-are-they-superseding-competitors/"><u>Updated Unveiling MAGIX Samplitudes Capabilities Are They Superseding Competitors?</u></a></li>
 </ul></div>
 

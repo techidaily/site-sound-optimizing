@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Audacitys Magic Wand Techniques for Effortless Removal of Singers From Soundscapes
-date: 2024-10-16T16:26:56.030Z
-updated: 2024-10-20T16:36:27.859Z
+date: 2024-10-22T00:40:01.203Z
+updated: 2024-10-26T00:10:34.508Z
 tags: 
   - audio editing software
   - audio editing
@@ -39,13 +39,6 @@ The first thing you need to do is open the Audacity software in preparation for 
 Go to File > Import > Audio to import the audio track you want to edit.
 
 ![import audio](https://images.wondershare.com/filmora/article-images/2023/quick-and-easy-vocal-removal-in-audacity-a-guide-2.JPG)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Step 3: Select Audio Track**
 
@@ -116,13 +109,6 @@ Another great option for removing vocals from a song is using Wondershare Filmor
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Quick Tutorial on Removing Vocals with Filmora**
 
@@ -186,6 +172,13 @@ Select the song or audio track from which you want to remove the vocals. This al
 
 ![file import](https://images.wondershare.com/filmora/article-images/2023/quick-and-easy-vocal-removal-in-audacity-a-guide-3.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Step 4: Export as MP3**
 
 Backup the file so that you still have the whole song available for use later. Go to File > Export > Export as MP3\. Audacity will export the track in the original file format. If it was a WAV audio file, the export will be to that type. This ensures that the audio artifacts are kept in the best condition for editing. Be sure to name the exported file in something you will easily remember.
@@ -197,19 +190,6 @@ Backup the file so that you still have the whole song available for use later. G
 Once you have exported the audio file, click “Close “on the original file. Then import the file you exported in the last step.
 
 ![import new audio file](https://images.wondershare.com/filmora/article-images/2023/quick-and-easy-vocal-removal-in-audacity-a-guide-5.JPG)
-
-<!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Step 6: Apply Vocal Reduction and Isolation**
 
@@ -253,6 +233,13 @@ From the results, delete the section that contains the isolated vocal from the A
 
 ![delete isolated](https://images.wondershare.com/filmora/article-images/2023/quick-and-easy-vocal-removal-in-audacity-a-guide-11.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 This alternative method is also effective in extract vocals Audacity. The main benefit is it has fewer steps than the first method. It will also completely remove vocals that are on their own channel. However, the method is limited in that it does not work for the vast majority of audio. It will only work for audio tracks with vols on one channel and instruments on another.
 
 ## Alternative Way to Remove Vocals from Audio with Filmora
@@ -262,13 +249,6 @@ Another great option for removing vocals from a song is using Wondershare Filmor
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
-
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Quick Tutorial on Removing Vocals with Filmora**
 
@@ -281,13 +261,6 @@ The AI Vocal Remover feature on Filmora separates vocals and music from any song
 Click on the Filmora icon on your desktop to launch the software. Log in to sign up using the Profile icon at the top. Navigate to the control panel on the left side, and then choose the Create Project Option, and click New Project.
 
 ![launch filmora](https://images.wondershare.com/filmora/article-images/2023/quick-and-easy-vocal-removal-in-audacity-a-guide-12.JPG)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##### **Step 2: Import Source Files and Add to Timeline**
 
@@ -335,6 +308,13 @@ The other type is 'Royalty-free Music,' which allows the purchaser to pay for th
 
 We are not always connected to the internet. Suppose you want to listen to songs, but sadly you don't have internet connectivity. What are you going to do in such a situation? The best suggestion to avoid such problems is to download your favorite music. The following section of this article will share 10 sites to download BGM songs.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Jamendo
 
 The first site that we are going to talk about is Jamendo. The site offers two platforms; Music and Licensing. With Jamendo Music, you can do free downloading and free streaming. All the songs under Jamendo Music have a Creative Commons License.
@@ -366,13 +346,6 @@ In today’s world, no one is new to SoundCloud. Let us state a fact here that S
 Working with SoundCloud is very convenient. It helps you narrow your search by using various available tags. Not just this, but you can also do streaming with SoundCloud. It gives you a platform to share your music and has confidence in yourself.
 
 ![soundcloud](https://images.wondershare.com/filmora/article-images/2022/popular-sites-to-download-bgm-music-in-2022-4.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 5\. Thematic
 
@@ -524,151 +497,13 @@ Open the VSDC video editor. Then click on the Editor tab and click on Run Sprite
 
 ![run sprite wizard](https://images.wondershare.com/filmora/article-images/1-run-sprite-wizard.jpg)
 
-Select a file to be imported or drag and drop it to the slides. Click Apply Settings to proceed.
-
-![apply audio settings](https://images.wondershare.com/filmora/article-images/2-apply-audio-settings.jpg)
-
-Open the Audio effects drop-down menu, tap on Filters, and finally on Gate.
-
-![audio effects](https://images.wondershare.com/filmora/article-images/3-audio-effects.jpg)
-
-Now, adjust the threshold level in the right panel by reducing it.
-
-![adjust threshold value](https://images.wondershare.com/filmora/article-images/4-adjust-threshold-level.jpg)
-
-Similarly, adjust the Attack and Release levels to reduce the background noise.
-
-![attack and release](https://images.wondershare.com/filmora/article-images/5-attack-and-release.jpg)
-
-## Part 4: Movavi Video Editor
-
-Movavi is a simple video editing application that anyone can use to edit videos based on the time it was taken, for example, wedding videos, birthday videos, etc. it offers a lot of features to edit a video clip based on a specific theme. Here is how noise reduction can be done by using Movavi Video Editor.
-
-Open the Movavi Video editor on your desktop and open an audio/video clip on your timeline.
-
-Click on the audio clip to select it and then tap on the Settings icon on the extreme left.
-
-Then choose the Audio Editing option and tap on the Noise Removal box.
-
-![movavi reduce noise](https://images.wondershare.com/filmora/article-images/movavi-reduce-noise.jpg)
-
-Adjust the Noise Suppression pointer according to the video's need.
-
-Playback the video on the timeline and check if the sound quality gets better.
-
-Tips:
-
-The Noise Suppression level needs to be adjusted for every video as the noise level will be different for every one of them. Using speakers while playing back the audio after noise suppression is also recommended to check the audio quality.
-
-### To sum up
-
-The above are 4 of the best editing applications available in the market in which unwanted background music can be removed. These applications also have a lot of other features that can be useful for audio and video editing.
-
-##### Versatile Video Editor - Wondershare Filmora
-
-An easy yet powerful editor
-
-Numerous effects to choose from
-
-Detailed tutorials provided by the official channel
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
-
-## Best Audio Editors to Remove Background Noise from Audio
-
-We all know background noise will reduce the overall impression of the video no matter how perfect the video is. Here we will discuss 4 applications that can be used to remove background noise from any audio clip (they are listed in no particular order).
-
-#### In this article
-
-01 [Wondershare Filmora](#part1)
-
-02 [Audacity](#part2)
-
-03 [VSDC Video Editor](#part3)
-
-04 [Movavi Video Editor](#part4)
-
-## Part 1: Wondershare Filmora
-
-Wondershare Filmora is a video editing app with extensive features and options for editing a video or audio. Amateurs, as well as professionals, equally use this application. You can remove background noise by its simple denoise feature in several mins. Let's see how noise reduction is done using Filmora:
-
-Download Filmora below, and install it on your computer.
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For Win 7 or later (64-bit)
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.12 or later
-
-Open Filmora, and go to File-Import Media to import your source video to the Media Library.
-
-![import media to filmora](https://images.wondershare.com/filmora/article-images/import-media8.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
-Add or drag-n-drop the source video to the video track. Then right-click the video on the track, and select Adjust Audio option.
-
-![adjust audio option](https://images.wondershare.com/filmora/article-images/adjust-audio-option.jpg)
-
-The audio settings panel will pop up. Please enable the Remove background noise option, and then adjust the denoising level to Strong by moving the pointer to the extreme right.
-
-![click remove background noise](https://images.wondershare.com/filmora/article-images/remove-background-noise7.jpg)
-
-Playback your video on the line and check whether the voice quality has been improved.
-
-Filmora supports various video formats. You can select the format you want and export the video or upload your video to Youtube and Vimeo directly. Once done, click Export to save or export your video.
-
-![filmora export panel](https://images.wondershare.com/filmora/article-images/filmora-export-panel-1.jpg)
-
-Tips:
-
-The audio can also be fine-tuned by using the Equalizer feature of Filmora, making the audio sound more natural. Also, the Audio Mixer feature will help you to edit the audio further and save it in MP3 format.
-
-## Part 2: Audacity
-
-Audacity is an open platform for audio recording and editing. It is a very simple-to-use application and can be used to record, play, import, and export any audio files of WAV, MP3, AIFF, and OGG. Audacity also offers mixing tracks and applying special effects to the audios.
-
-First, select the "silent" part of the audio, where only the noise can be heard.
-
-Tap on the Effects menu at the top and select Noise Removal.
-
-![noise reduction](https://images.wondershare.com/filmora/article-images/noise-reduction.jpg)
-
-Tap on the Get Noise Profile option.
-
-![apply audacity noise reduction](https://images.wondershare.com/filmora/filmorapro/apply-noise-reduction.jpg)
-
-Select all the audios from which you wish to remove the background noise.
-
-Now once again, go to the Effects menu and tap on the Noise Removal option.
-
-Adjust the settings if you feel it is necessary and click OK to save the settings.
-
-Listen to the audio clip to ensure the quality has been improved and the noise reduced. And here are the waveforms before and after the noise removal.
-
-![noise wave](https://images.wondershare.com/filmora/article-images/noise-wave.jpg)
-
-Tips:
-
-It is always recommended to reduce the noise before recording audio on Audacity.
-
-## Part 3: VSDC Video Editor
-
-VSDC is a top-notch video editor with various high-end editing tools that allow users to enhance their videos easily. It offers screen recording, voice-overs, color correction, and even the green screen effect. To help you refine your videos to the highest quality, you can use the noise removal tool in VSDC.
-
-Here are the easy steps to de-noise audio:
-
-Open the VSDC video editor. Then click on the Editor tab and click on Run Sprite Wizard or Audio.
-
-![run sprite wizard](https://images.wondershare.com/filmora/article-images/1-run-sprite-wizard.jpg)
-
 Select a file to be imported or drag and drop it to the slides. Click Apply Settings to proceed.
 
 ![apply audio settings](https://images.wondershare.com/filmora/article-images/2-apply-audio-settings.jpg)
@@ -680,189 +515,51 @@ Open the Audio effects drop-down menu, tap on Filters, and finally on Gate.
 Now, adjust the threshold level in the right panel by reducing it.
 
 ![adjust threshold value](https://images.wondershare.com/filmora/article-images/4-adjust-threshold-level.jpg)
-
-Similarly, adjust the Attack and Release levels to reduce the background noise.
-
-![attack and release](https://images.wondershare.com/filmora/article-images/5-attack-and-release.jpg)
-
-## Part 4: Movavi Video Editor
-
-Movavi is a simple video editing application that anyone can use to edit videos based on the time it was taken, for example, wedding videos, birthday videos, etc. it offers a lot of features to edit a video clip based on a specific theme. Here is how noise reduction can be done by using Movavi Video Editor.
-
-Open the Movavi Video editor on your desktop and open an audio/video clip on your timeline.
-
-Click on the audio clip to select it and then tap on the Settings icon on the extreme left.
-
-Then choose the Audio Editing option and tap on the Noise Removal box.
-
-![movavi reduce noise](https://images.wondershare.com/filmora/article-images/movavi-reduce-noise.jpg)
-
-Adjust the Noise Suppression pointer according to the video's need.
-
-Playback the video on the timeline and check if the sound quality gets better.
-
-Tips:
-
-The Noise Suppression level needs to be adjusted for every video as the noise level will be different for every one of them. Using speakers while playing back the audio after noise suppression is also recommended to check the audio quality.
-
-### To sum up
-
-The above are 4 of the best editing applications available in the market in which unwanted background music can be removed. These applications also have a lot of other features that can be useful for audio and video editing.
-
-##### Versatile Video Editor - Wondershare Filmora
-
-An easy yet powerful editor
-
-Numerous effects to choose from
-
-Detailed tutorials provided by the official channel
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
-
-## Best Audio Editors to Remove Background Noise from Audio
-
-We all know background noise will reduce the overall impression of the video no matter how perfect the video is. Here we will discuss 4 applications that can be used to remove background noise from any audio clip (they are listed in no particular order).
-
-#### In this article
-
-01 [Wondershare Filmora](#part1)
-
-02 [Audacity](#part2)
-
-03 [VSDC Video Editor](#part3)
-
-04 [Movavi Video Editor](#part4)
-
-## Part 1: Wondershare Filmora
-
-Wondershare Filmora is a video editing app with extensive features and options for editing a video or audio. Amateurs, as well as professionals, equally use this application. You can remove background noise by its simple denoise feature in several mins. Let's see how noise reduction is done using Filmora:
-
-Download Filmora below, and install it on your computer.
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For Win 7 or later (64-bit)
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.12 or later
-
-Open Filmora, and go to File-Import Media to import your source video to the Media Library.
-
-![import media to filmora](https://images.wondershare.com/filmora/article-images/import-media8.jpg)
-
-Add or drag-n-drop the source video to the video track. Then right-click the video on the track, and select Adjust Audio option.
-
-![adjust audio option](https://images.wondershare.com/filmora/article-images/adjust-audio-option.jpg)
-
-The audio settings panel will pop up. Please enable the Remove background noise option, and then adjust the denoising level to Strong by moving the pointer to the extreme right.
-
-![click remove background noise](https://images.wondershare.com/filmora/article-images/remove-background-noise7.jpg)
-
-Playback your video on the line and check whether the voice quality has been improved.
-
-Filmora supports various video formats. You can select the format you want and export the video or upload your video to Youtube and Vimeo directly. Once done, click Export to save or export your video.
-
-![filmora export panel](https://images.wondershare.com/filmora/article-images/filmora-export-panel-1.jpg)
-
-Tips:
-
-The audio can also be fine-tuned by using the Equalizer feature of Filmora, making the audio sound more natural. Also, the Audio Mixer feature will help you to edit the audio further and save it in MP3 format.
-
-## Part 2: Audacity
-
-Audacity is an open platform for audio recording and editing. It is a very simple-to-use application and can be used to record, play, import, and export any audio files of WAV, MP3, AIFF, and OGG. Audacity also offers mixing tracks and applying special effects to the audios.
-
-First, select the "silent" part of the audio, where only the noise can be heard.
-
-Tap on the Effects menu at the top and select Noise Removal.
-
-![noise reduction](https://images.wondershare.com/filmora/article-images/noise-reduction.jpg)
-
-Tap on the Get Noise Profile option.
-
-![apply audacity noise reduction](https://images.wondershare.com/filmora/filmorapro/apply-noise-reduction.jpg)
-
-Select all the audios from which you wish to remove the background noise.
-
-Now once again, go to the Effects menu and tap on the Noise Removal option.
-
-Adjust the settings if you feel it is necessary and click OK to save the settings.
-
-Listen to the audio clip to ensure the quality has been improved and the noise reduced. And here are the waveforms before and after the noise removal.
-
-![noise wave](https://images.wondershare.com/filmora/article-images/noise-wave.jpg)
-
-Tips:
-
-It is always recommended to reduce the noise before recording audio on Audacity.
-
-## Part 3: VSDC Video Editor
-
-VSDC is a top-notch video editor with various high-end editing tools that allow users to enhance their videos easily. It offers screen recording, voice-overs, color correction, and even the green screen effect. To help you refine your videos to the highest quality, you can use the noise removal tool in VSDC.
-
-Here are the easy steps to de-noise audio:
-
-Open the VSDC video editor. Then click on the Editor tab and click on Run Sprite Wizard or Audio.
-
-![run sprite wizard](https://images.wondershare.com/filmora/article-images/1-run-sprite-wizard.jpg)
-
-Select a file to be imported or drag and drop it to the slides. Click Apply Settings to proceed.
-
-![apply audio settings](https://images.wondershare.com/filmora/article-images/2-apply-audio-settings.jpg)
-
-Open the Audio effects drop-down menu, tap on Filters, and finally on Gate.
-
-![audio effects](https://images.wondershare.com/filmora/article-images/3-audio-effects.jpg)
-
-Now, adjust the threshold level in the right panel by reducing it.
-
-![adjust threshold value](https://images.wondershare.com/filmora/article-images/4-adjust-threshold-level.jpg)
-
-Similarly, adjust the Attack and Release levels to reduce the background noise.
-
-![attack and release](https://images.wondershare.com/filmora/article-images/5-attack-and-release.jpg)
-
-## Part 4: Movavi Video Editor
-
-Movavi is a simple video editing application that anyone can use to edit videos based on the time it was taken, for example, wedding videos, birthday videos, etc. it offers a lot of features to edit a video clip based on a specific theme. Here is how noise reduction can be done by using Movavi Video Editor.
-
-Open the Movavi Video editor on your desktop and open an audio/video clip on your timeline.
-
-Click on the audio clip to select it and then tap on the Settings icon on the extreme left.
-
-Then choose the Audio Editing option and tap on the Noise Removal box.
-
-![movavi reduce noise](https://images.wondershare.com/filmora/article-images/movavi-reduce-noise.jpg)
-
-Adjust the Noise Suppression pointer according to the video's need.
-
-Playback the video on the timeline and check if the sound quality gets better.
-
-Tips:
-
-The Noise Suppression level needs to be adjusted for every video as the noise level will be different for every one of them. Using speakers while playing back the audio after noise suppression is also recommended to check the audio quality.
-
-### To sum up
-
-The above are 4 of the best editing applications available in the market in which unwanted background music can be removed. These applications also have a lot of other features that can be useful for audio and video editing.
-
-##### Versatile Video Editor - Wondershare Filmora
-
-An easy yet powerful editor
-
-Numerous effects to choose from
-
-Detailed tutorials provided by the official channel
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+Similarly, adjust the Attack and Release levels to reduce the background noise.
+
+![attack and release](https://images.wondershare.com/filmora/article-images/5-attack-and-release.jpg)
+
+## Part 4: Movavi Video Editor
+
+Movavi is a simple video editing application that anyone can use to edit videos based on the time it was taken, for example, wedding videos, birthday videos, etc. it offers a lot of features to edit a video clip based on a specific theme. Here is how noise reduction can be done by using Movavi Video Editor.
+
+Open the Movavi Video editor on your desktop and open an audio/video clip on your timeline.
+
+Click on the audio clip to select it and then tap on the Settings icon on the extreme left.
+
+Then choose the Audio Editing option and tap on the Noise Removal box.
+
+![movavi reduce noise](https://images.wondershare.com/filmora/article-images/movavi-reduce-noise.jpg)
+
+Adjust the Noise Suppression pointer according to the video's need.
+
+Playback the video on the timeline and check if the sound quality gets better.
+
+Tips:
+
+The Noise Suppression level needs to be adjusted for every video as the noise level will be different for every one of them. Using speakers while playing back the audio after noise suppression is also recommended to check the audio quality.
+
+### To sum up
+
+The above are 4 of the best editing applications available in the market in which unwanted background music can be removed. These applications also have a lot of other features that can be useful for audio and video editing.
+
+##### Versatile Video Editor - Wondershare Filmora
+
+An easy yet powerful editor
+
+Numerous effects to choose from
+
+Detailed tutorials provided by the official channel
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ## Best Audio Editors to Remove Background Noise from Audio
 
@@ -963,6 +660,309 @@ Open the Audio effects drop-down menu, tap on Filters, and finally on Gate.
 Now, adjust the threshold level in the right panel by reducing it.
 
 ![adjust threshold value](https://images.wondershare.com/filmora/article-images/4-adjust-threshold-level.jpg)
+
+Similarly, adjust the Attack and Release levels to reduce the background noise.
+
+![attack and release](https://images.wondershare.com/filmora/article-images/5-attack-and-release.jpg)
+
+## Part 4: Movavi Video Editor
+
+Movavi is a simple video editing application that anyone can use to edit videos based on the time it was taken, for example, wedding videos, birthday videos, etc. it offers a lot of features to edit a video clip based on a specific theme. Here is how noise reduction can be done by using Movavi Video Editor.
+
+Open the Movavi Video editor on your desktop and open an audio/video clip on your timeline.
+
+Click on the audio clip to select it and then tap on the Settings icon on the extreme left.
+
+Then choose the Audio Editing option and tap on the Noise Removal box.
+
+![movavi reduce noise](https://images.wondershare.com/filmora/article-images/movavi-reduce-noise.jpg)
+
+Adjust the Noise Suppression pointer according to the video's need.
+
+Playback the video on the timeline and check if the sound quality gets better.
+
+Tips:
+
+The Noise Suppression level needs to be adjusted for every video as the noise level will be different for every one of them. Using speakers while playing back the audio after noise suppression is also recommended to check the audio quality.
+
+### To sum up
+
+The above are 4 of the best editing applications available in the market in which unwanted background music can be removed. These applications also have a lot of other features that can be useful for audio and video editing.
+
+##### Versatile Video Editor - Wondershare Filmora
+
+An easy yet powerful editor
+
+Numerous effects to choose from
+
+Detailed tutorials provided by the official channel
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
+
+## Best Audio Editors to Remove Background Noise from Audio
+
+We all know background noise will reduce the overall impression of the video no matter how perfect the video is. Here we will discuss 4 applications that can be used to remove background noise from any audio clip (they are listed in no particular order).
+
+#### In this article
+
+01 [Wondershare Filmora](#part1)
+
+02 [Audacity](#part2)
+
+03 [VSDC Video Editor](#part3)
+
+04 [Movavi Video Editor](#part4)
+
+## Part 1: Wondershare Filmora
+
+Wondershare Filmora is a video editing app with extensive features and options for editing a video or audio. Amateurs, as well as professionals, equally use this application. You can remove background noise by its simple denoise feature in several mins. Let's see how noise reduction is done using Filmora:
+
+Download Filmora below, and install it on your computer.
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For Win 7 or later (64-bit)
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+Open Filmora, and go to File-Import Media to import your source video to the Media Library.
+
+![import media to filmora](https://images.wondershare.com/filmora/article-images/import-media8.jpg)
+
+Add or drag-n-drop the source video to the video track. Then right-click the video on the track, and select Adjust Audio option.
+
+![adjust audio option](https://images.wondershare.com/filmora/article-images/adjust-audio-option.jpg)
+
+The audio settings panel will pop up. Please enable the Remove background noise option, and then adjust the denoising level to Strong by moving the pointer to the extreme right.
+
+![click remove background noise](https://images.wondershare.com/filmora/article-images/remove-background-noise7.jpg)
+
+Playback your video on the line and check whether the voice quality has been improved.
+
+Filmora supports various video formats. You can select the format you want and export the video or upload your video to Youtube and Vimeo directly. Once done, click Export to save or export your video.
+
+![filmora export panel](https://images.wondershare.com/filmora/article-images/filmora-export-panel-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+Tips:
+
+The audio can also be fine-tuned by using the Equalizer feature of Filmora, making the audio sound more natural. Also, the Audio Mixer feature will help you to edit the audio further and save it in MP3 format.
+
+## Part 2: Audacity
+
+Audacity is an open platform for audio recording and editing. It is a very simple-to-use application and can be used to record, play, import, and export any audio files of WAV, MP3, AIFF, and OGG. Audacity also offers mixing tracks and applying special effects to the audios.
+
+First, select the "silent" part of the audio, where only the noise can be heard.
+
+Tap on the Effects menu at the top and select Noise Removal.
+
+![noise reduction](https://images.wondershare.com/filmora/article-images/noise-reduction.jpg)
+
+Tap on the Get Noise Profile option.
+
+![apply audacity noise reduction](https://images.wondershare.com/filmora/filmorapro/apply-noise-reduction.jpg)
+
+Select all the audios from which you wish to remove the background noise.
+
+Now once again, go to the Effects menu and tap on the Noise Removal option.
+
+Adjust the settings if you feel it is necessary and click OK to save the settings.
+
+Listen to the audio clip to ensure the quality has been improved and the noise reduced. And here are the waveforms before and after the noise removal.
+
+![noise wave](https://images.wondershare.com/filmora/article-images/noise-wave.jpg)
+
+Tips:
+
+It is always recommended to reduce the noise before recording audio on Audacity.
+
+## Part 3: VSDC Video Editor
+
+VSDC is a top-notch video editor with various high-end editing tools that allow users to enhance their videos easily. It offers screen recording, voice-overs, color correction, and even the green screen effect. To help you refine your videos to the highest quality, you can use the noise removal tool in VSDC.
+
+Here are the easy steps to de-noise audio:
+
+Open the VSDC video editor. Then click on the Editor tab and click on Run Sprite Wizard or Audio.
+
+![run sprite wizard](https://images.wondershare.com/filmora/article-images/1-run-sprite-wizard.jpg)
+
+Select a file to be imported or drag and drop it to the slides. Click Apply Settings to proceed.
+
+![apply audio settings](https://images.wondershare.com/filmora/article-images/2-apply-audio-settings.jpg)
+
+Open the Audio effects drop-down menu, tap on Filters, and finally on Gate.
+
+![audio effects](https://images.wondershare.com/filmora/article-images/3-audio-effects.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+Now, adjust the threshold level in the right panel by reducing it.
+
+![adjust threshold value](https://images.wondershare.com/filmora/article-images/4-adjust-threshold-level.jpg)
+
+Similarly, adjust the Attack and Release levels to reduce the background noise.
+
+![attack and release](https://images.wondershare.com/filmora/article-images/5-attack-and-release.jpg)
+
+## Part 4: Movavi Video Editor
+
+Movavi is a simple video editing application that anyone can use to edit videos based on the time it was taken, for example, wedding videos, birthday videos, etc. it offers a lot of features to edit a video clip based on a specific theme. Here is how noise reduction can be done by using Movavi Video Editor.
+
+Open the Movavi Video editor on your desktop and open an audio/video clip on your timeline.
+
+Click on the audio clip to select it and then tap on the Settings icon on the extreme left.
+
+Then choose the Audio Editing option and tap on the Noise Removal box.
+
+![movavi reduce noise](https://images.wondershare.com/filmora/article-images/movavi-reduce-noise.jpg)
+
+Adjust the Noise Suppression pointer according to the video's need.
+
+Playback the video on the timeline and check if the sound quality gets better.
+
+Tips:
+
+The Noise Suppression level needs to be adjusted for every video as the noise level will be different for every one of them. Using speakers while playing back the audio after noise suppression is also recommended to check the audio quality.
+
+### To sum up
+
+The above are 4 of the best editing applications available in the market in which unwanted background music can be removed. These applications also have a lot of other features that can be useful for audio and video editing.
+
+##### Versatile Video Editor - Wondershare Filmora
+
+An easy yet powerful editor
+
+Numerous effects to choose from
+
+Detailed tutorials provided by the official channel
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
+
+## Best Audio Editors to Remove Background Noise from Audio
+
+We all know background noise will reduce the overall impression of the video no matter how perfect the video is. Here we will discuss 4 applications that can be used to remove background noise from any audio clip (they are listed in no particular order).
+
+#### In this article
+
+01 [Wondershare Filmora](#part1)
+
+02 [Audacity](#part2)
+
+03 [VSDC Video Editor](#part3)
+
+04 [Movavi Video Editor](#part4)
+
+## Part 1: Wondershare Filmora
+
+Wondershare Filmora is a video editing app with extensive features and options for editing a video or audio. Amateurs, as well as professionals, equally use this application. You can remove background noise by its simple denoise feature in several mins. Let's see how noise reduction is done using Filmora:
+
+Download Filmora below, and install it on your computer.
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For Win 7 or later (64-bit)
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+Open Filmora, and go to File-Import Media to import your source video to the Media Library.
+
+![import media to filmora](https://images.wondershare.com/filmora/article-images/import-media8.jpg)
+
+Add or drag-n-drop the source video to the video track. Then right-click the video on the track, and select Adjust Audio option.
+
+![adjust audio option](https://images.wondershare.com/filmora/article-images/adjust-audio-option.jpg)
+
+The audio settings panel will pop up. Please enable the Remove background noise option, and then adjust the denoising level to Strong by moving the pointer to the extreme right.
+
+![click remove background noise](https://images.wondershare.com/filmora/article-images/remove-background-noise7.jpg)
+
+Playback your video on the line and check whether the voice quality has been improved.
+
+Filmora supports various video formats. You can select the format you want and export the video or upload your video to Youtube and Vimeo directly. Once done, click Export to save or export your video.
+
+![filmora export panel](https://images.wondershare.com/filmora/article-images/filmora-export-panel-1.jpg)
+
+Tips:
+
+The audio can also be fine-tuned by using the Equalizer feature of Filmora, making the audio sound more natural. Also, the Audio Mixer feature will help you to edit the audio further and save it in MP3 format.
+
+## Part 2: Audacity
+
+Audacity is an open platform for audio recording and editing. It is a very simple-to-use application and can be used to record, play, import, and export any audio files of WAV, MP3, AIFF, and OGG. Audacity also offers mixing tracks and applying special effects to the audios.
+
+First, select the "silent" part of the audio, where only the noise can be heard.
+
+Tap on the Effects menu at the top and select Noise Removal.
+
+![noise reduction](https://images.wondershare.com/filmora/article-images/noise-reduction.jpg)
+
+Tap on the Get Noise Profile option.
+
+![apply audacity noise reduction](https://images.wondershare.com/filmora/filmorapro/apply-noise-reduction.jpg)
+
+Select all the audios from which you wish to remove the background noise.
+
+Now once again, go to the Effects menu and tap on the Noise Removal option.
+
+Adjust the settings if you feel it is necessary and click OK to save the settings.
+
+Listen to the audio clip to ensure the quality has been improved and the noise reduced. And here are the waveforms before and after the noise removal.
+
+![noise wave](https://images.wondershare.com/filmora/article-images/noise-wave.jpg)
+
+Tips:
+
+It is always recommended to reduce the noise before recording audio on Audacity.
+
+## Part 3: VSDC Video Editor
+
+VSDC is a top-notch video editor with various high-end editing tools that allow users to enhance their videos easily. It offers screen recording, voice-overs, color correction, and even the green screen effect. To help you refine your videos to the highest quality, you can use the noise removal tool in VSDC.
+
+Here are the easy steps to de-noise audio:
+
+Open the VSDC video editor. Then click on the Editor tab and click on Run Sprite Wizard or Audio.
+
+![run sprite wizard](https://images.wondershare.com/filmora/article-images/1-run-sprite-wizard.jpg)
+
+Select a file to be imported or drag and drop it to the slides. Click Apply Settings to proceed.
+
+![apply audio settings](https://images.wondershare.com/filmora/article-images/2-apply-audio-settings.jpg)
+
+Open the Audio effects drop-down menu, tap on Filters, and finally on Gate.
+
+![audio effects](https://images.wondershare.com/filmora/article-images/3-audio-effects.jpg)
+
+Now, adjust the threshold level in the right panel by reducing it.
+
+![adjust threshold value](https://images.wondershare.com/filmora/article-images/4-adjust-threshold-level.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Similarly, adjust the Attack and Release levels to reduce the background noise.
 
@@ -1018,24 +1018,17 @@ Detailed tutorials provided by the official channel
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-mastering-memes-kinemaster-guide/"><u>[New] 2024 Approved Mastering Memes KineMaster Guide</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-top-picks-8-must-have-wallpapers-for-macos-users/"><u>[New] Top Picks 8 Must-Have Wallpapers for MacOS Users</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-boosting-earnings-in-the-quick-flicks-of-youtube-shorts/"><u>[Updated] In 2024, Boosting Earnings in the Quick Flicks of YouTube Shorts</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-the-intersection-of-brain-research-and-strategic-business-management/"><u>[Updated] In 2024, The Intersection of Brain Research and Strategic Business Management</u></a></li>
-<li><a href="https://techtrends.techidaily.com/flacwavmovavimobile/"><u>「FLACファイルからWAVへの変換手順：Movavi・Mobile版ガイド」</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/boosting-daily-routines-leveraging-chatgpt-for-effective-time-planning/"><u>Boosting Daily Routines: Leveraging ChatGPT for Effective Time Planning</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/exploring-the-features-comprehensive-review-of-the-mobvoi-ticwatch-pro-connectivity-marvel/"><u>Exploring the Features: Comprehensive Review of the Mobvoi Ticwatch Pro Connectivity Marvel</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/fixing-the-issue-how-to-get-your-corsair-hs35-microphone-functional-on-windows/"><u>Fixing the Issue: How to Get Your Corsair HS35 Microphone Functional on Windows</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/football-manager-2020-solved-no-more-game-crashes/"><u>Football Manager 2020: Solved - No More Game Crashes!</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-samsung-galaxy-m54-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Samsung Galaxy M54 5G | Dr.fone</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-extract-srt-from-zip-simple-subtitle-file-creation-tips/"><u>In 2024, Extract SRT From ZIP Simple Subtitle File Creation Tips</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/master-iphone-cams-with-these-hacks/"><u>Master iPhone Cams with These Hacks</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/overcoming-performance-hiccups-in-urban-planning-simulator-skyline-edition-pc-guide/"><u>Overcoming Performance Hiccups in Urban Planning Simulator Skyline Edition - PC Guide</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/red-dead-redemption-2-performance-optimized-no-more-lag-or-drops/"><u>Red Dead Redemption 2 Performance Optimized - No More Lag or Drops</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ts-to-successful-youtube-filmmaking-with-pc-editing-software-for-2024/"><u>Secrets to Successful YouTube Filmmaking with PC Editing Software for 2024</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/solve-your-minecraft-woes-a-step-by-step-guide-to-fixing-error-code-crossbow/"><u>Solve Your Minecraft Woes: A Step-by-Step Guide to Fixing Error Code: Crossbow</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-9-deceptive-chatgpt-imposters-that-could-compromise-your-information/"><u>Top 9 Deceptive ChatGPT Imposters That Could Compromise Your Information</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/troubleshooting-guide-unstuck-baldurs-gate-iii-from-your-computer/"><u>Troubleshooting Guide: Unstuck Baldur's Gate III From Your Computer</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/wireless-warfare-airpods-pro-versus-galaxy-buds-pro-face-off/"><u>Wireless Warfare: AirPods Pro Versus Galaxy Buds Pro Face-Off</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-finest-budget-friendly-photo-processors-online/"><u>[Updated] The Finest Budget-Friendly Photo Processors Online</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-iphoneandroid-autoplay-continuous-youtube-access/"><u>2024 Approved IPhone/Android AutoPlay Continuous YouTube Access</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-analysis-of-the-unistellar-odyssey-pro-redefining-astronomy-for-tech-savvy-enthusiasts/"><u>Comprehensive Analysis of the Unistellar Odyssey Pro – Redefining Astronomy for Tech-Savvy Enthusiasts</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-do-you-unlock-your-apple-iphone-6-learn-all-4-methods-drfone-by-drfone-ios/"><u>In 2024, How Do You Unlock your Apple iPhone 6? Learn All 4 Methods | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-inspiring-visual-collages-a-kaleidoscope-for-the-soul/"><u>In 2024, Inspiring Visual Collages A Kaleidoscope for the Soul</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/in-2024-the-ultimate-guide-to-removing-speech-from-recordings-using-adobe-audition/"><u>In 2024, The Ultimate Guide to Removing Speech From Recordings Using Adobe Audition</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-from-raw-footage-to-hit-vids-a-step-by-step-guide-for-editors-for-2024/"><u>New From Raw Footage to Hit Vids A Step-by-Step Guide for Editors for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-precision-listening-top-audio-customization-techniques/"><u>New In 2024, Precision Listening Top Audio Customization Techniques</u></a></li>
+<li><a href="https://games-able.techidaily.com/steams-economic-trajectory-of-video-games/"><u>Steam's Economic Trajectory of Video Games</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-ultimate-instructions-for-prolonged-iphone-shots/"><u>The Ultimate Instructions for Prolonged iPhone Shots</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-top-10-bgm-audio-archives/"><u>Updated 2024 Approved Top 10 BGM Audio Archives</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-unveiling-magix-samplitudes-capabilities-are-they-superseding-competitors/"><u>Updated Unveiling MAGIX Samplitudes Capabilities Are They Superseding Competitors?</u></a></li>
 </ul></div>
 

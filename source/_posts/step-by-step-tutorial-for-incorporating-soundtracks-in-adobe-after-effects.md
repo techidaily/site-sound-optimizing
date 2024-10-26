@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Tutorial for Incorporating Soundtracks in Adobe After Effects
-date: 2024-09-28T00:24:41.922Z
-updated: 2024-10-02T23:00:46.851Z
+date: 2024-10-19T01:02:04.211Z
+updated: 2024-10-26T05:47:54.540Z
 tags: 
   - audio editing software
   - audio editing
@@ -82,6 +82,13 @@ Once a new project starts, tap on 'File' followed by "Import Media." Select the 
 
 ![import your audio file](https://static.wondershare.com/images-filmora/images/article/add-audio-to-after-effects-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 3: Drag Audio to Timeline**
 
 To perform different edits across the audio, the user needs to drag the audio on the timeline.
@@ -93,6 +100,13 @@ To perform different edits across the audio, the user needs to drag the audio on
 Once you are done editing the audio, you can easily save it across your device. For that, tap on "Export" to open a new window. Across the "Local" section, select "MP3" from the list of formats and figuratively set all the other settings before tapping on "Export."
 
 ![click on export button](https://static.wondershare.com/images-filmora/images/article/add-audio-to-after-effects-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### 3\.  FL Studio 12.1.2
 
@@ -130,13 +144,6 @@ Working with audio files in Adobe After Effects would be challenging since it is
 
 ![add audio in after effects](https://images.wondershare.com/filmora/article-images/add-audio-in-after-effects.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3\. Import the audio file to the project file as well (that is required to be added).
 
 4\. Make sure to convert the audio file to .mp3 format.
@@ -148,13 +155,6 @@ Working with audio files in Adobe After Effects would be challenging since it is
 6\. Adjust the audio settings. Double click "L" on you keyboard to show the audio waveform.
 
 ![add audio in after effects](https://images.wondershare.com/filmora/article-images/audio-waveform-in-after-effects.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Check this video tutorial to know the details on adding, adjusting audio in After Effects
 
@@ -202,6 +202,13 @@ Once you are done editing the audio, you can easily save it across your device. 
 
 ![click on export button](https://static.wondershare.com/images-filmora/images/article/add-audio-to-after-effects-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### 3\.  FL Studio 12.1.2
 
 This digital editing workstation is definitely not for beginners. Trained professionals who are familiar with editing software will not have a lot of trouble adjusting to this format. This is a professional tool that offers a convenient platform for editing and mixing.
@@ -251,6 +258,19 @@ Working with audio files in Adobe After Effects would be challenging since it is
 ![add audio in after effects](https://images.wondershare.com/filmora/article-images/audio-waveform-in-after-effects.jpg)
 
 Check this video tutorial to know the details on adding, adjusting audio in After Effects
+
+<!-- affiliate ads begin -->
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5 Best Audio Editing Software to Add Audio to Video
 
@@ -477,6 +497,13 @@ Drag video from file tray to the Video Timeline. Right-click it and select "Audi
 
 ![remove audio from video file](https://images.wondershare.com/images/multimedia/video-editor/output.jpg "remove audio from video file")
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Double click the file in Video Timeline to check if this is what you want. If necessary, you can add some music files that fit this video. Or directly click "Create" to export only the video track. Pick your wanted format to save it on your computer in the pop-up format window.
 
 ##### Versatile Video Editor - Wondershare Filmora
@@ -496,13 +523,6 @@ For Win 7 or later (64-bit)
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
 For macOS 10.12 or later
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Why Choose Wondershare Filmora
 
@@ -539,13 +559,6 @@ Drag video from file tray to the Video Timeline. Right-click it and select "Audi
 ### 3\. Save the video
 
 ![remove audio from video file](https://images.wondershare.com/images/multimedia/video-editor/output.jpg "remove audio from video file")
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Double click the file in Video Timeline to check if this is what you want. If necessary, you can add some music files that fit this video. Or directly click "Create" to export only the video track. Pick your wanted format to save it on your computer in the pop-up format window.
 
@@ -739,13 +752,6 @@ A complete range of tutorials also supports adobe Audition to help you get the m
 
 ![Adobe Audition](https://images.wondershare.com/filmora/article-images/audition.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Section 3\. How to choose Music Editor for Mac users?
 
 Choosing a music editor for Mac, including the ability to edit and output to MP3 and MP4 formats, depends entirely on your needs. If your needs are modest and limited features or functionality work for you, several free-to-use options will get the job done. If you need more robust functionality and professional quality, a pay program will offer more satisfying performance. Keep in mind the following questions when making your choice:
@@ -772,13 +778,6 @@ So how do you choose a music editor for Mac that can do everything you want? In 
 ## Section 1\. Free Music Editors for Mac
 
 Free-to-use is great, especially when you get all the performance and features you need in a music editor. Two free music and audio editors for Mac we recommend are:
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. Audio Editor: OcenAudio
 
@@ -827,10 +826,16 @@ A complete range of tutorials also supports adobe Audition to help you get the m
 ![Adobe Audition](https://images.wondershare.com/filmora/article-images/audition.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Section 3\. How to choose Music Editor for Mac users?
@@ -856,6 +861,13 @@ Detailed tutorials provided by the official channel
 
 So how do you choose a music editor for Mac that can do everything you want? In this article, we will share with you some music editors that you can use on Mac computer. Let's move on.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Section 1\. Free Music Editors for Mac
 
 Free-to-use is great, especially when you get all the performance and features you need in a music editor. Two free music and audio editors for Mac we recommend are:
@@ -868,6 +880,13 @@ OcenAudio supports MP3, WAV, FLAC, WMA, and many other audio formats.
 
 ![ocenaudio](https://images.wondershare.com/filmora/article-images/ocenaudio.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. MP3 Editor: Audacity
 
 **Audacity** is free and also has to go for it, a simple and intuitive interface that is easy for beginners. It also has a surprisingly extensive list of features, options, and effects, including spectrographic analysis, undo/redo function, and more.
@@ -875,13 +894,6 @@ OcenAudio supports MP3, WAV, FLAC, WMA, and many other audio formats.
 Audacity supports many formats, including WAV, AIFF, FLAC, MP2, MP3, and OGG.
 
 ![Audacity](https://images.wondershare.com/filmora/article-images/audacity.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Section 2\. Professional Quality Music Editors for Mac
 
@@ -1023,17 +1035,24 @@ Detailed tutorials provided by the official channel
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-efficient-techniques-for-secure-and-effective-lecture-capturing-using-imac-for-2024/"><u>[Updated] Efficient Techniques for Secure and Effective Lecture Capturing Using iMac for 2024</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-tecno-spark-20-proplus-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Tecno Spark 20 Pro+? | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-go-joystick-on-tecno-spark-10-5g-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Tecno Spark 10 5G? | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-transform-your-videos-comprehensive-guide-to-video-enhancer-22/"><u>In 2024, Transform Your Videos Comprehensive Guide to Video Enhancer 2.2</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/in-2024-youtubes-financial-frontier-achieving-video-monetization-mastery/"><u>In 2024, YouTube's Financial Frontier Achieving Video Monetization Mastery</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/install-or-upgrade-the-tp-link-ub400-bluetooth-adapter-software-now/"><u>Install or Upgrade the TP-Link UB400 Bluetooth Adapter Software Now!</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-best-10-websites-to-download-montage-music/"><u>New 2024 Approved Best 10 Websites to Download Montage Music</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-a-comprehensive-handbook-on-crafting-unique-smartphone-melodies/"><u>New A Comprehensive Handbook on Crafting Unique Smartphone Melodies</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-the-editors-playlist-top-tips-for-crafting-memorable-mvs/"><u>New In 2024, The Editors Playlist Top Tips for Crafting Memorable MVs</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-beatbank-your-digital-library-of-dj-masterpieces-for-2024/"><u>Updated BeatBank Your Digital Library of DJ Masterpieces for 2024</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-converting-audacity-audio-productions-to-mp3-format/"><u>Updated Converting Audacity Audio Productions to MP3 Format</u></a></li>
-<li><a href="https://techtrends.techidaily.com/winning-the-battle-against-trustedinstaller-permissions-on-your-windows-11-pc/"><u>Winning the Battle Against TrustedInstaller Permissions on Your Windows 11 PC</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-the-ultimate-guide-to-recording-games-via-steam-for-2024/"><u>[New] The Ultimate Guide to Recording Games via Steam for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-guard-your-camera-top-10-shields-reviewed-for-2024/"><u>[Updated] Guard Your Camera - Top 10 Shields Reviewed for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-elevate-your-youtube-content-editing-in-adobe-premiere/"><u>[Updated] In 2024, Elevate Your YouTube Content Editing in Adobe Premiere</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-revolutionary-techniques-for-chronological-categorization-of-photographs/"><u>2024 Approved Revolutionary Techniques for Chronological Categorization of Photographs</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/compact-superzoom-camera-a-deep-dive-into-sx720hs-features/"><u>Compact Superzoom Camera: A Deep Dive Into SX720HS Features</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/complete-guide-to-video-studios-focusing-on-xvideo-for-2024/"><u>Complete Guide to Video Studios Focusing on XVideo for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-review-is-the-microsoft-sculpt-keyboard-a-smart-cost-effective-choice/"><u>Comprehensive Review: Is the Microsoft Sculpt Keyboard a Smart, Cost-Effective Choice?</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/expert-virtual-audio-fusion-and-cutting-program/"><u>Expert Virtual Audio Fusion and Cutting Program</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-infinix-hot-30-5g-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Infinix Hot 30 5G If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/in-2024-mastering-ai-powered-vocal-replication-two-techniques-for-authenticity/"><u>In 2024, Mastering AI-Powered Vocal Replication Two Techniques for Authenticity</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-itel-a60-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Itel A60? | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-short-form-content-breakdown-now/"><u>In 2024, Short Form Content Breakdown Now!</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-premiere-pro-essentials-how-to-seamlessly-integrate-sound-with-visuals/"><u>New 2024 Approved Premiere Pro Essentials How to Seamlessly Integrate Sound with Visuals</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/rapid-method-for-silencing-audio-in-audacity-essential-tips/"><u>Rapid Method for Silencing Audio in Audacity Essential Tips</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/ultimate-3-auditory-enhancement-devices-for-mp3-files/"><u>Ultimate 3 Auditory Enhancement Devices for MP3 Files</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-audio-free-video-formats-mastering-the-art-of-silence-removal-in-popular-file-types-mp4-mkv-avi-mov-wmv/"><u>Updated In 2024, Audio-Free Video Formats Mastering the Art of Silence Removal in Popular File Types (MP4, MKV, AVI, MOV, WMV)</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-streamlined-methods-for-obtaining-pitched-ding-sound-files-online-the-top-10-list/"><u>Updated Streamlined Methods for Obtaining Pitched Ding Sound Files Online - The Top 10 List</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-streamlining-speaker-audio-in-microsoft-powerpoint-cross-platform-solutions-for-windows-and-mac/"><u>Updated Streamlining Speaker Audio in Microsoft PowerPoint Cross-Platform Solutions for Windows and Mac</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-unveiling-the-essence-of-sound-pairing-waveforms-with-dynamic-animations-for-adobe-premiere-pro-creatives-for-2024/"><u>Updated Unveiling the Essence of Sound Pairing Waveforms with Dynamic Animations for Adobe Premiere Pro Creatives for 2024</u></a></li>
 </ul></div>
 
