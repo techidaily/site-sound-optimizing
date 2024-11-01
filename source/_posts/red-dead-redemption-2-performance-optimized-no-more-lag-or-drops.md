@@ -1,7 +1,7 @@
 ---
 title: Red Dead Redemption 2 Performance Optimized - No More Lag or Drops
-date: 2024-10-24T23:52:25.861Z
-updated: 2024-10-26T11:55:06.102Z
+date: 2024-10-28T18:52:46.678Z
+updated: 2024-11-01T02:34:46.108Z
 tags:
   - win11
   - win10
@@ -40,27 +40,20 @@ thumbnail: https://thmb.techidaily.com/ddfdfc8e69381106d1b66c2809b663a8f7e41d96d
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click**Check for updates** . Windows will then download and install the available patches. It might take some time (up to 30 mins).  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  To confirm you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** .
 
 After installing all the updates, restart your PC and check the gameplay.
 
  If RDR2 still stutters on your latest system, you can try the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Change power plan to Ultimate performance
 
@@ -73,42 +66,29 @@ After installing all the updates, restart your PC and check the gameplay.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-ultimate-performance.jpg)
 3. On your keyboard, press Win (the Windows logo key) and type **cmd** . Select **Run as Administrator** .  
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/run-cmd-as-administrator.jpg)
 4. In the command prompt, type or paste the following command and press **Enter** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61  
  If you see a prompt similar to this, **return to step 2** to enable the Ultimate Performance power plan.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-cmd-unhide-ultimate-performance.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Now you can start RDR2 and check if it stutters again.
 
  If this fix doesn’t give you luck, you can continue to the next one below.
 
 <!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
@@ -125,16 +105,10 @@ Now you can start RDR2 and check if it stutters again.
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 
 <!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  (This requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
@@ -147,10 +121,16 @@ Now you can start RDR2 and check if it stutters again.
  If the latest GPU driver doesn’t do the trick for you, you can move on to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
-  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Enable HAGs
@@ -170,10 +150,10 @@ Now you can start RDR2 and check if it stutters again.
 4. Turn on **Hardware-accelerated GPU scheduling** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/hags-4.jpg)
@@ -188,6 +168,20 @@ If HAGs doesn’t work for you, you can try the next method.
  The Red Dead Redemption series is also famous for the large number of mods. There’s a mod that allows players to turn themselves into animals, and one with which gamers can fly in a hot air balloon. Though fun, it’s worth noting that mods might be the culprit of your FPS issues. So if you’re using any mods in RDR2, turn them off and see how it goes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/rdr2-hot-air-balloon.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Fine tune in-game settings
 
@@ -228,24 +222,24 @@ You can now test your gameplay and see if the game lags again.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-faster-phonetic-playback-choose-from-these-10/"><u>[New] In 2024, Faster Phonetic Playback Choose From These 10</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-the-top-10-stealthy-story-audiences/"><u>[New] In 2024, The Top 10 Stealthy Story Audiences</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-professional-photography-hacks-perfecting-motion-blur-with-adobe-tools-for-2024/"><u>[New] Professional Photography Hacks Perfecting Motion Blur with Adobe Tools for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-creating-channel-names-that-capture-attention-for-2024/"><u>[Updated] Creating Channel Names That Capture Attention for 2024</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/1722985015934-defeat-scavengers-on-windows-ultimate-winning-strategies-unveiled/"><u>Defeat Scavengers on Windows: Ultimate Winning Strategies Unveiled!</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/discovering-the-strength-in-size-with-the-unihertz-atom-xl-a-review-of-its-impressive-features/"><u>Discovering the Strength in Size with the Unihertz Atom XL: A Review of Its Impressive Features</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/evaluating-the-value-life-q30-anc-hearing-gadgets-analysis/"><u>Evaluating the Value: Life Q30 ANC Hearing Gadgets Analysis</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/experience-flawless-singing-with-the-user-friendly-and-colorful-singing-machine-sml385btbk/"><u>Experience Flawless Singing with the User-Friendly and Colorful Singing Machine SML385BTBK!</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/1723002391563-fallout-asterisk-76-server-connection-issues-heres-how-to-resolve-them-on-windows/"><u>Fallout Asterisk 76 Server Connection Issues? Here's How to Resolve Them on Windows</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fixing-the-missing-final-line-error-on-iphones-effective-troubleshooting-techniques/"><u>Fixing the Missing Final Line Error on iPhones – Effective Troubleshooting Techniques</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/high-res-webcam-videos-in-minutes-a-step-guide-for-2024/"><u>High-Res Webcam Videos in Minutes A Step Guide for 2024</u></a></li>
-<li><a href="https://solve-latest.techidaily.com/how-to-save-your-favorite-christmas-films-on-youtube-for-enjoyment-anywhere-even-without-internet/"><u>How to Save Your Favorite Christmas Films on YouTube for Enjoyment Anywhere, Even Without Internet</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-the-ultimate-guide-sharing-your-private-youtube-snippets-via-email/"><u>In 2024, The Ultimate Guide Sharing Your Private YouTube Snippets via Email</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-honor-magic-5-lite-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Honor Magic 5 Lite Phone Network-Ready</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/is-it-possible-to-learn-nutritious-cooking-with-chatgpts-guidance/"><u>Is It Possible To Learn Nutritious Cooking With ChatGPT's Guidance?</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/mount-and-blade-ii-bannerlord-resolving-game-crash-issues/"><u>Mount & Blade II: Bannerlord - Resolving Game Crash Issues</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/pathfinder-wrath-of-the-righteous-not-loading-up-try-these-fixes-first/"><u>Pathfinder: Wrath of the Righteous Not Loading Up? Try These Fixes First</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/premium-twelve-full-frame-video-tech-lists/"><u>Premium Twelve Full Frame Video Tech Lists</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/unstuck-discords-silent-treatment-repairing-the-push-to-talk-issue/"><u>Unstuck Discord's Silent Treatment: Repairing the Push-to-Talk Issue</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-2-easy-ways-to-record-google-meet/"><u>[New] In 2024, 2 Easy Ways to Record Google Meet</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-masterful-methods-to-log-lol-bouts/"><u>[New] In 2024, Masterful Methods to Log LOL Bouts</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-leading-tech-for-cloud-saving-top-choices-for-android/"><u>[New] Leading Tech for Cloud Saving Top Choices for Android</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-visual-storytelling-at-its-finest-youtube-trailers-through-filmoras-lens/"><u>[Updated] Visual Storytelling at Its Finest YouTube Trailers Through Filmora's Lens</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/2024-approved-dynamic-sound-design-modifying-audio-velocity-and-frequency-in-adobe-rush/"><u>2024 Approved Dynamic Sound Design Modifying Audio Velocity & Frequency in Adobe Rush</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/balancing-the-scales-normalizing-sound-volume-for-optimal-viewing-with-vlc/"><u>Balancing the Scales Normalizing Sound Volume for Optimal Viewing with VLC</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/hear-it-here-first-effective-techniques-for-capturing-and-storing-computer-based-audio-files-in-episodic-format-for-2024/"><u>Hear It Here First Effective Techniques for Capturing and Storing Computer-Based Audio Files in Episodic Format for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-nokia-130-music-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Nokia 130 Music Phone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-reset-apple-id-and-apple-password-on-iphone-6-plus-by-drfone-ios/"><u>How to Reset Apple ID and Apple Password On iPhone 6 Plus</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/in-2024-sonic-imagery-graphically-representing-audio-and-crafting-animation-masterpieces-in-adobe-after-effects/"><u>In 2024, Sonic Imagery Graphically Representing Audio & Crafting Animation Masterpieces in Adobe After Effects</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-techniques-to-achieve-crystal-clear-youtube-soundtracks/"><u>In 2024, Techniques to Achieve Crystal-Clear YouTube Soundtracks</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/navigating-audacity-how-to-archive-desktop-audio-on-your-pc/"><u>Navigating Audacity How to Archive Desktop Audio on Your PC</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-from-live-action-to-toon-town-how-to-turn-videos-into-cartoons/"><u>New 2024 Approved From Live-Action to Toon Town How to Turn Videos Into Cartoons</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-perfect-pitch-with-autotune-installation-tutorial-for-audacity-enthusiasts/"><u>New 2024 Approved Perfect Pitch with Autotune Installation Tutorial for Audacity Enthusiasts</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-mastering-tiktok-sound-control-simple-methods-for-quieting-videos/"><u>New In 2024, Mastering TikTok Sound Control Simple Methods for Quieting Videos</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-top-5-digital-audio-editors-for-optimal-sound-quality-for-2024/"><u>New Top 5 Digital Audio Editors for Optimal Sound Quality for 2024</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/smartdesk-levitate-unveiled-challenging-assembly-process-meets-satisfactory-functionality-reviewed/"><u>SmartDesk Levitate Unveiled: Challenging Assembly Process Meets Satisfactory Functionality Reviewed</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/starlit-secrets-dos-and-donts-of-astrophotography/"><u>Starlit Secrets Do's & Don'ts of Astrophotography</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-leading-audio-time-reverse-programs-a-comprehensive-list-for-desktop-and-smartphone-users/"><u>Updated Leading Audio Time-Reverse Programs A Comprehensive List for Desktop and Smartphone Users</u></a></li>
 </ul></div>
 

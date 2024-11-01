@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Unstuck Baldur's Gate III From Your Computer"
-date: 2024-10-22T12:08:21.833Z
-updated: 2024-10-25T20:09:01.475Z
+date: 2024-10-27T23:45:24.194Z
+updated: 2024-10-31T22:43:19.585Z
 tags:
   - win11
   - win10
@@ -35,10 +35,10 @@ thumbnail: https://thmb.techidaily.com/9ce1efb4d78691d1fda3d25f6e0de4e7036d8fbbf
 11. **[Reinstall the game](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Update your graphics drivers
@@ -56,6 +56,13 @@ thumbnail: https://thmb.techidaily.com/9ce1efb4d78691d1fda3d25f6e0de4e7036d8fbbf
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-scan-screen.png)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. You’ll need the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) to do this and you’ll be prompted to upgrade.  
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Don’t worry; it comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund, no questions asked.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-Update-all-drivers.png)  
@@ -82,11 +89,25 @@ Here are the system requirements for Control:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/Control-system-requirements.png)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  _The system requirements information is captured from Epic Games Launcher_
 
  If you’re currently running Control with DirectX 12, it’s recommended that you run Control**with DirectX 11** to avoid the game crash issues.
 
  Restart the game to see if this fix works, if not, try the next fix below to modify your graphics card settings.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Modify your graphics card settings
 
@@ -106,6 +127,13 @@ Here are the system requirements for Control:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select **NVIDIA Control Panel**  to open it.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/nividia-control-panel.jpg)
 4. Click **3D Settings** and select **Adjust image settings with preview** . Then select **Use my preference emphasizing** and **drag the slider to the left** .  
@@ -133,23 +161,31 @@ Here are the system requirements for Control:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select Intel Graphics Settings to open it.  
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-Graphics-Settings.jpg)
 4. Click 3D to open the 3D settings.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings.jpg)
 5. Click Scan to add the game to the application list.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-2.png)
 6. Modify the settings the same way you see in the screenshot below.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-3.png)
 7. Click **Apply** to save the settings.  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-4.jpg)
 
@@ -178,13 +214,6 @@ Here are the system requirements for Control:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/Check-for-updates.png)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If there are no updates related to MS Visual C++ or .NET Framework from Windows Update, you can download their installation files via the links below on your own and manually install them on your PC.
 
 **Microsoft Visual C++ 2013** :  
@@ -209,22 +238,15 @@ Here are the system requirements for Control:
 2. Click **Verify** to start verifying the game files.  
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-19_18-50-45.png)
 
  Launch Control again after you verified the integrity of the game files. If this issue persists, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 9: Add Control as an exception to your 3rd party antivirus software
 
@@ -242,31 +264,10 @@ Here are the system requirements for Control:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-12_12-24-18.png)
 2. In the Properties Window, navigate to**the Compatibility tab** , check the box next to**Run this program in compatibility mode for:** and select**Windows 7** from the drop-down list. Check the box next to**Run as an administrator** and then click**OK** to save the changes.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-12_14-25-41.png)
 3. Double-click the shortcut of Control on your desktop to launch it. This time Control will run in the compatibility mode you set in step 2.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 See if this fix works for you. If not, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 11: Reinstall the game
 
@@ -294,20 +295,22 @@ See if this fix works for you. If not, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-expanding-digital-presence-stream-to-youtube-plus-additional-platforms/"><u>[New] 2024 Approved Expanding Digital Presence Stream to YouTube + Additional Platforms</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-coolest-minecraft-mansion-projects-revealed-for-2024/"><u>[New] Coolest Minecraft Mansion Projects Revealed for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-elevating-your-podcasts-online-presence-via-seo/"><u>[Updated] Elevating Your Podcast's Online Presence via SEO</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-the-ultimate-hitchhikers-guide-to-youtube-playlists/"><u>[Updated] The Ultimate Hitchhiker's Guide to YouTube Playlists</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-memo-menagerie-the-ultimate-list-of-meme-generators/"><u>2024 Approved Memo Menagerie The Ultimate List of Meme Generators</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-step-into-success-mastering-tagging-for-engaging-content/"><u>2024 Approved Step Into Success Mastering Tagging for Engaging Content</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/downloading-samfw-frp-tool-30-for-realme-c51-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Realme C51</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/elevating-your-voice-how-to-enhance-your-podcast-experience-using-audacity-for-2024/"><u>Elevating Your Voice How to Enhance Your Podcast Experience Using Audacity for 2024</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/in-2024-how-to-add-audio-fade-in-effect/"><u>In 2024, How to Add Audio Fade In Effect</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-pioneering-audio-creation-with-lexisedit-a-beginners-blueprint/"><u>New Pioneering Audio Creation with LexisEdit A Beginners Blueprint</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/revolutionizing-communication-real-time-ai-voice-changer/"><u>Revolutionizing Communication Real-Time AI Voice Changer</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-a-soundtrack-journey-unveiling-10-key-spots-to-get-your-digital-music/"><u>Updated 2024 Approved A Soundtrack Journey Unveiling 10 Key Spots to Get Your Digital Music</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-converting-audacity-projects-to-mp3-format/"><u>Updated Converting Audacity Projects to MP3 Format</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-virtual-vistas-of-calm-top-ten-online-journeys-for-mental-clarity-and-stress-relief-this-year/"><u>Updated In 2024, Virtual Vistas of Calm Top Ten Online Journeys for Mental Clarity and Stress Relief This Year</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-top-5-digital-audio-editors-for-optimal-sound-quality-for-2024/"><u>Updated Top 5 Digital Audio Editors for Optimal Sound Quality for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726027810880-windows-10/"><u>画面収め技術：Windows 10のビデオファイル容量変更法</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/anycubic-kobra-3-reviewed-setting-new-standards-in-multicolored-3d-printing-innovation/"><u>Anycubic Kobra 3 Reviewed: Setting New Standards in Multicolored 3D Printing Innovation</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-updated-realtek-chipset-drivers-for-windows-operating-systems-11107/"><u>Download Updated Realtek Chipset Drivers for Windows Operating Systems (11/10/7)</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/downloadable-toolset-reviving-your-hp-laptops-factory-repartitioning-feature-at-no-cost/"><u>Downloadable Toolset: Reviving Your HP Laptop's Factory Repartitioning Feature at No Cost</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/in-2024-audio-enhancement-the-2023-methodology-for-softening-volume-transitions/"><u>In 2024, Audio Enhancement The 2023 Methodology for Softening Volume Transitions</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-honor-magic-6-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Honor Magic 6</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/in-2024-digital-resonance-a-comprehensive-tutorial-for-echo-addition-in-windows-and-web-audio-applications/"><u>In 2024, Digital Resonance A Comprehensive Tutorial for Echo Addition in Windows and Web Audio Applications</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-samsung-galaxy-a34-5g-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Samsung Galaxy A34 5G To Phone | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-the-excellent-ten-of-hexa-flying-drones/"><u>In 2024, The Excellent Ten of Hexa-Flying Drones</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-tranquility-techniques-how-to-mute-and-manage-gmeet-distractions/"><u>In 2024, Tranquility Techniques How to Mute and Manage GMeet Distractions</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-innovative-online-audio-cutter-utilities-the-leading-tools/"><u>New 2024 Approved Innovative Online Audio Cutter Utilities – The Leading Tools</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-how-to-remove-hiss-from-audio-tips-and-tricks/"><u>New How to Remove Hiss From Audio Tips and Tricks</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-premium-audio-transformation-tool-free-mp3-creation-from-mpa-files/"><u>New Premium Audio Transformation Tool Free MP3 Creation From MPA Files</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-oppo-find-x7-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Oppo Find X7 for Parents | Dr.fone</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-how-to-add-audio-fade-out-effect-for-2024/"><u>Updated How to Add Audio Fade Out Effect for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-locate-vocal-noise-sample/"><u>Updated Locate Vocal Noise Sample</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-mastering-sound-clarity-a-guide-to-eliminating-ambient-sounds-in-filmora-for-2024/"><u>Updated Mastering Sound Clarity A Guide to Eliminating Ambient Sounds in Filmora for 2024</u></a></li>
 </ul></div>
 

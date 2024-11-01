@@ -1,7 +1,7 @@
 ---
 title: "No More Silence in Battle Royale: Fixed Guide to Restore Voice Chat on Apex Legends"
-date: 2024-10-24T00:47:28.208Z
-updated: 2024-10-26T06:18:40.086Z
+date: 2024-10-30T03:45:44.205Z
+updated: 2024-11-01T00:09:32.742Z
 tags:
   - win11
   - win10
@@ -30,6 +30,19 @@ thumbnail: https://thmb.techidaily.com/d24bf389d1254603d8aad9f86f16f5f0cd9be072e
 
 ---
 
+<!-- affiliate ads begin -->
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Sign out Fortnite, then sign back in
 
  This is the quickest and easiest fix to try when chat’s not working in Fortnite. Just sign out of the game, then sign back in.
@@ -54,27 +67,7 @@ thumbnail: https://thmb.techidaily.com/d24bf389d1254603d8aad9f86f16f5f0cd9be072e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/Update-all-drivers.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you need assistance, please contact**Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
-
-<!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Install the latest Fortnite patch
 
@@ -88,22 +81,29 @@ thumbnail: https://thmb.techidaily.com/d24bf389d1254603d8aad9f86f16f5f0cd9be072e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap911.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3.**Turn on** the toggle next to **Auto update** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap912.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4\. Restart the Epic Games Launcher.
 
  5\. If a patch is available, it will be detected by the Epic Games Launcher and the latest Fortnite patch will be automatically downloaded and installed when you launch Fortnite.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap898.png)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Run Fortnite again to check whether your chat problem has been resolved. If it hasn’t, or there was no new game patch available, move on to Fix 4, below.
 
@@ -116,24 +116,24 @@ thumbnail: https://thmb.techidaily.com/d24bf389d1254603d8aad9f86f16f5f0cd9be072e
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap427.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2\. Click **Microphone**  on the left pane, and make sure**Microphone access for this device** is**on** , and the status is **On** for **Fortnite** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap428.jpg)
 
-3\. Run Fortnite to see if chat works now. If not, try Fix 5, below.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+3\. Run Fortnite to see if chat works now. If not, try Fix 5, below.
 
 ### Fix 5: Check your audio settings
 
@@ -145,16 +145,16 @@ thumbnail: https://thmb.techidaily.com/d24bf389d1254603d8aad9f86f16f5f0cd9be072e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap925.png)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  ii. Click**the speaker icon** to view the audio settings. Then**turn off Voice Chat** and click**Apply** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap431-1024x576.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 iii. Exit Fortnite.
 
@@ -165,6 +165,13 @@ iii. Exit Fortnite.
  3\. Click the **Playback** tab, select the speakers/headphones you’re using and click **Set Default** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap442-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4\. Click the **Recording** tab, select the microphone you’re using and click **Set Default** .
 
@@ -179,13 +186,6 @@ iii. Exit Fortnite.
  7\. Run Fortnite again to**turn Voice Chat on.**
 
  Join a squad to check ifchat is now working . If not, try the fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Reinstall Fortnite
 
@@ -228,22 +228,18 @@ iii. Exit Fortnite.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-aesthetic-assembly-android-and-ios-video-sets-for-insta/"><u>[New] Aesthetic Assembly Android & iOS Video Sets for Insta</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-is-inshot-surging-above-all-else-in-edits/"><u>[New] Is InShot Surging Above All Else in Edits?</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/2024-approved-master-list-of-prime-online-destinations-for-quality-montage-audio-acquisition/"><u>2024 Approved Master List of Prime Online Destinations for Quality Montage Audio Acquisition</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/audio-enhancement-techniques-in-after-effects-a-comprehensive-2023-guide/"><u>Audio Enhancement Techniques in After Effects A Comprehensive 2023 Guide</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/decoding-and-fixing-epson-error-0x97/"><u>Decoding & Fixing Epson Error 0X97</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/elevate-your-images-with-gorgeous-mosaics/"><u>Elevate Your Images with Gorgeous Mosaics</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-are-there-better-alternatives-to-magix-samplitude-for-professional-sound-design/"><u>New In 2024, Are There Better Alternatives to MAGIX Samplitude for Professional Sound Design?</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-most-popular-websites-offering-montage-audio-archives/"><u>New In 2024, Most Popular Websites Offering Montage Audio Archives</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-navigate-the-world-of-online-file-management-the-five-leading-mp3-taggers-unveiled-for-2024/"><u>New Navigate the World of Online File Management The Five Leading MP3 Taggers Unveiled for 2024</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-the-ultimate-guide-to-integrating-audacity-into-your-ubuntu-workflow-from-installation-to-uninstallation/"><u>New The Ultimate Guide to Integrating Audacity Into Your Ubuntu Workflow - From Installation to Uninstallation</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/pioneering-animated-film-series-the-top-15-list-for-2024/"><u>Pioneering Animated Film Series The Top 15 List for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-oppo-find-n3-flip-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Oppo Find N3 Flip Device</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-best-mp4-codec-of-2023-for-efficient-video-file-conversion-explained/"><u>The Best MP4 Codec of 2023 for Efficient Video File Conversion Explained</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/the-prime-mac-screen-capture-options-for-2024/"><u>The Prime Mac Screen Capture Options for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-honor-x50iplus-by-drfone-android/"><u>Three Ways to Sim Unlock Honor X50i+</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-song-selection-spectrum-discovering-the-perfect-soundtrack-for-every-montage-visionary-project/"><u>Updated In 2024, Song Selection Spectrum Discovering the Perfect Soundtrack for Every Montage Visionary Project</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-navigating-the-best-online-platforms-for-acquiring-and-sharing-bgm/"><u>Updated Navigating the Best Online Platforms for Acquiring and Sharing BGM</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-creating-eastern-villas-in-the-virtual-realm-for-2024/"><u>[Updated] Creating Eastern Villas in the Virtual Realm for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/commanding-ai-premier-online-training-series/"><u>Commanding AI: Premier Online Training Series</u></a></li>
+<li><a href="https://win-help.techidaily.com/comprendere-le-differenze-tra-backup-incrementale-e-differenziale-per-la-sicurezza-dei-dati/"><u>Comprendere Le Differenze Tra Backup Incrementale E Differenziale per La Sicurezza Dei Dati</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-oppo-a2-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Oppo A2 | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-filmmakers-toolkit-essential-tips-for-youtube-creators-with-smartphones/"><u>In 2024, The Filmmaker's Toolkit Essential Tips for YouTube Creators with Smartphones</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-best-10-websites-to-download-montage-music/"><u>New 2024 Approved Best 10 Websites to Download Montage Music</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-speedy-silencing-eradicating-static-and-white-noise-from-audio-tracks/"><u>New 2024 Approved Speedy Silencing Eradicating Static and White Noise From Audio Tracks</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-the-editors-playlist-top-tips-for-crafting-memorable-mvs/"><u>New In 2024, The Editors Playlist Top Tips for Crafting Memorable MVs</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-unraveling-the-podcast-puzzle-a-step-by-step-approach-to-download-store-and-manage-auditory-media-on-computers/"><u>New Unraveling the Podcast Puzzle A Step-by-Step Approach to Download, Store, and Manage Auditory Media on Computers</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/p2715q-4k-display-unveiled-a-comprehensive-analysis-for-2024/"><u>P2715Q 4K Display Unveiled A Comprehensive Analysis for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/perfecting-bokeh-mastering-instagram-story-blur-for-2024/"><u>Perfecting Bokeh Mastering Instagram Story Blur for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/1714938257230-updated-2024-approved-how-to-make-your-voice-deeper-with-filmora/"><u>Updated 2024 Approved How to Make Your Voice Deeper With Filmora</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-beatbank-your-digital-library-of-dj-masterpieces-for-2024/"><u>Updated BeatBank Your Digital Library of DJ Masterpieces for 2024</u></a></li>
 </ul></div>
 

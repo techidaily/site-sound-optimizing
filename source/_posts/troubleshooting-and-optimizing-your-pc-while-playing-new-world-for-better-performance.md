@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting and Optimizing Your PC While Playing New World for Better Performance
-date: 2024-10-19T04:51:22.655Z
-updated: 2024-10-26T10:59:29.072Z
+date: 2024-10-31T02:28:56.813Z
+updated: 2024-11-01T05:52:00.522Z
 tags:
   - win11
   - win10
@@ -29,6 +29,13 @@ Released in November,**Call of Duty: Vanguard** is one of the hottest game title
 6. **[Close background apps](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Make sure your system is up to date](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Repair system files
 
  If the fixes above failed to solve the crashes, it might point to a corrupt or missing game file. Many Vanguard players find restoring system files helps them get rid of random crashes. There’re two ways to repair your system files:
@@ -49,6 +56,13 @@ Here’s how to use Fortect to run a Windows repair:
 3. Once finished, Fortectwill generate a detailed report of your computer health, which includes all issues detected.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)  
  To fix all the issues automatically, click **Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4. Restart your computer for the changes to take effect.
 5. Check your computer to see if the game still crashes.
@@ -89,10 +103,10 @@ Here’s how to use Fortect to run a Windows repair:
 **Note** : You can do it for free if you like, but it’s partly manual.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Restart your PC for the changes to take effect.
@@ -126,13 +140,6 @@ To check the specs of your PC:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/display-1.png)
 4. Close DirectX.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If your PC specs have been up to the mark but Call of Duty: Vanguard still crashes, please move on to **Fix 4** , below to begin troubleshooting.
 
 ### Fix 4: Scan & repair Vanguard game files
@@ -145,16 +152,10 @@ To check the specs of your PC:
 3. Click **Begin Scan** , then wait a while as the tool scans and repairs your game installation.
 
 <!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Launch Vanguard again and check to see if the crashing issue still occurs.
@@ -168,10 +169,10 @@ To check the specs of your PC:
 Cod Vanguard crashing still not resolved? Please try Fix 6, below.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 6: Close background apps
@@ -185,14 +186,14 @@ Cod Vanguard crashing still not resolved? Please try Fix 6, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/123.png)
 3. Restart your computer.
 
-4. Test the gameplay in Vanguard and see if the crashing issue is fixed. If yes, congrats! If it’s still no joy, please move on to**Fix 7** , below.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+4. Test the gameplay in Vanguard and see if the crashing issue is fixed. If yes, congrats! If it’s still no joy, please move on to**Fix 7** , below.
 
 ### Fix 7: Make sure your system is up to date
 
@@ -205,21 +206,14 @@ Here are the steps:
 2. Click **Check for updates** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/cc.png)
 3. Wait a while for Windows to check and automatically install the updates for you.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Restart your computer.
 
@@ -244,24 +238,24 @@ Here are the steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-ryan-kaji-youthful-wealth-through-internet-popularity/"><u>[New] 2024 Approved Ryan Kaji Youthful Wealth Through Internet Popularity</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/irect-youtube-file-access-tips-for-2024/"><u>[New] Direct YouTube File Access Tips for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-complete-guide-to-capturing-ps4-games-via-obs/"><u>[Updated] Complete Guide to Capturing PS4 Games via OBS</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-effortless-online-guide-youtube-video-to-gif-magic-no-download/"><u>[Updated] In 2024, Effortless Online Guide YouTube Video to GIF Magic (No Download)</u></a></li>
-<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-motorola-edge-40-neo-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Motorola Edge 40 Neo by Name | Dr.fone</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/best-noise-canceling-tools-top-choices-for-clean-audio-for-2024/"><u>Best Noise-Canceling Tools Top Choices for Clean Audio for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/from-movies-to-music-playlists-the-contrast-between-home-theater-systems-and-stereo-setups/"><u>From Movies to Music Playlists - The Contrast Between Home Theater Systems and Stereo Setups</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/how-to-add-audio-to-mkv-2023-update-for-2024/"><u>How to Add Audio to MKV-2023 Update for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/hunt-down-the-best-savings-tune-into-amazing-offers-on-tribit-smart-earphones-and-bass-boosted-wireless-speakers-this-prime-day/"><u>Hunt Down the Best Savings - Tune Into Amazing Offers on Tribit Smart Earphones and Bass-Boosted Wireless Speakers This Prime Day</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/in-2024-identifying-sources-for-authentic-canine-symphony-sounds/"><u>In 2024, Identifying Sources for Authentic Canine Symphony Sounds</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-constructing-an-elegant-transition-for-decreasing-auditory-intensity/"><u>New Constructing an Elegant Transition for Decreasing Auditory Intensity</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-transforming-podcast-content-into-high-quality-mp3-audio-a-step-by-step-guide/"><u>New Transforming Podcast Content Into High-Quality MP3 Audio A Step-by-Step Guide</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/next-gen-cinema-at-home-best-3d-blu-ray-devices-for-2024/"><u>Next-Gen Cinema at Home Best 3D Blu-Ray Devices for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/step-by-step-guide-to-duplicating-your-dvds-with-vlc-or-reliable-alternatives/"><u>Step-by-Step Guide to Duplicating Your DVDs with VLC or Reliable Alternatives</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/transform-your-screen-pip-tutorials-for-macos-enthusiasts-for-2024/"><u>Transform Your Screen PIP Tutorials for macOS Enthusiasts for 2024</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-earning-beats-for-your-ears-the-art-of-accessing-free-audio-music-legally/"><u>Updated 2024 Approved Earning Beats for Your Ears The Art of Accessing FREE Audio Music Legally</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-enriched-sound-experience-synthesizing-audio-waves-and-animating-them-for-premiere-pro-audience/"><u>Updated 2024 Approved Enriched Sound Experience Synthesizing Audio Waves and Animating Them for Premiere Pro Audience</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-a-guide-to-mixing-sound-and-picture-in-quicktime-format-for-2024/"><u>Updated A Guide to Mixing Sound and Picture in QuickTime Format for 2024</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-the-audacity-advantage-effective-methods-for-quieting-audio-distractions-for-2024/"><u>Updated The Audacity Advantage Effective Methods for Quieting Audio Distractions for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-top-iphoness-gif-apps-unveiled/"><u>[Updated] 2024 Approved Top iPhones's GIF Apps Unveiled</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-hidden-gems-6-secret-voice-recorder-apps-for-android-and-ios/"><u>[Updated] In 2024, Hidden Gems! 6 Secret Voice Recorder Apps for Android & iOS</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-wildlife-wonders-at-fingertips-top-mobile-simulators/"><u>[Updated] Wildlife Wonders at Fingertips Top Mobile Simulators</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/2024-approved-how-to-eliminate-background-music-from-your-mp4-videos/"><u>2024 Approved How to Eliminate Background Music From Your MP4 Videos</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/audisynchx-enhancing-audio-cohesion-for-multimedia-projects-using-adobe-premiere-pro/"><u>AudiSynchX Enhancing Audio Cohesion for Multimedia Projects Using Adobe Premiere Pro</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/franskans-movavi-professionell-vidrorning-av-ditt-skarmbearbetare/"><u>Frånskans Movavi: Professionell Vidrörning Av Ditt Skärmbearbetare</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/in-2024-advanced-filmmaking-techniques-silencing-the-distractions-in-your-audio-recordings-with-wondershare-filmora/"><u>In 2024, Advanced Filmmaking Techniques Silencing the Distractions in Your Audio Recordings with Wondershare Filmora</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/in-2024-decoding-the-quest-for-ultimate-sound-engineering-mastery-the-role-of-magix-samplitude/"><u>In 2024, Decoding the Quest for Ultimate Sound Engineering Mastery The Role of MAGIX Samplitude</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-from-honor-magic-5-pro-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Honor Magic 5 Pro FRP Bypass</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-eliminating-background-rattle-a-detailed-process-to-enhance-clarity-during-audio-capture-for-2024/"><u>New Eliminating Background Rattle A Detailed Process to Enhance Clarity During Audio Capture for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-mute-the-movie-guide-to-erasing-auditory-elements-from-various-video-formats-for-2024/"><u>New Mute the Movie Guide to Erasing Auditory Elements From Various Video Formats for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/soundtracks-for-snaps-a-guide-to-video-audio-selection-for-2024/"><u>Soundtracks for Snaps A Guide to Video Audio Selection for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tongue-twisters-topic-gpt3-vs-translates-skills/"><u>Tongue Twisters Topic: GPT3 Vs. Translate's Skills</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/transforming-rmvb-files-to-avi-format-a-step-by-step-guide-for-quick-and-cost-free-conversion-online/"><u>Transforming RMVB Files to AVI Format: A Step-by-Step Guide for Quick & Cost-Free Conversion Online</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-get-moving-10-best-free-video-speed-controller-apps-for-iphone-and-android-for-2024/"><u>Updated Get Moving 10 Best Free Video Speed Controller Apps for iPhone and Android for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-techniques-for-eradicating-background-echoes-quickly/"><u>Updated In 2024, Techniques for Eradicating Background Echoes Quickly</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-your-ultimate-source-list-the-top-picks-of-copyright-friendly-comic-soundtracks-websites/"><u>Updated In 2024, Your Ultimate Source List The Top Picks of Copyright-Friendly Comic Soundtracks Websites</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-rewind-and-play-the-quintet-of-best-opposite-direction-melodies-for-2024/"><u>Updated Rewind and Play The Quintet of Best Opposite-Direction Melodies for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/60p60i-60i60p/"><u>コンバート 手順で、60pと60iの主要な違いを解き明かす - 60Iが60pに変換可能ですか？</u></a></li>
 </ul></div>
 

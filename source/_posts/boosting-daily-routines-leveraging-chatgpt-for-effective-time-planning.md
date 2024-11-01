@@ -1,7 +1,7 @@
 ---
 title: "Boosting Daily Routines: Leveraging ChatGPT for Effective Time Planning"
-date: 2024-10-21T22:59:56.464Z
-updated: 2024-10-26T09:15:18.189Z
+date: 2024-10-27T05:46:36.120Z
+updated: 2024-11-01T03:28:21.531Z
 tags:
   - chatgpt
   - open-ai
@@ -31,6 +31,13 @@ thumbnail: https://thmb.techidaily.com/cda03445bb5af4617363a25ef0e62c6e1b665fa4b
 
  ChatGPT will then nicely summarize the main points on the requested pages. One point of note here, there are[limitations to ChatGPT prompts and responses](https://www.makeuseof.com/do-chatgpt-responses-have-character-or-word-limit/) , especially when it comes to more complex requests. So, for larger documents, it is good policy to break the task down into smaller parts.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Copy Text From the PDF
 
  If you have a copy of the PDF on your computer, then the easiest way is to simply copy the text you need from the PDF. In the example below, we opened a PDF copy of a MakeUseOf article about[prompting techniques for ChatGPT](https://www.makeuseof.com/prompting-techniques-to-improve-chatgpt-responses/) . We used Microsoft Edge to open it, and then we highlighted the relevant text and copied it to the clipboard.
@@ -38,22 +45,21 @@ thumbnail: https://thmb.techidaily.com/cda03445bb5af4617363a25ef0e62c6e1b665fa4b
 ![Screenshot of copying text from PDF opened in Microsoft Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-copying-text-from-pdf-opened-in-ms-edge-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The text can then be pasted into a ChatGPT prompt, and the desired results attained. In this case, we asked it to bullet point the main points in the text.
 
 ![Screenshot of ChatGPT summarizing copied text](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-chatgpt-summarizing-copied-text.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  As you can see, ChatGPT will easily respond to prompts with text pasted into them. Just remember not to ask too much of it in a single request. This technique will work with most applications that can open PDFs.
 
@@ -71,10 +77,10 @@ thumbnail: https://thmb.techidaily.com/cda03445bb5af4617363a25ef0e62c6e1b665fa4b
 3. When you open the file you will be asked to convert the document, press**OK** to proceed.  
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Screenshot of Word PDF Conversion](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-word-pdf-conversion.jpg)
@@ -83,10 +89,10 @@ thumbnail: https://thmb.techidaily.com/cda03445bb5af4617363a25ef0e62c6e1b665fa4b
  Once the conversion is complete, you can copy the text directly into ChatGPT and run prompts on it to get your desired results.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Install and Use an Extension
@@ -120,22 +126,22 @@ thumbnail: https://thmb.techidaily.com/cda03445bb5af4617363a25ef0e62c6e1b665fa4b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/updated-10-must-have-screen-capture-tools-for-online-instructors/"><u>[Updated] 10 Must-Have Screen Capture Tools for Online Instructors</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-peak-summit-in-virtual-landscapes/"><u>[Updated] 2024 Approved Peak Summit in Virtual Landscapes</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-essential-audio-transforming-software-for-streamers/"><u>[Updated] Essential Audio Transforming Software for Streamers</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-wirecast-vs-obs-the-ultimate-guide-to-live-streamers/"><u>[Updated] In 2024, Wirecast Vs. OBS The Ultimate Guide to Live Streamers</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/best-audio-editors-to-remove-background-noise-from-audio-windows-for-2024/"><u>Best Audio Editors to Remove Background Noise From Audio Windows for 2024</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/deciphering-the-prowess-of-magix-samplitude-in-modern-music-production/"><u>Deciphering the Prowess of MAGIX Samplitude in Modern Music Production</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/gratuit-mp3-in-mkv-online-converter-movavi/"><u>Gratuit MP3-in-MKV Online Converter - Movavi</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/harmony-in-transition-15-masterful-scores-enhancing-diverse-video-styles/"><u>Harmony in Transition 15 Masterful Scores Enhancing Diverse Video Styles</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-samsung-galaxy-a15-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Samsung Galaxy A15 4G | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-vivo-x100-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Vivo X100 Pro | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-vivo-y55s-5g-2023-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Vivo Y55s 5G (2023)? Fixed | Dr.fone</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/in-2024-top-10-tools-for-clearing-up-clutter-in-audio-files-a-comprehensive-guide/"><u>In 2024, Top 10 Tools for Clearing Up Clutter in Audio Files A Comprehensive Guide</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-master-your-music-collection-a-guide-to-premium-mp3-editor-websites/"><u>New Master Your Music Collection A Guide to Premium MP3 Editor Websites</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-most-attractive-ringtones-for-your-phone-for-2024/"><u>New Most Attractive Ringtones for Your Phone for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/precise-steps-to-rewire-mouse-in-windows-oses/"><u>Precise Steps to Rewire Mouse in Windows OSes</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-achieving-clarity-in-sound-strategies-to-dampen-unwanted-echoes-for-2024/"><u>Updated Achieving Clarity in Sound Strategies to Dampen Unwanted Echoes for 2024</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-reinventing-your-speech-implementing-voice-changer-pro-on-your-iphone-device/"><u>Updated In 2024, Reinventing Your Speech Implementing Voice Changer Pro on Your iPhone Device</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-enjoy-9-complete-uncut-holiday-cine-classics-for-no-cost/"><u>[New] 2024 Approved Enjoy 9 Complete, Uncut Holiday Cine Classics for No Cost</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-saving-a-look-at-your-window/"><u>[New] 2024 Approved Saving a Look at Your Window</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-streamline-your-sessions-the-discord-recorders-handbook/"><u>[New] 2024 Approved Streamline Your Sessions The Discord Recorder’s Handbook</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/rom-zero-to-hero-in-the-youtube-world-starting-your-channel-and-earning-money/"><u>[New] From Zero to Hero in the Youtube World Starting Your Channel & Earning Money</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-winning-the-subscriber-race-on-youtube/"><u>[Updated] 2024 Approved Winning the Subscriber Race on YouTube</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-silver-winners-prime-dvd-software-for-sierra-os/"><u>[Updated] Silver Winners Prime Dvd Software for Sierra OS</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/from-support-desk-to-testimonials-fabios-video-journey/"><u>From Support Desk to Testimonials - Fabio's Video Journey</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/how-to-remove-audio-from-mp4-video/"><u>How to Remove Audio From MP4 Video</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-samsung-galaxy-xcover-6-pro-tactical-edition-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Samsung Galaxy XCover 6 Pro Tactical Edition to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-optimal-flv-to-youtube-transformers-in-a-ranking-list/"><u>In 2024, Optimal FLV to YouTube Transformers in a Ranking List</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/in-2024-windows-10-sound-sensation-a-step-by-step-audio-capture-tutorial/"><u>In 2024, Windows 10 Sound Sensation A Step-by-Step Audio Capture Tutorial</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-a-comprehensive-handbook-on-crafting-unique-smartphone-melodies/"><u>New A Comprehensive Handbook on Crafting Unique Smartphone Melodies</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-exploring-androids-premier-sound-editing-tools-a-top-10-list-that-doesnt-feature-audacity/"><u>New Exploring Androids Premier Sound Editing Tools A Top-10 List that Doesnt Feature Audacity</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-ideal-soundtrack-choices-selecting-songs-to-elevate-your-montage-masterpiece/"><u>New Ideal Soundtrack Choices Selecting Songs to Elevate Your Montage Masterpiece</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-converting-audacity-audio-productions-to-mp3-format/"><u>Updated Converting Audacity Audio Productions to MP3 Format</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-how-to-remove-audio-from-mkv-for-2024/"><u>Updated How to Remove Audio From MKV for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-open-source-audacity-alternatives-top-5-free-audio-editors-compared-on-windows/"><u>Updated In 2024, Open-Source Audacity Alternatives Top 5 Free Audio Editors Compared on Windows</u></a></li>
 </ul></div>
 

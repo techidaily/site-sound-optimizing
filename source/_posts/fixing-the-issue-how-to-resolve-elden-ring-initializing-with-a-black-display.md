@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Issue: How to Resolve 'Elden Ring' Initializing with a Black Display"
-date: 2024-10-24T00:25:31.205Z
-updated: 2024-10-26T03:30:21.726Z
+date: 2024-10-24T18:43:24.206Z
+updated: 2024-10-31T20:20:44.068Z
 tags:
   - win11
   - win10
@@ -27,13 +27,6 @@ thumbnail: https://thmb.techidaily.com/9d142af41b1de506fdf32554a7ece9543f1d4a28a
 4. **[Update your audio drivers](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Perform a system restore](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Download and install all Windows updates
 
  Before diving into any advanced tweaks, ensure you **restart both the Synapse software and the THX Spatial Audio app.** Then you would need to install the latest Windows updates. They usually come with bug fixes, and bring new features.
@@ -48,10 +41,16 @@ thumbnail: https://thmb.techidaily.com/9d142af41b1de506fdf32554a7ece9543f1d4a28a
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/click-on-the-Check-for-updates-tab.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### On Windows 11
@@ -61,28 +60,8 @@ thumbnail: https://thmb.techidaily.com/9d142af41b1de506fdf32554a7ece9543f1d4a28a
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-18.png)
 2. Click**Check for updates** , and Windows will scan for any available updates.  
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-19.png)
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
 
@@ -100,6 +79,13 @@ thumbnail: https://thmb.techidaily.com/9d142af41b1de506fdf32554a7ece9543f1d4a28a
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/update-and-security.png)
 3. Select**Troubleshoot** from the left pane. Then highlight the**Playing Audio** troubleshooter and click**Run the troubleshooter** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/audio-run-the-troubleshooter.png)  
 
  If there are no troubleshooters showing up here, click**Additional troubleshooters** .  
@@ -112,27 +98,40 @@ thumbnail: https://thmb.techidaily.com/9d142af41b1de506fdf32554a7ece9543f1d4a28a
 ![](https://www.drivereasy.com/wp-content/uploads/2021/03/control.jpg)
 2. On the top right corner, click View by **Large icons** . Scroll down and select **Troubleshooting** .  
 
+<!-- affiliate ads begin -->
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2021/03/troubleshooting.jpg)
 3. Click **Run** for **Audio**  troubleshooter.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2021/03/sound-troubleshooter.png)
 4. Follow the on-screen instructions to run the troubleshooter and apply any fix if you see it.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 If Windows fails to troubleshoot your issues, try the next fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Make sure you set THX Spatial Audio as your device
 
@@ -144,6 +143,13 @@ If Windows fails to troubleshoot your issues, try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/set-thx-spatial-audio-as-default-playback-device.png)
 3. Then in the APPLICATION MIXER section, select**Spatial Audio** as the output.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/application-mixer.png)
 
@@ -172,13 +178,6 @@ If Windows fails to troubleshoot your issues, try the next fix below.
 
  When the update completes, restart your computer. Then play supported content to check for changes.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Perform a system restore
 
  After everything else, you can restore your system to a point from before THX Spatial Audio was acting up. It’s possible that the issue you’re having was facilitated by a change that your system has gone through recently which you cannot pinpoint.
@@ -191,10 +190,10 @@ If Windows fails to troubleshoot your issues, try the next fix below.
 2. Under the Protection Settings section, select your System driver and click on the**Configure…** button if the protection is not turned on.  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/configure-protection.png)
@@ -210,6 +209,13 @@ If Windows fails to troubleshoot your issues, try the next fix below.
 6. When it successfully created the restore point, click**Close** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/close-the-window.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  However, if none of the solutions listed above gives you any luck, you may need to check if there are any missing or corrupted system files. You can use the System File Checker tool (sfc /scannow) to look for any critical system issues, but most of the time it only scans major files and may miss minor issues.
 
@@ -242,24 +248,18 @@ If Windows fails to troubleshoot your issues, try the next fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-10-best-no-cost-videocalling-tools-with-shared-display-for-2024/"><u>[New] 10 Best No-Cost Videocalling Tools with Shared Display for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-professional-photography-meets-social-media-dslr-and-computer-syncopation/"><u>[New] 2024 Approved Professional Photography Meets Social Media DSLR and Computer Syncopation</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-the-ultimate-collection-of-sandbox-games/"><u>[New] 2024 Approved The Ultimate Collection of Sandbox Games</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-from-beginner-to-expert-with-a-complete-fcp-guidebook/"><u>[New] From Beginner to Expert with a Complete FCP Guidebook</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-pursuit-of-perfection-a-complete-sj-cam-s6-review-for-2024/"><u>[Updated] In Pursuit of Perfection A Complete SJ-CAM S6 Review for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-write-a-hit-podcast-script-10plus-examples-revealed/"><u>2024 Approved How to Write a Hit Podcast Script (10+ Examples Revealed)</u></a></li>
-<li><a href="https://fox-access.techidaily.com/enlighten-your-images-mastering-iphone-photography-lighting-for-2024/"><u>Enlighten Your Images Mastering iPhone Photography Lighting for 2024</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/how-to-overcome-lego-star-wars-series-crashes-a-guide-for-gamers-pc-2024-update/"><u>How to Overcome Lego Star Wars Series Crashes - A Guide for Gamers (PC, 2024 Update)</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/in-2024-anthology-of-gargantuan-groans-and-howls/"><u>In 2024, Anthology of Gargantuan Groans and Howls</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfersync-notes-from-apple-iphone-13-pro-max-to-ipad-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer/Sync Notes from Apple iPhone 13 Pro Max to iPad | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-to-use-ispoofer-on-xiaomi-redmi-note-12-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on Xiaomi Redmi Note 12 4G? | Dr.fone</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-coherencecore-the-innovative-approach-to-synchronized-sound-design-in-adobe-premiere-pro-2023-for-2024/"><u>New CoherenceCore The Innovative Approach to Synchronized Sound Design in Adobe Premiere Pro 2023 for 2024</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-chart-wolfs-sonorous-call-pattern/"><u>New In 2024, Chart Wolfs Sonorous Call Pattern</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/removing-background-noise-extracting-silent-videos/"><u>Removing Background Noise Extracting Silent Videos</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-advanced-audio-editing-implementing-real-time-ducking-in-windows-version-of-adobe-premiere-pro/"><u>Updated Advanced Audio Editing Implementing Real-Time Ducking in Windows Version of Adobe Premiere Pro</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-audio-dial-achieving-smooth-volume-ramp-ups/"><u>Updated In 2024, Audio Dial Achieving Smooth Volume Ramp-Ups</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-cutting-edge-software-choices-for-distorting-and-enhancing-audio-quality/"><u>Updated In 2024, Cutting-Edge Software Choices for Distorting and Enhancing Audio Quality</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-what-you-should-know-about-pexelscom/"><u>Updated In 2024, What You Should Know About Pexels.com</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-the-art-of-pristine-audio-overcoming-hiss-and-harsh-sounds/"><u>Updated The Art of Pristine Audio Overcoming Hiss and Harsh Sounds</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-an-all-inclusive-subtitle-handbook-from-basics-to-advanced-tips/"><u>[New] 2024 Approved An All-Inclusive Subtitle Handbook From Basics to Advanced Tips</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-inside-the-drone-an-in-depth-review-of-dji-phantom-3-pro/"><u>[New] Inside the Drone An In-Depth Review of DJI Phantom 3 Pro</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-iphone-photography-simplified-adopt-these-10-easy-rules-for-2024/"><u>[New] IPhone Photography Simplified Adopt These 10 Easy Rules for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-guide-to-deciphering-youtubes-comprehensive-feedback-system-for-2024/"><u>[Updated] Guide to Deciphering YouTube's Comprehensive Feedback System for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-recording-reviewers-circle-downloads-for-critique/"><u>2024 Approved Recording Reviewers Circle Downloads for Critique</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/anthem-game-on-windows-10-solving-the-silent-problem-fixing-sound-issues/"><u>Anthem Game on Windows 10: Solving the Silent Problem - Fixing Sound Issues</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/essential-roles-and-their-impact-during-filming-phase/"><u>Essential Roles and Their Impact During Filming Phase</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-motorola-edge-40-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Motorola Edge 40 Phone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/leading-mortgage-brokerages-accelerating-service-delivery-and-efficiency/"><u>Leading Mortgage Brokerages: Accelerating Service Delivery & Efficiency</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-your-ultimate-source-list-the-top-picks-of-copyright-friendly-comic-soundtracks-websites/"><u>New Your Ultimate Source List The Top Picks of Copyright-Friendly Comic Soundtracks Websites</u></a></li>
+<li><a href="https://techtrends.techidaily.com/secure-your-inbox-an-experts-guide-to-adding-domains-to-the-macos-mail-safe-list/"><u>Secure Your Inbox: An Expert's Guide to Adding Domains to the MacOS Mail Safe List</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-amplify-visual-audio-levels-enhancing-video-clarity-and-audibility/"><u>Updated 2024 Approved Amplify Visual Audio Levels Enhancing Video Clarity and Audibility</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-step-by-step-to-silence-zoom-microphones-on-windows-macos-and-android-devices-for-2024/"><u>Updated Step by Step to Silence Zoom Microphones on Windows, macOS, and Android Devices for 2024</u></a></li>
 </ul></div>
 
