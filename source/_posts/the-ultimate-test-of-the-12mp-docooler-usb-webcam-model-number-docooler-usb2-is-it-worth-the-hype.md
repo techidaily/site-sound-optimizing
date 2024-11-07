@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Test of the 12MP Docooler USB Webcam (Model Number: DOCOOLER-USB2): Is It Worth the Hype?"
-date: 2024-10-27T06:04:19.848Z
-updated: 2024-11-01T03:47:00.172Z
+date: 2024-11-03T16:38:04.922Z
+updated: 2024-11-07T00:15:29.491Z
 categories:
   - BestProducts
 description: "This Article Describes The Ultimate Test of the 12MP Docooler USB Webcam (Model Number: DOCOOLER-USB2): Is It Worth the Hype?"
@@ -39,15 +39,28 @@ thumbnail: https://thmb.techidaily.com/425081092e1a679d02f1bd0f9b8040f12a7c3e9a9
 
 4.2
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## M MOOCK Car Jump Starter
 
 ![M Moock 1000A Peak 18000mAh Car Jump Starte](https://www.lifewire.com/thmb/9HsjvcJhUjJuGMXLaAGh2B_0bAw=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Aickar_JumpStarter_4LW4140286_HeroSquare-0eb4274af8f64008b1e98e3623623d4a.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Lifewire / Tony Mitera
@@ -93,13 +106,6 @@ thumbnail: https://thmb.techidaily.com/425081092e1a679d02f1bd0f9b8040f12a7c3e9a9
 
  To charge other devices there’s a lot less fuss involved. You simply need to plug the device into the USB or DC power port and turn the unit on. A Micro USB cable is provided, so if you have a device that uses a more modern charging port, you'll want to put an extra cable for it in the MOOCK case as well.
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Performance: A nice jolt of power to start even the most drained of vehicles**
 
  Assuming you’ve carefully placed the M MOOCK in a spot where it can securely clamp onto the battery yet not fall out of the engine bay, you’ll find that the unit does a good job of jump starting a car. The test vehicle had a battery depleted down to 10V, and while the vehicle did momentarily struggle to start initially, it started just fine after double-checking the connections. It’s hard to say if that initial struggle was due to the unit’s relatively lower start and peak output currents, or if it truly just boiled down to a connectivity issue.
@@ -110,22 +116,15 @@ An inexpensive option considering what it can do.
 
 Lifewire / Tony Mitera
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Key Features: A bright flashlight, but in a decidedly narrow band**
 
  The built-in flashlight in the M MOOCK Jump Starter puts out a lot of light but only in a relatively narrow band. Luckily, the full unit's basically handheld and therefore it's easy to point the flashlight at what you need. Once you start connecting cables it becomes much harder to aim the light properly. The flashlight can also be set to rapidly blink to draw attention to your situation, or to blink in the standard pattern for “SOS” to really drive home the fact that you need assistance.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Price: Some of the best value to be found in jump starters**
@@ -151,6 +150,13 @@ Lifewire / Tony Mitera
 A good choice with just a few nagging flaws.
 
  The M Moock 1000A Peak 18000mAh Car Jump Starter is a surprisingly solid choice in jump starters. It has few glaring flaws, and the ones that it does have (like the short cables) just make it marginally more difficult to use, as opposed to being true deal breakers. That said, there are other units available on the market that share some or all the same features but have fewer drawbacks. Overall, the unit's successful but flawed, yet very reliable when you need it most.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -182,17 +188,21 @@ A good choice with just a few nagging flaws.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-from-basics-to-advanced-crafting-powerful-instagram-hashtags-for-2024/"><u>[New] From Basics to Advanced Crafting Powerful Instagram Hashtags for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-from-inquiry-to-insight-best-practices-for-story-based-polls-for-2024/"><u>[New] From Inquiry to Insight Best Practices for Story-Based Polls for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-navigating-video-uploads-on-youtube-a-comprehensive-tutorial-for-2024/"><u>[Updated] Navigating Video Uploads on YouTube A Comprehensive Tutorial for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-address-and-correct-crashing-in-dragon-quest-xi-tips-and-tricks/"><u>How to Address and Correct Crashing in Dragon Quest XI - Tips & Tricks</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/how-to-edit-videos-shot-by-sony-digital-camcorder-for-2024/"><u>How to Edit Videos Shot by Sony Digital Camcorder for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-unlocking-mov-capture-potential-on-windows-10/"><u>In 2024, Unlocking MOV Capture Potential on Windows 10</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-audacity-installation-made-easy-the-ultimate-chromebook-checklist-for-2024/"><u>New Audacity Installation Made Easy The Ultimate Chromebook Checklist for 2024</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-tracking-down-simulated-acoustics-from-steel-percussion-devices/"><u>New In 2024, Tracking Down Simulated Acoustics From Steel Percussion Devices</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-top-ten-digital-melodies-discovering-the-most-downloaded-background-scores/"><u>New Top Ten Digital Melodies Discovering the Most Downloaded Background Scores</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ultimate-guide-to-the-leading-mp3-players-for-202n4-featured-on-zdnet/"><u>Ultimate Guide to the Leading MP3 Players for 202N4 - Featured on ZDNet</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-how-to-cut-ringtones-for-2024/"><u>Updated How to Cut Ringtones for 2024</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-the-ultimate-imovie-strategy-to-eliminate-unwanted-sounds-in-your-projects-for-2024/"><u>Updated The Ultimate iMovie Strategy to Eliminate Unwanted Sounds in Your Projects for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-cheapest-entry-level-4k-systems/"><u>[New] Cheapest Entry-Level 4K Systems</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-ephemeral-movie-blueprint/"><u>[New] Ephemeral Movie Blueprint</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-harnessing-the-power-of-video-the-most-effective-fb-ad-practices/"><u>[New] Harnessing the Power of Video The Most Effective FB Ad Practices</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-charting-youtubes-untapped-markets-niche-strategies-for-2024/"><u>[Updated] Charting Youtube's Untapped Markets Niche Strategies for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-crafting-squares-for-viral-videos-in-a-social-media-world/"><u>[Updated] Crafting Squares for Viral Videos in a Social Media World</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/2024-approved-mastering-audio-balance-achieving-consistent-volume-levels-with-vlc-media-player/"><u>2024 Approved Mastering Audio Balance Achieving Consistent Volume Levels with VLC Media Player</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/2024-approved-sonic-design-lab-pioneering-audio-manipulation-in-sony-vegas-pro/"><u>2024 Approved Sonic Design Lab Pioneering Audio Manipulation in Sony Vegas Pro</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boost-your-pc-with-smooth-directx-downloads-and-upgrades/"><u>Boost Your PC with Smooth DirectX Downloads & Upgrades</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/master-musicians-picks-best-10-song-arrangers-for-windows-and-mac-devices/"><u>Master Musicians Picks Best 10 Song Arrangers for Windows & Mac Devices</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/navigating-character-customization-with-ease-and-excitement-for-2024/"><u>Navigating Character Customization with Ease and Excitement for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-elevating-audio-excellence-adjusting-pitch-in-audacity-without-compromising-quality/"><u>New In 2024, Elevating Audio Excellence Adjusting Pitch in Audacity without Compromising Quality</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-ornithological-soundscapes-mp3-compilation/"><u>New In 2024, Ornithological Soundscapes MP3 Compilation</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/the-ultimate-checklist-for-new-channels/"><u>The Ultimate Checklist for New Channels</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Oppo Reno 8T | Dr.fone</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-enhancing-audio-quality-practical-methods-to-eradicate-low-frequency-rumble/"><u>Updated Enhancing Audio Quality Practical Methods to Eradicate Low-Frequency Rumble</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-ultimate-windows-sound-experience-designer-for-2024/"><u>Updated Ultimate Windows Sound Experience Designer for 2024</u></a></li>
 </ul></div>
 

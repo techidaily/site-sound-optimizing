@@ -1,7 +1,7 @@
 ---
 title: In 2024, The Ultimate Guide to Removing Speech From Recordings Using Adobe Audition
-date: 2024-10-21T16:46:06.115Z
-updated: 2024-10-26T05:14:53.064Z
+date: 2024-11-03T01:46:09.679Z
+updated: 2024-11-06T16:44:32.611Z
 tags: 
   - audio editing software
   - audio editing
@@ -62,13 +62,6 @@ It is not easy to work with Adobe Audition. It's also likely that you'll get con
 
 The Center Channel Extractor effects and its vocal remover preset can be used to remove vocals in Adobe Audition.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Step 1\. Prepare for Adobe Audition
 
 You can import your audio files and media files into Adobe Audition.
@@ -110,10 +103,16 @@ Proceed to the Discrimination Tab once you have finished these settings. By iden
 ![click discrimination](https://images.wondershare.com/filmora/article-images/2023/how-to-remove-vocals-in-adobe-audition-unveiling-the-6-easy-steps-8.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Step 5\. Apply the Effect
@@ -196,10 +195,10 @@ Meanwhile, Filmora 13's AI Vocal Remover unveiled a new frontier, promising a se
 ![Wondershare Filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 1\. A Comprehensive Overview of Adobe Audition's Powerful Features
@@ -211,13 +210,6 @@ Audio editors and musicians use Adobe Audition to edit and create music. Audio c
 It also offers noise reduction, audio restoration, and sound removal. It comes with many visualization tools too. In addition, it comes with a good interface that encourages many people to consider using it.
 
 ![introduction to adobe audition](https://images.wondershare.com/filmora/article-images/2023/how-to-remove-vocals-in-adobe-audition-unveiling-the-6-easy-steps-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Adobe Audition Features
 
@@ -283,6 +275,13 @@ In this case, you will have to trim the end of the frequency range and refine so
 
 ![adobe audition set frequency](https://images.wondershare.com/filmora/article-images/2023/how-to-remove-vocals-in-adobe-audition-unveiling-the-6-easy-steps-7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Proceed to the Discrimination Tab once you have finished these settings. By identifying the center channel, you can further refine your audio. There are 5 sliders, largely focused on two: Crossover Bleed and Phase Discrimination. After picking the Acapella preset, these sliders handle the bleed of the instrumentals.
 
 ![click discrimination](https://images.wondershare.com/filmora/article-images/2023/how-to-remove-vocals-in-adobe-audition-unveiling-the-6-easy-steps-8.jpg)
@@ -304,6 +303,13 @@ For video editing software such as Premiere Pro, use a Sample Type of 48 kHz. Au
 A Tip for Enhancing Results
 
 To get perfect results, I recommend always listening back while you adjust these sliders, since audio quality varies from one to another.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3\. Unveiling the Secrets - How to Remove Vocals from a Song in Filmora
 
@@ -341,13 +347,6 @@ Embark on the vocal removal journey by seamlessly importing your chosen song int
 Once imported, effortlessly transport the files to the timeline at the bottom of the page.
 
 ![add to timeline](https://images.wondershare.com/filmora/article-images/2023/how-to-remove-vocals-in-adobe-audition-unveiling-the-6-easy-steps-13.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##### Step 3Isolating Vocals: A Streamlined Process
 
@@ -391,13 +390,6 @@ Sometimes we may want to remove audio from the original file and add a new sound
 To help finish this task, [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is the right choice. With it, you can either delete all audio tracks completely from MP4 to get the video with no audio in it at all. Or remove an extra audio track and only keep the one you like.
 
 The following article will introduce a simple way of removing audio from video in whatever situation.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## MP4 Audio Remover - Wondershare Filmora
 
@@ -446,6 +438,13 @@ To reach it, you only need to drag and drop your targeted MP4 video into the tim
 
 ![detach video](https://images.iskysoft.com/filmora-video-editor/audio-edit.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 Now, it's your turn to have a try. Above are the steps to remove audio from video. Leave a comment to let us know if you have any questions.
@@ -517,6 +516,13 @@ For Win 7 or later (64-bit)
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
 For macOS 10.12 or later
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Step 1: Import your MP4 file
 
@@ -656,114 +662,34 @@ Preview the new file by clicking the Play icon to see if it’s what you want. I
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
-Shanoon Cox
-
-Shanoon Cox is a writer and a lover of all things video.
-
-Follow @Shanoon Cox
-
-##### Shanoon Cox
-
- Mar 27, 2024• Proven solutions
-
-_I have a High Definition MKV video here with 2 audio tracks: Russian and English. I want to turn this video to DVD but how would I remove the Russian and keep just the English audio?_
-
-Sometimes you might come across the same problem: got a piece of HD video with more than one audio track and want to remove the extra audio track. Or you may want to remove all the audio tracks and add some other audio files to it later. Now that can be very easy with the professional video editing tool - [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)(originally Wondershare Video Editor). It’s a very effective MKV audio remover, very easy to use yet creates excellent result. Apart from removing audio from MKV, you can also use it to audio from AVI, FLV, MKV, MP4, M4V, PSP, 3GP, MOV and more. Now download Wondershare Filmora (originally Wondershare Video Editor) and follow the steps below to remove audio from MKV easily and quickly.
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-#### 1 Add your MKV files to the program
-
-Install and run Wondershare Filmora (originally Wondershare Video Editor) and click the “Import” button to locate and add your target MKV files. Then the imported files will be displayed in the media library as the picture shown below.
-
-![remove mkv from mkv](https://images.wondershare.com/images/multimedia/video-editor/video-editor-main-interface.jpg)
-
-#### 2 Remove audio from MKV
-
-After that, drag and drop the videos from the media library to the Timeline. Right click the video clip you want to remove audio and choose “Detach Audio” to separate audio from MKV. Then you will see video and audio displayed in different tracks, press the “Delete” button on your keyboard or right click the track and select the "Delete" command to remove the unwanted audio track from MKV.
-
-Tip: If want to add a new sound track or background music to your video, just import it to the media library and then drag and drop to the proper position of the Timeline. Here is a detailed guide on how to add background music to video.
-
-![remove audio track from mkv](https://images.wondershare.com/images/multimedia/video-editor/audio-detach.jpg)
-
-#### 3 Preview and save the new file
-
-Preview the new file by clicking the Play icon to see if it’s what you want. If you are happy with the result, hit “Create” to export the edited MKV file. As you see, you can select a desired output method: save the video in various formats, save it to play on portable devices, burn it to DVD disc or share it to YouTube directly. Then click “Create”, and your new file will be saved in a few seconds
-
-![remove audio from mkv file](https://images.wondershare.com/images/multimedia/video-editor/video-editor-output.jpg)
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
-
-Shanoon Cox
-
-Shanoon Cox is a writer and a lover of all things video.
-
-Follow @Shanoon Cox
-
-##### Shanoon Cox
-
- Mar 27, 2024• Proven solutions
-
-_I have a High Definition MKV video here with 2 audio tracks: Russian and English. I want to turn this video to DVD but how would I remove the Russian and keep just the English audio?_
-
-Sometimes you might come across the same problem: got a piece of HD video with more than one audio track and want to remove the extra audio track. Or you may want to remove all the audio tracks and add some other audio files to it later. Now that can be very easy with the professional video editing tool - [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)(originally Wondershare Video Editor). It’s a very effective MKV audio remover, very easy to use yet creates excellent result. Apart from removing audio from MKV, you can also use it to audio from AVI, FLV, MKV, MP4, M4V, PSP, 3GP, MOV and more. Now download Wondershare Filmora (originally Wondershare Video Editor) and follow the steps below to remove audio from MKV easily and quickly.
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-#### 1 Add your MKV files to the program
-
-Install and run Wondershare Filmora (originally Wondershare Video Editor) and click the “Import” button to locate and add your target MKV files. Then the imported files will be displayed in the media library as the picture shown below.
-
-![remove mkv from mkv](https://images.wondershare.com/images/multimedia/video-editor/video-editor-main-interface.jpg)
-
-#### 2 Remove audio from MKV
-
-After that, drag and drop the videos from the media library to the Timeline. Right click the video clip you want to remove audio and choose “Detach Audio” to separate audio from MKV. Then you will see video and audio displayed in different tracks, press the “Delete” button on your keyboard or right click the track and select the "Delete" command to remove the unwanted audio track from MKV.
-
-Tip: If want to add a new sound track or background music to your video, just import it to the media library and then drag and drop to the proper position of the Timeline. Here is a detailed guide on how to add background music to video.
-
-![remove audio track from mkv](https://images.wondershare.com/images/multimedia/video-editor/audio-detach.jpg)
-
-#### 3 Preview and save the new file
-
-Preview the new file by clicking the Play icon to see if it’s what you want. If you are happy with the result, hit “Create” to export the edited MKV file. As you see, you can select a desired output method: save the video in various formats, save it to play on portable devices, burn it to DVD disc or share it to YouTube directly. Then click “Create”, and your new file will be saved in a few seconds
-
-![remove audio from mkv file](https://images.wondershare.com/images/multimedia/video-editor/video-editor-output.jpg)
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
-
-Shanoon Cox
-
-Shanoon Cox is a writer and a lover of all things video.
-
-Follow @Shanoon Cox
-
-##### Shanoon Cox
-
- Mar 27, 2024• Proven solutions
-
-_I have a High Definition MKV video here with 2 audio tracks: Russian and English. I want to turn this video to DVD but how would I remove the Russian and keep just the English audio?_
-
-Sometimes you might come across the same problem: got a piece of HD video with more than one audio track and want to remove the extra audio track. Or you may want to remove all the audio tracks and add some other audio files to it later. Now that can be very easy with the professional video editing tool - [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)(originally Wondershare Video Editor). It’s a very effective MKV audio remover, very easy to use yet creates excellent result. Apart from removing audio from MKV, you can also use it to audio from AVI, FLV, MKV, MP4, M4V, PSP, 3GP, MOV and more. Now download Wondershare Filmora (originally Wondershare Video Editor) and follow the steps below to remove audio from MKV easily and quickly.
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-#### 1 Add your MKV files to the program
-
-Install and run Wondershare Filmora (originally Wondershare Video Editor) and click the “Import” button to locate and add your target MKV files. Then the imported files will be displayed in the media library as the picture shown below.
-
-![remove mkv from mkv](https://images.wondershare.com/images/multimedia/video-editor/video-editor-main-interface.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+Shanoon Cox
+
+Shanoon Cox is a writer and a lover of all things video.
+
+Follow @Shanoon Cox
+
+##### Shanoon Cox
+
+ Mar 27, 2024• Proven solutions
+
+_I have a High Definition MKV video here with 2 audio tracks: Russian and English. I want to turn this video to DVD but how would I remove the Russian and keep just the English audio?_
+
+Sometimes you might come across the same problem: got a piece of HD video with more than one audio track and want to remove the extra audio track. Or you may want to remove all the audio tracks and add some other audio files to it later. Now that can be very easy with the professional video editing tool - [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)(originally Wondershare Video Editor). It’s a very effective MKV audio remover, very easy to use yet creates excellent result. Apart from removing audio from MKV, you can also use it to audio from AVI, FLV, MKV, MP4, M4V, PSP, 3GP, MOV and more. Now download Wondershare Filmora (originally Wondershare Video Editor) and follow the steps below to remove audio from MKV easily and quickly.
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+#### 1 Add your MKV files to the program
+
+Install and run Wondershare Filmora (originally Wondershare Video Editor) and click the “Import” button to locate and add your target MKV files. Then the imported files will be displayed in the media library as the picture shown below.
+
+![remove mkv from mkv](https://images.wondershare.com/images/multimedia/video-editor/video-editor-main-interface.jpg)
 
 #### 2 Remove audio from MKV
 
@@ -773,18 +699,92 @@ Tip: If want to add a new sound track or background music to your video, just im
 
 ![remove audio track from mkv](https://images.wondershare.com/images/multimedia/video-editor/audio-detach.jpg)
 
+#### 3 Preview and save the new file
+
+Preview the new file by clicking the Play icon to see if it’s what you want. If you are happy with the result, hit “Create” to export the edited MKV file. As you see, you can select a desired output method: save the video in various formats, save it to play on portable devices, burn it to DVD disc or share it to YouTube directly. Then click “Create”, and your new file will be saved in a few seconds
+
+![remove audio from mkv file](https://images.wondershare.com/images/multimedia/video-editor/video-editor-output.jpg)
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+Shanoon Cox
+
+Shanoon Cox is a writer and a lover of all things video.
+
+Follow @Shanoon Cox
+
+##### Shanoon Cox
+
+ Mar 27, 2024• Proven solutions
+
+_I have a High Definition MKV video here with 2 audio tracks: Russian and English. I want to turn this video to DVD but how would I remove the Russian and keep just the English audio?_
+
+Sometimes you might come across the same problem: got a piece of HD video with more than one audio track and want to remove the extra audio track. Or you may want to remove all the audio tracks and add some other audio files to it later. Now that can be very easy with the professional video editing tool - [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)(originally Wondershare Video Editor). It’s a very effective MKV audio remover, very easy to use yet creates excellent result. Apart from removing audio from MKV, you can also use it to audio from AVI, FLV, MKV, MP4, M4V, PSP, 3GP, MOV and more. Now download Wondershare Filmora (originally Wondershare Video Editor) and follow the steps below to remove audio from MKV easily and quickly.
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+#### 1 Add your MKV files to the program
+
+Install and run Wondershare Filmora (originally Wondershare Video Editor) and click the “Import” button to locate and add your target MKV files. Then the imported files will be displayed in the media library as the picture shown below.
+
+![remove mkv from mkv](https://images.wondershare.com/images/multimedia/video-editor/video-editor-main-interface.jpg)
+
+#### 2 Remove audio from MKV
+
+After that, drag and drop the videos from the media library to the Timeline. Right click the video clip you want to remove audio and choose “Detach Audio” to separate audio from MKV. Then you will see video and audio displayed in different tracks, press the “Delete” button on your keyboard or right click the track and select the "Delete" command to remove the unwanted audio track from MKV.
+
+Tip: If want to add a new sound track or background music to your video, just import it to the media library and then drag and drop to the proper position of the Timeline. Here is a detailed guide on how to add background music to video.
+
+![remove audio track from mkv](https://images.wondershare.com/images/multimedia/video-editor/audio-detach.jpg)
+
+#### 3 Preview and save the new file
+
+Preview the new file by clicking the Play icon to see if it’s what you want. If you are happy with the result, hit “Create” to export the edited MKV file. As you see, you can select a desired output method: save the video in various formats, save it to play on portable devices, burn it to DVD disc or share it to YouTube directly. Then click “Create”, and your new file will be saved in a few seconds
+
+![remove audio from mkv file](https://images.wondershare.com/images/multimedia/video-editor/video-editor-output.jpg)
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+Shanoon Cox
+
+Shanoon Cox is a writer and a lover of all things video.
+
+Follow @Shanoon Cox
+
+##### Shanoon Cox
+
+ Mar 27, 2024• Proven solutions
+
+_I have a High Definition MKV video here with 2 audio tracks: Russian and English. I want to turn this video to DVD but how would I remove the Russian and keep just the English audio?_
+
+Sometimes you might come across the same problem: got a piece of HD video with more than one audio track and want to remove the extra audio track. Or you may want to remove all the audio tracks and add some other audio files to it later. Now that can be very easy with the professional video editing tool - [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)(originally Wondershare Video Editor). It’s a very effective MKV audio remover, very easy to use yet creates excellent result. Apart from removing audio from MKV, you can also use it to audio from AVI, FLV, MKV, MP4, M4V, PSP, 3GP, MOV and more. Now download Wondershare Filmora (originally Wondershare Video Editor) and follow the steps below to remove audio from MKV easily and quickly.
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+#### 1 Add your MKV files to the program
+
+Install and run Wondershare Filmora (originally Wondershare Video Editor) and click the “Import” button to locate and add your target MKV files. Then the imported files will be displayed in the media library as the picture shown below.
+
+![remove mkv from mkv](https://images.wondershare.com/images/multimedia/video-editor/video-editor-main-interface.jpg)
+
 <!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+#### 2 Remove audio from MKV
+
+After that, drag and drop the videos from the media library to the Timeline. Right click the video clip you want to remove audio and choose “Detach Audio” to separate audio from MKV. Then you will see video and audio displayed in different tracks, press the “Delete” button on your keyboard or right click the track and select the "Delete" command to remove the unwanted audio track from MKV.
+
+Tip: If want to add a new sound track or background music to your video, just import it to the media library and then drag and drop to the proper position of the Timeline. Here is a detailed guide on how to add background music to video.
+
+![remove audio track from mkv](https://images.wondershare.com/images/multimedia/video-editor/audio-detach.jpg)
 
 #### 3 Preview and save the new file
 
@@ -818,22 +818,20 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-path-to-digital-fame-starting-and-building-a-youtube-chanel/"><u>[New] 2024 Approved Path to Digital Fame Starting and Building a YouTube Chanel</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-top-8-private-video-downloaders-for-2024/"><u>[New] Top 8 Private Video Downloaders for 2024</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/2-share-your-gaming-moments-seamlessly-expert-tips-for-streaming-ps4-clips-onto-an-iphone-device/"><u>2. Share Your Gaming Moments Seamlessly: Expert Tips for Streaming PS4 Clips Onto an iPhone Device</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/2024-approved-cutting-edge-techniques-for-incorporating-smooth-audio-reduction/"><u>2024 Approved Cutting Edge Techniques for Incorporating Smooth Audio Reduction</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/best-of-the-year-exercise-soundtracks/"><u>Best of the Year: Exercise Soundtracks</u></a></li>
-<li><a href="https://win-forum.techidaily.com/conversion-sans-frais-convertissez-fichiers-aac-en-mp4-sur-demande-avec-movavi/"><u>Conversion Sans Frais: Convertissez Fichiers AAC en MP4 Sur Demande Avec Movavi</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/discovering-authentic-canine-vocalizations-in-sound-libraries-for-2024/"><u>Discovering Authentic Canine Vocalizations in Sound Libraries for 2024</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/download-fixes-resolve-stuck-downloads-for-ios-versions-18-17-16-and-15/"><u>Download Fixes: Resolve Stuck Downloads for iOS Versions 18, 17, 16 & 15</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-easy-tutorial-for-activating-icloud-from-apple-iphone-12-pro-safe-and-legal-by-drfone-ios/"><u>In 2024, Easy Tutorial for Activating iCloud from Apple iPhone 12 Pro Safe and Legal</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-5-must-have-linux-audio-capture-utilities-and-advanced-strategies-for-high-quality-recordings/"><u>New 2024 Approved 5 Must-Have Linux Audio Capture Utilities and Advanced Strategies for High-Quality Recordings</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-swapping-sounds-in-media-files-an-in-depth-tutorial-for-seamless-edits/"><u>New 2024 Approved Swapping Sounds in Media Files An In-Depth Tutorial for Seamless Edits</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-the-essential-process-of-adding-sound-to-mkv-updated-videographies/"><u>New In 2024, The Essential Process of Adding Sound to MKV-Updated Videographies</u></a></li>
-<li><a href="https://fox-links.techidaily.com/passport-self-portrait-maker-free-access-to-top-quality-images/"><u>Passport Self-Portrait Maker – Free Access to Top Quality Images</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/transforming-your-dvds-10-effective-methods-to-convert-to-mp4-format-on-windows-and-mac-os/"><u>Transforming Your DVDs: 10 Effective Methods to Convert to MP4 Format on Windows and Mac OS</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-audacity-setup-guide-for-ubuntu-installs-uninstalls-and-troubleshooting-tips/"><u>Updated Audacity Setup Guide for Ubuntu Installs, Uninstalls & Troubleshooting Tips</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-bridging-the-gap-between-sound-waves-and-storage-space-a-guide-to-downloading-audio-programs-onto-computers/"><u>Updated In 2024, Bridging the Gap Between Sound Waves and Storage Space A Guide to Downloading Audio Programs Onto Computers</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-streamlining-silence-simplified-guide-to-extracting-background-noise-from-music-tracks-using-audacity/"><u>Updated Streamlining Silence Simplified Guide to Extracting Background Noise From Music Tracks Using Audacity</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-master-the-art-of-livestreaming-three-key-approaches-subscriber-less-style/"><u>[New] Master the Art of Livestreaming Three Key Approaches, Subscriber-Less Style</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-real-world-perceptions-of-vllo/"><u>2024 Approved Real-World Perceptions of VLLO</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-p60-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from P60</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-pictures-from-honor-x7b-by-fonelab-android-recover-pictures/"><u>Easy steps to recover deleted pictures from Honor X7b.</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/joke-makers-haven-get-it-today-for-2024/"><u>Joke Makers' Haven - Get It Today for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/m1-chip-unmasked-apples-engineering-feat-for-2024/"><u>M1 Chip Unmasked Apple's Engineering Feat for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-premiere-pro-essentials-how-to-seamlessly-integrate-sound-with-visuals/"><u>New 2024 Approved Premiere Pro Essentials How to Seamlessly Integrate Sound with Visuals</u></a></li>
+<li><a href="https://games-able.techidaily.com/rhythm-riddler-unravel-the-best-music-quiz-apps/"><u>Rhythm Riddler: Unravel the Best Music Quiz Apps</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/ultimate-3-auditory-enhancement-devices-for-mp3-files/"><u>Ultimate 3 Auditory Enhancement Devices for MP3 Files</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/ultimate-data-archiving-system/"><u>Ultimate Data Archiving System</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-the-complete-process-of-audio-integration-into-quicktime-video-files/"><u>Updated 2024 Approved The Complete Process of Audio Integration Into QuickTime Video Files</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-how-to-quickly-fix-audio-importing-issues-in-adobe-premiere-pro-for-2024/"><u>Updated How to Quickly Fix Audio Importing Issues in Adobe Premiere Pro for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-audio-free-video-formats-mastering-the-art-of-silence-removal-in-popular-file-types-mp4-mkv-avi-mov-wmv/"><u>Updated In 2024, Audio-Free Video Formats Mastering the Art of Silence Removal in Popular File Types (MP4, MKV, AVI, MOV, WMV)</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-streamlined-methods-for-obtaining-pitched-ding-sound-files-online-the-top-10-list/"><u>Updated Streamlined Methods for Obtaining Pitched Ding Sound Files Online - The Top 10 List</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-realme-note-50-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Realme Note 50 Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
 </ul></div>
 
