@@ -1,7 +1,7 @@
 ---
 title: New Expert Guide to Displaying Audio Waves and Adding Motion Graphics in Premiere Pro for 2024
-date: 2024-11-02T23:05:17.253Z
-updated: 2024-11-07T00:10:46.432Z
+date: 2024-11-10T00:51:11.284Z
+updated: 2024-11-16T23:41:13.112Z
 tags: 
   - audio editing software
   - audio editing
@@ -32,16 +32,16 @@ Once you check that you should see the audio waveforms on your clip you can clic
 
 ![audio waveforms](https://images.wondershare.com/filmora/article-images/2022/08/premiere-pro-audio-waveform-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 That will toggle off the audio waveforms and that is how to show the audio waveforms on your audio clips in adobe premiere pro.
 
 ![adobe premiere pro](https://images.wondershare.com/filmora/article-images/2022/08/premiere-pro-audio-waveform-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Automatic generate audio waveform
 
@@ -85,19 +85,6 @@ Back in Premiere, you can pick whether you want the traditional analog lines to 
 
 ![check the animation](https://images.wondershare.com/filmora/article-images/2022/08/premiere-pro-audio-waveform-9.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 3\. How to change the incorrect audio waveform in Premiere Pro?
 
 These problems typically result from corrupted cache/peak files. If you have cleared the cache from the application. I will recommend cleaning them manually by going to the location specified in **“Preferences > Media Cache”**.
@@ -107,16 +94,10 @@ Clean the contents of the folder named Media Cache, Media Cache files, and Peak 
 ![media cache files](https://images.wondershare.com/filmora/article-images/2022/08/premiere-pro-audio-waveform-10.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Please make sure that the option **“Save.cfa and.pek cache files next to the original media files when possible”** is unchecked. If it is ticked, you will have to remove them by hand from the folders where the media files are kept.
@@ -130,13 +111,6 @@ The following time you open the project, these files will be cleared. Rebuilding
 ## Part 4\. How to add audio waveform animation to video with Premiere Pro alternative?
 
 In reality, based on the above process, it is clear that you must use After Effects to add audio waveform animation effects in Premiere Pro. Although you can further modify the animation, this approach is very difficult for beginners to understand, and it has a high learning cost. In this situation, we strongly advise you to try [Filmora Audio Visualizer](https://tools.techidaily.com/wondershare/filmora/download/). We provide more than 25 animation effects and fixed pre-made waveform elements, and you can also adjust the color and frequency in Advanced Settings. Come and give it a try!
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -187,13 +161,6 @@ Now let's look at how to **separate audio from video in iMovie on Mac**.
 * [**Part 2\. Separate Audio from Video on Mac with the Best Alternative to iMovie**](#part2)
 * [**Part 3\. FAQs about Separating Audio from Video in iMovie**](#part3)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 1\. How to Separate/Detach/Split Audio from Video in iMovie on Mac
 
 The iMovie program is capable of producing high-quality movies and videos. If you're dealing with a video that includes both sound and pictures, you may want to split the two at some point.
@@ -591,13 +558,6 @@ You've successfully detached the audio track from the video file.
 Because the audio and video tracks have been split, you may simply delete the audio or video track you don't need and replace it with the new one. Then press "Export" to save the audio track as an MP3 file, or go straight to the "iPod" preset to listen on the move.
 
 You should first save the split video frame or audio track to a project file on your hard disk if you wish to save it separately in a new file. Reload the project file that contains the video frame after you've finished exporting the audio track, and then export it to a new video file.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3\. FAQs about Separating Audio from Video in iMovie
 
@@ -663,6 +623,13 @@ When you use your device for listening to music, default audio profile of your d
 
 Whether you listen to music on your smartphone or your computer through speakers or headphones, an equalizer app is a necessity especially if you are an audiophile. That is why we have picked the best sound equalizer apps both for smartphones and computers where there are several music equalizer settings available to choose from.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Best Chrome Sound Equalizer Settings
 
 If you are a Chrome browser user and you use online audio and video streaming platforms to play music, you must have Equalizer for Chrome Browser extension installed. The extension comes with 21 preset audio profiles that you can set instantly based on the music genre you are playing. Besides, you can customize the 10-band Equalizer as per your requirements.
@@ -679,6 +646,13 @@ Step 4: Open Equalizer for Chrome browser extension and select from preset equal
 
 ![chrome](https://images.wondershare.com/filmora/article-images/chrome.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Best iPhone Equalizer Settings (<https://apps.apple.com/us/app/equalizer-fx-bass-booster-app/id1084228340>)
 
 Equalizer Fx - Bass Booster App is the most popular equalizer app for iPhones. It features a 7-band equalizer that you can customize as per your requirement. Besides, there is dynamic bass tuning option to enhance your listening experience. Moreover, it comes with a powerful bass boost effect if you love beats and bass on your music. The app has an advanced music layer and therefore, you do not need an external music player app.
@@ -688,10 +662,10 @@ There are over 15 preset filters available to choose from as you play music in t
 ![equalizer](https://images.wondershare.com/filmora/article-images/equalizer.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Android Setting Equalizer for Best Sound (<https://play.google.com/store/apps/details?id=com.devdnua.equalizer.free>)
@@ -701,6 +675,13 @@ Equalizer FX - Sound Enhancer is a completely free app where you get as many as 
 Moreover, you get a bass booster which is quite popular among music lovers. The app can also enhance the stereo effects for an immersive listening experience. The equalizer widget on the home screen makes it easy for users to operate the app. It automatically gets turned on and off when the music player starts and stops. The only drawback is that it does not work with radio.
 
 ![android](https://images.wondershare.com/filmora/article-images/android.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Best Sound Equalizer for PC
 
@@ -713,13 +694,6 @@ Step 1: Download and install Boom 3D on your PC based on your operating system. 
 Step 2: If you are using headphones, select your headphone type for better results.
 
 ![pc](https://images.wondershare.com/filmora/article-images/pc.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 3: Go to Equalizer tab and set any preset equalizer setting as per your requirement.
 
@@ -795,6 +769,13 @@ Step 2: Select New project and go to File > Import Media and click on Import Med
 
 ![import media files](https://images.wondershare.com/filmora/article-images/import-media-files.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 3: Select the audio or the video file that you want to work with and then drag the file from Project Media to Timeline.
 
 ![drag to timeline](https://images.wondershare.com/filmora/article-images/drag-to-timeline.jpg)
@@ -829,6 +810,13 @@ Step 5: Select from preset equalizers. You can also click on Customize button an
 
 ![customize button](https://images.wondershare.com/filmora/article-images/customize-button.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Conclusion –
 
 We have provided you with the best apps with the best settings for equalizer. You can choose from the preset equalizer settings as well as customize and make your own equalizer settings. If you do not want to download any app and you are listening to music on your Chrome browser, you can use the browser extension. If you want permanent changes in equalizer settings to any downloaded audio or video, we recommend Wondershare Filmora for the best result.
@@ -849,24 +837,17 @@ We have provided you with the best apps with the best settings for equalizer. Yo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-syncopated-mix-management-in-sonar-by-platinum/"><u>[New] Syncopated Mix Management in Sonar by Platinum</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-buzzing-beats-leading-music-distortion-apps/"><u>[Updated] In 2024, Buzzing Beats Leading Music Distortion Apps</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-exploring-copyright-policy-instantaneous-removal-of-personal-videos/"><u>2024 Approved Exploring Copyright Policy Instantaneous Removal of Personal Videos</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/2024-approved-ultimate-car-audio-blend-tool-for-mac-users/"><u>2024 Approved Ultimate Car Audio Blend Tool for Mac Users</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/2024-approved-virtual-sound-crafting-platform-split-and-stitch-mp3s/"><u>2024 Approved Virtual Sound Crafting Platform Split & Stitch MP3s</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1725285613682-winxvideo-ai/"><u>無料 Winxvideo AI: 高品質動画を一流圧縮できるプレミアムソフトウェア</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-guide-to-the-newly-launched-samsung-galaxy-s24-ultra-smartphone/"><u>Comprehensive Guide to the Newly Launched Samsung Galaxy S24 Ultra Smartphone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/explore-the-best-8-web-sites-for-accessing-3d-text-psds/"><u>Explore the Best 8 Web Sites for Accessing 3D Text PSDs</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/exploring-best-applications-tiktok-vs-youtubes-micro-video-realm-for-2024/"><u>Exploring Best Applications TikTok vs YouTube's Micro-Video Realm for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/exploring-the-new-psvr2-insights-into-release-dates-costs-and-hardware-specifications/"><u>Exploring the New PSVR2 - Insights Into Release Dates, Costs, and Hardware Specifications</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-10-must-have-sound-recording-devices-for-broadcast-enthusiasts-for-2024/"><u>New 10 Must-Have Sound Recording Devices for Broadcast Enthusiasts for 2024</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-cost-effective-mac-sound-editor-software/"><u>New 2024 Approved Cost-Effective Mac Sound Editor Software</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-effective-ways-to-shrink-large-scale-digital-media-downscale/"><u>New 2024 Approved Effective Ways to Shrink Large Scale Digital Media Downscale</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-efficient-cost-effective-steps-to-convert-voices-to-text-comprehensive-guide/"><u>New 2024 Approved Efficient, Cost-Effective Steps to Convert Voices to Text Comprehensive Guide</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-the-ultimate-guide-to-the-best-10-websites-for-obtaining-vintage-and-contemporary-montage-sounds/"><u>New The Ultimate Guide to the Best 10 Websites for Obtaining Vintage and Contemporary Montage Sounds</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/revolutionize-your-live-broadcasts-with-manycam-advanced-virtual-webcam-software/"><u>Revolutionize Your Live Broadcasts with ManyCam – Advanced Virtual Webcam Software!</u></a></li>
-<li><a href="https://driver-download.techidaily.com/step-by-step-update-to-enhance-performance-of-intel-iris-graphics-540-on-your-pc/"><u>Step-by-Step Update to Enhance Performance of Intel Iris Graphics 540 on Your PC</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-5-leading-digital-audio-workstation-options-for-professional-guitarists-updated/"><u>Updated 2024 Approved 5 Leading Digital Audio Workstation Options for Professional Guitarists, Updated</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-steps-for-creating-mp3-from-audacity-recordings/"><u>Updated Steps for Creating MP3 From Audacity Recordings</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-techniques-for-smoothing-meetings-backgrounds-in-teams/"><u>[New] 2024 Approved Techniques for Smoothing Meetings' Backgrounds in Teams</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-bridge-iphone-android-and-pc-timelines-for-syncing-zoom/"><u>[New] In 2024, Bridge iPhone, Android, and PC Timelines for Syncing Zoom</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-leading-edge-technology-15-high-quality-recorders/"><u>[Updated] 2024 Approved Leading Edge Technology 15 High-Quality Recorders</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-fast-fortnite-cover-art-techniques/"><u>[Updated] In 2024, Fast Fortnite Cover Art Techniques</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/2024-approved-how-to-remove-audio-seamlessly-a-windows-10-users-handbook-for-sound-free-vids-free-of-charge/"><u>2024 Approved How to Remove Audio Seamlessly A Windows 10 Users Handbook for Sound-Free Vids (Free of Charge)</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/a-filmmakers-choice-the-top-five-free-audio-jokes-for-creative-videos-for-2024/"><u>A Filmmakers Choice The Top Five Free Audio Jokes for Creative Videos for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-apple-iphone-7-plus-backup-password-heres-what-to-do-drfone-by-drfone-ios/"><u>Forgot Apple iPhone 7 Plus Backup Password? Heres What to Do | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-find-and-install-the-right-hp-officejet-4650-drivers-on-your-pc-windows/"><u>How to Find and Install the Right HP OfficeJet 4650 Drivers on Your PC (Windows)</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-techniques-for-softening-volume-in-logic-pro-mixing/"><u>In 2024, Techniques for Softening Volume in Logic Pro Mixing</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimal-control-logitech-gaming-mouse/"><u>Optimal Control: Logitech Gaming Mouse</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-exploring-archives-for-articulated-grunt-effects/"><u>Updated In 2024, Exploring Archives for Articulated Grunt Effects</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-navigating-audio-segmentation-easy-ways-to-split-your-mp3s-and-aacs/"><u>Updated In 2024, Navigating Audio Segmentation Easy Ways to Split Your MP3s and AACs</u></a></li>
 </ul></div>
 

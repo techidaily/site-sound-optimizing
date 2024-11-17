@@ -1,7 +1,7 @@
 ---
 title: Overcoming Performance Hiccups in Urban Planning Simulator Skyline Edition - PC Guide
-date: 2024-11-02T18:23:07.209Z
-updated: 2024-11-06T20:33:00.793Z
+date: 2024-11-10T22:47:51.916Z
+updated: 2024-11-16T23:56:03.711Z
 tags:
   - win11
   - win10
@@ -45,10 +45,16 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
 4. [Underclock your clock speed](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Download the latest patch
@@ -67,19 +73,6 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2-4.jpg)
 4. Under**Virtual memory** , click**Change** .  
 
-<!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/3-2.jpg)
 5. Uncheck**Automatically manage paging file size for all drives** and make sure you’ve check**System managed size** .  
 
@@ -87,13 +80,6 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
 6. Click**Set > OK** .
 
 7. Reboot your computer can check whether the crash will appear or not.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Delete specific files from the save folder
 
@@ -106,14 +92,14 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/browse-2.jpg)
 4. Navigate to the save folder, delete Data(999).sav & Data(999).bak.
 
-5. Reboot your computer and check the issue is solved or not.
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+5. Reboot your computer and check the issue is solved or not.
 
 ### Fix 4: Underclock your clock speed
 
@@ -145,7 +131,22 @@ OR
 2. Run Driver Easy and click **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Thanks for reading. Hope this article meets your need. And you are welcome to leave comments below.
 
@@ -166,19 +167,15 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-pro-chromebook-record-unmatched-screen-capture-for-2024/"><u>[New] Pro Chromebook Record Unmatched Screen Capture for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/resolved-advanced-auditory-support-for-win10-user/"><u>[Resolved]: Advanced Auditory Support for Win10 User</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-transforming-industries-via-vr/"><u>[Updated] Transforming Industries via VR</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/2024-approved-the-a-list-of-audio-harvesters-10-indispensable-tools-to-master-your-sound-design/"><u>2024 Approved The A-List of Audio Harvesters 10 Indispensable Tools to Master Your Sound Design</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/cutting-corners-with-care-10plus-top-ranked-free-audio-editors-online-for-2024/"><u>Cutting Corners with Care 10+ Top-Ranked Free Audio Editors Online for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-top-12-prominent-infinix-hot-30-5g-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Infinix Hot 30 5G Fingerprint Not Working Solutions</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/seamless-transitions-elevating-your-drone-footage-for-2024/"><u>Seamless Transitions Elevating Your Drone Footage for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ath-to-youtube-stardom-utilizing-sony-vegas-for-professional-cuts-for-2024/"><u>The Path to YouTube Stardom Utilizing Sony Vegas for Professional Cuts for 2024</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/95935437-9781844097937-the-third-circle-protocol/"><u>The Third Circle Protocol | Free Book</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-tailoring-auditory-experiences-to-your-videos-with-ease-and-precision/"><u>Updated 2024 Approved Tailoring Auditory Experiences to Your Videos with Ease and Precision</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-apowersoft-audio-recorder-tutorial-and-4-alternatives/"><u>Updated In 2024, Apowersoft Audio Recorder Tutorial and 4 Alternatives</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-silent-film-techniques-how-to-minimize-background-noise-in-your-mac-imovie-projects-for-2024/"><u>Updated Silent Film Techniques How to Minimize Background Noise in Your Mac iMovie Projects for 2024</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-synchronizing-sound-and-movement-crafting-clear-audio-visualization-waves-and-incorporating-animation-flourishes-in-adobe-premiere-pro/"><u>Updated Synchronizing Sound and Movement Crafting Clear Audio Visualization Waves & Incorporating Animation Flourishes in Adobe Premiere Pro</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/updated-what-is-an-ai-video-generator-in-2024/"><u>Updated What Is an AI Video Generator, In 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-streamline-marketing-with-top-rated-video-tags-generators/"><u>[New] 2024 Approved Streamline Marketing with Top-Rated Video Tags Generators</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/2024-approved-essential-tips-for-youtube-audio-library-you-wont-miss/"><u>2024 Approved Essential Tips for YouTube Audio Library You Wont Miss</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/conceal-dont-reveal-how-to-blur-faces-online/"><u>Conceal, Don't Reveal How to Blur Faces Online</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-honor-v-purse-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Honor V Purse | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-poco-f5-pro-5g-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Poco F5 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211350566--my-altered-states/"><u>My Altered States | Free Book</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-amr-audio-workshop-in-depth-tutorials-for-full-amr-file-transformation/"><u>New AMR Audio Workshop In-Depth Tutorials for Full AMR File Transformation</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solutions-and-tips-how-to-fix-gmail-synchronization-issues-on-your-device/"><u>Solutions and Tips: How to Fix Gmail Synchronization Issues on Your Device</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-essential-techniques-for-silencing-background-sounds-off-and-online-solutions/"><u>Updated 2024 Approved Essential Techniques for Silencing Background Sounds Off- and Online Solutions</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-the-audionists-toolkit-for-silencing-unwanted-audio-elements-for-2024/"><u>Updated The Audionists Toolkit for Silencing Unwanted Audio Elements for 2024</u></a></li>
 </ul></div>
 
