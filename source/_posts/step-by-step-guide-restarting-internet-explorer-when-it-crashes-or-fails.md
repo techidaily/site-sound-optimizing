@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Restarting Internet Explorer When It Crashes or Fails"
-date: 2024-11-15T22:40:10.970Z
-updated: 2024-11-16T22:32:03.284Z
+date: 2024-11-19T16:54:51.390Z
+updated: 2024-11-26T21:16:33.441Z
 tags:
   - win11
   - win10
@@ -31,13 +31,6 @@ thumbnail: https://thmb.techidaily.com/14b0662c78e5872a3461f2dbc1feb1f76e4bd1f28
 
  After confirming your PC is good enough for Minecraft, then go ahead with the fixes below.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  You may not need to try them all; simply work your way down the list until you find the one that works.
@@ -59,15 +52,12 @@ thumbnail: https://thmb.techidaily.com/14b0662c78e5872a3461f2dbc1feb1f76e4bd1f28
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/display-settings.jpg)
 2. In Display settings, scroll down the page and select**Graphics settings** .  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/graphics-settings.jpg)
 3. Click**Browse** to add the executable file of Minecraft.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/browse.jpg)
 4. Then click**Options** .  
@@ -76,9 +66,17 @@ thumbnail: https://thmb.techidaily.com/14b0662c78e5872a3461f2dbc1feb1f76e4bd1f28
 5. In the pop-up window, select**High performance** and click**Save** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/high-performance-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once done, run Minecraft again and see if the stuttering issue still appears.
 
 If this solution doesn’t help, continue with the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 2: Update your graphics driver
 
@@ -118,6 +116,10 @@ If the stuttering issue persists, move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/options.jpg)
 3. Click**Video Settings** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/video-settings.jpg)
 4. Lower the**Render distance** according to your need.  
 
@@ -140,17 +142,7 @@ But if it doesn’t, take a look at the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/turn-on-vsync.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Via AMD Radeon Settings
@@ -162,19 +154,6 @@ But if it doesn’t, take a look at the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/amd-gaming-1.jpg)
 3. Then click**Global Settings** .  
 
-<!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/amd-global-settings-1.jpg)
 4. Click**Wait for Vertical Refresh** , then select**Enhanced Sync** from the dropdown menu.  
 
@@ -184,6 +163,10 @@ But if it doesn’t, take a look at the next fix.
 
 If enabling Vsync didn’t do the trick, proceed to the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 5: Turn off threaded optimization
 
  Threaded optimization is a setting in NVIDIA Control Panel that controls the use of multithreaded optimization for all 3D games on systems with multi-core/HyperThreaded CPUs. Most new games perform better with threaded optimization enabled. However, some gamers reported that they fixed the stuttering issue in Minecraft by turning off threaded optimization. You can give it a shot. To do so:
@@ -192,28 +175,22 @@ If enabling Vsync didn’t do the trick, proceed to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/nvidia-control-panel.jpg)
 2. In the left panel, click**Manage 3D settings** , navigate to the**Program Settings** tab, and select**Minecraft Launcher.exe** from the first dropdown menu.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/step1.jpg)
 3. Scroll down to the bottom of the list and find the**Threaded optimization** , then click the dropdown menu next to it and**change the value from Auto to Off** . Click**Apply** to save changes.  
 
-![](https://images.drivereasy.com/wp-content/uploads/2021/07/step2.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/07/step2.jpg)
 
 After doing so, restart Minecraft and check if the problem is resolved.
 
 If the stuttering issue remains, try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 6: Allocate more RAM
 
@@ -231,22 +208,23 @@ If the stuttering issue remains, try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/4g-save.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Launch Minecraft and see if this helps fix the stuttering.
 
 If this solution doesn’t work, take a look at the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 7: Uninstall OptiFine
 
  OptiFine is a Minecraft optimization mod, which allows the game to run faster and look better. However, it consumes some resources and may cause the stuttering issue. To see if that’s the case for you, you can try uninstalling OptiFine.
 
  If the stuttering issue remains after uninstalling OptiFine, check out the last fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 8: Reinstall Minecraft
 
@@ -273,22 +251,22 @@ If this solution doesn’t work, take a look at the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/updated-beginners-blueprint-setting-up-a-live-video-feed/"><u>[Updated] Beginner's Blueprint Setting Up a Live Video Feed</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-examining-if-reviewers-get-payed/"><u>[Updated] Examining if Reviewers Get Payed</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/2024-approved-echo-excellence-enhancing-windows-pc-sounds-with-online-acoustic-plugins/"><u>2024 Approved Echo Excellence Enhancing Windows PC Sounds with Online Acoustic Plugins</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-poco-m6-pro-4g-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Poco M6 Pro 4G Current Location of a Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/how-to-fade-in-and-fade-out-audio-in-adobe-after-effects-for-2024/"><u>How to Fade In and Fade Out Audio in Adobe After Effects for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-nokia-c300-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On Nokia C300 without Anyone Knowing | Dr.fone</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/in-2024-top-8-must-try-audio-capture-apps-for-live-broadcasting/"><u>In 2024, Top 8 Must-Try Audio Capture Apps for Live Broadcasting</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-tracing-the-exits-who-left-my-insta-feed/"><u>In 2024, Tracing the Exits Who Left My Insta Feed?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mac-users-guide-mastering-whatsapp-communication/"><u>Mac Users Guide: Mastering WhatsApp Communication</u></a></li>
-<li><a href="https://extra-support.techidaily.com/masterclasses-in-applying-online-vhs-filters-and-graphics-for-2024/"><u>Masterclasses in Applying Online VHS Filters and Graphics for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/reviving-malfunctioning-usb-ports-tips-and-tricks-for-windows-1011-users/"><u>Reviving Malfunctioning USB Ports: Tips and Tricks for Windows 10/11 Users</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-auditory-hunt-locating-authentic-cricket-sfx/"><u>Updated 2024 Approved Auditory Hunt Locating Authentic Cricket SFX</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-precision-in-recording-cutting-down-ambient-noises-using-advanced-filters/"><u>Updated 2024 Approved Precision in Recording Cutting Down Ambient Noises Using Advanced Filters</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-5-best-mp3-cutters-online-for-2024/"><u>Updated 5 Best MP3 Cutters Online for 2024</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-essential-features-of-a-mac-compatible-sound-editing-software/"><u>Updated Essential Features of a Mac-Compatible Sound Editing Software</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-mp3-conversion-made-simple-3-effective-techniques-for-podcast-files/"><u>Updated In 2024, MP3 Conversion Made Simple 3 Effective Techniques for Podcast Files</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/xbox-one-controller-and-pc-compatibility-reconciled/"><u>Xbox One Controller & PC Compatibility Reconciled</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-invisible-edits-ensuring-confidentiality-in-media/"><u>[New] 2024 Approved Invisible Edits Ensuring Confidentiality in Media</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-hdr-photoshop-how-to-create-hdr-images-in-photoshop-like-a-pro/"><u>[Updated] HDR Photoshop How to Create HDR Images in Photoshop Like a Pro</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-essential-titles-your-gateway-to-open-worlds/"><u>2024 Approved Essential Titles Your Gateway to Open Worlds</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-revolutionize-video-creation-make-edit-and-share-on-the-go/"><u>2024 Approved Revolutionize Video Creation Make, Edit & Share on the Go</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/2024-approved-unlocking-potential-key-aspects-of-using-twistedwaves-advanced-audio-tools/"><u>2024 Approved Unlocking Potential Key Aspects of Using TwistedWaves Advanced Audio Tools</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ing-boredom-away-15-chuckle-inducing-youtubers/"><u>Browsing Boredom Away 15 Chuckle-Inducing YouTubers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effective-steps-to-implement-two-step-verification-on-twitch-platforms/"><u>Effective Steps to Implement Two-Step Verification on Twitch Platforms</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/in-2024-achieving-consistent-sound-levels-with-davinci-resolve/"><u>In 2024, Achieving Consistent Sound Levels with DaVinci Resolve</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-realme-gt-3mirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Realme GT 3Mirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-key-video-makers-in-the-asmr-space/"><u>In 2024, Key Video Makers in the ASMR Space</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/in-2024-leading-mp3-encoders-windows-and-mac-edition-rankings/"><u>In 2024, Leading MP3 Encoders Windows & Mac Edition Rankings</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-6-best-sim-unlock-services-that-actually-work-on-your-infinix-smart-7-device-by-drfone-android/"><u>In 2024, The 6 Best SIM Unlock Services That Actually Work On Your Infinix Smart 7 Device</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-groovegrid-an-online-repository-of-dj-classics/"><u>New 2024 Approved GrooveGrid An Online Repository of DJ Classics</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-mastering-audio-downloads-a-guide-to-collecting-podcast-episodes-on-pc/"><u>New 2024 Approved Mastering Audio Downloads A Guide to Collecting Podcast Episodes on PC</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-silent-stream-sculptors-crafting-audience-free-video-formats-mp4-mkv-avi-mov-wmv/"><u>New 2024 Approved Silent Stream Sculptors Crafting Audience-Free Video Formats (MP4, MKV, AVI, MOV, WMV)</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-trimming-mp4-content-a-focus-on-solo-soundtrack/"><u>New Trimming MP4 Content A Focus on Solo Soundtrack</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-elevating-live-events-with-top-audio-visual-blending-systems/"><u>Updated 2024 Approved Elevating Live Events with Top Audio Visual Blending Systems</u></a></li>
 </ul></div>
 

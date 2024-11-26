@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Fall Guys: Solutions for Game Crashes on Start-Up"
-date: 2024-11-16T06:50:41.200Z
-updated: 2024-11-16T16:01:58.315Z
+date: 2024-11-20T20:43:11.910Z
+updated: 2024-11-26T17:20:01.495Z
 tags:
   - win11
   - win10
@@ -31,13 +31,6 @@ _Hearts of Iron IV (HOI4)_ keeps crashing on your PC? Don’t worry. After readi
 8. **[Check for Windows Updates](https://tools.techidaily.com/drivereasy/download/)**
 9. **[Reinstall your game and/or Steam](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
-  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: **Check your computer specs**
 
  Many players are reporting that_Hearts of Iron 4_ crashes on their PC, and sometimes this problem can be caused by your hardware. Here are the minimum system requirements to run HOI4:
@@ -55,13 +48,6 @@ _Hearts of Iron IV (HOI4)_ keeps crashing on your PC? Don’t worry. After readi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-212.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)**  Type **dxdiag**  and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-222.png)
@@ -74,7 +60,15 @@ _Hearts of Iron IV (HOI4)_ keeps crashing on your PC? Don’t worry. After readi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-132.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If your computer meets the minimum requirements to run _HOI4_ , read on and check the fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: **Restart your computer**
 
@@ -96,19 +90,24 @@ _Hearts of Iron IV (HOI4)_ keeps crashing on your PC? Don’t worry. After readi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)**  Click the **Compatibility tab** and check the box next to **Run this program as an administrator** . Then, click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)**  Relaunch Steam and _Hearts of Irons 4_ .
 
 If your problem still exists, then move on to the fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4:**Disable fullscreen optimization**
@@ -125,14 +124,11 @@ If your problem still exists, then move on to the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-130.png)
 
- Relaunch_HOI4_ to see if this has resolved your issue. If not, read on and try the fix below.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Relaunch_HOI4_ to see if this has resolved your issue. If not, read on and try the fix below.
 
 ### Fix 5: **Update your graphics driver**
 
@@ -168,6 +164,10 @@ There are two ways you can get the right graphics driver:
  Or click **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-201.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -211,11 +211,23 @@ To fix it, try verifying the integrity of your game files on Steam:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-721.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** Select **High Performance** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-738.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Restart your computer and your game to see if this worked for you. If your problem persists, try the fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 8: **Check for Windows Updates**
 
@@ -224,13 +236,6 @@ To fix it, try verifying the integrity of your game files on Steam:
 **1)**  On your keyboard, press the **Windows logo**  key. Then, type **windows update** and select **Windows Update settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-536.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **2)**  Click **Check for updates,**  and then wait for Windows to download and install the updates automatically.
 
@@ -279,13 +284,6 @@ Relaunch your game to test your issue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-360.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)**  On your keyboard, press the **Windows logo**  key and type **control** . Then, click **Control Panel** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-361.png)
@@ -293,13 +291,6 @@ Relaunch your game to test your issue.
 **4)** Under **View by** , select **Category.**  Then, select **Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-374.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **5)** Right-click **Steam** , and then click **Uninstall** . Then, wait for the process to be complete.
 
@@ -310,13 +301,6 @@ Relaunch your game to test your issue.
 **7)** Right-click the **Steam icon** and select **Open file location** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-365.png)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
-  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **8)**  Move the backup **steamapps**  folder you create before to your current directory location.
 
@@ -347,22 +331,21 @@ Relaunch your game to test your issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-mastering-social-connectivity-from-instagram-to-tiktoks-playground/"><u>[New] 2024 Approved Mastering Social Connectivity From Instagram to TikTok's Playground</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-mastering-the-art-top-5-hand-to-hand-combat-games-for-2024/"><u>[New] Mastering the Art Top 5 Hand-to-Hand Combat Games for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-insightful-guide-to-sharex-critiques-and-counterparts/"><u>[Updated] In 2024, Insightful Guide to ShareX Critiques & Counterparts</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-spin-the-clock-back-inside-the-art-of-snapchat-flipping/"><u>[Updated] In 2024, Spin the Clock Back Inside the Art of Snapchat Flipping</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/fresh-beginnings-selecting-the-best-8-soundtracks-to-start-videos/"><u>Fresh Beginnings Selecting the Best 8 Soundtracks to Start Videos</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-oppo-a2-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Oppo A2 Phones? | Dr.fone</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/in-2024-most-admired-free-online-archives-with-a-collection-of-guitar-lyrics-and-artwork/"><u>In 2024, Most Admired Free Online Archives with a Collection of Guitar Lyrics and Artwork</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-xiaomi-civi-3-disney-100th-anniversary-edition-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from Xiaomi Civi 3 Disney 100th Anniversary Edition to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-discovering-whistle-acoustics-experience/"><u>New 2024 Approved Discovering Whistle Acoustics Experience</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-unlock-pro-level-videos-top-10-free-green-screen-apps-for-mobile/"><u>New 2024 Approved Unlock Pro-Level Videos Top 10 Free Green Screen Apps for Mobile</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-how-to-record-your-computer-audio-in-audacity/"><u>New How To Record Your Computer Audio in Audacity</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-rhythm-without-the-ruckus-zero-cost-digital-volume-reduction-for-karaoke-maestros/"><u>New Rhythm Without the Ruckus Zero-Cost, Digital Volume Reduction for Karaoke Maestros.</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722967255828-snow-would-melt-when-brought-inside-due-to-temperature-difference-thus-creating-a-mess-similar-to-spillage/"><u>Snow Would Melt when Brought Inside Due to Temperature Difference Thus Creating a Mess Similar to Spillage.</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/by-step-instructions-producing-alluring-video-thumbnails-on-youtube-for-2024/"><u>Step-by-Step Instructions Producing Alluring Video Thumbnails on YouTube for 2024</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-video-platform-auditory-archive/"><u>Updated 2024 Approved Video Platform Auditory Archive</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-sound-mining-extracting-audio-elements-from-visual-content/"><u>Updated In 2024, Sound Mining Extracting Audio Elements From Visual Content</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-the-complete-strategy-for-embedding-music-into-imovie-footage/"><u>Updated In 2024, The Complete Strategy for Embedding Music Into iMovie Footage</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-exploring-the-depths-top-10-unknown-features-in-vlc-player/"><u>[Updated] Exploring the Depths Top 10 Unknown Features in VLC Player</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-framing-fantasy-elite-tips-for-elevating-your-photography/"><u>[Updated] Framing Fantasy Elite Tips for Elevating Your Photography</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/easily-capturing-iphone-screens-on-the-go-for-2024/"><u>Easily Capturing iPhone Screens on the Go for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/effective-ways-to-fix-checkra1n-error-31-on-iphone-8-plus-by-drfone-ios/"><u>Effective Ways To Fix Checkra1n Error 31 On iPhone 8 Plus</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effortless-steps-to-stop-windows-11-from-constantly-rebooting/"><u>Effortless Steps to Stop Windows 11 From Constantly Rebooting</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-vivo-y100i-power-5g-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Vivo Y100i Power 5G</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Apple iPhone XS Max | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-turn-on-and-use-automatic-hdr-high-dynamic-range-in-windows-11/"><u>In 2024, How to Turn On and Use Automatic HDR (High Dynamic Range) in Windows 11</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/melody-in-reverse-top-5-nonlinear-audio-visuals-from-this-year-for-2024/"><u>Melody in Reverse Top 5 Nonlinear Audio Visuals From This Year for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/navigating-the-download-of-auditory-broadcasts-on-home-computers-for-2024/"><u>Navigating the Download of Auditory Broadcasts on Home Computers for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-10-premier-websites-to-access-high-quality-bgm-libraries/"><u>New 2024 Approved 10 Premier Websites to Access High-Quality BGM Libraries</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-crafting-captivating-audio-representations-syncopated-waveform-graphics-and-transformative-animation-in-adobe-premiere-pro/"><u>New 2024 Approved Crafting Captivating Audio Representations Syncopated Waveform Graphics and Transformative Animation in Adobe Premiere Pro</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-from-podcast-to-mp3-unveiling-the-top-three-conversion-strategies-for-2024/"><u>New From Podcast to MP3 Unveiling the Top Three Conversion Strategies for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-chromebook-guide-integrating-audacity-setup-and-removal-tips/"><u>New In 2024, Chromebook Guide Integrating Audacity - Setup & Removal Tips</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-deciphering-the-prowess-of-magix-samplitude-in-modern-music-production/"><u>New In 2024, Deciphering the Prowess of MAGIX Samplitude in Modern Music Production</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/ultimate-compilation-securely-accessing-and-saving-your-favorite-mtv-unplugged-tracks-for-free/"><u>Ultimate Compilation: Securely Accessing & Saving Your Favorite MTV Unplugged Tracks for Free</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Boosting Daily Routines: Leveraging ChatGPT for Effective Time Planning"
-date: 2024-11-10T19:44:29.554Z
-updated: 2024-11-17T01:40:03.064Z
+date: 2024-11-20T16:10:35.138Z
+updated: 2024-11-26T16:40:41.907Z
 tags:
   - chatgpt
   - open-ai
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/cda03445bb5af4617363a25ef0e62c6e1b665fa4b
  ChatGPT is an incredibly powerful tool that can do amazing things with text. It can summarize articles, advise on the structure and content of writing, and compose emails, to name a few.
 
  However, it can be clumsy when it comes to dealing with file formats like PDFs. This makes it tricky if you want it to work with content in this format. If you are struggling to get ChatGPT to read PDFs, here are some easy ways to do it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Supply ChatGPT With a URL
 
@@ -37,38 +41,11 @@ thumbnail: https://thmb.techidaily.com/cda03445bb5af4617363a25ef0e62c6e1b665fa4b
 
 ![Screenshot of copying text from PDF opened in Microsoft Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-copying-text-from-pdf-opened-in-ms-edge-1.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The text can then be pasted into a ChatGPT prompt, and the desired results attained. In this case, we asked it to bullet point the main points in the text.
 
 ![Screenshot of ChatGPT summarizing copied text](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-chatgpt-summarizing-copied-text.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  As you can see, ChatGPT will easily respond to prompts with text pasted into them. Just remember not to ask too much of it in a single request. This technique will work with most applications that can open PDFs.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Convert the PDF Into a Text Document
 
@@ -83,27 +60,36 @@ thumbnail: https://thmb.techidaily.com/cda03445bb5af4617363a25ef0e62c6e1b665fa4b
 ![Screenshot of Word opening PDF file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-word-opening-pdf-file.jpg)
 3. When you open the file you will be asked to convert the document, press**OK** to proceed.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Screenshot of Word PDF Conversion](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-word-pdf-conversion.jpg)
 4. Word will now convert and open the file, you can use the**Save As** command to save it as a Word or text document as preferred.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once the conversion is complete, you can copy the text directly into ChatGPT and run prompts on it to get your desired results.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Install and Use an Extension
 
 ![chatgpt with file uploader extension](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-extension.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Unfortunately, at this time, ChatGPT does not include a way to automatically upload PDF files or any files for that matter. Sure, you can copy the text from a PDF or convert it into a text document, but is there a simpler way to go about it? Luckily, there is. One of the easiest ways to get ChatGPT to read PDFs is to just install and use an extension.
 
 [ChatGPT File Uploader](https://chrome.google.com/webstore/detail/chatgpt-file-uploader-ext/becfinhbfclcgokjlobojlnldbfillpf/related) is a free-to-install Chrome Extension that allows you to upload any file, including Word documents, Excel spreadsheets, image files, and, of course, PDFs. What makes this an excellent method is just how easy it is to use.
 
  The steps are straightforward—install the ChatGPT File Uploader to your browser, open ChatGPT, and you'll notice a shiny, new**Upload** button next to the message bar at the bottom. From there, all you have to do is hit the button and choose the PDF you want to upload.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## PDFs Don't Have to Hinder Your ChatGPT Usage
 
@@ -126,24 +112,22 @@ thumbnail: https://thmb.techidaily.com/cda03445bb5af4617363a25ef0e62c6e1b665fa4b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-monetary-milestones-a-look-at-pewdiepies-yearly-income/"><u>[New] 2024 Approved Monetary Milestones A Look at PewDiePie's Yearly Income</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-screenrecording-excellence-in-newsoftvision-10plus-for-2024/"><u>[New] ScreenRecording Excellence in NewSoftVision 10+ for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-bringing-history-forward-digitizing-old-photographs-into-video/"><u>[Updated] 2024 Approved Bringing History Forward Digitizing Old Photographs Into Video</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-melodic-matchups-finding-the-right-song-for-your-insta-story-for-2024/"><u>[Updated] Melodic Matchups Finding the Right Song for Your Insta Story for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/find-and-install-hp-laptop-driver-updates-compatible-with-windows-os/"><u>Find and Install HP Laptop Driver Updates Compatible with Windows OS</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723207857915-google-chrome-stops-working-heres-how-you-can-resolve-it/"><u>Google Chrome Stops Working? Here's How You Can Resolve It!</u></a></li>
-<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-vivo-s17-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Vivo S17 | Dr.fone</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/in-2024-mastering-ai-powered-vocal-replication-two-techniques-for-authenticity/"><u>In 2024, Mastering AI-Powered Vocal Replication Two Techniques for Authenticity</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-the-meaning-of-windows-mbr-error-messages/"><u>Mastering the Meaning of Windows MBR Error Messages</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-premiere-pro-essentials-how-to-seamlessly-integrate-sound-with-visuals/"><u>New 2024 Approved Premiere Pro Essentials How to Seamlessly Integrate Sound with Visuals</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/no-more-silence-in-battle-royale-fixed-guide-to-restore-voice-chat-on-apex-legends/"><u>No More Silence in Battle Royale: Fixed Guide to Restore Voice Chat on Apex Legends</u></a></li>
-<li><a href="https://windows11.techidaily.com/swift-solutions-to-rectify-opengl-error-3-in-win11-pcs/"><u>Swift Solutions to Rectify OpenGL Error #3 in Win11 PCs</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/ultimate-3-auditory-enhancement-devices-for-mp3-files/"><u>Ultimate 3 Auditory Enhancement Devices for MP3 Files</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/unlimited-access-to-guitar-tutorials-converted-into-mp4-your-guide/"><u>Unlimited Access to Guitar Tutorials Converted Into MP4 - Your Guide</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-how-to-quickly-fix-audio-importing-issues-in-adobe-premiere-pro-for-2024/"><u>Updated How to Quickly Fix Audio Importing Issues in Adobe Premiere Pro for 2024</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-audio-free-video-formats-mastering-the-art-of-silence-removal-in-popular-file-types-mp4-mkv-avi-mov-wmv/"><u>Updated In 2024, Audio-Free Video Formats Mastering the Art of Silence Removal in Popular File Types (MP4, MKV, AVI, MOV, WMV)</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-streamlined-methods-for-obtaining-pitched-ding-sound-files-online-the-top-10-list/"><u>Updated Streamlined Methods for Obtaining Pitched Ding Sound Files Online - The Top 10 List</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-streamlining-speaker-audio-in-microsoft-powerpoint-cross-platform-solutions-for-windows-and-mac/"><u>Updated Streamlining Speaker Audio in Microsoft PowerPoint Cross-Platform Solutions for Windows and Mac</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-unveiling-the-essence-of-sound-pairing-waveforms-with-dynamic-animations-for-adobe-premiere-pro-creatives-for-2024/"><u>Updated Unveiling the Essence of Sound Pairing Waveforms with Dynamic Animations for Adobe Premiere Pro Creatives for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-best-video-recording-gear-guide/"><u>[New] 2024 Approved Best Video Recording Gear Guide</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/affordable-and-durable-comprehensive-review-of-the-omoton-t1-compact-desktop-mount/"><u>Affordable & Durable: Comprehensive Review of the Omoton T1 Compact Desktop Mount</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/artisan-soundscapes-for-blog-and-youtube-visionaries/"><u>Artisan Soundscapes for Blog and YouTube Visionaries</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/cting-the-hidden-mechanics-behind-youtubes-popularity-index/"><u>Dissecting the Hidden Mechanics Behind YouTube's Popularity Index</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-intellij-unison-not-working-a-guide-for-users-of-windows-11/"><u>Fixing IntelliJ Unison Not Working: A Guide for Users of Windows 11</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/harmonizing-mp4-visuals-with-top-tier-music-selection-methods/"><u>Harmonizing MP4 Visuals with Top-Tier Music Selection Methods</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-about-oneplus-nord-n30-se-frp-bypass-by-drfone-android/"><u>In 2024, About OnePlus Nord N30 SE FRP Bypass</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-masterful-text-effects-in-adobe-after-effects/"><u>In 2024, Masterful Text Effects in Adobe After Effects</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-streamline-your-obs-on-economical-devices/"><u>In 2024, Streamline Your OBS on Economical Devices</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-mastering-mp4-sound-retrieval-top-5-simplified-strategies/"><u>New 2024 Approved Mastering MP4 Sound Retrieval Top 5 Simplified Strategies</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-responsibilities-of-each-team-member-during-production/"><u>New Responsibilities of Each Team Member During Production</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/-share-your-youtube-playlist-journey/"><u>Quick Share Your YouTube Playlist Journey</u></a></li>
+<li><a href="https://facebook.techidaily.com/streamline-your-social-feeds-twitter-instagram-and-facebook/"><u>Streamline Your Social Feeds: Twitter, Instagram, & Facebook</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/the-art-of-low-pitched-audio-transforming-your-voice-in-filmora-2023-for-2024/"><u>The Art of Low-Pitched Audio Transforming Your Voice in Filmora 2023 for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-experts-choice-the-top-10-digital-stores-specializing-in-montage-music-downloads/"><u>Updated 2024 Approved Experts Choice The Top 10 Digital Stores Specializing in Montage Music Downloads</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-must-have-specifications-in-mac-audio-editing-applications/"><u>Updated 2024 Approved Must-Have Specifications in Mac Audio Editing Applications</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-beyond-free-photos-understanding-pexelscoms-role-in-creative-projects/"><u>Updated Beyond Free Photos Understanding Pexels.coms Role in Creative Projects</u></a></li>
 </ul></div>
 

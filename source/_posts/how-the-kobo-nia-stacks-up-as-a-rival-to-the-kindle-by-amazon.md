@@ -1,7 +1,7 @@
 ---
 title: How the Kobo Nia Stacks Up as a Rival to the Kindle by Amazon
-date: 2024-11-14T04:59:02.234Z
-updated: 2024-11-17T06:55:19.310Z
+date: 2024-11-23T16:41:40.439Z
+updated: 2024-11-26T19:51:35.374Z
 categories:
   - BestProducts
 description: This Article Describes How the Kobo Nia Stacks Up as a Rival to the Kindle by Amazon
@@ -12,6 +12,10 @@ thumbnail: https://www.lifewire.com/thmb/l-thYcivDg_wxc7mx5_01YaMCKg=/400x300/fi
 ## Evaluating the Mighty ZMI PowerPack 2nkWh: The Authoritative Guide to Your Go-To Compact Charger
 
 4.9
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## ZMI PowerPack 20000
 
@@ -41,13 +45,6 @@ thumbnail: https://www.lifewire.com/thmb/l-thYcivDg_wxc7mx5_01YaMCKg=/400x300/fi
 
 ![ZMI PowerPack 20000](https://www.lifewire.com/thmb/FttxoftMtHF3B2ZGmP2QubmOp3I=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/zmi-HeroSquare-492efa01c9e54737bfa9d16223ff9d82.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Lifewire / Andrew Hayward
 
  in this article
@@ -70,6 +67,10 @@ thumbnail: https://www.lifewire.com/thmb/l-thYcivDg_wxc7mx5_01YaMCKg=/400x300/fi
 
 ![ZMI PowerPack 20000](https://www.lifewire.com/thmb/jITowxAWHBUo5WF3Y-XI6lKQNQE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/zmi-05-02d76c869b864ef0abddfe824cfbf53a.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Lifewire / Andrew Hayward
 
 ## **Design: Small but powerful**
@@ -86,30 +87,18 @@ thumbnail: https://www.lifewire.com/thmb/l-thYcivDg_wxc7mx5_01YaMCKg=/400x300/fi
 
 ![ZMI PowerPack 20000](https://www.lifewire.com/thmb/vaINPELrwcWnOZDsX1ztKkCouww=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/zmi-03-1530f666df824f6281040c2ae3285eb2-2e7956941b91403aa888795a7e5e2e33.jpeg)
 
-Lifewire / Andrew Hayward
-
 <!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+Lifewire / Andrew Hayward
 
 ## **Setup Process: Easy does it**
 
  There’s not much to the setup process here. Using the included USB-C to USB-C cable, simply plug one end into the power bank and the other into an AC adapter that you have handy—like one for a laptop, tablet, or[smartphone](https://www.lifewire.com/best-smartphones-4043781) . Once the four lights on the side are fully illuminated, then the battery pack is fully charged. Simply plug in devices using their respective cables to charge them using the power within the ZMI PowerPack 20000.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Charging Speed and Battery: It keeps going**
@@ -123,6 +112,10 @@ Lifewire / Andrew Hayward
 ![ZMI PowerPack 20000](https://www.lifewire.com/thmb/asGVK-moJ54HvqyY9N6Kb-KM8hw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/zmi-04-828899fb01024cd4a0e35980251c04b4.jpg)
 
  Lifewire / Andrew Hayward
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Price: It’s a bargain**
 
@@ -139,13 +132,6 @@ Lifewire / Andrew Hayward
  **A fantastic portable laptop battery charger for nearly everyone.**
 
  It’s honestly difficult to find anything to complain about with the ZMI PowerPack 20000\. It’s powerful and does a great job of charging laptops and phones, it has enough capacity to handle those tasks with ease, it’s compact and well-designed, and the price is fantastic. It’s half the size of the giant Anker power brick that I’ve brought on my last two international trips and can handle all of the same tasks. In other words,_this_ is the power brick I’m bringing on my next trip.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Specs
 
@@ -173,21 +159,18 @@ Lifewire / Andrew Hayward
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-essential-guide-5-best-free-pinterest-video-downloads-for-2024/"><u>[New] Essential Guide 5 Best FREE Pinterest Video Downloads for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-mastery-over-music-flow-the-art-of-audio-blending/"><u>[New] In 2024, Mastery Over Music Flow The Art of Audio Blending</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-how-to-choose-the-right-thumbnail-size-for-impact/"><u>[Updated] How to Choose the Right Thumbnail Size for Impact</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-snapchat-friendly-how-to-use-your-camera-roll-effectively/"><u>2024 Approved Snapchat-Friendly How to Use Your Camera Roll Effectively</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/advanced-software-options-for-distilling-pure-auditory-experiences/"><u>Advanced Software Options for Distilling Pure Auditory Experiences</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/comprehensively-understanding-hands-directive-controls/"><u>Comprehensively Understanding Hands' Directive Controls</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/elevate-your-game-experience-a-selection-process-for-immersive-vocal-transformation-technology-for-2024/"><u>Elevate Your Game Experience A Selection Process for Immersive Vocal Transformation Technology for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/essential-tags-for-tiktok-fame-and-viral-potential-for-2024/"><u>Essential Tags for TikTok Fame and Viral Potential for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-top-vr-bikes-to-check-out/"><u>In 2024, Top VR Bikes to Check Out</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/navigating-to-the-pinnacle-5-leading-audio-mixers-for-mac-users/"><u>Navigating to the Pinnacle 5 Leading Audio Mixers for Mac Users</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-explore-these-5-pinnacle-platforms-for-efficient-mp3-file-tagging-for-2024/"><u>New Explore These 5 Pinnacle Platforms for Efficient MP3 File Tagging for 2024</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-in-depth-look-into-how-twistedwave-revolutionizes-sound-editing-processes/"><u>New In 2024, In Depth Look Into How TwistedWave Revolutionizes Sound Editing Processes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/silent-blocks-expert-tips-to-restore-audio-functionality-in-minecraft-gaming-on-windows-or-mac/"><u>Silent Blocks: Expert Tips to Restore Audio Functionality in Minecraft Gaming on Windows or Mac</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-roles-of-every-crew-member-in-filming/"><u>Updated Roles of Every Crew Member in Filming</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-visualizing-sound-displaying-waveforms-and-enhancing-animation-in-adobe-premiere-pro/"><u>Updated Visualizing Sound Displaying Waveforms & Enhancing Animation in Adobe Premiere Pro</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723205063225-valorant-screen-flickering-solutions-optimize-your-gameplay/"><u>Valorant Screen Flickering Solutions: Optimize Your Gameplay</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-unlock-advanced-splitting-with-non-xsplit-apps/"><u>[New] 2024 Approved Unlock Advanced Splitting with Non-Xsplit Apps</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-social-medias-food-scene-tiktoks-top-trends-for-2024/"><u>[New] Social Media's Food Scene TikTok's Top Trends for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-revolutionize-mobile-broadcasting-integrating-obs-studio-into-android/"><u>[Updated] 2024 Approved Revolutionize Mobile Broadcasting Integrating OBS Studio Into Android</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-from-novice-to-pro-your-discord-broadcast-journey/"><u>[Updated] In 2024, From Novice to Pro Your Discord Broadcast Journey</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/2024-approved-ultimate-car-audio-blend-tool-for-mac-users/"><u>2024 Approved Ultimate Car Audio Blend Tool for Mac Users</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-xltx-online-with-digisigner-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to Sign .xltx Online with DigiSigner</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-vivo-s18-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Vivo S18? | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/mastering-digital-vhs-image-modification-techniques-for-2024/"><u>Mastering Digital VHS Image Modification Techniques for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-10-must-have-sound-recording-devices-for-broadcast-enthusiasts-for-2024/"><u>New 10 Must-Have Sound Recording Devices for Broadcast Enthusiasts for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-effective-ways-to-shrink-large-scale-digital-media-downscale/"><u>New 2024 Approved Effective Ways to Shrink Large Scale Digital Media Downscale</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-the-ultimate-guide-to-the-best-10-websites-for-obtaining-vintage-and-contemporary-montage-sounds/"><u>New The Ultimate Guide to the Best 10 Websites for Obtaining Vintage and Contemporary Montage Sounds</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-galaxy-a25-5g-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Galaxy A25 5G</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-5-leading-digital-audio-workstation-options-for-professional-guitarists-updated/"><u>Updated 2024 Approved 5 Leading Digital Audio Workstation Options for Professional Guitarists, Updated</u></a></li>
 </ul></div>
 

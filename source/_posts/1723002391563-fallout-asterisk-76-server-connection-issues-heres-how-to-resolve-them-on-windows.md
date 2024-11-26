@@ -1,7 +1,7 @@
 ---
 title: Fallout Asterisk 76 Server Connection Issues? Here's How to Resolve Them on Windows
-date: 2024-11-12T16:48:31.805Z
-updated: 2024-11-16T20:58:59.746Z
+date: 2024-11-25T17:20:41.821Z
+updated: 2024-11-26T17:33:35.385Z
 tags:
   - win11
   - win10
@@ -39,18 +39,15 @@ Here is how to reset Winsock data:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-566.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) When prompted for permission, click**Yes** to run Command Prompt.
 
  3) In the Command Prompt, type **netsh winsock reset**  and hit **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap7-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Restart your computer.
 
@@ -59,10 +56,7 @@ Here is how to reset Winsock data:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
-  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2:**Close bandwidth hogging applications**
@@ -84,10 +78,7 @@ Here is how to do it:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Make sure you have the latest network drivers
@@ -109,10 +100,7 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5af0deb80ba.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
@@ -122,6 +110,10 @@ Here is how to do it:
 5) Run Fallout 76 again and see if the**Fallout 76 disconnected from server** is resolved. If yes, then congrats and enjoy the game! If the issue persists, please move on to**Fix 4** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Restart your network
 
@@ -163,13 +155,6 @@ _wireless router_
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap9-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### To renew your IP
 
  1) On your keyboard, press **the Windows Logo Key** and type **cmd** . Then right-click Command Prompt when it comes up as a result and select **Run as administrator** .
@@ -184,24 +169,25 @@ _wireless router_
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap11-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Type**the following command line** and press **Enter**  on your keyboard.
 
 **ipconfig /renew**  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap12-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5) Launch Fallout 76.
 
  Check to see if the Fallout 76 connecting issue still occurs. If it is still not fixed, please try**Fix 6** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Switch the DNS server
 
@@ -217,6 +203,10 @@ Here is how to switch the DNS server to Google Public DNS:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-611.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) In the pop-up window, click **Change adapter settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-612.png)
@@ -226,10 +216,7 @@ Here is how to switch the DNS server to Google Public DNS:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-613.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5) Double-click **Internet Protocol Version 4(TCP/IPv4)**  to view its properties.
@@ -239,13 +226,6 @@ Here is how to switch the DNS server to Google Public DNS:
  6) Select **Obtain an IP address automatically** and **Use the following DNS server addresses** . For **the Preferred DNS server** , enter the Google Public DNS address: **8.8.8.8** ; **for the Alternative DNS server** , enter the Google Public DNS address: **8.8.4.4** . Then click **OK** to save the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-614.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 7) Restart your computer for the changes to take effect.
 
@@ -282,24 +262,24 @@ Here is how to switch the DNS server to Google Public DNS:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-live-stream-success-tackling-common-2023-interruption-cases-in-fb/"><u>[New] In 2024, Live Stream Success Tackling Common 2023 Interruption Cases in FB</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-viewpoint-validation-digest/"><u>[New] Viewpoint Validation Digest</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-how-to-record-video-calls-on-facebook-4-methods/"><u>[Updated] 2024 Approved How to Record Video Calls on Facebook [4 Methods]</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-the-ultimate-step-by-step-youtube-editing-walkthrough/"><u>[Updated] 2024 Approved The Ultimate Step-by-Step YouTube Editing Walkthrough</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-detailed-slomo-app-review-future-predictions-for-2024/"><u>[Updated] Detailed SloMo App Review - Future Predictions for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-expert-insights-efficiently-adding-subtitles-to-vimeo-videos-for-2024/"><u>[Updated] Expert Insights Efficiently Adding Subtitles to Vimeo Videos for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-how-to-get-started-signing-up-for-a-youtube-channel/"><u>[Updated] How to Get Started Signing Up for a YouTube Channel</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ring-all-about-youtube-premium-access-for-2024/"><u>Exploring All About YouTube Premium Access for 2024</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/in-2024-harmonize-your-hearings-top-software-to-extract-clean-soundscapes-from-original-recordings/"><u>In 2024, Harmonize Your Hearings Top Software to Extract Clean Soundscapes From Original Recordings</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlock-apple-id-on-your-apple-iphone-13-mini-without-security-questions-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID On your Apple iPhone 13 mini without Security Questions?</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/in-2024-the-essential-list-of-top-10-audio-editors-for-windows-and-mac-platforms/"><u>In 2024, The Essential List of Top 10 Audio Editors for Windows & Mac Platforms</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-prime-budget-optimized-mac-audio-adjustment-software/"><u>New In 2024, Prime Budget-Optimized Mac Audio Adjustment Software</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-step-by-step-guide-acquiring-audio-content-for-your-computer/"><u>New Step-by-Step Guide Acquiring Audio Content for Your Computer</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/the-definitive-manual-for-windows-10-perfecting-your-audio-recordings/"><u>The Definitive Manual for Windows 10 Perfecting Your Audio Recordings</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/ultimate-dj-streaming-repository-for-2024/"><u>Ultimate DJ Streaming Repository for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/ultimate-guide-to-the-beatit-bt-d11-power-bank-strength-unleashed/"><u>Ultimate Guide to the Beatit BT-D11 Power Bank - Strength Unleashed!</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-top-10-bgm-audio-archives/"><u>Updated 2024 Approved Top 10 BGM Audio Archives</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-voice-memos-made-simple-your-comprehensive-guide-to-high-quality-audio-recordings-on-windows-10/"><u>Updated 2024 Approved Voice Memos Made Simple Your Comprehensive Guide to High-Quality Audio Recordings on Windows 10</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-steps-for-integrating-sound-into-the-latest-avi-format/"><u>Updated In 2024, Steps for Integrating Sound Into the Latest AVI Format</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-the-pixiz-guide-to-blending-photography-and-motion-for-2024/"><u>[New] The Pixiz Guide to Blending Photography and Motion for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-top-9-indoor-game-apps-perfect-for-android-without-connectivity-for-2024/"><u>[New] Top 9 Indoor Game Apps - Perfect For Android Without Connectivity for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-deciding-on-live-stream-xsplit-or-obs-pros-and-cons/"><u>[Updated] 2024 Approved Deciding on Live Stream XSplit or OBS Pros and Cons</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-reversing-time-retracing-your-steps-for-lost-snaps/"><u>[Updated] 2024 Approved Reversing Time Retracing Your Steps for Lost Snaps</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/2024-approved-mastering-audio-balance-achieving-consistent-volume-levels-with-vlc-media-player/"><u>2024 Approved Mastering Audio Balance Achieving Consistent Volume Levels with VLC Media Player</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-professional-drone-review-best-5-to-consider/"><u>2024 Approved Professional Drone Review Best 5 to Consider</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/2024-approved-sonic-design-lab-pioneering-audio-manipulation-in-sony-vegas-pro/"><u>2024 Approved Sonic Design Lab Pioneering Audio Manipulation in Sony Vegas Pro</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/demystifying-different-varieties-of-microsoft-windows-updates/"><u>Demystifying Different Varieties of Microsoft Windows Updates</u></a></li>
+<li><a href="https://facebook.techidaily.com/facebooks-vision-reimagined-delving-into-the-concept-of-metaverse/"><u>Facebook’s Vision Reimagined: Delving Into The Concept of Metaverse</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-x100-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Vivo X100 PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/master-musicians-picks-best-10-song-arrangers-for-windows-and-mac-devices/"><u>Master Musicians Picks Best 10 Song Arrangers for Windows & Mac Devices</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-elevating-audio-excellence-adjusting-pitch-in-audacity-without-compromising-quality/"><u>New In 2024, Elevating Audio Excellence Adjusting Pitch in Audacity without Compromising Quality</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-enriched-sound-experience-synthesizing-audio-waves-and-animating-them-for-premiere-pro-audience/"><u>New In 2024, Enriched Sound Experience Synthesizing Audio Waves and Animating Them for Premiere Pro Audience</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-ornithological-soundscapes-mp3-compilation/"><u>New In 2024, Ornithological Soundscapes MP3 Compilation</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/seamless-integration-moving-your-google-photos-library-to-icloud/"><u>Seamless Integration: Moving Your Google Photos Library to iCloud</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ultimate-sites-for-stylish-metallic-3d-text-artistry/"><u>Ultimate Sites for Stylish, Metallic 3D Text Artistry</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-enhancing-audio-quality-practical-methods-to-eradicate-low-frequency-rumble/"><u>Updated Enhancing Audio Quality Practical Methods to Eradicate Low-Frequency Rumble</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-most-popular-websites-offering-montage-audio-archives/"><u>Updated Most Popular Websites Offering Montage Audio Archives</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-ultimate-windows-sound-experience-designer-for-2024/"><u>Updated Ultimate Windows Sound Experience Designer for 2024</u></a></li>
 </ul></div>
 

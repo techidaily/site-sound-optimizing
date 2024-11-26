@@ -1,7 +1,7 @@
 ---
 title: "Defeat Scavengers on Windows: Ultimate Winning Strategies Unveiled!"
-date: 2024-11-12T04:47:54.427Z
-updated: 2024-11-17T07:58:50.530Z
+date: 2024-11-23T18:49:19.479Z
+updated: 2024-11-26T18:02:20.563Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ Recently, we’ve seen many players reporting that**Dirt 5 keeps crashing** on t
 
  Here we’ve gathered the latest fixes that helped other players resolve the Dirt 5 crashing issue. Whether Dirt 5 crashes on startup or crashes in the middle of the game, you can find a fix to try in this article.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You don’t have to try them all, Just work your way through the list until you find the one that does the trick for you.
@@ -29,13 +33,6 @@ Recently, we’ve seen many players reporting that**Dirt 5 keeps crashing** on t
 4. **[Disable Steam overlay](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Set launch options on Steam](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Stop overclocking](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 1: Update your graphics driver
 
@@ -71,15 +68,16 @@ The outdated or broken graphics driver often crashes the game.
 2. Click **the LOCAL FILES tab** , then click **VERIFY INTEGRITY OF GAME CACHE…** . After that, click **CLOSE** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![LOCAL FILES>VERIFY INTEGRITY OF GAME CACHE...](https://images.drivereasy.com/wp-content/uploads/2019/04/image-120.png)
 
  It may take some time to finish verifying the game files. Launch the game after the verifying process completed to see if this fix works. If not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 3: Install the latest game patch
 
@@ -97,23 +95,13 @@ The outdated or broken graphics driver often crashes the game.
 ![Steam->properties](https://images.drivereasy.com/wp-content/uploads/2019/04/image-122.png)
 2. Uncheck**Enable Steam Overlay while in-game** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Disable Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-Steam-Overlay.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Launch Dirt 5 to see if the game crashes. If the issue persists, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 5: Set launch options on Steam
 
@@ -124,16 +112,13 @@ The outdated or broken graphics driver often crashes the game.
 ![Steam set launch options](https://images.drivereasy.com/wp-content/uploads/2021/04/Modify-Steam-set-launch-options.jpg)
 3. Copy and paste the commands below and click **OK** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `-useallavailablecores -high`
 
  Launch the game to see if it crashes again. If it still crashes, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 6: Stop overclocking
 
@@ -165,19 +150,22 @@ The outdated or broken graphics driver often crashes the game.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-the-sound-of-success-tailoring-audio-for-instagram-content/"><u>[New] In 2024, The Sound of Success Tailoring Audio for Instagram Content</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-tech-savvy-show-saviors-advanced-tv-capture-tips-for-2024/"><u>[New] Tech-Savvy Show Saviors Advanced TV Capture Tips for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-innovative-fb-ad-campaigns-boosting-patient-care/"><u>[Updated] 2024 Approved Innovative FB Ad Campaigns Boosting Patient Care</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-unlocking-igtv-success-hashtag-strategies-for-fame/"><u>[Updated] 2024 Approved Unlocking IGTV Success Hashtag Strategies for Fame</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-immersive-color-grading-navigating-luts-in-adobe-premiere-pro-for-2024/"><u>[Updated] Immersive Color Grading Navigating LUTs in Adobe Premiere Pro for 2024</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/2024-approved-professional-methods-for-excising-auditory-elements-from-mp4-formats/"><u>2024 Approved Professional Methods for Excising Auditory Elements From MP4 Formats</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/best-noise-canceling-tools-top-choices-for-clean-audio-for-2024/"><u>Best Noise-Canceling Tools Top Choices for Clean Audio for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/boosting-performance-fixes-for-unsupported-freesync/"><u>Boosting Performance: Fixes for Unsupported FreeSync</u></a></li>
-<li><a href="https://win-tips.techidaily.com/expert-strategies-in-data-resurrection-tackling-massive-files-over-4gb/"><u>Expert Strategies in Data Resurrection: Tackling Massive Files Over 4GB</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-samsung-galaxy-m14-5g-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Samsung Galaxy M14 5G Device SIM</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-transforming-podcast-content-into-high-quality-mp3-audio-a-step-by-step-guide/"><u>New Transforming Podcast Content Into High-Quality MP3 Audio A Step-by-Step Guide</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-earning-beats-for-your-ears-the-art-of-accessing-free-audio-music-legally/"><u>Updated 2024 Approved Earning Beats for Your Ears The Art of Accessing FREE Audio Music Legally</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-a-guide-to-mixing-sound-and-picture-in-quicktime-format-for-2024/"><u>Updated A Guide to Mixing Sound and Picture in QuickTime Format for 2024</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-the-audacity-advantage-effective-methods-for-quieting-audio-distractions-for-2024/"><u>Updated The Audacity Advantage Effective Methods for Quieting Audio Distractions for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-common-youtube-shorts-when-thumbnails-disappear-without-notice/"><u>[Updated] In 2024, Common YouTube Shorts When Thumbnails Disappear Without Notice</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-steps-to-clear-out-your-youtube-watch-later-collection/"><u>2024 Approved Steps to Clear Out Your YouTube Watch Later Collection</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/chromebook-voice-memos-made-simple-8-easy-techniques/"><u>Chromebook Voice Memos Made Simple 8 Easy Techniques</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210630768-9783986537524-dark-persuasion/"><u>DАRK PЕRSUАSION | Free Book</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-network-locked-motorola-edge-40-neo-phone-by-drfone-android/"><u>How to Unlock a Network Locked Motorola Edge 40 Neo Phone?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/identifying-the-creator-of-chatgpt-whos-behind-it/"><u>Identifying the Creator of ChatGPT: Who's Behind It?</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/in-2024-optimizing-pitch-alteration-in-audacity-a-guide-to-quality-retention/"><u>In 2024, Optimizing Pitch Alteration in Audacity A Guide to Quality Retention</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/lenovos-dual-function-chromebook-duet-reviewed-best-value-for-money-in-a-portable-2-in-1-format/"><u>Lenovo's Dual-Function Chromebook Duet Reviewed - Best Value for Money in a Portable 2-in-1 Format</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/modern-techniques-for-shrinking-digital-file-dimensions/"><u>Modern Techniques for Shrinking Digital File Dimensions</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-the-editors-edge-techniques-for-removing-background-noise-and-selective-muting-in-video-post-production/"><u>New In 2024, The Editors Edge Techniques for Removing Background Noise and Selective Muting in Video Post-Production</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-the-ultimate-tutorial-computer-sound-recordings-with-audacity/"><u>New In 2024, The Ultimate Tutorial Computer Sound Recordings with Audacity</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printers-that-can-handle-full-document-sizes/"><u>Printers That Can Handle Full Document Sizes</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-7-recommended-alarm-clock-applications/"><u>Top 7 Recommended Alarm Clock Applications</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-pick-outstanding-external-blu-ray-players-and-burners/"><u>Top Pick: Outstanding External Blu-Ray Players and Burners</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-auditory-cuts-and-segments-convenient-methods-to-divide-your-music-files/"><u>Updated 2024 Approved Auditory Cuts and Segments Convenient Methods to Divide Your Music Files</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-pushing-boundaries-in-sound-design-top-5-innovative-audio-distortion-applications/"><u>Updated 2024 Approved Pushing Boundaries in Sound Design Top 5 Innovative Audio Distortion Applications</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-the-path-to-precision-sound-step-by-step-audio-normalization-in-davinci-resolve-for-2024/"><u>Updated The Path to Precision Sound Step-by-Step Audio Normalization in DaVinci Resolve for 2024</u></a></li>
 </ul></div>
 

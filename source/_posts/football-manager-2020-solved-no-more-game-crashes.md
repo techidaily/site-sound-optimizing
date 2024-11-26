@@ -1,7 +1,7 @@
 ---
 title: "Football Manager 2020: Solved - No More Game Crashes!"
-date: 2024-11-10T01:57:13.537Z
-updated: 2024-11-17T07:49:46.833Z
+date: 2024-11-25T17:15:43.929Z
+updated: 2024-11-26T19:20:58.189Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/4fec1082aae14c609dc25605c639b1fbe3c36aac7
 ## Football Manager 2020 Bug Resolved: Now Running Smoothly
 
 _**Football Manager 2020 (FM20)**_ constantly crashes your PC? You’re not alone! Many players are reporting it, but the good news is that you can fix it. Here are 5 solutions to try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fixes to try
 
@@ -63,15 +67,16 @@ _**Football Manager 2020 (FM20)**_ constantly crashes your PC? You’re not alon
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-25_10-39-20-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)**  Right-click **Football Manager 2020**  and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-25_10-43-22.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4)** Click the **LOCAL FILES** tab, then click **VERIFY INTEGRITY OF GAME FILES** .
@@ -90,27 +95,17 @@ If your game still crashes, then go ahead with the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-25_10-53-50.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)**  Right-click the program you want to close and select **End task** .
 
  Don’t end any program that you’re not familiar with. It may be critical for the functioning of your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-25_10-55-26.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Now, relaunch _**FM20**_ to see if this has resolved your issue. If your game crashes again, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: **Delete the Preferences and/or Caches folder**
 
@@ -130,22 +125,12 @@ If your game still crashes, then go ahead with the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-25_11-02-15-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
-  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **5)** Restart your game to check if this worked for you.
 
 If your game is still unplayable, move on to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Reinstall _FM20_  and/or Steam
@@ -164,10 +149,7 @@ If your game is still unplayable, move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-25_10-39-20-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)**  Right-click **Football Manager 2020** , and select **Manage > Uninstall** .
@@ -190,13 +172,6 @@ If your game is still unplayable, move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-25_11-23-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** On your keyboard, press the **Windows logo** key and type **control** . Then, click **Control Panel** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-25_11-23-36.jpg)
@@ -209,27 +184,26 @@ If your game is still unplayable, move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-25_11-24-01.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  **6)[Download](https://store.steampowered.com/about/)**  and install Steam.
 
 **7)** Right-click the **Steam icon**  and select **Open file location** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-25_11-25-08.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **8)**  Move the backup **steamapps folder**  you created to your current directory location.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-25_11-25-16.jpg)
 
 <!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **9)**  Restart Steam and your game.
@@ -257,22 +231,19 @@ If your game is still unplayable, move on to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-husqvarna-h501x4-fpv-quad-examination/"><u>2024 Approved Husqvarna H501X4 FPV Quad Examination</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-silent-worlds-solving-valheim-audio-issues-on-pc/"><u>Fixing Silent Worlds: Solving Valheim Audio Issues on PC</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/get-your-fragile-pictures-back-with-our-free-image-recovery-tool/"><u>Get Your Fragile Pictures Back with Our Free Image Recovery Tool</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-3-smart-and-simple-ways-to-change-home-address-on-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>In 2024, 3 Smart and Simple Ways to Change Home Address on Apple iPhone 14 | Dr.fone</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/in-2024-creative-audio-analysis-crafting-an-interactive-waveform-animation-spectacle-within-premiere-pro/"><u>In 2024, Creative Audio Analysis Crafting an Interactive Waveform Animation Spectacle Within Premiere Pro</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-making-your-mark-on-youtube-a-branding-blueprint/"><u>In 2024, Making Your Mark on YouTube – A Branding Blueprint</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/ipogo-will-be-the-new-ispoofer-on-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Oppo Reno 11 5G? | Dr.fone</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-discovering-the-most-advanced-online-tools-for-mp3-file-tagging-and-categorization/"><u>New 2024 Approved Discovering the Most Advanced Online Tools for MP3 File Tagging and Categorization</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-unveiling-the-ultimate-frequency-tuner-configurations/"><u>New 2024 Approved Unveiling the Ultimate Frequency Tuner Configurations</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-list-of-online-repositories-featuring-cat-vocalizations-in-mp3-for-2024/"><u>New List of Online Repositories Featuring Cat Vocalizations in MP3 for 2024</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/95782403-9781591437536-secrets-of-aboriginal-healing-2nd-ed/"><u>Secrets of Aboriginal Healing (2nd ed.) | Free Book</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/y-sounds-discover-role-rhythms-for-2024/"><u>Snappy Sounds Discover Role Rhythms for 2024</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/the-essential-guide-to-choosing-your-best-guitar-recording-application/"><u>The Essential Guide to Choosing Your Best Guitar Recording Application</u></a></li>
-<li><a href="https://win-dash.techidaily.com/update-dell-g3-drivers-for-your-better-gaming-experience/"><u>Update Dell G3 Drivers For Your Better Gaming Experience</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-achieving-clarity-in-soundscapes-innovative-techniques-for-minimizing-audio-distractions-onlineoffline/"><u>Updated 2024 Approved Achieving Clarity in Soundscapes Innovative Techniques for Minimizing Audio Distractions, Online/Offline</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-2024s-must-have-recording-applications-for-aspiring-and-seasoned-guitar-players/"><u>Updated 2024S Must-Have Recording Applications for Aspiring and Seasoned Guitar Players</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-behind-the-scenes-the-essential-roles-of-film-production-team-members/"><u>Updated Behind the Scenes The Essential Roles of Film Production Team Members</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-essential-8-schedulers-to-optimize-your-instagram-posts/"><u>[Updated] 2024 Approved Essential 8 Schedulers to Optimize Your Instagram Posts</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-innovation-unleashed-experience-our-6-best-signature-removers/"><u>2024 Approved Innovation Unleashed – Experience Our 6 Best Signature Removers</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-navigating-the-landscape-of-firefox-picture-in-picture/"><u>2024 Approved Navigating the Landscape of Firefox Picture-in-Picture</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-windows-sam-mismanagement/"><u>Addressing Windows SAM Mismanagement</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719169753046-guide-enjoy-xbox-games-anyhow/"><u>Guide: Enjoy Xbox Games Anyhow!</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-maximize-impact-strategic-viewing-hours-schedule/"><u>In 2024, Maximize Impact Strategic Viewing Hours Schedule</u></a></li>
+<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-oppo-f23-5g-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Oppo F23 5G Phone FRP Lock</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-technology-a-deep-dive-into-hardware-features/"><u>Mastering Technology: A Deep Dive Into Hardware Features</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-10-best-audio-editor-windows-mac/"><u>New 2024 Approved 10 Best Audio Editor Windows, Mac</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-crafting-the-perfect-soundtrack-for-your-project-step-by-step-audio-replacement-tactics/"><u>New Crafting the Perfect Soundtrack for Your Project Step-by-Step Audio Replacement Tactics</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-evolving-sound-quality-issues-within-the-2023-adobe-rush-iteration-for-2024/"><u>New Evolving Sound Quality Issues Within the 2023 Adobe Rush Iteration for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-auditory-balance-expert-tips-on-achieving-even-audio-volume-in-video-formats/"><u>Updated Auditory Balance Expert Tips on Achieving Even Audio Volume in Video Formats</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-cutting-edge-ios-daw-apps-a-guide-to-the-8-best-choices-for-tablets-and-smartphones/"><u>Updated Cutting-Edge iOS DAW Apps A Guide to the 8 Best Choices for Tablets and Smartphones</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-revolutionizing-your-music-tracks-with-7-key-audio-effects-of-the-year/"><u>Updated In 2024, Revolutionizing Your Music Tracks with 7 Key Audio Effects of the Year</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Red Dead Redemption 2 Performance Optimized - No More Lag or Drops
-date: 2024-11-09T17:48:41.515Z
-updated: 2024-11-16T20:04:53.066Z
+date: 2024-11-23T16:37:21.673Z
+updated: 2024-11-26T16:08:20.561Z
 tags:
   - win11
   - win10
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/ddfdfc8e69381106d1b66c2809b663a8f7e41d96d
  Red Dead Redemption 2 was released in 2018, and 2 years later there’re many players complaining about the**FPS issues** . Some experience lag in specific scenes, and for some the game stutters all the time.
 
  But don’t worry if you’re on the same boat. In this post, we’ll show you some working fixes that could boost your FPS in no time.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -57,27 +61,11 @@ After installing all the updates, restart your PC and check the gameplay.
 2. Select **Ultimate Performance** . (If you don’t see this power plan, simply continue to the next step to unhide it.)  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-ultimate-performance.jpg)
 3. On your keyboard, press Win (the Windows logo key) and type **cmd** . Select **Run as Administrator** .  
-
-<!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/run-cmd-as-administrator.jpg)
 4. In the command prompt, type or paste the following command and press **Enter** .  
@@ -107,10 +95,7 @@ Now you can start RDR2 and check if it stutters again.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-2060-super-update.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -118,13 +103,6 @@ Now you can start RDR2 and check if it stutters again.
  Once you’ve updated your graphics driver, restart your computer and test the gameplay in RDR2 again.
 
  If the latest GPU driver doesn’t do the trick for you, you can move on to the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Enable HAGs
 
@@ -139,35 +117,37 @@ Now you can start RDR2 and check if it stutters again.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/hags-02.jpg)
 3. Under the **Default settings** section, click **Change default graphics settings** .  
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/hags-3.jpg)
 4. Turn on **Hardware-accelerated GPU scheduling** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/hags-4.jpg)
 5. Restart your PC for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Now you can launch RDR2 and check if there’s any improvements.
 
 If HAGs doesn’t work for you, you can try the next method.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 5: Disable all mods
 
  The Red Dead Redemption series is also famous for the large number of mods. There’s a mod that allows players to turn themselves into animals, and one with which gamers can fly in a hot air balloon. Though fun, it’s worth noting that mods might be the culprit of your FPS issues. So if you’re using any mods in RDR2, turn them off and see how it goes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/rdr2-hot-air-balloon.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Fine tune in-game settings
 
@@ -182,20 +162,10 @@ If HAGs doesn’t work for you, you can try the next method.
 4. Also set**Reflection MSAA** to**X4** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/RDR2-graphics-tuning-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 You can now test your gameplay and see if the game lags again.
 
@@ -222,18 +192,16 @@ You can now test your gameplay and see if the game lags again.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-dance-the-viral-dance-mix-in-some-tiktok-flavor-for-insta-success-for-2024/"><u>[New] Dance the Viral Dance Mix in Some TikTok Flavor for Insta Success for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-expert-iphone-software-roundup-selecting-ideal-watermark-tools/"><u>[New] In 2024, Expert iPhone Software Roundup Selecting Ideal Watermark Tools</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-cheerful-account-creation-handbook/"><u>2024 Approved Cheerful Account Creation Handbook</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/eac-launch-problem-solved-confirm-your-game-has-easy-anti-cheat-enabled/"><u>EAC Launch Problem Solved? Confirm Your Game Has Easy Anti-Cheat Enabled</u></a></li>
-<li><a href="https://android-frp.techidaily.com/full-guide-to-bypass-samsung-galaxy-s23-frp-by-drfone-android/"><u>Full Guide to Bypass Samsung Galaxy S23 FRP</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-troubleshoot-a-black-asus-camera-on-windows-11-systems/"><u>How to Troubleshoot a Black ASUS Camera on Windows 11 Systems</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/in-2024-audio-enhancement-the-2023-methodology-for-softening-volume-transitions/"><u>In 2024, Audio Enhancement The 2023 Methodology for Softening Volume Transitions</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/in-2024-digital-resonance-a-comprehensive-tutorial-for-echo-addition-in-windows-and-web-audio-applications/"><u>In 2024, Digital Resonance A Comprehensive Tutorial for Echo Addition in Windows and Web Audio Applications</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-facebook-video-wonders-your-must-see-list/"><u>In 2024, Facebook Video Wonders - Your Must-See List</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/intuitive-quick-lesson-mastering-japanese-numbers/"><u>Intuitive Quick Lesson: Mastering Japanese Numbers</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-innovative-online-audio-cutter-utilities-the-leading-tools/"><u>New 2024 Approved Innovative Online Audio Cutter Utilities – The Leading Tools</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-premium-audio-transformation-tool-free-mp3-creation-from-mpa-files/"><u>New Premium Audio Transformation Tool Free MP3 Creation From MPA Files</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-mastering-sound-clarity-a-guide-to-eliminating-ambient-sounds-in-filmora-for-2024/"><u>Updated Mastering Sound Clarity A Guide to Eliminating Ambient Sounds in Filmora for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-pcs-picks-the-finest-ps1-game-emulators/"><u>[Updated] PC's Picks The Finest PS1 Game Emulators</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-inverted-video-playback-on-android-made-simple/"><u>2024 Approved Inverted Video Playback on Android Made Simple</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/convertir-archivos-mef-gratis-al-formato-jpg-en-linea-con-movavi/"><u>Convertir Archivos MEF Gratis Al Formato JPG en Línea Con Movavi</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/elevate-your-big-phones-usability-with-niagara-the-top-ranked-android-launcher/"><u>Elevate Your Big Phone's Usability with Niagara, the Top-Ranked Android Launcher</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-vivo-x-fold-2-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Vivo X Fold 2 Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-itel-p55-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Itel P55 Phone with Broken Screen</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-vibrant-soundscapes-10-melodies-that-elevate-your-video-montages/"><u>New 2024 Approved Vibrant Soundscapes 10 Melodies That Elevate Your Video Montages</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-top-ranked-ringtones-to-enhance-your-call-experience/"><u>New Top-Ranked Ringtones to Enhance Your Call Experience</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/revolutionize-your-workflow-with-lenovos-screen-capture-tools/"><u>Revolutionize Your Workflow with Lenovo's Screen Capture Tools</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-how-to-cut-ringtones-for-2024/"><u>Updated How to Cut Ringtones for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-procuring-specialized-sounds-mimicking-intestinal-gas-release-for-enhanced-aural-realism/"><u>Updated Procuring Specialized Sounds Mimicking Intestinal Gas Release for Enhanced Aural Realism</u></a></li>
 </ul></div>
 

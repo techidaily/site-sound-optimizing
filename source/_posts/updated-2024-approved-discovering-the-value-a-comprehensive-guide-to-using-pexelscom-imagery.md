@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Discovering the Value A Comprehensive Guide to Using Pexels.com Imagery
-date: 2024-11-12T02:20:51.530Z
-updated: 2024-11-16T16:34:55.906Z
+date: 2024-11-24T21:27:17.177Z
+updated: 2024-11-26T17:11:14.153Z
 tags: 
   - audio editing software
   - audio editing
@@ -78,6 +78,10 @@ You cannot use Pexels free download videos, images, and audio clips in a politic
 
 Furthermore, the Pexels license also bans using their creative assets to promote your personal brand, especially when they contain any identifiable imagery. By doing so, Pexels.com remains a free resource for people of all creeds, regardless of their political affiliations.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Resell the resources
 
 Another thing you cannot do when using Pexels.com is to resell their photos and videos to other stock photograph platforms. Most users attribute this to the site's owners wanting to maintain a fresher database than its competitors.
@@ -94,13 +98,6 @@ Pexels.com seeks to create a simple and fast medium for you to discover free pho
 * Continuous free access to every creative asset you have ever downloaded. For example, you can access all images you have downloaded from Pexels 4K.
 * You also get a custom homepage that features your latest work and database favorites.
 * In addition, you will have access to the site's community, which has helpful information for all users.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### What are the rules for uploading videos on Pexels.com?
 
@@ -267,13 +264,6 @@ Each audio ducking software in this article proved their expertise. Adobe Premiu
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.
@@ -301,16 +291,13 @@ Audio ducking is a mechanism where the background audio is ducked anytime or com
 
 ![audio ducking software](https://images.wondershare.com/filmora/article-images/audio-ducking-software.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 _Source: pro.harman.com_
 
 In technical terms, ducking is a sidechain compression where the secondary audio channel takes control over or compresses another channel. If the control channel threshold exceeds, the audio channel lowers, leaving no trace of background audio, and when the point drops, the background audio levels up again. Such chains or compression is a manual job using signal compressors, portable PAs, and Ui24R.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Top 5 Audio Ducking Software
 
@@ -393,10 +380,7 @@ Powered with powerful API technology, real-time video/audio capturing, and high-
 * The process of installing the plug-in associated with audio & video needs improvement.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Conclusion
@@ -404,13 +388,6 @@ Powered with powerful API technology, real-time video/audio capturing, and high-
 Each audio ducking software in this article proved their expertise. Adobe Premium Pro is good-to-go for Photoshop for professional video editing, KineMaster, a friendly handy mobile application, and LumaFusion, apt for filmmakers & journalists. However, if you are new to video edit, Filmora will be the best choice for you with all the above features in one tool. Also, we found that Filmora from Wondershare, our recommendation surpasses all others, making it the smartest pick as best audio ducking software.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -438,6 +415,10 @@ Do you wish to go live with beautiful background music, interactive sessions, or
 Audio ducking is a mechanism where the background audio is ducked anytime or compressed temporally if any dual audio is detected or present. Especially in a live session like an emcee, this method helps lower the music when the person starts speaking and rises again when the person finishes. Beyond live sessions, ducking is in narrations, translations, and podcasts as well.
 
 ![audio ducking software](https://images.wondershare.com/filmora/article-images/audio-ducking-software.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 _Source: pro.harman.com_
 
@@ -529,6 +510,10 @@ Each audio ducking software in this article proved their expertise. Adobe Premiu
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.
@@ -555,13 +540,6 @@ Do you wish to go live with beautiful background music, interactive sessions, or
 Audio ducking is a mechanism where the background audio is ducked anytime or compressed temporally if any dual audio is detected or present. Especially in a live session like an emcee, this method helps lower the music when the person starts speaking and rises again when the person finishes. Beyond live sessions, ducking is in narrations, translations, and podcasts as well.
 
 ![audio ducking software](https://images.wondershare.com/filmora/article-images/audio-ducking-software.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
-  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 _Source: pro.harman.com_
 
@@ -671,6 +649,10 @@ Do you create video content and upload comedy skits and vlogs on social media? D
 
 ![a person creating funny video comedy background music](https://images.wondershare.com/filmora/article-images/2022/comedy-background-music-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5 Recommended Sites to Download Royalty Free Comedy Background Music
 
 ### 1\. Filmstock Wondershare
@@ -683,6 +665,10 @@ Besides comedy background music, you can also download stock footage, video effe
 
 Jamendo allows you to download free comedy background music and use it commercially. You can create vlogs, funny skits, and pranks and use this music in those videos. Furthermore, you can download background music in different genres including jazz, hip-hop, and emotional. This is an incredible website to download background music in different languages. Furthermore, this website offers a radio feature, which adds radio station effect to any song. Mostly, this website offers complete songs and tracks to use for your videos.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Kompoz
 
 Kompoz offers a wide range of tracks from professional musicians that you can use for videos. Also, this site provides project management tools for your project workspaces. Furthermore, the auto coding feature provides fast streaming playback. Kompoz is a collaborative tool that brings global artists together. After registering with the platform, you can access the cloud workspace and upload your music on the platform. Also, you can create your profile, choose favorite genres, and collaborate with different users.
@@ -690,13 +676,6 @@ Kompoz offers a wide range of tracks from professional musicians that you can us
 ### 4\. CCTrax
 
 CCTrax is another database that enables users to choose from stock music and download favorite songs to use for their videos. Furthermore, you can download background music for comedy and other genres. This is a popular tool with a wide range of legal music that you can download. On the home page, you will find electronic, house, ambient, and other options.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 5\. BeatPick
 
@@ -707,15 +686,16 @@ The platform offers three different subscriptions to choose from. Their pricing 
 ![a girl making video comedy background music](https://images.wondershare.com/filmora/article-images/2022/comedy-background-music-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Ideas to Create a Funny Comedy Video or Vlog
 
 Are you a funny person and want to create videos for your YouTube channel? If yes, then here are some ideas that you can try:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Create a Comedy Skit
 
@@ -742,6 +722,10 @@ Reaction videos that you might have seen might not be funny. But, some content c
 Prank videos are the most popular comedy videos on YouTube. In these videos, one or more people prank another person while the audience watching the video already knows. Many people who are fond of prank videos love the final reactions. If you want to create prank videos, you can add comedy background music for more fun.
 
 ![guy falling funny video comedy background music](https://images.wondershare.com/filmora/article-images/2022/comedy-background-music-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Closing Word
 
@@ -785,24 +769,24 @@ For macOS 10.12 or later
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-connect-with-more-viewers-share-twitch-on-facebook/"><u>[New] 2024 Approved Connect With More Viewers Share Twitch on Facebook</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-10-free-youtube-playlist-downloaders-onlinepcandroidios2-for-2024/"><u>[Updated] 10 FREE YouTube Playlist Downloaders [Online/PC/Android/iOS]2 for 2024</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>5 Best Route Generator Apps You Should Try On Apple iPhone 12 | Dr.fone</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/a-step-by-step-guide/"><u>A Step-by-Step Guide</u></a></li>
-<li><a href="https://techidaily.com/access-the-pioneering-pc-word-editor-free-and-available-online/"><u>Access the Pioneering PC Word Editor: Free and Available Online!</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/capture-flawless-underwater-images-easily-in-7-steps/"><u>Capture Flawless Underwater Images Easily in 7 Steps</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/frame-your-cinematic-tales-three-paths-for-instagram-borders-for-2024/"><u>Frame Your Cinematic Tales Three Paths for Instagram Borders for 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-realme-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Realme</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-text-animations-unleashed-try-these-14-dynamic-showcases/"><u>In 2024, Text Animations Unleashed Try These 14 Dynamic Showcases</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/keyboard-keys-sticking-on-windows-solved/"><u>Keyboard Keys Sticking on Windows [Solved]</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/leading-music-editor-tools-ranked-windows-and-mac-edition-top-10/"><u>Leading Music Editor Tools Ranked Windows & Mac Edition, Top 10</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-expert-online-sound-calibration-services/"><u>New Expert Online Sound Calibration Services</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-finding-optimal-applications-for-effective-sound-isolation-in-videos-and-audios/"><u>New In 2024, Finding Optimal Applications for Effective Sound Isolation in Videos and Audios</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-intuitive-vocal-modification-mechanisms-an-insight-into-operational-aspects-standards-and-workarounds/"><u>New In 2024, Intuitive Vocal Modification Mechanisms An Insight Into Operational Aspects, Standards, and Workarounds</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-navigating-the-nuances-of-audio-balancing-a-deep-dive-into-obs-sound-dynamics/"><u>New In 2024, Navigating the Nuances of Audio Balancing A Deep Dive Into OBS Sound Dynamics</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-the-modern-editors-handbook-cutting-and-mixing-in-avidemux/"><u>New In 2024, The Modern Editors Handbook Cutting and Mixing in Avidemux</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-cutting-edge-music-editing-software-roundup-the-top-10-compatible-apps-for-windows-and-mac/"><u>Updated 2024 Approved Cutting-Edge Music Editing Software Roundup The Top 10 Compatible Apps for Windows and Mac</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-how-to-remove-audio-from-mkv-2023-update-for-2024/"><u>Updated How to Remove Audio From MKV-2023 Update for 2024</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-the-world-of-vocal-manipulators-an-overview-testimonials-and-substitutes/"><u>Updated The World of Vocal Manipulators An Overview, Testimonials, and Substitutes</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-gopro-hero5-black-vs-hero5-session/"><u>[New] GoPro Hero5 Black Vs Hero5 Session</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-downloading-and-archiving-facebook-gifs-a-unified-approach/"><u>[Updated] Downloading and Archiving Facebook GIFs A Unified Approach</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-improve-office-productivity-with-speech-to-text-conversion-in-microsoft-word-for-2024/"><u>[Updated] Improve Office Productivity with Speech to Text Conversion in Microsoft Word for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-ultimateglobalvision-select-live-and-home-channels-together-for-2024/"><u>[Updated] UltimateGlobalVision Select Live and Home Channels Together for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-enhance-video-production-7-best-free-sounds-for-editors/"><u>2024 Approved Enhance Video Production - 7 Best Free Sounds for Editors</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-windows-pc-broadcasting-prodigy-mastering-the-art-of-live-tv-recording/"><u>2024 Approved Windows PC Broadcasting Prodigy Mastering the Art of Live TV Recording</u></a></li>
+<li><a href="https://extra-information.techidaily.com/a-complete-look-at-color-correction-for-gopro-videos/"><u>A Complete Look at Color Correction for GoPro Videos</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/a-comprehensive-guide-to-iphone-xr-blacklist-removal-tips-and-tools-by-drfone-ios/"><u>A Comprehensive Guide to iPhone XR Blacklist Removal Tips and Tools</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/expert-virtual-audio-fusion-and-cutting-program/"><u>Expert Virtual Audio Fusion and Cutting Program</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/in-2024-chill-out-playlists-for-non-profit-video-arrangements/"><u>In 2024, Chill-Out Playlists for Non-Profit Video Arrangements</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Samsung Galaxy S23 FE | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-the-complete-evaluation-of-theta-s-360-vr-camera/"><u>In 2024, The Complete Evaluation of Theta S 360° VR Camera</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/mastering-video-editing-replacing-audio-tracks-a-comprehensive-guide-part-1/"><u>Mastering Video Editing Replacing Audio Tracks - A Comprehensive Guide (Part 1)</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-10-must-hear-tunes-as-your-phones-greeting-melody/"><u>New 2024 Approved 10 Must-Hear Tunes as Your Phones Greeting Melody</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-achieve-professional-voice-recordings-with-your-mac-an-intuitive-step-by-step-guide/"><u>New Achieve Professional Voice Recordings with Your Mac – An Intuitive, Step-by-Step Guide</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-exploring-the-best-cinematic-sounds-an-assembled-top-8-collection-for-2024/"><u>New Exploring the Best Cinematic Sounds - An Assembled Top 8 Collection for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-soloing-videos-discarding-unwanted-audio-in-mp4-formats-for-2024/"><u>New Soloing Videos Discarding Unwanted Audio in MP4 Formats for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/rapid-method-for-silencing-audio-in-audacity-essential-tips/"><u>Rapid Method for Silencing Audio in Audacity Essential Tips</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-online-audiophiles-mp3-decomposer-and-assembler/"><u>Updated Online Audiophiles MP3 Decomposer & Assembler</u></a></li>
 </ul></div>
 

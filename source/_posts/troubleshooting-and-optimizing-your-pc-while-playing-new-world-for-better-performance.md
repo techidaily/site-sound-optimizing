@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting and Optimizing Your PC While Playing New World for Better Performance
-date: 2024-11-16T05:16:42.571Z
-updated: 2024-11-16T20:36:04.746Z
+date: 2024-11-23T16:23:01.814Z
+updated: 2024-11-26T20:51:16.825Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/c2522eefb8fbc96fa570f56849cfdf92d72e221bd
 ## Call of Duty Vanguard Stutter and Lag Troubleshooting: Solutions for a Smoother Game
 
 Released in November,**Call of Duty: Vanguard** is one of the hottest game titles for 2021\. While some players can enjoy their gameplay without any problems, others report**Fatal Error, Dev Error, or other crashing issues** that lock them out of the game. If you’ve also encountered**CoD Vanguard crashing** problem, don’t worry. It’s not too hard to fix at all…
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to fix CoD Vanguard Crashing
 
@@ -50,13 +54,6 @@ Here’s how to use Fortect to run a Windows repair:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)  
  To fix all the issues automatically, click **Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Restart your computer for the changes to take effect.
 5. Check your computer to see if the game still crashes.
 
@@ -75,21 +72,11 @@ Here’s how to use Fortect to run a Windows repair:
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Restart your computer for the changes to take effect.
 5. Check your computer to see if the game still crashes.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
 
@@ -109,8 +96,16 @@ Here’s how to use Fortect to run a Windows repair:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/1650-super-de-update-all-1.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Restart your PC for the changes to take effect.
 5. Launch CoD, then check to see if the game crashing problem has been resolved. If yes, then great! If the issue still persist, please try**Fix** 3, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3:**Make sure your PC meets the specs for Vanguard**
 
@@ -137,17 +132,18 @@ To check the specs of your PC:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/dxdiag-diagnostic-tool-1.png)
 3. Select the **Display** tab, and you’ll be presented with the information about your **graphics card** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/display-1.png)
 4. Close DirectX.
 
- If your PC specs have been up to the mark but Call of Duty: Vanguard still crashes, please move on to **Fix 4** , below to begin troubleshooting.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ If your PC specs have been up to the mark but Call of Duty: Vanguard still crashes, please move on to **Fix 4** , below to begin troubleshooting.
 
 ### Fix 4: Scan & repair Vanguard game files
 
@@ -159,20 +155,10 @@ To check the specs of your PC:
 3. Click **Begin Scan** , then wait a while as the tool scans and repairs your game installation.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Launch Vanguard again and check to see if the crashing issue still occurs.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Disable overlays
 
@@ -194,13 +180,6 @@ Cod Vanguard crashing still not resolved? Please try Fix 6, below.
 3. Restart your computer.
 
 4. Test the gameplay in Vanguard and see if the crashing issue is fixed. If yes, congrats! If it’s still no joy, please move on to**Fix 7** , below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 7: Make sure your system is up to date
 
@@ -238,18 +217,22 @@ Here are the steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/updated-crafting-an-easy-to-use-youtube-subscription-tagline-for-2024/"><u>[Updated] Crafting an Easy-to-Use YouTube Subscription Tagline for 2024</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/2024-approved-the-a-list-of-audio-harvesters-10-indispensable-tools-to-master-your-sound-design/"><u>2024 Approved The A-List of Audio Harvesters 10 Indispensable Tools to Master Your Sound Design</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/authenticity-matters-ensuring-your-tiktoks-are-legally-uploaded/"><u>Authenticity Matters Ensuring Your TikToks Are Legally Uploaded</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/cutting-corners-with-care-10plus-top-ranked-free-audio-editors-online-for-2024/"><u>Cutting Corners with Care 10+ Top-Ranked Free Audio Editors Online for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-oppo-f25-pro-5g-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Oppo F25 Pro 5G Phone with Broken Screen</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-sony-xperia-1-v-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Sony Xperia 1 V Screen | Dr.fone</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-elevate-your-view-converting-standard-videos-to-vr-masterpieces-for-2024/"><u>New Elevate Your View Converting Standard Videos to VR Masterpieces for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/resolved-cyberpunk-2077-ignoring-graphics-card-in-windows-11-setup/"><u>Resolved: Cyberpunk 2077 Ignoring Graphics Card in Windows 11 Setup</u></a></li>
-<li><a href="https://win-lab.techidaily.com/step-by-step-guide-eliminating-xhamster-malware-from-your-windows-computer/"><u>Step-by-Step Guide: Eliminating XHamster Malware From Your Windows Computer</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-tailoring-auditory-experiences-to-your-videos-with-ease-and-precision/"><u>Updated 2024 Approved Tailoring Auditory Experiences to Your Videos with Ease and Precision</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-apowersoft-audio-recorder-tutorial-and-4-alternatives/"><u>Updated In 2024, Apowersoft Audio Recorder Tutorial and 4 Alternatives</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-silent-film-techniques-how-to-minimize-background-noise-in-your-mac-imovie-projects-for-2024/"><u>Updated Silent Film Techniques How to Minimize Background Noise in Your Mac iMovie Projects for 2024</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-synchronizing-sound-and-movement-crafting-clear-audio-visualization-waves-and-incorporating-animation-flourishes-in-adobe-premiere-pro/"><u>Updated Synchronizing Sound and Movement Crafting Clear Audio Visualization Waves & Incorporating Animation Flourishes in Adobe Premiere Pro</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-synthesizing-soundscapes-the-revamped-magic-of-magix-music-maker-2024/"><u>[New] Synthesizing Soundscapes The Revamped Magic of Magix Music Maker 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-navigating-snapchats-new-spotlight-functionality-for-2024/"><u>[Updated] Navigating Snapchat's New Spotlight Functionality for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-unveiling-the-ultimate-hdr-camera-lineup/"><u>[Updated] Unveiling the Ultimate HDR Camera Lineup</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-tone-and-pitch-control-on-chrome-os-select-the-best-online-speech-converters/"><u>2024 Approved Tone and Pitch Control on Chrome OS Select the Best Online Speech Converters</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/enhancing-visual-storytelling-adding-audio-elements-in-adobe-premiere-pro-for-2024/"><u>Enhancing Visual Storytelling Adding Audio Elements in Adobe Premiere Pro for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-fake-snapchat-location-on-vivo-y27s-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Vivo Y27s | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-cinematic-lighting-5-must-haves-for-streams/"><u>In 2024, Cinematic Lighting 5 Must-Haves for Streams</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Samsung Galaxy M14 5G | Dr.fone</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/in-2024-solo-serenades-simplified-free-online-mp3-scaler-for-uninterrupted-karaoke-delight/"><u>In 2024, Solo Serenades Simplified Free Online MP3 Scaler for Uninterrupted Karaoke Delight.</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-10-best-websites-to-download-ding-sound-effect-easily-for-2024/"><u>New 10 Best Websites to Download Ding Sound Effect Easily for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-harmonizing-soundscape-a-comprehensive-guide-to-eq-adjustments/"><u>New In 2024, Harmonizing Soundscape A Comprehensive Guide to EQ Adjustments</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/step-by-step-tutorial-for-incorporating-soundtracks-in-adobe-after-effects/"><u>Step-by-Step Tutorial for Incorporating Soundtracks in Adobe After Effects</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/story-3-the-misdiagnosis-of-de-quervains-tenosynovitis/"><u>Story 3: The Misdiagnosis of De Quervain's Tenosynovitis</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-10-ae-text-styles-guide-for-2024/"><u>Top 10 AE Text Styles Guide for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-awaken-your-creative-flow-pro-bargain-tunes-for-video-editing-for-2024/"><u>Updated Awaken Your Creative Flow Pro Bargain Tunes for Video Editing for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-turning-the-tables-on-sound-innovations-in-audio-reversal-technology/"><u>Updated In 2024, Turning the Tables on Sound Innovations in Audio Reversal Technology</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-locate-the-ringing-bell-audio-sample-for-2024/"><u>Updated Locate the Ringing Bell Audio Sample for 2024</u></a></li>
 </ul></div>
 

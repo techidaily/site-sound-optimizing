@@ -1,7 +1,7 @@
 ---
 title: "Unstuck Discord's Silent Treatment: Repairing the Push-to-Talk Issue"
-date: 2024-11-11T19:49:37.073Z
-updated: 2024-11-16T21:03:40.514Z
+date: 2024-11-21T17:17:03.297Z
+updated: 2024-11-26T19:00:21.809Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ If you’re playing_Hearthstone_ and the audio cuts out abruptly, or there is no
 5. **[Disable Compatibility Mode](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Reset sound settings](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Reinstall_Hearthstone_ and/or the Blizzard launcher](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Check cables and volume
 
@@ -72,13 +76,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-113.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -112,13 +109,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-809.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If your issue continues, try **[Fix4](https://tools.techidaily.com/drivereasy/download/)**  .
 
 ---
@@ -133,13 +123,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-805.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)**  Right-click the resource-consuming process and select **End task** .
 
  Don’t end any program that you’re not familiar with. It may be critical for the functioning of your computer.
@@ -147,13 +130,6 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-810.jpg)
 
  Try launching_Hearthstone_ again to see if the sound works properly now. If your issue still exists, read on and check the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Repair_Hearthstone_ files
 
@@ -169,7 +145,15 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-422.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Wait for the scans to be complete, then relaunch_Hearthstone_ to test your issue. If the audio issue persists, read on and try the fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Disable Compatibility Mode
 
@@ -179,26 +163,20 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-423.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Click the**Compatibility tab** , then uncheck**Run this program in compatibility mode for:** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-424.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **3)** Click**Apply** then**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-425.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Relaunch your game to check if the sound comes back. If not, go ahead with the fix below.
@@ -211,13 +189,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-300.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)** Click the**Sound & Notifications tab** , then click**Reset to Defaults** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-549.jpg)
@@ -225,6 +196,10 @@ OR
 **3)** Click**Reset** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-550.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)** Click the**Voice chat tab** , then click**Reset to Defaults** .
 
@@ -234,11 +209,19 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-552.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **6)** Click**DONE** to save the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-553.jpg)
 
  Relaunch your game to test your issue. If the audio is still missing in_Hearthstone_ , try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 7: Reinstall_Hearthstone_ and/or the Blizzard launcher
 
@@ -269,20 +252,21 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-441.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)** Under**View by** , select**Category** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-443.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Click**Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-443-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)** Right-click**Battle.net** , then click**Uninstall/Change** .
 
@@ -318,19 +302,18 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-exploring-the-law-recording-youtube-content-playback/"><u>[New] 2024 Approved Exploring the Law Recording YouTube Content Playback</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-dji-flyer-x20s-flying-high-vision-headset-breakdown/"><u>[New] DJi Flyer X20's Flying High Vision Headset Breakdown</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-snap-google-meet-sessions-on-ios-and-android-devices-for-2024/"><u>[New] Snap Google Meet Sessions on iOS & Android Devices for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-effortless-watching-pleasures-your-ultimate-youtube-movie-list/"><u>[Updated] 2024 Approved Effortless Watching Pleasures Your Ultimate YouTube Movie List</u></a></li>
-<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-infinix-hot-40-pro-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Infinix Hot 40 Pro | Dr.fone</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/bandicam-in-focus-the-updated-guide-users/"><u>Bandicam in Focus The Updated Guide Users</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/hear-it-here-first-effective-techniques-for-capturing-and-storing-computer-based-audio-files-in-episodic-format-for-2024/"><u>Hear It Here First Effective Techniques for Capturing and Storing Computer-Based Audio Files in Episodic Format for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-vivo-v29e-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From Vivo V29e to New Android Phone? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-old-call-logs-from-your-phantom-v-fold-by-fonelab-android-recover-call-logs/"><u>How to recover old call logs from your Phantom V Fold?</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/in-2024-sonic-imagery-graphically-representing-audio-and-crafting-animation-masterpieces-in-adobe-after-effects/"><u>In 2024, Sonic Imagery Graphically Representing Audio & Crafting Animation Masterpieces in Adobe After Effects</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/mastering-green-screen-shooting-made-simple/"><u>Mastering Green Screen Shooting Made Simple</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-advanced-strategies-to-convert-your-spotify-playlist-into-a-local-library/"><u>New 2024 Approved Advanced Strategies to Convert Your Spotify Playlist Into a Local Library</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-best-free-online-montage-track-collections/"><u>New 2024 Approved Best Free Online Montage Track Collections</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-perfect-pitch-with-autotune-installation-tutorial-for-audacity-enthusiasts/"><u>New 2024 Approved Perfect Pitch with Autotune Installation Tutorial for Audacity Enthusiasts</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-musicality-in-whatsapp-expressions/"><u>[New] 2024 Approved Musicality in WhatsApp Expressions</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-elevate-your-vlogging-game-with-tripod-mastery-for-2024/"><u>[Updated] Elevate Your Vlogging Game with Tripod Mastery for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/2024-approved-navigating-the-visual-landscape-key-facts-about-pexelscom-stock-images/"><u>2024 Approved Navigating the Visual Landscape Key Facts About Pexels.com Stock Images</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/a-comprehensive-overview-of-changing-speech-and-music-levels-in-files/"><u>A Comprehensive Overview of Changing Speech and Music Levels in Files</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-photos-files-on-honor-by-fonelab-android-recover-photos/"><u>Complete guide for recovering photos files on Honor .</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/complete-guide-how-to-install-behringers-usb-audio-device-drivers/"><u>Complete Guide: How to Install Behringer's USB Audio Device Drivers</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-faithful-frequencies-free-christian-music-downloads/"><u>In 2024, Faithful Frequencies Free Christian Music Downloads</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/in-2024-free-vs-paid-linux-audio-software-an-insiders-look-at-leading-choices/"><u>In 2024, Free Vs. Paid Linux Audio Software An Insiders Look at Leading Choices</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-the-financial-scale-of-mr-beast/"><u>In 2024, The Financial Scale of Mr. Beast</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/one-frame-at-a-time-your-guide-to-free-youtube-navigation/"><u>One Frame at A Time Your Guide to Free YouTube Navigation</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-achieving-consistent-sound-levels-with-davinci-resolve-for-2024/"><u>Updated Achieving Consistent Sound Levels with DaVinci Resolve for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-free-methods-to-embed-songs-within-video-content-creation-processes/"><u>Updated In 2024, Free Methods to Embed Songs Within Video Content Creation Processes</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-navigating-the-world-of-public-domain-photography-the-pexels-experience/"><u>Updated Navigating the World of Public Domain Photography The Pexels Experience</u></a></li>
 </ul></div>
 
