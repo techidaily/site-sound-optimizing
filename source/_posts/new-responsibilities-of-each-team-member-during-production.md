@@ -1,7 +1,7 @@
 ---
 title: New Responsibilities of Each Team Member During Production
-date: 2024-10-30T20:30:56.577Z
-updated: 2024-11-07T01:54:10.127Z
+date: 2024-11-29T03:47:27.221Z
+updated: 2024-12-05T20:23:52.214Z
 tags: 
   - audio editing software
   - audio editing
@@ -37,13 +37,6 @@ To find the studio space, the producers work with the directors to get the exact
 ### 3\. Find the gear
 
 Producers found the gear for the studio space and handled the renting of the equipment from the warehouse.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 4\. Build relationships with the industries
 
@@ -119,13 +112,6 @@ DMT will handle the exposed footage, which Digital Memory Card will do with tape
 
 **Note:** Making two copies for the backup will reduce the risk of corrupted files and physical accidents of losing the footage.
 
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Additional Roles
 
 If you are the music video **director**, you need a **Cinematographer** with **Camera Operators**. He will be in charge of pulling and adjusting all the camera alignments. If you have enough budget, go with the **co-producer** to help you direct the talents.
@@ -155,6 +141,10 @@ The cinematic department comes to the frontline to give the shots and the lit mu
 ### Director of photography
 
 He mainly decides how the shots and the music video footage look. The main action is to handle the lightning and interact with the lights with the environment and the characters. He should build relationships with each other for better illusions.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Director's monitor
 
@@ -188,13 +178,6 @@ DMT will handle the exposed footage, which Digital Memory Card will do with tape
 
 ![digital memory card](https://images.wondershare.com/filmora/article-images/2023/04/digital-memory-card.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![note](https://images.wondershare.com/assets/images-common/icon-note.png)
 
 **Note:** Making two copies for the backup will reduce the risk of corrupted files and physical accidents of losing the footage.
@@ -204,13 +187,6 @@ DMT will handle the exposed footage, which Digital Memory Card will do with tape
 If you are the music video **director**, you need a **Cinematographer** with **Camera Operators**. He will be in charge of pulling and adjusting all the camera alignments. If you have enough budget, go with the **co-producer** to help you direct the talents.
 
 ![additional roles of director department](https://images.wondershare.com/filmora/article-images/2023/04/additional-roles-of-director-department.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
-  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 To make your subject looks good and modern according to the theme, you should hire **hair and makeup artist.** If you have more budget, you can do it professionally with more and more crew members.
 
@@ -266,6 +242,10 @@ Select these files, right-click and choose Adjust Audio. New panel will be opene
 
 ![select files](https://images.wondershare.com/filmora/article-images/2022/07/free-mp3-normalizer-03.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![choose adjust audio](https://images.wondershare.com/filmora/article-images/2022/07/free-mp3-normalizer-04.jpg)
 
 After you have clicked on it, wait until the normalization completes.
@@ -334,6 +314,10 @@ So, to use this software, go and download MP3Gain. Install and open it when it i
 
 ![mp3gain](https://images.wondershare.com/filmora/article-images/2022/07/free-mp3-normalizer-14.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Now, you can either choose adding files manually, with you choosing each of them, but let’s say you have an album (which would be more comfortable, needless to say) in which you want to change the volume of all MP3’s. So, in this case, you can choose Add Folder, and when the window opens, choose the folder full of your MP3’s – all your files will be added in the program.
 
 ![choose to add files](https://images.wondershare.com/filmora/article-images/2022/07/free-mp3-normalizer-15.jpg)
@@ -342,16 +326,13 @@ Now, find the Target “Normal” Volume above the files, and fill in the gap, i
 
 ![find and target normal](https://images.wondershare.com/filmora/article-images/2022/07/free-mp3-normalizer-16.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 The software will show you the volume of each of the file, and then you will need to just click on Track Gain.
 
 ![click on track gain](https://images.wondershare.com/filmora/article-images/2022/07/free-mp3-normalizer-17.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Now, wait for the process to be completed, and then you will see that the volumes changed for each of your files – so, it’s done!
 
@@ -387,13 +368,6 @@ Select these files, right-click and choose Adjust Audio. New panel will be opene
 
 ![select files](https://images.wondershare.com/filmora/article-images/2022/07/free-mp3-normalizer-03.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![choose adjust audio](https://images.wondershare.com/filmora/article-images/2022/07/free-mp3-normalizer-04.jpg)
 
 After you have clicked on it, wait until the normalization completes.
@@ -401,6 +375,10 @@ After you have clicked on it, wait until the normalization completes.
 ![complete normalization](https://images.wondershare.com/filmora/article-images/2022/07/free-mp3-normalizer-05.jpg)
 
 Soon, all audio will be normalized, and you will already be able to see on the graphics that the volumes are almost on the same level and when you listen to it, you will make sure that there is no longer apparent difference between how they sound. And from there on, you can save the file you just normalized!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Adobe Premiere Pro
 
@@ -465,6 +443,10 @@ So, to use this software, go and download MP3Gain. Install and open it when it i
 Now, you can either choose adding files manually, with you choosing each of them, but let’s say you have an album (which would be more comfortable, needless to say) in which you want to change the volume of all MP3’s. So, in this case, you can choose Add Folder, and when the window opens, choose the folder full of your MP3’s – all your files will be added in the program.
 
 ![choose to add files](https://images.wondershare.com/filmora/article-images/2022/07/free-mp3-normalizer-15.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Now, find the Target “Normal” Volume above the files, and fill in the gap, if you will, or just use default dB. Then, click Album Analysis, and the process will start.
 
@@ -644,10 +626,7 @@ Note: if you want to add the new sound tracker, import the sound recordings you 
 ![detach video](https://images.wondershare.com/filmora/article-images/detach-audio-9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 3: Save the edited video
@@ -686,6 +665,10 @@ For Win 7 or later (64-bit)
 
 For macOS 10.12 or later
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Step 1: Import your MP4 file
 
 Free download the audio track remover- Video Editor, install, and run it. Then the following interface will pop up. Click the "Import" button to add the video file you want to remove audio tracks.
@@ -700,11 +683,19 @@ Note: if you want to add the new sound tracker, import the sound recordings you 
 
 ![detach video](https://images.wondershare.com/filmora/article-images/detach-audio-9.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Step 3: Save the edited video
 
 After that, hit "Export" to select the desired output way. You can set the output video format the same as the original one or set the output video format to any other video formats. Then click the "Export" button to export the video. What's more, you can save the edited file to iPhone, iPad PSP, etc., or directly upload it to YouTube for sharing with friends.
 
 ![export video](https://images.wondershare.com/filmora/article-images/export-filmora9-video.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Bonus: Mute a Video with Filmora Video Editor with 1-click
 
@@ -713,13 +704,6 @@ Sometimes, you might wish to mute a video clip for many reasons, then the Filmor
 To reach it, you only need to drag and drop your targeted MP4 video into the timeline, and then, right-click on it and choose "**Mute**" option. Then, click "Export" to export and save the edited videos.
 
 ![detach video](https://images.iskysoft.com/filmora-video-editor/audio-edit.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -751,18 +735,24 @@ Detailed tutorials provided by the official channel
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-the-pathway-to-proficient-zoom-communication-maximizing-meeting-engagement/"><u>[New] 2024 Approved The Pathway to Proficient ZOOM Communication Maximizing Meeting Engagement</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-pro-tips-for-streaming-and-screening-netflix-on-mac-for-2024/"><u>[New] Pro-Tips for Streaming & Screening Netflix on Mac for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-the-ultimate-guide-elevating-your-fb-video-content-game/"><u>[Updated] In 2024, The Ultimate Guide Elevating Your FB Video Content Game</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-inside-look-at-optimizing-channels-in-youtube-studio/"><u>[Updated] Inside Look at Optimizing Channels in YouTube Studio</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-swift-fixes-for-non-functional-facebook-video-sharing-on-androidios-for-2024/"><u>[Updated] Swift Fixes for Non-Functional Facebook Video Sharing on Android/iOS for 2024</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/a-comprehensive-overview-of-changing-speech-and-music-levels-in-files/"><u>A Comprehensive Overview of Changing Speech and Music Levels in Files</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-nokia-105-classic-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Nokia 105 Classic Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/in-2024-learn-how-to-produce-musical-videos-at-no-expense-with-these-techniques/"><u>In 2024, Learn How to Produce Musical Videos at No Expense with These Techniques</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-reentry-guide-regaining-access-on-omegle-after-a-ban-for-2024/"><u>New Reentry Guide Regaining Access on Omegle After a Ban for 2024</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-uncover-digital-entertainment-auditory-elements-for-2024/"><u>New Uncover Digital Entertainment Auditory Elements for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/resolve-safari-glitches-on-iphone-discover-10-effective-fixes-now/"><u>Resolve Safari Glitches on iPhone: Discover 10 Effective Fixes Now!</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-vivo-y100t-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Vivo Y100t Phones</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-straightforward-speech-modification-software-overview-principles-and-comparable-alternatives-for-2024/"><u>Updated Straightforward Speech Modification Software Overview, Principles, & Comparable Alternatives for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-customizing-video-assets-for-instagram-mastery/"><u>[New] In 2024, Customizing Video Assets for Instagram Mastery</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-the-ultimate-guide-to-close-up-mastery-on-roblox/"><u>[New] In 2024, The Ultimate Guide to Close-Up Mastery on Roblox</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-becoming-an-influencer-entrepreneur-creating-a-business-profile-on-ig/"><u>[Updated] Becoming an Influencer Entrepreneur Creating a Business Profile on IG</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-close-up-power-in-videoleap-zooming-made-easy/"><u>[Updated] Close-Up Power in VideoLeap Zooming Made Easy</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1-top-recents-comment-installer-lav1-codec-sur-windows-11-methodes-et-conseils/"><u>1. Top Récents : Comment Installer L'AV1 Codec Sur Windows 11 - Méthodes Et Conseils</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-find-elite-instagram-tones-and-craft-unique-alarm-sounds/"><u>2024 Approved How to Find Elite Instagram Tones and Craft Unique Alarm Sounds</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-oppo-a2-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Oppo A2 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/essential-meta-concepts-to-elevate-your-business-growth/"><u>Essential META Concepts to Elevate Your Business Growth</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-vivo-v29e-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Vivo V29e</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-vibrant-soundscapes-10-melodies-that-elevate-your-video-montages/"><u>New 2024 Approved Vibrant Soundscapes 10 Melodies That Elevate Your Video Montages</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-audacity-installation-made-easy-the-ultimate-chromebook-checklist-for-2024/"><u>New Audacity Installation Made Easy The Ultimate Chromebook Checklist for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-evolving-sound-quality-issues-within-the-2023-adobe-rush-iteration-for-2024/"><u>New Evolving Sound Quality Issues Within the 2023 Adobe Rush Iteration for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-tracking-down-simulated-acoustics-from-steel-percussion-devices/"><u>New In 2024, Tracking Down Simulated Acoustics From Steel Percussion Devices</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-top-ten-digital-melodies-discovering-the-most-downloaded-background-scores/"><u>New Top Ten Digital Melodies Discovering the Most Downloaded Background Scores</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-top-ranked-ringtones-to-enhance-your-call-experience/"><u>New Top-Ranked Ringtones to Enhance Your Call Experience</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/unlocking-success-in-the-world-of-digital-marketing-for-2024/"><u>Unlocking Success in the World of Digital Marketing for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-how-to-cut-ringtones-for-2024/"><u>Updated How to Cut Ringtones for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-procuring-specialized-sounds-mimicking-intestinal-gas-release-for-enhanced-aural-realism/"><u>Updated Procuring Specialized Sounds Mimicking Intestinal Gas Release for Enhanced Aural Realism</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-the-ultimate-imovie-strategy-to-eliminate-unwanted-sounds-in-your-projects-for-2024/"><u>Updated The Ultimate iMovie Strategy to Eliminate Unwanted Sounds in Your Projects for 2024</u></a></li>
 </ul></div>
 
