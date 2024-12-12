@@ -1,7 +1,7 @@
 ---
 title: Overcoming Performance Hiccups in Urban Planning Simulator Skyline Edition - PC Guide
-date: 2024-12-02T18:17:41.450Z
-updated: 2024-12-06T03:16:09.748Z
+date: 2024-12-09T13:27:19.925Z
+updated: 2024-12-12T02:30:23.811Z
 tags:
   - win11
   - win10
@@ -44,13 +44,13 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
 3. [Delete specific files from the save folder](https://tools.techidaily.com/drivereasy/download/)
 4. [Underclock your clock speed](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Download the latest patch
 
  If you haven’t been updated your game for a while, you can update your game. The official keeps releasing new patches, the latest version may solve the crashing issue.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Manage Virtual Memory
 
@@ -61,6 +61,10 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/1-4.jpg)
 3. Under the**Advanced** tab, click**Settings** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2-4.jpg)
 4. Under**Virtual memory** , click**Change** .  
 
@@ -68,17 +72,17 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
 5. Uncheck**Automatically manage paging file size for all drives** and make sure you’ve check**System managed size** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/4-2.jpg)
 6. Click**Set > OK** .
 
-7. Reboot your computer can check whether the crash will appear or not.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+7. Reboot your computer can check whether the crash will appear or not.
 
 ### Fix 3: Delete specific files from the save folder
 
@@ -92,6 +96,10 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
 4. Navigate to the save folder, delete Data(999).sav & Data(999).bak.
 
 5. Reboot your computer and check the issue is solved or not.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Underclock your clock speed
 
@@ -124,15 +132,7 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Thanks for reading. Hope this article meets your need. And you are welcome to leave comments below.
 
@@ -153,18 +153,18 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-directscreen-w11-instant-recording-on-windows-11/"><u>[New] 2024 Approved DirectScreen W11 Instant Recording on Windows 11</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-elevate-small-screen-experience-with-these-leading-and-affordable-tools-to-download-youtubes-tiny-videos-for-2024/"><u>[Updated] Elevate Small Screen Experience with These Leading & Affordable Tools to Download YouTubes' Tiny Videos for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-obs-and-wirecast-clash-which-tops-in-live-broadcasting-for-2024/"><u>[Updated] OBS and Wirecast Clash Which Tops in Live Broadcasting for 2024</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-use-ispoofer-on-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on Google Pixel Fold? | Dr.fone</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-selecting-an-ideal-mac-music-file-identifier-tool/"><u>New 2024 Approved Selecting an Ideal Mac Music File Identifier Tool</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-top-video-editors-for-mac-vn-video-editor-and-beyond/"><u>New 2024 Approved Top Video Editors for Mac VN Video Editor and Beyond</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-unveiling-the-ultimate-frequency-tuner-configurations/"><u>New 2024 Approved Unveiling the Ultimate Frequency Tuner Configurations</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-composing-the-perfect-audio-landscape-finding-silent-sound-for-visual-narratives-for-2024/"><u>New Composing the Perfect Audio Landscape Finding Silent Sound for Visual Narratives for 2024</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-essential-audio-setups-for-personalized-mobile-soundscapes/"><u>New In 2024, Essential Audio Setups for Personalized Mobile Soundscapes</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-unveiling-the-6-top-rated-digital-libraries-for-haunting-audio-effects-2e-update/"><u>New Unveiling the 6 Top-Rated Digital Libraries for Haunting Audio Effects (2E Update)</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/step-by-step-ssd-enhancement-for-your-hp-17-cn1053cl-comprehensive-tutorial-and-pro-tips/"><u>Step-by-Step SSD Enhancement for Your HP 17-Cn1053Cl: Comprehensive Tutorial & Pro Tips</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/the-essential-guide-to-choosing-your-best-guitar-recording-application/"><u>The Essential Guide to Choosing Your Best Guitar Recording Application</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-apple-watch-discounts-and-offers-save-big-in-month/"><u>Top Apple Watch Discounts & Offers - Save Big in [Month]</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-unlocking-the-power-of-canon-time-lapse-imaging/"><u>[New] 2024 Approved Unlocking the Power of Canon Time-Lapse Imaging</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-money-matters-choosing-best-stocks-yts-guide/"><u>[New] In 2024, Money Matters Choosing Best Stocks YTs Guide</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-elevate-your-facebook-chronicles-with-gratuitous-upgrades/"><u>[Updated] 2024 Approved Elevate Your Facebook Chronicles with Gratuitous Upgrades</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-honor-magic-5-lite-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Honor Magic 5 Lite? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-xiaomi-14-pro-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Xiaomi 14 Pro Is Unlocked</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-pro-level-hdr-mastery-your-compre-point-of-entry/"><u>In 2024, Pro Level HDR Mastery Your Compre Point of Entry</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unleashing-the-power-of-time-lapse-photography-using-gopro/"><u>In 2024, Unleashing the Power of Time-Lapse Photography Using GoPro</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-choreographed-audio-selecting-superior-soundtracks-for-montage-masterpieces/"><u>New Choreographed Audio Selecting Superior Soundtracks for Montage Masterpieces</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-from-beginner-to-pro-your-complete-guide-to-using-garagebands-recording-features/"><u>New From Beginner to Pro Your Complete Guide to Using GarageBands Recording Features</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcome-monster-hunter-world-gameplay-interruptions-with-these-pc-optimization-techniques/"><u>Overcome 'Monster Hunter: World' Gameplay Interruptions with These PC Optimization Techniques</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-expert-strategies-for-merging-unparalleled-music-into-mp4-cinematics/"><u>Updated 2024 Approved Expert Strategies for Merging Unparalleled Music Into MP4 Cinematics</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-innovative-complimentary-online-sound-regulator-systems/"><u>Updated 2024 Approved Innovative Complimentary Online Sound Regulator Systems</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-experts-choice-the-top-10-digital-stores-specializing-in-montage-music-downloads/"><u>Updated In 2024, Experts Choice The Top 10 Digital Stores Specializing in Montage Music Downloads</u></a></li>
 </ul></div>
 

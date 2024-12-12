@@ -1,7 +1,7 @@
 ---
 title: "Solve Your Minecraft Woes: A Step-by-Step Guide to Fixing Error Code: Crossbow"
-date: 2024-11-29T08:31:47.385Z
-updated: 2024-12-06T09:56:10.317Z
+date: 2024-12-10T11:38:04.900Z
+updated: 2024-12-12T01:23:53.063Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/96b0dc304ed2f0b22e595834a3c54ad2566287334
 
 These days, **[Outriders](https://www.epicgames.com/store/en-US/p/outriders?epic%5Fcreator%5Fid=28725b529b5346a38a080b6a920aa97a&epic%5Fgame%5Fid=c6e54ebd92da4ee8819c1c0956cebdc4)**  has seen a thriving surge among gamers. Overall, it is a game that players are enjoying. But the performance issues such as the game stutters and freezes during cutscenes or normal gameplay are plaguing them. These definitely will affect the gaming experience. But you can fix it on your own.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Before getting started
 
  Before taking any troubleshooting steps listed below, we recommend you switch to mouse and keyboard if you’re playing Outriders with a controller. Although it seems there’s nothing to do with your controller, many players did report on Reddit that switching to mouse and keyboard helped them mitigate their problems. So it’s worth a shot.
@@ -31,10 +35,6 @@ These days, **[Outriders](https://www.epicgames.com/store/en-US/p/outriders?epic
 6. **[Disable Steam overlay](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Close unnecessary programs](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Install all Windows updates
 
  Outriders has just been out for days. Therefore, it’s not unusual that you’re running into any sorts of issues which can make your game unplayable. But when it comes to troubleshooting the issues, installing the latest Windows updates should be the recommended step you can take. Windows updates bring new features and fix the compatibility issues especially with new titles.
@@ -45,24 +45,16 @@ Here’s how you can download and install Windows updates:
   
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/check-for-updates.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Click on the **Check for updates**  tab. If there are any updates available, it’ll automatically start to download and install it.  
   
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/click-on-the-Check-for-updates-tab.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Once you’ve installed the latest Windows updates, launch Outriders and check if the stutters or freezes are still that noticeable during cutscenes or normal gameplay.
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Roll back to your previous driver (for Nvidia users)
@@ -77,6 +69,10 @@ Here’s how you can download and install Windows updates:
   
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/device-manager.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click on the arrow next to**Display adapters** . Right-click your device and select**Properties** .  
   
 ![how to roll back NVIDIA driver](https://images.drivereasy.com/wp-content/uploads/2021/04/roll-back-your-drivers.png)
@@ -85,12 +81,16 @@ Here’s how you can download and install Windows updates:
   
 ![how to roll back NVIDIA driver](https://images.drivereasy.com/wp-content/uploads/2021/04/roll-back-driver.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After you’ve done these, launch Outriders to check if it solves your issues.
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Update your graphics driver
@@ -107,6 +107,10 @@ Here’s how you can download and install Windows updates:
 
 ![update network adapter driver automatically with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/11/Scan-now-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.)
 
@@ -115,10 +119,6 @@ Here’s how you can download and install Windows updates:
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Switch to DX11
 
@@ -130,13 +130,13 @@ Here’s how you can do this:
   
 ![outriders properties](https://images.drivereasy.com/wp-content/uploads/2021/04/outriders-Properties.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Select the**GENERAL**  tab. Then under the**LAUNCH OPTIONS** section, type**\-force -dx11** in the text field. This command line will allow you to run your game in DX11 mode.  
   
 ![switch to DX11 mode Outriders](https://images.drivereasy.com/wp-content/uploads/2021/04/DX11.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After switching to DX11, play Outriders to check if it helps alleviate some stutters during your gameplay.
 
@@ -171,7 +171,7 @@ To verify the integrity of game files, take these steps:
 ![outriders properties](https://images.drivereasy.com/wp-content/uploads/2021/04/outriders-Properties.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Under the**GENERAL** tab, uncheck the box next to**Enable the Steam Overlay while in-game** .  
@@ -217,22 +217,19 @@ Now play Outriders to see if you can get better gaming performance.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-how-to-use-zoom-for-skype-easy-solutions/"><u>[New] How to Use Zoom for Skype [Easy Solutions]</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-control-over-your-ig-content-exposure/"><u>[New] In 2024, Control Over Your IG Content Exposure</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-the-ultimate-how-to-applying-captions-to-pictures-in-pcmac-environments/"><u>[Updated] The Ultimate How-To Applying Captions to Pictures in PC/Mac Environments</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/2024-approved-automating-your-voice-a-comprehensive-audacity-autotune-installation-and-usage-manual/"><u>2024 Approved Automating Your Voice A Comprehensive Audacity Autotune Installation and Usage Manual</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/best-songs-logging-top-tools-for-quickly-preserving-your-cherished-tunes/"><u>Best Songs Logging Top Tools for Quickly Preserving Your Cherished Tunes</u></a></li>
-<li><a href="https://extra-information.techidaily.com/crafting-seamless-transitions-the-art-of-canon-time-lapses/"><u>Crafting Seamless Transitions The Art of Canon Time-Lapses</u></a></li>
-<li><a href="https://win-answers.techidaily.com/deciphering-and-fixing-local-steam-client-communication-breakdown-your-ultimate-guide/"><u>Deciphering and Fixing Local Steam Client Communication Breakdown - Your Ultimate Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/get-to-know-the-pros-of-engaging-with-asmr-for-2024/"><u>Get to Know the Pros of Engaging with ASMR for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-reset-your-xiaomi-13t-pro-lock-screen-password-by-drfone-android/"><u>How to Reset your Xiaomi 13T Pro Lock Screen Password</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-precise-video-queue-a-step-by-step-guide-to-creating-an-effective-playlist-on-youtube/"><u>In 2024, Precise Video Queue A Step-by-Step Guide to Creating an Effective Playlist on YouTube</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-achieve-professional-voice-recordings-with-your-mac-an-intuitive-step-by-step-guide/"><u>New Achieve Professional Voice Recordings with Your Mac – An Intuitive, Step-by-Step Guide</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-echoes-of-the-earth-unveiling-the-10-best-ios-and-android-auditory-journeys-in-nature-for-2024/"><u>New Echoes of the Earth Unveiling the 10 Best iOS & Android Auditory Journeys in Nature for 2024</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-exploring-the-best-cinematic-sounds-an-assembled-top-8-collection-for-2024/"><u>New Exploring the Best Cinematic Sounds - An Assembled Top 8 Collection for 2024</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-global-top-rated-mp3-editing-applications/"><u>New In 2024, Global Top-Rated MP3 Editing Applications</u></a></li>
-<li><a href="https://blog-min.techidaily.com/step-by-step-tutorial-on-extracting-audio-from-movies-or-videos/"><u>Step-by-Step Tutorial on Extracting Audio From Movies or Videos</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/1714938257230-updated-2024-approved-how-to-make-your-voice-deeper-with-filmora/"><u>Updated 2024 Approved How to Make Your Voice Deeper With Filmora</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-online-audiophiles-mp3-decomposer-and-assembler/"><u>Updated Online Audiophiles MP3 Decomposer & Assembler</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-easy-steps-to-change-character-sounds-for-maximum-impact-no-cost/"><u>[Updated] 2024 Approved Easy Steps to Change Character Sounds for Maximum Impact (No Cost)</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-effortless-youtube-video-to-text-conversion-at-no-cost/"><u>[Updated] Effortless YouTube Video to Text Conversion at No Cost!</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-videotwitterconverter-direct-media-conversion-for-2024/"><u>[Updated] VideoTwitterConverter Direct Media Conversion for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-probing-into-youtubes-decision-making-for-prominent-remarks/"><u>2024 Approved Probing Into YouTube's Decision-Making for Prominent Remarks</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-magic-5-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Magic 5</u></a></li>
+<li><a href="https://win-answers.techidaily.com/guide-resolve-your-world-of-warcraft-crash-problems-swiftly-and-effectively/"><u>Guide: Resolve Your World of Warcraft Crash Problems Swiftly & Effectively</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-nokia-g42-5g-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Nokia G42 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-oppo-reno-8t-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Oppo Reno 8T 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/in-2024-youtube-shorts-your-comprehensible-journey-starts-here/"><u>In 2024, YouTube Shorts Your Comprehensible Journey Starts Here</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/leading-music-editor-tools-ranked-windows-and-mac-edition-top-10/"><u>Leading Music Editor Tools Ranked Windows & Mac Edition, Top 10</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-top-5-effects-for-reshaping-sound-tracks/"><u>New 2024 Approved Top 5 Effects for Reshaping Sound Tracks</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-approaches-to-isolate-and-omit-audio-from-video-content/"><u>Updated 2024 Approved Approaches to Isolate and Omit Audio From Video Content</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-cutting-edge-music-editing-software-roundup-the-top-10-compatible-apps-for-windows-and-mac/"><u>Updated 2024 Approved Cutting-Edge Music Editing Software Roundup The Top 10 Compatible Apps for Windows and Mac</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-how-to-remove-audio-from-mkv-2023-update-for-2024/"><u>Updated How to Remove Audio From MKV-2023 Update for 2024</u></a></li>
 </ul></div>
 

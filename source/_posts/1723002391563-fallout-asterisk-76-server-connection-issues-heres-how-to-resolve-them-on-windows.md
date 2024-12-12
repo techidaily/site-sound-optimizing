@@ -1,7 +1,7 @@
 ---
 title: Fallout Asterisk 76 Server Connection Issues? Here's How to Resolve Them on Windows
-date: 2024-11-28T21:21:06.040Z
-updated: 2024-12-06T08:51:44.459Z
+date: 2024-12-05T08:38:44.567Z
+updated: 2024-12-12T03:33:28.782Z
 tags:
   - win11
   - win10
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/eb0b88fc8ea01a6f57ac593062a230bcd4f411a04
 
 Recently many Fallout 76 players have been plagued by the**Fallout 76 disconnected from the server** issue. If you’re also in the same situation, don’t worry. It’s often not hard to fix…
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to fix Fallout 76 Disconnected From Server in Windows
 
  Here are seven fixes that have helped other users resolve the Fallout 76 Disconnected From Server problem. You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -33,10 +29,6 @@ Recently many Fallout 76 players have been plagued by the**Fallout 76 disconnect
 6. **[Switch the DNS server](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Is Fallout 76 down?](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1:**Reset Winsock**
 
  Winsock is an application in Windows that handles the data on the computer that programs use for Internet access. So when you can’t connect Fallout 76 to its server, you can give Winsock a try. It reverts the Winsock Catalog back to its default settings, which often proves useful in network problems.
@@ -46,10 +38,6 @@ Here is how to reset Winsock data:
  1) On your keyboard, press **the Windows Logo Key** and type **cmd** . Then right-click Command Prompt when it comes up as a result and select **Run as administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-566.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) When prompted for permission, click**Yes** to run Command Prompt.
 
@@ -64,7 +52,7 @@ Here is how to reset Winsock data:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2:**Close bandwidth hogging applications**
@@ -126,7 +114,7 @@ _modem_
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap3-5.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 _wireless router_
@@ -149,6 +137,10 @@ _wireless router_
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-566.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) When prompted for permission, click**Yes** to run Command Prompt.
 
  3) Type**the following command line** and press **Enter**  on your keyboard.**ipconfig /flushdns**
@@ -156,7 +148,7 @@ _wireless router_
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap9-5.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### To renew your IP
@@ -164,6 +156,10 @@ _wireless router_
  1) On your keyboard, press **the Windows Logo Key** and type **cmd** . Then right-click Command Prompt when it comes up as a result and select **Run as administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-566.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) When prompted for permission, click**Yes** to run Command Prompt.
 
@@ -174,7 +170,7 @@ _wireless router_
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap11-5.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Type**the following command line** and press **Enter**  on your keyboard.
@@ -199,25 +195,25 @@ Here is how to switch the DNS server to Google Public DNS:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-542.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) In **View by** , choose **Category** . Then click **View network status and tasks** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-611.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) In the pop-up window, click **Change adapter settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-612.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Right-click on**your current network** and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-613.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  5) Double-click **Internet Protocol Version 4(TCP/IPv4)**  to view its properties.
 
@@ -226,6 +222,10 @@ Here is how to switch the DNS server to Google Public DNS:
  6) Select **Obtain an IP address automatically** and **Use the following DNS server addresses** . For **the Preferred DNS server** , enter the Google Public DNS address: **8.8.8.8** ; **for the Alternative DNS server** , enter the Google Public DNS address: **8.8.4.4** . Then click **OK** to save the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-614.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 7) Restart your computer for the changes to take effect.
 
@@ -262,14 +262,19 @@ Here is how to switch the DNS server to Google Public DNS:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-scrutinizing-splitcam-a-leader-in-video-tech/"><u>[New] In 2024, Scrutinizing SplitCam - A Leader in Video Tech?</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-saving-strategies-securing-your-mov-on-windows-pcs-for-2024/"><u>[New] Saving Strategies Securing Your .mov On Windows PCs for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/from-script-to-screen-mastery-through-vida-writers-guide/"><u>From Script to Screen Mastery Through Vida’ Writers Guide</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/in-2024-identifying-sources-for-authentic-canine-symphony-sounds/"><u>In 2024, Identifying Sources for Authentic Canine Symphony Sounds</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-set-up-a-dynamic-fb-cover/"><u>In 2024, Set Up a Dynamic FB Cover</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/inside-look-the-revolutionary-ai-features-introduced-by-apple-during-the-wwdc-event-of-2024/"><u>Inside Look: The Revolutionary AI Features Introduced by Apple During the WWDC Event of 2024</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-earning-beats-for-your-ears-the-art-of-accessing-free-audio-music-legally/"><u>Updated 2024 Approved Earning Beats for Your Ears The Art of Accessing FREE Audio Music Legally</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-enriched-sound-experience-synthesizing-audio-waves-and-animating-them-for-premiere-pro-audience/"><u>Updated 2024 Approved Enriched Sound Experience Synthesizing Audio Waves and Animating Them for Premiere Pro Audience</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-the-audacity-advantage-effective-methods-for-quieting-audio-distractions-for-2024/"><u>Updated The Audacity Advantage Effective Methods for Quieting Audio Distractions for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-7-top-free-instagram-video-clips-tools-for-daily-entertainment/"><u>[New] In 2024, 7 Top Free Instagram Video Clips Tools for Daily Entertainment</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-subscription-sensation-top-10-youtube-personalities-by-counts/"><u>[New] In 2024, Subscription Sensation Top 10 YouTube Personalities by Counts</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-the-art-of-smooth-video-transitioning-for-2024/"><u>[New] The Art of Smooth Video Transitioning for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-unraveling-instagrams-video-time-restrictions-for-2024/"><u>[Updated] Unraveling Instagram's Video Time Restrictions for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/best-3-software-to-transfer-files-tofrom-your-honor-magic-6-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Best 3 Software to Transfer Files to/from Your Honor Magic 6 via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/elite-sound-mixers-for-superior-stream-quality/"><u>Elite Sound Mixers for Superior Stream Quality</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-lava-blaze-curve-5g-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Lava Blaze Curve 5G Safely | Dr.fone</u></a></li>
+<li><a href="https://win-updates.techidaily.com/mastering-the-art-of-pdf-accessibility-in-windows-environments-with-abc-tutorials/"><u>Mastering the Art of PDF Accessibility in Windows Environments with ABC Tutorials</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-the-essential-list-of-top-10-audio-editors-for-windows-and-mac-platforms/"><u>New The Essential List of Top 10 Audio Editors for Windows & Mac Platforms</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-value-for-money-tablets-comprehensive-analysis-by-tech-experts-on-zdnet/"><u>Top Value-for-Money Tablets : Comprehensive Analysis by Tech Experts on ZDNet</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-melody-matters-top-ranked-linux-auditory-software-evaluating-cost-and-quality/"><u>Updated 2024 Approved Melody Matters Top-Ranked Linux Auditory Software - Evaluating Cost and Quality</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-pioneering-the-silent-echo-techniques-and-tools-for-gradual-audio-fading-released/"><u>Updated 2024 Approved Pioneering the Silent Echo Techniques and Tools for Gradual Audio Fading Released</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-step-by-step-audio-augmentation-for-quality-video-files-on-quicktime/"><u>Updated In 2024, Step-by-Step Audio Augmentation for Quality Video Files on QuickTime</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-unraveling-the-process-of-stripping-beat-tracks-from-online-compositions/"><u>Updated In 2024, Unraveling the Process of Stripping Beat Tracks From Online Compositions</u></a></li>
 </ul></div>
 

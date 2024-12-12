@@ -1,7 +1,7 @@
 ---
 title: "Pathfinder: Wrath of the Righteous Not Loading Up? Try These Fixes First"
-date: 2024-11-28T18:09:51.472Z
-updated: 2024-12-06T02:55:04.778Z
+date: 2024-12-10T00:13:04.579Z
+updated: 2024-12-12T06:03:02.401Z
 tags:
   - win11
   - win10
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/98351be0d04e2b45fd40ed227ba896a84193b786b
 
 Since the release of Pathfinder: Wrath of the Righteous, you can scroll through hundreds of Reddit threads that are about bug reports on the game. One of the issues plaguing many gamers is that **the game keeps freezing, especially when they click on the two classes – inquisitor and rogue** . For some, they can’t even start the game because it’s stuck at 92% after the character creation. If you’re on the same boat, don’t worry. In this post, we’ve got you covered with some methods.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  You may not need to try them all; simply work your way down the list until you find the one that works for you.
@@ -34,11 +30,23 @@ Since the release of Pathfinder: Wrath of the Righteous, you can scroll through 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/how-to-fix-Pathfinder-Wrath-of-the-Righteous-freezing-on-PC.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Add your game as an exception to your antivirus
 
  Some gamers reported on Reddit that it turned out the antivirus application was quarantining the game every time they ran it. They solved the freezing issue by whitelisting the game. To make sure your antivirus is not blocking your game from launching properly, you should disable your antivirus or add your game as an exception. Otherwise, your antivirus might identify the game as a Trojan.
 
  If you’re quite sure there is nothing to do with your antivirus application, try the fixes listed below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Update your graphics driver
 
@@ -47,7 +55,7 @@ Since the release of Pathfinder: Wrath of the Righteous, you can scroll through 
  There are mainly two ways you can update your graphics driver:[manually](https://tools.techidaily.com/drivereasy/download/) and **[automatically](https://tools.techidaily.com/drivereasy/download/)**  .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Option 1 – Manually update your graphics driver
@@ -60,10 +68,6 @@ Since the release of Pathfinder: Wrath of the Righteous, you can scroll through 
 
  Then find the driver corresponding with your Windows version and download it manually. Once you’ve downloaded the correct driver for your system, double-click on the downloaded file and follow the on-screen instructions to install it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Option 2 – Automatically update your graphics driver (recommended)
 
  Updating drivers manually does require a certain level of computer knowledge and can be error-prone. If you don’t feel like doing it on your own, we recommend you use **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  , an automatic driver updater. With Driver Easy, you don’t need to waste your time hunting for driver updates as it will take care of the busy work for you.
@@ -74,10 +78,6 @@ Since the release of Pathfinder: Wrath of the Righteous, you can scroll through 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/scan-now-v5_7_0.jpg)
 3. Click**Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them. )  
 
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
@@ -86,9 +86,17 @@ Since the release of Pathfinder: Wrath of the Righteous, you can scroll through 
 
  After updating drivers, restart your PC and test the gameplay. If this doesn’t do the trick, proceed to the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Verify integrity of game files
 
  A variety of issues may be caused by corrupted game files, whether it’s glitched graphics or inability to launch the game. When the Pathfinder: Wrath of the Righteous freezing issue arise, you should check the integrity of the game files on Steam or GOG Galaxy:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Verify on Steam
 
@@ -107,10 +115,6 @@ Since the release of Pathfinder: Wrath of the Righteous, you can scroll through 
 
 ![how to verify integrity of game files on GOG Galaxy](https://images.drivereasy.com/wp-content/uploads/2020/12/GOG-GALAXY.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  GOG Galaxy will now verify all of your game files, and compare them with files hosted on the game servers. If there are any discrepancies GOG Galaxy will redownload, and repair corrupted files.
 
  When it’s all done, relaunch your game. If the freezing issue persists, try the next fix below.
@@ -127,10 +131,6 @@ Since the release of Pathfinder: Wrath of the Righteous, you can scroll through 
 
 ![disable Steam overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-Steam-overlay-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After applying the changes, play Pathfinder: Wrath of the Righteous and your problem should be alleviated. However, if the freezing issue still occurs, don’t worry. Below are other fixes for you to try.
 
 ## 5\. Launch your game from .exe file
@@ -138,10 +138,6 @@ Since the release of Pathfinder: Wrath of the Righteous, you can scroll through 
  Most of the time, we just launch a program by simply clicking on the shortcut or launch a game from the gaming platform. But there is one other way you can launch your game. That is through the .exe file. Simply go to your game’s installation directory and**double-click on the executable** . Sometimes running your game directly from the executable (suggested by some players) can work like magic. So if the above methods didn’t work for you, definitely give it a shot. Players who **can’t launch the Pathfinder along with the disk write error** can also benefit from this trick.
 
 However, if it doesn’t give you any luck, try the next fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Delete the registry key
 
@@ -154,7 +150,7 @@ However, if it doesn’t give you any luck, try the next fix below.
 3. Go to**ComputerHKEY\_CURRENT\_USERSOFTWAREowlcat** and delete the entire key.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![delete registry key](https://images.drivereasy.com/wp-content/uploads/2021/09/registry.png)
@@ -170,6 +166,10 @@ Once done, restart your game and test the gameplay.
 3. Once it’s finished, click **Start Repair** to start the repair process.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -190,21 +190,20 @@ Once done, restart your game and test the gameplay.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-iphoneandroid-integrating-playlists-into-your-fb-music/"><u>[New] In 2024, IPhone/Android Integrating Playlists Into Your FB Music</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-strategies-to-combat-the-impact-of-new-facebook-algorithms/"><u>[New] In 2024, Strategies to Combat the Impact of New Facebook Algorithms</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-decoding-the-mysteries-of-effective-youtube-keywords/"><u>[Updated] 2024 Approved Decoding the Mysteries of Effective YouTube Keywords</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-elevate-note-taking-experience-mematic-for-2024/"><u>[Updated] Elevate Note-Taking - Experience Mematic for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/academic-success-through-tech-identifying-your-childs-needed-school-supplies-ranked-1-to-9/"><u>Academic Success Through Tech: Identifying Your Child’s Needed School Supplies, Ranked #1 to #9</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-coherencecore-the-innovative-approach-to-synchronized-sound-design-in-adobe-premiere-pro-2023-for-2024/"><u>New CoherenceCore The Innovative Approach to Synchronized Sound Design in Adobe Premiere Pro 2023 for 2024</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-chart-wolfs-sonorous-call-pattern/"><u>New In 2024, Chart Wolfs Sonorous Call Pattern</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcoming-silence-solutions-for-mics-not-detecting-voice-output/"><u>Overcoming Silence: Solutions for Mics Not Detecting Voice Output</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/power-up-revenue-choose-the-best-15-facebook-insights-for-sale-boosting/"><u>Power Up Revenue Choose the Best 15 Facebook Insights for Sale Boosting</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/removing-background-noise-extracting-silent-videos/"><u>Removing Background Noise Extracting Silent Videos</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-insiders-guide-to-accessing-and-personalizing-nvidias-advanced-artifice-intelligence-solutions/"><u>The Insider's Guide to Accessing and Personalizing NVIDIA's Advanced Artifice Intelligence Solutions</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unanswerable-inquiries-in-language-models/"><u>Unanswerable Inquiries in Language Models</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-advanced-audio-editing-implementing-real-time-ducking-in-windows-version-of-adobe-premiere-pro/"><u>Updated Advanced Audio Editing Implementing Real-Time Ducking in Windows Version of Adobe Premiere Pro</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-audio-dial-achieving-smooth-volume-ramp-ups/"><u>Updated In 2024, Audio Dial Achieving Smooth Volume Ramp-Ups</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-cutting-edge-software-choices-for-distorting-and-enhancing-audio-quality/"><u>Updated In 2024, Cutting-Edge Software Choices for Distorting and Enhancing Audio Quality</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-the-art-of-pristine-audio-overcoming-hiss-and-harsh-sounds/"><u>Updated The Art of Pristine Audio Overcoming Hiss and Harsh Sounds</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-the-journey-through-timeran-images-3-methods-on-facebook/"><u>[New] 2024 Approved The Journey Through Time'ran Images 3 Methods on Facebook</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-trailblaze-with-our-list-of-the-top-9-resources-for-dynamic-3d-fonts/"><u>[New] Trailblaze with Our List of The Top 9 Resources for Dynamic 3D Fonts</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-ideal-matches-top-8-stability-tools-for-4k-cameras/"><u>[Updated] In 2024, Ideal Matches Top 8 Stability Tools for 4K Cameras</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1-outstanding-performance-and-durability-top-traits-of-a-lenovo-laptop-that-blows-away-tech-enthusiasts-insights/"><u>1. Outstanding Performance and Durability: Top Traits of a Lenovo Laptop That Blows Away Tech Enthusiasts - Insights</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/best-audio-editors-to-remove-background-noise-from-audio-windows-for-2024/"><u>Best Audio Editors to Remove Background Noise From Audio Windows for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/deciphering-the-prowess-of-magix-samplitude-in-modern-music-production/"><u>Deciphering the Prowess of MAGIX Samplitude in Modern Music Production</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/elevating-your-voice-how-to-enhance-your-podcast-experience-using-audacity-for-2024/"><u>Elevating Your Voice How to Enhance Your Podcast Experience Using Audacity for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/harmony-in-transition-15-masterful-scores-enhancing-diverse-video-styles/"><u>Harmony in Transition 15 Masterful Scores Enhancing Diverse Video Styles</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/impeccable-console-replication-best-5-emulators-for-2024/"><u>Impeccable Console Replication Best 5 Emulators for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-best-practices-for-seamless-transitions-using-b-roll/"><u>In 2024, Best Practices for Seamless Transitions Using B Roll</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/in-2024-how-to-add-audio-fade-in-effect/"><u>In 2024, How to Add Audio Fade In Effect</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-most-attractive-ringtones-for-your-phone-for-2024/"><u>New Most Attractive Ringtones for Your Phone for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-guide-stop-your-tower-of-fantasy-game-from-crashing-on-windows/"><u>Step-by-Step Guide: Stop Your Tower of Fantasy Game From Crashing on Windows</u></a></li>
+<li><a href="https://article-helps.techidaily.com/step-by-step-how-to-convert-and-download-vids-from-social-media-to-mp3s-for-2024/"><u>Step-by-Step How to Convert and Download Vids From Social Media to MP3s for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unbeatable-july-offers-for-iphones-expert-tips-and-reviews-by-zdnet/"><u>Unbeatable July Offers for iPhones: Expert Tips & Reviews by ZDNet</u></a></li>
 </ul></div>
 

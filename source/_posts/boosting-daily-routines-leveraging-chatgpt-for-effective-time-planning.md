@@ -1,7 +1,7 @@
 ---
 title: "Boosting Daily Routines: Leveraging ChatGPT for Effective Time Planning"
-date: 2024-12-02T16:06:56.043Z
-updated: 2024-12-05T22:28:38.084Z
+date: 2024-12-06T19:52:13.343Z
+updated: 2024-12-12T05:11:22.760Z
 tags:
   - chatgpt
   - open-ai
@@ -20,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/cda03445bb5af4617363a25ef0e62c6e1b665fa4b
  However, it can be clumsy when it comes to dealing with file formats like PDFs. This makes it tricky if you want it to work with content in this format. If you are struggling to get ChatGPT to read PDFs, here are some easy ways to do it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Supply ChatGPT With a URL
@@ -34,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/cda03445bb5af4617363a25ef0e62c6e1b665fa4b
 ![Screenshot of response to PDF query on the US constitution](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-response-to-pdf-query-on-the-us-constitution.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  ChatGPT will then nicely summarize the main points on the requested pages. One point of note here, there are[limitations to ChatGPT prompts and responses](https://www.makeuseof.com/do-chatgpt-responses-have-character-or-word-limit/) , especially when it comes to more complex requests. So, for larger documents, it is good policy to break the task down into smaller parts.
@@ -45,9 +45,17 @@ thumbnail: https://thmb.techidaily.com/cda03445bb5af4617363a25ef0e62c6e1b665fa4b
 
 ![Screenshot of copying text from PDF opened in Microsoft Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-copying-text-from-pdf-opened-in-ms-edge-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The text can then be pasted into a ChatGPT prompt, and the desired results attained. In this case, we asked it to bullet point the main points in the text.
 
 ![Screenshot of ChatGPT summarizing copied text](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-chatgpt-summarizing-copied-text.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  As you can see, ChatGPT will easily respond to prompts with text pasted into them. Just remember not to ask too much of it in a single request. This technique will work with most applications that can open PDFs.
 
@@ -73,17 +81,9 @@ thumbnail: https://thmb.techidaily.com/cda03445bb5af4617363a25ef0e62c6e1b665fa4b
 
  Once the conversion is complete, you can copy the text directly into ChatGPT and run prompts on it to get your desired results.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Install and Use an Extension
 
 ![chatgpt with file uploader extension](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-extension.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Unfortunately, at this time, ChatGPT does not include a way to automatically upload PDF files or any files for that matter. Sure, you can copy the text from a PDF or convert it into a text document, but is there a simpler way to go about it? Luckily, there is. One of the easiest ways to get ChatGPT to read PDFs is to just install and use an extension.
 
@@ -112,21 +112,24 @@ thumbnail: https://thmb.techidaily.com/cda03445bb5af4617363a25ef0e62c6e1b665fa4b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-secure-your-gaming-memories-5-essential-vr-recording-methods/"><u>[New] 2024 Approved Secure Your Gaming Memories 5 Essential VR Recording Methods</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/discover-the-premier-power-converters-expert-picks/"><u>Discover the Premier Power Converters: Expert Picks</u></a></li>
-<li><a href="https://win11.techidaily.com/elegant-image-carousel-in-windows-unveiling-seven-essential-tactics/"><u>Elegant Image Carousel in Windows – Unveiling Seven Essential Tactics</u></a></li>
-<li><a href="https://article-posts.techidaily.com/enhancing-game-experience-with-voice-alteration-on-ps45/"><u>Enhancing Game Experience with Voice Alteration on PS4/5</u></a></li>
-<li><a href="https://games-able.techidaily.com/five-frightfully-frustrating-games-for-gamers/"><u>Five Frightfully Frustrating Games for Gamers</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/fixing-the-issue-how-to-get-your-corsair-hs35-microphone-functional-on-windows/"><u>Fixing the Issue: How to Get Your Corsair HS35 Microphone Functional on Windows</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/gratis-converteren-van-flv-naar-gif-online-vrije-services-movavi/"><u>Gratis Converteren Van FLV Naar GIF - Online Vrije Services Movavi</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-flashlight-from-iphone-15-pro-lock-screen-drfone-by-drfone-ios/"><u>How To Remove Flashlight From iPhone 15 Pro Lock Screen | Dr.fone</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-detailed-syma-x8c-assessment/"><u>In 2024, Detailed Syma X8C Assessment</u></a></li>
-<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-oppo-find-x7frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Oppo Find X7FRP Lock</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/no-more-silence-in-battle-royale-fixed-guide-to-restore-voice-chat-on-apex-legends/"><u>No More Silence in Battle Royale: Fixed Guide to Restore Voice Chat on Apex Legends</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/solutions-for-unplayable-video-files/"><u>Solutions for Unplayable Video Files</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/solve-your-minecraft-woes-a-step-by-step-guide-to-fixing-error-code-crossbow/"><u>Solve Your Minecraft Woes: A Step-by-Step Guide to Fixing Error Code: Crossbow</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/troubleshooting-guide-unstuck-baldurs-gate-iii-from-your-computer/"><u>Troubleshooting Guide: Unstuck Baldur's Gate III From Your Computer</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/ultimate-data-archiving-system/"><u>Ultimate Data Archiving System</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-the-complete-process-of-audio-integration-into-quicktime-video-files/"><u>Updated 2024 Approved The Complete Process of Audio Integration Into QuickTime Video Files</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-address-and-overcome-a-youtube-content-id-issue/"><u>[New] In 2024, How to Address and Overcome a YouTube Content ID Issue</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-enthralling-evaluation-and-secondary-recommendations/"><u>[Updated] 2024 Approved Enthralling Evaluation & Secondary Recommendations</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-premium-gopro-editing-applications-on-smartphones/"><u>2024 Approved Premium GoPro Editing Applications on Smartphones</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/5-best-mp3-cutters-online-for-2024/"><u>5 Best MP3 Cutters Online for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/how-to-remove-audio-from-avi-for-2024/"><u>How to Remove Audio From AVI for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-honor-90-lite-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Honor 90 Lite To Phone | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-use-ispoofer-on-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Nubia Z50S Pro? | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-xiaomi-redmi-12-5g-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Xiaomi Redmi 12 5G</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-10-best-sites-to-download-bgm-music/"><u>New 2024 Approved 10 Best Sites to Download BGM Music</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-final-cut-pro-sound-visualization-step-by-step-on-rendering-audio-waveforms-and-their-animation-integration-for-2024/"><u>New Final Cut Pro Sound Visualization Step-by-Step on Rendering Audio Waveforms and Their Animation Integration for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-karaoke-and-audio-mastery-leading-voice-suppression-tools-for-enhanced-sound-quality/"><u>New Karaoke & Audio Mastery Leading Voice Suppression Tools for Enhanced Sound Quality</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-mastering-signal-processing-advanced-noise-reduction-techniques-using-artificial-intelligence/"><u>New Mastering Signal Processing Advanced Noise Reduction Techniques Using Artificial Intelligence</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-motorola-moto-g-stylus-2023-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Motorola Moto G Stylus (2023)</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-list-10-best-free-whiteboard-animation-software/"><u>The Ultimate List 10 Best Free Whiteboard Animation Software</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-unconventional-path-to-fitness-how-amazons-halo-is-changing-personal-tracking-habits/"><u>The Unconventional Path to Fitness - How Amazon's Halo Is Changing Personal Tracking Habits</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-final-cut-pro-x-jump-cuts-masterclass-learn-from-the-pros/"><u>Updated In 2024, Final Cut Pro X Jump Cuts Masterclass Learn From the Pros</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-the-audio-architects-guide-to-stripping-down-beats-online/"><u>Updated In 2024, The Audio Architects Guide to Stripping Down Beats Online</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-the-guide-to-amplifying-your-android-footage-adding-audio-seamlessly/"><u>Updated In 2024, The Guide to Amplifying Your Android Footage Adding Audio Seamlessly</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/vital-insights-for-constructing-an-unparalleled-collection-of-youtube-audio-tracks/"><u>Vital Insights for Constructing an Unparalleled Collection of YouTube Audio Tracks</u></a></li>
 </ul></div>
 

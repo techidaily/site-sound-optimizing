@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting and Optimizing Your PC While Playing New World for Better Performance
-date: 2024-12-02T02:02:22.539Z
-updated: 2024-12-06T11:12:28.611Z
+date: 2024-12-10T16:48:22.357Z
+updated: 2024-12-11T17:27:47.436Z
 tags:
   - win11
   - win10
@@ -18,7 +18,7 @@ thumbnail: https://thmb.techidaily.com/c2522eefb8fbc96fa570f56849cfdf92d72e221bd
 Released in November,**Call of Duty: Vanguard** is one of the hottest game titles for 2021\. While some players can enjoy their gameplay without any problems, others report**Fatal Error, Dev Error, or other crashing issues** that lock them out of the game. If you’ve also encountered**CoD Vanguard crashing** problem, don’t worry. It’s not too hard to fix at all…
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to fix CoD Vanguard Crashing
@@ -67,10 +67,6 @@ Here’s how to use Fortect to run a Windows repair:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)
 2. Click**Yes** when prompted to confirm.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. In the command prompt window, type**sfc /scannow** and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)  
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
@@ -97,11 +93,15 @@ Here’s how to use Fortect to run a Windows repair:
 **Note** : You can do it for free if you like, but it’s partly manual.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Restart your PC for the changes to take effect.
 5. Launch CoD, then check to see if the game crashing problem has been resolved. If yes, then great! If the issue still persist, please try**Fix** 3, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3:**Make sure your PC meets the specs for Vanguard**
 
@@ -126,20 +126,24 @@ To check the specs of your PC:
 2. Under the **System** tab and you can check the **Operating System**  and **Memory** information on your PC.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/dxdiag-diagnostic-tool-1.png)
 3. Select the **Display** tab, and you’ll be presented with the information about your **graphics card** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/display-1.png)
 4. Close DirectX.
 
- If your PC specs have been up to the mark but Call of Duty: Vanguard still crashes, please move on to **Fix 4** , below to begin troubleshooting.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ If your PC specs have been up to the mark but Call of Duty: Vanguard still crashes, please move on to **Fix 4** , below to begin troubleshooting.
 
 ### Fix 4: Scan & repair Vanguard game files
 
@@ -171,6 +175,10 @@ Cod Vanguard crashing still not resolved? Please try Fix 6, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/123.png)
 3. Restart your computer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Test the gameplay in Vanguard and see if the crashing issue is fixed. If yes, congrats! If it’s still no joy, please move on to**Fix 7** , below.
 
 ### Fix 7: Make sure your system is up to date
@@ -183,16 +191,8 @@ Here are the steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/checkforupdates.png)
 2. Click **Check for updates** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/cc.png)
 3. Wait a while for Windows to check and automatically install the updates for you.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Restart your computer.
 
@@ -217,21 +217,17 @@ Here are the steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-discover-the-best-12-free-and-paid-video-game-openings-for-yt/"><u>[New] In 2024, Discover the Best 12 Free and Paid Video Game Openings for YT</u></a></li>
-<li><a href="https://extra-information.techidaily.com/elite-5-fpv-hmds-for-high-speed-aerial-sports/"><u>Elite 5 FPV HMDs for High-Speed Aerial Sports</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/essential-pubg-game-specs-must-know-minimum-and-recommended-system-requirements/"><u>Essential PUBG Game Specs: Must-Know Minimum & Recommended System Requirements</u></a></li>
-<li><a href="https://dvd-bd.techidaily.com/how-to-convert-your-mpeg-4-videos-into-dvd-format-a-simple-4-step-guide/"><u>How To Convert Your MPEG-4 Videos Into DVD Format: A Simple 4 Step Guide</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-infinix-smart-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Infinix Smart 8 Pro | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-metaverse-visibility-your-step-by-step-avatar-design/"><u>In 2024, Metaverse Visibility Your Step-by-Step Avatar Design</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/in-2024-most-admired-free-online-archives-with-a-collection-of-guitar-lyrics-and-artwork/"><u>In 2024, Most Admired Free Online Archives with a Collection of Guitar Lyrics and Artwork</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/in-2024-the-ultimate-step-by-step-on-incorporating-sound-into-videos-using-magix/"><u>In 2024, The Ultimate Step-by-Step on Incorporating Sound Into Videos Using Magix</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-discovering-whistle-acoustics-experience/"><u>New 2024 Approved Discovering Whistle Acoustics Experience</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-top-10-windows-and-mac-compatible-music-arrangement-tools/"><u>New 2024 Approved Top 10 Windows & Mac Compatible Music Arrangement Tools</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-role-of-social-platforms-in-mitigating-scam-advertisements/"><u>The Role of Social Platforms in Mitigating Scam Advertisements</u></a></li>
-<li><a href="https://win-guides.techidaily.com/the-ultimate-guide-eliminate-persistent-files-on-windows-10-once-and-for-all/"><u>The Ultimate Guide: Eliminate Persistent Files on Windows 10 Once and For All!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/tunein/"><u>TuneInでお聴きたいラジオ番組をストリーミングしてダウンロード可能か？</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-discovering-the-top-6-innovative-tools-for-live-voice-modification/"><u>Updated 2024 Approved Discovering the Top 6 Innovative Tools for Live Voice Modification</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-video-platform-auditory-archive/"><u>Updated 2024 Approved Video Platform Auditory Archive</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-sound-mining-extracting-audio-elements-from-visual-content/"><u>Updated In 2024, Sound Mining Extracting Audio Elements From Visual Content</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-tailoring-meet-backdrop-for-enhanced-presentations/"><u>[Updated] Tailoring Meet Backdrop for Enhanced Presentations</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-tecno-pop-7-pro-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Tecno Pop 7 Pro | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-i-view-avchd-mts-files-on-xiaomi-14-by-aiseesoft-video-converter-play-mts-on-android/"><u>Can I view AVCHD .mts files on Xiaomi 14?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/essential-remedies-for-chatgpts-most-recurrent-faults/"><u>Essential Remedies for ChatGPT's Most Recurrent Faults</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/evaluating-the-value-life-q30-anc-hearing-gadgets-analysis/"><u>Evaluating the Value: Life Q30 ANC Hearing Gadgets Analysis</u></a></li>
+<li><a href="https://facebook.techidaily.com/expect-an-uptick-in-crypto-advertising-on-platforms-like-facebook-and-instagram/"><u>Expect an Uptick in Crypto Advertising on Platforms Like Facebook & Instagram</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-seamless-ocean-footage-with-these-7-hacks/"><u>In 2024, Unlocking Seamless Ocean Footage with These 7 Hacks</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/mount-and-blade-ii-bannerlord-resolving-game-crash-issues/"><u>Mount & Blade II: Bannerlord - Resolving Game Crash Issues</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/optimize-collaborative-sessions-zooming-in-on-google-meet-participants-for-2024/"><u>Optimize Collaborative Sessions Zooming in on Google Meet Participants for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/pathfinder-wrath-of-the-righteous-not-loading-up-try-these-fixes-first/"><u>Pathfinder: Wrath of the Righteous Not Loading Up? Try These Fixes First</u></a></li>
+<li><a href="https://fox-making.techidaily.com/top-methods-for-remote-controlling-your-pc-using-an-iphone/"><u>Top Methods for Remote Controlling Your PC Using an iPhone</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/troubleshooting-fall-guys-solutions-for-game-crashes-on-start-up/"><u>Troubleshooting Fall Guys: Solutions for Game Crashes on Start-Up</u></a></li>
 </ul></div>
 

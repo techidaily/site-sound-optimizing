@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved How to Convert Your Vocal Sessions Into Pristine MP3 Files The Best 5 Recorders Reviewed
-date: 2024-11-29T06:59:42.518Z
-updated: 2024-12-06T05:01:09.383Z
+date: 2024-12-11T10:06:34.497Z
+updated: 2024-12-12T01:33:51.784Z
 tags: 
   - audio editing software
   - audio editing
@@ -38,109 +38,10 @@ RecordPad offers extensive recording features for PC users. You can use this rec
 
 ![record pad mp3 sound recorder](https://images.wondershare.com/filmora/article-images/2021/mp3-voice-recorder-1.jpg)
 
-### 2\. Mixcraft 9 Pro Studio
-
-Since Mixcraft 9 Pro Studio is quite user friendly, many musicians start their careers with this tool. A plethora of special effects and advanced features make this tool a must-have. Whether you want to record new sounds or mix pre recorded voices, you can use this tool without much hassle. This MP3 voice recorder offers multiple recording features including sound recording, editing, special effects, and audio burning. The sleek and modern interface will make you feel like a professional sound recording artist. While recording, you get numerous audio filters to enhance sound quality. Features of Mixcraft 9 Pro Studio include:
-
-* Massive audio library
-* MIDI Scoring and editing
-* Real-time editing
-* Advanced mixing tools
-* Melodyne integrated for auto-tuning
-* Wide-ranging instruments and effects
-
-![mixcraft 9 mp3 sound recorder](https://images.wondershare.com/filmora/article-images/2021/mp3-voice-recorder-2.jpg)
-
-### 3\. WavePad
-
-WavePad mp3 audio recorder is an amazing tool for Windows. Besides MP3, you can also export files in AMP, MPC, and WAV formats. This software supports the most-used audio formats. It includes a wide range of audio editing features to pitch shift and slice audio. You can also use advanced features to equalize the audio and cut, copy, and paste audio files. Some excellent features of WavePad are:
-
-* Audio file processing
-* Music effects such as sound amplification
-* Noise reduction
-* 50+ supported audio formats
-* Audio editing in video files
-* Supports VST plug-ins
-
-![wave pad mp3 sound recorder](https://images.wondershare.com/filmora/article-images/2021/mp3-voice-recorder-3.jpg)
-
-### 4\. I-Sound Recorder 7
-
-This is another incredible and highly effective mp3 sound recorder with universal audio and input ripping features. This mp3 voice recorder is available at a reasonable price, especially compared to others. Voice-activated recording features and advanced recording scheduler are some unique features of this software. However, real-time compression adjustment enables you to record high-quality sounds. I-Sound Recorder enables duration selection. This means that you can add a time stamp to stop recording at a specific time. Other than MP3, you can export audio in different formats such as WAV, WMA, and FLAC. Some mind-blowing features of this tool include:
-
-* Hi-resolution audio support
-* Schedule recording
-* Voice-activated recording
-* Default playback recording options
-* Automating naming system
-
-![I sound recorder 7 mp3 sound recorder](https://images.wondershare.com/filmora/article-images/2021/mp3-voice-recorder-4.jpg)
-
-### 5\. VirtualDJ
-
-This is a free mp3 sound recorder tool with an extensive sound library. Many DJs still use this tool for live sessions. The recording options of this tool are pretty simple. This software is compatible with Mac and Windows OS. Since the tool is free to use, many novice recording artists, musicians, and podcasters prefer it when starting out. The interface looks like a traditional DJ console that lets you spin and scratch two audios. Some features of VirtualDJ are:
-
-* Karaoke, video, and audio formats
-* Advanced mixing tools
-* Plug and Play integration
-* Real-time audio separation
-
-![virtualdj mp3 audio recorder](https://images.wondershare.com/filmora/article-images/2021/mp3-voice-recorder-5.jpg)
-
-## How to Record MP3?
-
-The recording process for each tool is different than the other. If this is your first time recording with an mp3 audio recorder, then you should follow these steps to understand how the audio recording process works.
-
-Step 1: Download an MP3 sound recorder from the above list. Install the application on your computer. But, before purchasing the tool, make sure you are using a compatible operating system.
-
-Step 2: Once the installation process completes, you can open the software and start recording.
-
-![free recording software audacity](https://images.wondershare.com/filmora/article-images/2021/mp3-voice-recorder-step-1.jpg)
-
-Step 3: Almost all of the above tools will give you a tour of the application to ensure you know how to use it. You will find a red and round button on the screen that says “Record”.
-
-![record audio with audacity](https://images.wondershare.com/filmora/article-images/2021/mp3-voice-recorder-step-2.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
-Step 4: For advanced recording, make sure you customize noise cancellation, audio gain, echo, and silence level.
-
-Step 5: When setting the tool according to your preference, click on the wheel icon to record. You can stop and pause the recording anytime you want.
-
-![audacity stop recording](https://images.wondershare.com/filmora/article-images/2021/mp3-voice-recorder-step-3.jpg)
-
-Step 6: After recording the voice and sound, you can save the file to the desired folder. Some tools automatically save the file in the storage location so you can easily use it. Others allow you to directly save the recorded file to Dropbox.
-
-## Closing Words
-
-Hopefully, you now have an idea about how to record MP3 on your computer. You can take the above list as a reference and choose a reliable mp3 voice recorder according to your preferences and needs.
-
-You can use [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) if you want to create videos out of recorded audio files. Filmora is a perfect video editing tool that you should consider using for music and video production. The tool enables you to import audio and video files and create a new video for your YouTube video or presentation. Advanced features such as automated scene detection, graphic overlays, and high-quality effects and transitions make this tool an excellent option.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For Win 7 or later (64-bit)
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.12 or later
-
-[Wondershare Filmstock](https://tools.techidaily.com/wondershare/filmora/download/) enables you to download high-quality video clips so you can tell your story effectively. Professional video editors and filmmakers use this platform to download licensed stock videos to save time and expense, proving that it is an ideal option for beginners and pros.
-
-##### Versatile Video Editor - Wondershare Filmora
-
-An easy yet powerful editor
-
-Numerous effects to choose from
-
-Detailed tutorials provided by the official channel
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-![record pad mp3 sound recorder](https://images.wondershare.com/filmora/article-images/2021/mp3-voice-recorder-1.jpg)
-
 ### 2\. Mixcraft 9 Pro Studio
 
 Since Mixcraft 9 Pro Studio is quite user friendly, many musicians start their careers with this tool. A plethora of special effects and advanced features make this tool a must-have. Whether you want to record new sounds or mix pre recorded voices, you can use this tool without much hassle. This MP3 voice recorder offers multiple recording features including sound recording, editing, special effects, and audio burning. The sleek and modern interface will make you feel like a professional sound recording artist. While recording, you get numerous audio filters to enhance sound quality. Features of Mixcraft 9 Pro Studio include:
@@ -166,147 +67,52 @@ WavePad mp3 audio recorder is an amazing tool for Windows. Besides MP3, you can 
 * Supports VST plug-ins
 
 ![wave pad mp3 sound recorder](https://images.wondershare.com/filmora/article-images/2021/mp3-voice-recorder-3.jpg)
-
-### 4\. I-Sound Recorder 7
-
-This is another incredible and highly effective mp3 sound recorder with universal audio and input ripping features. This mp3 voice recorder is available at a reasonable price, especially compared to others. Voice-activated recording features and advanced recording scheduler are some unique features of this software. However, real-time compression adjustment enables you to record high-quality sounds. I-Sound Recorder enables duration selection. This means that you can add a time stamp to stop recording at a specific time. Other than MP3, you can export audio in different formats such as WAV, WMA, and FLAC. Some mind-blowing features of this tool include:
-
-* Hi-resolution audio support
-* Schedule recording
-* Voice-activated recording
-* Default playback recording options
-* Automating naming system
-
-![I sound recorder 7 mp3 sound recorder](https://images.wondershare.com/filmora/article-images/2021/mp3-voice-recorder-4.jpg)
-
-### 5\. VirtualDJ
-
-This is a free mp3 sound recorder tool with an extensive sound library. Many DJs still use this tool for live sessions. The recording options of this tool are pretty simple. This software is compatible with Mac and Windows OS. Since the tool is free to use, many novice recording artists, musicians, and podcasters prefer it when starting out. The interface looks like a traditional DJ console that lets you spin and scratch two audios. Some features of VirtualDJ are:
-
-* Karaoke, video, and audio formats
-* Advanced mixing tools
-* Plug and Play integration
-* Real-time audio separation
-
-![virtualdj mp3 audio recorder](https://images.wondershare.com/filmora/article-images/2021/mp3-voice-recorder-5.jpg)
-
-## How to Record MP3?
-
-The recording process for each tool is different than the other. If this is your first time recording with an mp3 audio recorder, then you should follow these steps to understand how the audio recording process works.
-
-Step 1: Download an MP3 sound recorder from the above list. Install the application on your computer. But, before purchasing the tool, make sure you are using a compatible operating system.
-
-Step 2: Once the installation process completes, you can open the software and start recording.
-
-![free recording software audacity](https://images.wondershare.com/filmora/article-images/2021/mp3-voice-recorder-step-1.jpg)
-
-Step 3: Almost all of the above tools will give you a tour of the application to ensure you know how to use it. You will find a red and round button on the screen that says “Record”.
-
-![record audio with audacity](https://images.wondershare.com/filmora/article-images/2021/mp3-voice-recorder-step-2.jpg)
-
-Step 4: For advanced recording, make sure you customize noise cancellation, audio gain, echo, and silence level.
-
-Step 5: When setting the tool according to your preference, click on the wheel icon to record. You can stop and pause the recording anytime you want.
-
-![audacity stop recording](https://images.wondershare.com/filmora/article-images/2021/mp3-voice-recorder-step-3.jpg)
-
-Step 6: After recording the voice and sound, you can save the file to the desired folder. Some tools automatically save the file in the storage location so you can easily use it. Others allow you to directly save the recorded file to Dropbox.
-
-## Closing Words
-
-Hopefully, you now have an idea about how to record MP3 on your computer. You can take the above list as a reference and choose a reliable mp3 voice recorder according to your preferences and needs.
-
-You can use [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) if you want to create videos out of recorded audio files. Filmora is a perfect video editing tool that you should consider using for music and video production. The tool enables you to import audio and video files and create a new video for your YouTube video or presentation. Advanced features such as automated scene detection, graphic overlays, and high-quality effects and transitions make this tool an excellent option.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For Win 7 or later (64-bit)
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.12 or later
-
-[Wondershare Filmstock](https://tools.techidaily.com/wondershare/filmora/download/) enables you to download high-quality video clips so you can tell your story effectively. Professional video editors and filmmakers use this platform to download licensed stock videos to save time and expense, proving that it is an ideal option for beginners and pros.
-
-##### Versatile Video Editor - Wondershare Filmora
-
-An easy yet powerful editor
-
-Numerous effects to choose from
-
-Detailed tutorials provided by the official channel
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-![record pad mp3 sound recorder](https://images.wondershare.com/filmora/article-images/2021/mp3-voice-recorder-1.jpg)
-
-### 2\. Mixcraft 9 Pro Studio
-
-Since Mixcraft 9 Pro Studio is quite user friendly, many musicians start their careers with this tool. A plethora of special effects and advanced features make this tool a must-have. Whether you want to record new sounds or mix pre recorded voices, you can use this tool without much hassle. This MP3 voice recorder offers multiple recording features including sound recording, editing, special effects, and audio burning. The sleek and modern interface will make you feel like a professional sound recording artist. While recording, you get numerous audio filters to enhance sound quality. Features of Mixcraft 9 Pro Studio include:
-
-* Massive audio library
-* MIDI Scoring and editing
-* Real-time editing
-* Advanced mixing tools
-* Melodyne integrated for auto-tuning
-* Wide-ranging instruments and effects
-
-![mixcraft 9 mp3 sound recorder](https://images.wondershare.com/filmora/article-images/2021/mp3-voice-recorder-2.jpg)
-
-### 3\. WavePad
-
-WavePad mp3 audio recorder is an amazing tool for Windows. Besides MP3, you can also export files in AMP, MPC, and WAV formats. This software supports the most-used audio formats. It includes a wide range of audio editing features to pitch shift and slice audio. You can also use advanced features to equalize the audio and cut, copy, and paste audio files. Some excellent features of WavePad are:
-
-* Audio file processing
-* Music effects such as sound amplification
-* Noise reduction
-* 50+ supported audio formats
-* Audio editing in video files
-* Supports VST plug-ins
-
-![wave pad mp3 sound recorder](https://images.wondershare.com/filmora/article-images/2021/mp3-voice-recorder-3.jpg)
-
-### 4\. I-Sound Recorder 7
-
-This is another incredible and highly effective mp3 sound recorder with universal audio and input ripping features. This mp3 voice recorder is available at a reasonable price, especially compared to others. Voice-activated recording features and advanced recording scheduler are some unique features of this software. However, real-time compression adjustment enables you to record high-quality sounds. I-Sound Recorder enables duration selection. This means that you can add a time stamp to stop recording at a specific time. Other than MP3, you can export audio in different formats such as WAV, WMA, and FLAC. Some mind-blowing features of this tool include:
-
-* Hi-resolution audio support
-* Schedule recording
-* Voice-activated recording
-* Default playback recording options
-* Automating naming system
-
-![I sound recorder 7 mp3 sound recorder](https://images.wondershare.com/filmora/article-images/2021/mp3-voice-recorder-4.jpg)
-
-### 5\. VirtualDJ
-
-This is a free mp3 sound recorder tool with an extensive sound library. Many DJs still use this tool for live sessions. The recording options of this tool are pretty simple. This software is compatible with Mac and Windows OS. Since the tool is free to use, many novice recording artists, musicians, and podcasters prefer it when starting out. The interface looks like a traditional DJ console that lets you spin and scratch two audios. Some features of VirtualDJ are:
-
-* Karaoke, video, and audio formats
-* Advanced mixing tools
-* Plug and Play integration
-* Real-time audio separation
-
-![virtualdj mp3 audio recorder](https://images.wondershare.com/filmora/article-images/2021/mp3-voice-recorder-5.jpg)
-
-## How to Record MP3?
-
-The recording process for each tool is different than the other. If this is your first time recording with an mp3 audio recorder, then you should follow these steps to understand how the audio recording process works.
-
-Step 1: Download an MP3 sound recorder from the above list. Install the application on your computer. But, before purchasing the tool, make sure you are using a compatible operating system.
-
-Step 2: Once the installation process completes, you can open the software and start recording.
-
-![free recording software audacity](https://images.wondershare.com/filmora/article-images/2021/mp3-voice-recorder-step-1.jpg)
-
-Step 3: Almost all of the above tools will give you a tour of the application to ensure you know how to use it. You will find a red and round button on the screen that says “Record”.
-
-![record audio with audacity](https://images.wondershare.com/filmora/article-images/2021/mp3-voice-recorder-step-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
+### 4\. I-Sound Recorder 7
+
+This is another incredible and highly effective mp3 sound recorder with universal audio and input ripping features. This mp3 voice recorder is available at a reasonable price, especially compared to others. Voice-activated recording features and advanced recording scheduler are some unique features of this software. However, real-time compression adjustment enables you to record high-quality sounds. I-Sound Recorder enables duration selection. This means that you can add a time stamp to stop recording at a specific time. Other than MP3, you can export audio in different formats such as WAV, WMA, and FLAC. Some mind-blowing features of this tool include:
+
+* Hi-resolution audio support
+* Schedule recording
+* Voice-activated recording
+* Default playback recording options
+* Automating naming system
+
+![I sound recorder 7 mp3 sound recorder](https://images.wondershare.com/filmora/article-images/2021/mp3-voice-recorder-4.jpg)
+
+### 5\. VirtualDJ
+
+This is a free mp3 sound recorder tool with an extensive sound library. Many DJs still use this tool for live sessions. The recording options of this tool are pretty simple. This software is compatible with Mac and Windows OS. Since the tool is free to use, many novice recording artists, musicians, and podcasters prefer it when starting out. The interface looks like a traditional DJ console that lets you spin and scratch two audios. Some features of VirtualDJ are:
+
+* Karaoke, video, and audio formats
+* Advanced mixing tools
+* Plug and Play integration
+* Real-time audio separation
+
+![virtualdj mp3 audio recorder](https://images.wondershare.com/filmora/article-images/2021/mp3-voice-recorder-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## How to Record MP3?
+
+The recording process for each tool is different than the other. If this is your first time recording with an mp3 audio recorder, then you should follow these steps to understand how the audio recording process works.
+
+Step 1: Download an MP3 sound recorder from the above list. Install the application on your computer. But, before purchasing the tool, make sure you are using a compatible operating system.
+
+Step 2: Once the installation process completes, you can open the software and start recording.
+
+![free recording software audacity](https://images.wondershare.com/filmora/article-images/2021/mp3-voice-recorder-step-1.jpg)
+
+Step 3: Almost all of the above tools will give you a tour of the application to ensure you know how to use it. You will find a red and round button on the screen that says “Record”.
+
+![record audio with audacity](https://images.wondershare.com/filmora/article-images/2021/mp3-voice-recorder-step-2.jpg)
+
 Step 4: For advanced recording, make sure you customize noise cancellation, audio gain, echo, and silence level.
 
 Step 5: When setting the tool according to your preference, click on the wheel icon to record. You can stop and pause the recording anytime you want.
@@ -314,6 +120,224 @@ Step 5: When setting the tool according to your preference, click on the wheel i
 ![audacity stop recording](https://images.wondershare.com/filmora/article-images/2021/mp3-voice-recorder-step-3.jpg)
 
 Step 6: After recording the voice and sound, you can save the file to the desired folder. Some tools automatically save the file in the storage location so you can easily use it. Others allow you to directly save the recorded file to Dropbox.
+
+## Closing Words
+
+Hopefully, you now have an idea about how to record MP3 on your computer. You can take the above list as a reference and choose a reliable mp3 voice recorder according to your preferences and needs.
+
+You can use [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) if you want to create videos out of recorded audio files. Filmora is a perfect video editing tool that you should consider using for music and video production. The tool enables you to import audio and video files and create a new video for your YouTube video or presentation. Advanced features such as automated scene detection, graphic overlays, and high-quality effects and transitions make this tool an excellent option.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For Win 7 or later (64-bit)
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+[Wondershare Filmstock](https://tools.techidaily.com/wondershare/filmora/download/) enables you to download high-quality video clips so you can tell your story effectively. Professional video editors and filmmakers use this platform to download licensed stock videos to save time and expense, proving that it is an ideal option for beginners and pros.
+
+##### Versatile Video Editor - Wondershare Filmora
+
+An easy yet powerful editor
+
+Numerous effects to choose from
+
+Detailed tutorials provided by the official channel
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+![record pad mp3 sound recorder](https://images.wondershare.com/filmora/article-images/2021/mp3-voice-recorder-1.jpg)
+
+### 2\. Mixcraft 9 Pro Studio
+
+Since Mixcraft 9 Pro Studio is quite user friendly, many musicians start their careers with this tool. A plethora of special effects and advanced features make this tool a must-have. Whether you want to record new sounds or mix pre recorded voices, you can use this tool without much hassle. This MP3 voice recorder offers multiple recording features including sound recording, editing, special effects, and audio burning. The sleek and modern interface will make you feel like a professional sound recording artist. While recording, you get numerous audio filters to enhance sound quality. Features of Mixcraft 9 Pro Studio include:
+
+* Massive audio library
+* MIDI Scoring and editing
+* Real-time editing
+* Advanced mixing tools
+* Melodyne integrated for auto-tuning
+* Wide-ranging instruments and effects
+
+![mixcraft 9 mp3 sound recorder](https://images.wondershare.com/filmora/article-images/2021/mp3-voice-recorder-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+### 3\. WavePad
+
+WavePad mp3 audio recorder is an amazing tool for Windows. Besides MP3, you can also export files in AMP, MPC, and WAV formats. This software supports the most-used audio formats. It includes a wide range of audio editing features to pitch shift and slice audio. You can also use advanced features to equalize the audio and cut, copy, and paste audio files. Some excellent features of WavePad are:
+
+* Audio file processing
+* Music effects such as sound amplification
+* Noise reduction
+* 50+ supported audio formats
+* Audio editing in video files
+* Supports VST plug-ins
+
+![wave pad mp3 sound recorder](https://images.wondershare.com/filmora/article-images/2021/mp3-voice-recorder-3.jpg)
+
+### 4\. I-Sound Recorder 7
+
+This is another incredible and highly effective mp3 sound recorder with universal audio and input ripping features. This mp3 voice recorder is available at a reasonable price, especially compared to others. Voice-activated recording features and advanced recording scheduler are some unique features of this software. However, real-time compression adjustment enables you to record high-quality sounds. I-Sound Recorder enables duration selection. This means that you can add a time stamp to stop recording at a specific time. Other than MP3, you can export audio in different formats such as WAV, WMA, and FLAC. Some mind-blowing features of this tool include:
+
+* Hi-resolution audio support
+* Schedule recording
+* Voice-activated recording
+* Default playback recording options
+* Automating naming system
+
+![I sound recorder 7 mp3 sound recorder](https://images.wondershare.com/filmora/article-images/2021/mp3-voice-recorder-4.jpg)
+
+### 5\. VirtualDJ
+
+This is a free mp3 sound recorder tool with an extensive sound library. Many DJs still use this tool for live sessions. The recording options of this tool are pretty simple. This software is compatible with Mac and Windows OS. Since the tool is free to use, many novice recording artists, musicians, and podcasters prefer it when starting out. The interface looks like a traditional DJ console that lets you spin and scratch two audios. Some features of VirtualDJ are:
+
+* Karaoke, video, and audio formats
+* Advanced mixing tools
+* Plug and Play integration
+* Real-time audio separation
+
+![virtualdj mp3 audio recorder](https://images.wondershare.com/filmora/article-images/2021/mp3-voice-recorder-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## How to Record MP3?
+
+The recording process for each tool is different than the other. If this is your first time recording with an mp3 audio recorder, then you should follow these steps to understand how the audio recording process works.
+
+Step 1: Download an MP3 sound recorder from the above list. Install the application on your computer. But, before purchasing the tool, make sure you are using a compatible operating system.
+
+Step 2: Once the installation process completes, you can open the software and start recording.
+
+![free recording software audacity](https://images.wondershare.com/filmora/article-images/2021/mp3-voice-recorder-step-1.jpg)
+
+Step 3: Almost all of the above tools will give you a tour of the application to ensure you know how to use it. You will find a red and round button on the screen that says “Record”.
+
+![record audio with audacity](https://images.wondershare.com/filmora/article-images/2021/mp3-voice-recorder-step-2.jpg)
+
+Step 4: For advanced recording, make sure you customize noise cancellation, audio gain, echo, and silence level.
+
+Step 5: When setting the tool according to your preference, click on the wheel icon to record. You can stop and pause the recording anytime you want.
+
+![audacity stop recording](https://images.wondershare.com/filmora/article-images/2021/mp3-voice-recorder-step-3.jpg)
+
+Step 6: After recording the voice and sound, you can save the file to the desired folder. Some tools automatically save the file in the storage location so you can easily use it. Others allow you to directly save the recorded file to Dropbox.
+
+## Closing Words
+
+Hopefully, you now have an idea about how to record MP3 on your computer. You can take the above list as a reference and choose a reliable mp3 voice recorder according to your preferences and needs.
+
+You can use [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) if you want to create videos out of recorded audio files. Filmora is a perfect video editing tool that you should consider using for music and video production. The tool enables you to import audio and video files and create a new video for your YouTube video or presentation. Advanced features such as automated scene detection, graphic overlays, and high-quality effects and transitions make this tool an excellent option.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For Win 7 or later (64-bit)
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+[Wondershare Filmstock](https://tools.techidaily.com/wondershare/filmora/download/) enables you to download high-quality video clips so you can tell your story effectively. Professional video editors and filmmakers use this platform to download licensed stock videos to save time and expense, proving that it is an ideal option for beginners and pros.
+
+##### Versatile Video Editor - Wondershare Filmora
+
+An easy yet powerful editor
+
+Numerous effects to choose from
+
+Detailed tutorials provided by the official channel
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+![record pad mp3 sound recorder](https://images.wondershare.com/filmora/article-images/2021/mp3-voice-recorder-1.jpg)
+
+### 2\. Mixcraft 9 Pro Studio
+
+Since Mixcraft 9 Pro Studio is quite user friendly, many musicians start their careers with this tool. A plethora of special effects and advanced features make this tool a must-have. Whether you want to record new sounds or mix pre recorded voices, you can use this tool without much hassle. This MP3 voice recorder offers multiple recording features including sound recording, editing, special effects, and audio burning. The sleek and modern interface will make you feel like a professional sound recording artist. While recording, you get numerous audio filters to enhance sound quality. Features of Mixcraft 9 Pro Studio include:
+
+* Massive audio library
+* MIDI Scoring and editing
+* Real-time editing
+* Advanced mixing tools
+* Melodyne integrated for auto-tuning
+* Wide-ranging instruments and effects
+
+![mixcraft 9 mp3 sound recorder](https://images.wondershare.com/filmora/article-images/2021/mp3-voice-recorder-2.jpg)
+
+### 3\. WavePad
+
+WavePad mp3 audio recorder is an amazing tool for Windows. Besides MP3, you can also export files in AMP, MPC, and WAV formats. This software supports the most-used audio formats. It includes a wide range of audio editing features to pitch shift and slice audio. You can also use advanced features to equalize the audio and cut, copy, and paste audio files. Some excellent features of WavePad are:
+
+* Audio file processing
+* Music effects such as sound amplification
+* Noise reduction
+* 50+ supported audio formats
+* Audio editing in video files
+* Supports VST plug-ins
+
+![wave pad mp3 sound recorder](https://images.wondershare.com/filmora/article-images/2021/mp3-voice-recorder-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+### 4\. I-Sound Recorder 7
+
+This is another incredible and highly effective mp3 sound recorder with universal audio and input ripping features. This mp3 voice recorder is available at a reasonable price, especially compared to others. Voice-activated recording features and advanced recording scheduler are some unique features of this software. However, real-time compression adjustment enables you to record high-quality sounds. I-Sound Recorder enables duration selection. This means that you can add a time stamp to stop recording at a specific time. Other than MP3, you can export audio in different formats such as WAV, WMA, and FLAC. Some mind-blowing features of this tool include:
+
+* Hi-resolution audio support
+* Schedule recording
+* Voice-activated recording
+* Default playback recording options
+* Automating naming system
+
+![I sound recorder 7 mp3 sound recorder](https://images.wondershare.com/filmora/article-images/2021/mp3-voice-recorder-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+### 5\. VirtualDJ
+
+This is a free mp3 sound recorder tool with an extensive sound library. Many DJs still use this tool for live sessions. The recording options of this tool are pretty simple. This software is compatible with Mac and Windows OS. Since the tool is free to use, many novice recording artists, musicians, and podcasters prefer it when starting out. The interface looks like a traditional DJ console that lets you spin and scratch two audios. Some features of VirtualDJ are:
+
+* Karaoke, video, and audio formats
+* Advanced mixing tools
+* Plug and Play integration
+* Real-time audio separation
+
+![virtualdj mp3 audio recorder](https://images.wondershare.com/filmora/article-images/2021/mp3-voice-recorder-5.jpg)
+
+## How to Record MP3?
+
+The recording process for each tool is different than the other. If this is your first time recording with an mp3 audio recorder, then you should follow these steps to understand how the audio recording process works.
+
+Step 1: Download an MP3 sound recorder from the above list. Install the application on your computer. But, before purchasing the tool, make sure you are using a compatible operating system.
+
+Step 2: Once the installation process completes, you can open the software and start recording.
+
+![free recording software audacity](https://images.wondershare.com/filmora/article-images/2021/mp3-voice-recorder-step-1.jpg)
+
+Step 3: Almost all of the above tools will give you a tour of the application to ensure you know how to use it. You will find a red and round button on the screen that says “Record”.
+
+![record audio with audacity](https://images.wondershare.com/filmora/article-images/2021/mp3-voice-recorder-step-2.jpg)
+
+Step 4: For advanced recording, make sure you customize noise cancellation, audio gain, echo, and silence level.
+
+Step 5: When setting the tool according to your preference, click on the wheel icon to record. You can stop and pause the recording anytime you want.
+
+![audacity stop recording](https://images.wondershare.com/filmora/article-images/2021/mp3-voice-recorder-step-3.jpg)
+
+Step 6: After recording the voice and sound, you can save the file to the desired folder. Some tools automatically save the file in the storage location so you can easily use it. Others allow you to directly save the recorded file to Dropbox.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Closing Words
 
@@ -382,7 +406,7 @@ This is another incredible and highly effective mp3 sound recorder with universa
 ![I sound recorder 7 mp3 sound recorder](https://images.wondershare.com/filmora/article-images/2021/mp3-voice-recorder-4.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. VirtualDJ
@@ -534,10 +558,6 @@ Step 3: If the photo size doesn’t match the video size, you can change the rat
 
 ![set image size classical background](https://images.wondershare.com/filmora/article-images/2022/classical-background-5.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 4: Set the ratio for all videos and images.
 
 Step 5: Now open the titles tab and search weddings. You can choose from a myriad of wedding-style templates on Filmora.
@@ -613,7 +633,7 @@ Step 7: Double-click on the first title and click on the advanced buttons. This 
 ![edit title tags classical background](https://images.wondershare.com/filmora/article-images/2022/classical-background-7.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 8: Make the same changes for the second title tag as well.
@@ -661,10 +681,6 @@ Step 1: Open Wondershare Filmora, create a new project and import your files to 
 Step 2: Now drag video clips and photos on the timeline and arrange the sequences and clips.
 
 ![arrange videos on timeline classical background](https://images.wondershare.com/filmora/article-images/2022/classical-background-4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 3: If the photo size doesn’t match the video size, you can change the ratio in the crop section. This changes the aspect ratio of the video.
 
@@ -728,10 +744,6 @@ Step 2: Now drag video clips and photos on the timeline and arrange the sequence
 
 ![arrange videos on timeline classical background](https://images.wondershare.com/filmora/article-images/2022/classical-background-4.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 3: If the photo size doesn’t match the video size, you can change the ratio in the crop section. This changes the aspect ratio of the video.
 
 ![set image size classical background](https://images.wondershare.com/filmora/article-images/2022/classical-background-5.jpg)
@@ -760,17 +772,9 @@ Step 12: Move to the transition section add transition presets and search for th
 
 ![add transitions classical background](https://images.wondershare.com/filmora/article-images/2022/classical-background-9.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 13: Your wedding invitation is almost ready. All you need to add is classical background music. For that, you can search the music from the audio tab or choose from the above-mentioned options. Also, you can import music from your computer to use in the video
 
 Step 14: You can export the video from the tool and send your friends and family on Whastapp or post it on Facebook.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Closing Words
 
@@ -797,10 +801,6 @@ For macOS 10.12 or later
 Do you create video content and upload comedy skits and vlogs on social media? Do you want to download comedy background music for your website? If your answer is yes, then you are at the right place. In this post, we will share some platforms to download royalty-free comedy background music and use it in your videos. Royalty-free comedy background music is safe to use. Whether you are a musician or a content creator looking for comedy background music, you can use them without worrying about the copy-right strike.
 
 ![a person creating funny video comedy background music](https://images.wondershare.com/filmora/article-images/2022/comedy-background-music-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5 Recommended Sites to Download Royalty Free Comedy Background Music
 
@@ -902,16 +902,22 @@ For macOS 10.12 or later
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-15-diy-music-production-tutorial-videos-for-home-studios/"><u>[New] 2024 Approved 15 DIY Music Production Tutorial Videos for Home Studios</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-unveiling-the-champion-of-open-source-media-playback-vlc-vs-mpc/"><u>[New] 2024 Approved Unveiling the Champion of Open-Source Media Playback (VLC Vs. MPC)</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-subscribe-bonanza-thousands-acquired-for-just-5/"><u>[Updated] 2024 Approved Subscribe Bonanza Thousands Acquired for Just $5</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-unlocking-vidmas-secrets-to-superior-screen-recording/"><u>[Updated] In 2024, Unlocking Vidma’s Secrets to Superior Screen Recording</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/elevate-your-online-presence-with-manycam-leading-live-video-software-and-remote-webcam-technology/"><u>Elevate Your Online Presence with ManyCam: Leading Live Video Software and Remote Webcam Technology</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/hear-it-here-first-effective-techniques-for-capturing-and-storing-computer-based-audio-files-in-episodic-format-for-2024/"><u>Hear It Here First Effective Techniques for Capturing and Storing Computer-Based Audio Files in Episodic Format for 2024</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Apple iPhone 6s Plus? | Dr.fone</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/in-2024-sonic-imagery-graphically-representing-audio-and-crafting-animation-masterpieces-in-adobe-after-effects/"><u>In 2024, Sonic Imagery Graphically Representing Audio & Crafting Animation Masterpieces in Adobe After Effects</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-unlock-screen-saving-potential-on-android-devices/"><u>In 2024, Unlock Screen Saving Potential on Android Devices</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-best-free-online-montage-track-collections/"><u>New 2024 Approved Best Free Online Montage Track Collections</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-perfect-pitch-with-autotune-installation-tutorial-for-audacity-enthusiasts/"><u>New 2024 Approved Perfect Pitch with Autotune Installation Tutorial for Audacity Enthusiasts</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-keep-your-snaps-alive-strategies-for-longevity/"><u>[New] Keep Your Snaps Alive – Strategies for Longevity</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-streamline-a-barrage-of-tiktok-drafts-with-editing-skills/"><u>[New] Streamline a Barrage of TikTok Drafts with Editing Skills</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-the-dusk-dance-pre-pro-fades/"><u>[Updated] In 2024, The Dusk Dance - Pre-Pro Fades</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/2024-approved-leading-the-pack-the-top-10-sites-offering-a-rich-array-of-montage-based-soundscapes/"><u>2024 Approved Leading the Pack The Top 10 Sites Offering a Rich Array of Montage-Based Soundscapes</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/5-popular-tools-to-help-you-distort-audio-for-2024/"><u>5 Popular Tools to Help You Distort Audio for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-personalized-mac-focus-filters-in-monterey-strategies-for-minimizing-interruptions/"><u>Crafting Personalized Mac Focus Filters in Monterey: Strategies for Minimizing Interruptions</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/in-2024-navigating-through-music-production-software-landscape-can-magix-samplitude-be-considered-supreme/"><u>In 2024, Navigating Through Music Production Software Landscape Can MAGIX Samplitude Be Considered Supreme?</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-ultimate-guide-to-comparing-leading-4k-youtube-to-mp3-extractors/"><u>In 2024, Ultimate Guide to Comparing Leading 4K YouTube to MP3 Extractors</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-the-ultimate-guide-to-pairing-airpods-with-your-desktop-os/"><u>New 2024 Approved The Ultimate Guide to Pairing AirPods with Your Desktop OS</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-how-to-add-audio-in-after-effects/"><u>New How to Add Audio in After Effects</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-perfect-harmony-unveiling-the-best-5-mixers-for-mac-enthusiasts/"><u>New In 2024, Perfect Harmony Unveiling the Best 5 Mixers for Mac Enthusiasts</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-sync-your-sound-step-by-step-audio-editing-in-avidemux-for-the-modern-producer/"><u>New Sync Your Sound Step-by-Step Audio Editing in Avidemux for the Modern Producer</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-aerial-editors-handbook-mastering-the-art-of-drone-video-editing-for-2024/"><u>The Aerial Editor's Handbook Mastering the Art of Drone Video Editing for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/top-5-vivo-y56-5g-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Vivo Y56 5G Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-tips-keep-your-fifa-19-game-running-smoothly-on-desktop-systems/"><u>Troubleshooting Tips: Keep Your FIFA 19 Game Running Smoothly on Desktop Systems</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-the-art-of-concealing-the-boundaries-between-sounds-with-fades/"><u>Updated In 2024, The Art of Concealing the Boundaries Between Sounds with Fades</u></a></li>
+<li><a href="https://extra-information.techidaily.com/visual-harmony-ios-and-macos-photoviewer-blend/"><u>Visual Harmony IOS & macOS Photoviewer Blend</u></a></li>
 </ul></div>
 
