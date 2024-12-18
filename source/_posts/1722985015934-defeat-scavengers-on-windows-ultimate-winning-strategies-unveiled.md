@@ -1,7 +1,7 @@
 ---
 title: "Defeat Scavengers on Windows: Ultimate Winning Strategies Unveiled!"
-date: 2024-12-09T18:06:19.660Z
-updated: 2024-12-12T03:33:04.145Z
+date: 2024-12-15T19:20:39.815Z
+updated: 2024-12-18T21:39:59.158Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/14ed548cb6ba934243f074a1f0d25040231f7c304
 Recently, we’ve seen many players reporting that**Dirt 5 keeps crashing** on their PC. If you’re running into the exact same issue, don’t worry. Although it’s quite frustrating, the good news is that this issue can be fixed easily!
 
  Here we’ve gathered the latest fixes that helped other players resolve the Dirt 5 crashing issue. Whether Dirt 5 crashes on startup or crashes in the middle of the game, you can find a fix to try in this article.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -50,16 +54,12 @@ The outdated or broken graphics driver often crashes the game.
 3. Click the **Update** button next to a device to automatically download the correct version of their driver, then you can manually install the driver (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 4. Restart your PC after you finished updating your graphics driver.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  See if the latest graphics driver stops the Dirt 5 from crashing. If not, don’t worry. Try the next fix, below.
 
@@ -73,10 +73,6 @@ The outdated or broken graphics driver often crashes the game.
 
 ![LOCAL FILES>VERIFY INTEGRITY OF GAME CACHE...](https://images.drivereasy.com/wp-content/uploads/2019/04/image-120.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  It may take some time to finish verifying the game files. Launch the game after the verifying process completed to see if this fix works. If not, try the next fix, below.
 
 ## Fix 3: Install the latest game patch
@@ -87,6 +83,10 @@ The outdated or broken graphics driver often crashes the game.
 
  Run Dirt 5 again to check whether the game crash issue has been resolved. If it didn’t work, or there was no new game patch available, move on to next fix, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 4: Disable Steam Overlay
 
  It seems that the Steam Overlay doesn’t pair well with Ditrt. So just try disabling Steam Overlay for Dirt 5 to see if the game crashes again. Here is how to do it:
@@ -95,16 +95,16 @@ The outdated or broken graphics driver often crashes the game.
 ![Steam->properties](https://images.drivereasy.com/wp-content/uploads/2019/04/image-122.png)
 2. Uncheck**Enable Steam Overlay while in-game** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Disable Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-Steam-Overlay.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Launch Dirt 5 to see if the game crashes. If the issue persists, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 5: Set launch options on Steam
@@ -150,22 +150,21 @@ The outdated or broken graphics driver often crashes the game.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-social-syncing-strategy-post-videos-between-platforms/"><u>[New] 2024 Approved Social Syncing Strategy Post Videos Between Platforms</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-experts-guide-to-recording-mp4-videos/"><u>[Updated] In 2024, Expert's Guide to Recording MP4 Videos</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-revolutionize-your-posts-best-igtv-edits-unveiled/"><u>[Updated] In 2024, Revolutionize Your Posts Best IGTV Edits Unveiled</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-charismatic-charm-of-moving-text-on-screen/"><u>2024 Approved Charismatic Charm of Moving Text on Screen</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/2024-approved-cutting-edge-techniques-for-incorporating-smooth-audio-reduction/"><u>2024 Approved Cutting Edge Techniques for Incorporating Smooth Audio Reduction</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-satiating-the-social-hangry-with-hilarious-9gag-memes/"><u>2024 Approved Satiating the Social Hangry With Hilarious 9GAG Memes</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/5-prime-destinations-for-finding-and-downloading-legal-funny-tunes-online/"><u>5 Prime Destinations for Finding and Downloading Legal Funny Tunes Online</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discover-the-future-of-navigation-how-geospatial-ar-enhances-google-maps-for-revolutionary-city-viewing-zdnet/"><u>Discover the Future of Navigation: How Geospatial AR Enhances Google Maps for Revolutionary City Viewing | ZDNET</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/discovering-authentic-canine-vocalizations-in-sound-libraries-for-2024/"><u>Discovering Authentic Canine Vocalizations in Sound Libraries for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/expert-insights-on-the-latest-apple-iphone-a-complete-review-of-the-iphone-13/"><u>Expert Insights on the Latest Apple iPhone - A Complete Review of the iPhone 13</u></a></li>
-<li><a href="https://win-info.techidaily.com/how-to-conduct-a-detailed-windows-defender-analysis-on-specific-files-expert-advice-by-yl-software-solutions/"><u>How to Conduct a Detailed Windows Defender Analysis on Specific Files - Expert Advice by YL Software Solutions</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/maximize-your-gaming-performance-with-a-steep-discount-save-600-on-asus-rog-strix-g15-exclusive-offer-from-zdnet/"><u>Maximize Your Gaming Performance with a Steep Discount: Save $600 on ASUS ROG STRIX G15 - Exclusive Offer From ZDNet</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-5-must-have-linux-audio-capture-utilities-and-advanced-strategies-for-high-quality-recordings/"><u>New 2024 Approved 5 Must-Have Linux Audio Capture Utilities and Advanced Strategies for High-Quality Recordings</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-swapping-sounds-in-media-files-an-in-depth-tutorial-for-seamless-edits/"><u>New 2024 Approved Swapping Sounds in Media Files An In-Depth Tutorial for Seamless Edits</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-silencing-unwanted-noise-in-your-imovie-projects-on-macos-systems-for-2024/"><u>New Silencing Unwanted Noise in Your iMovie Projects on macOS Systems for 2024</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-audacity-setup-guide-for-ubuntu-installs-uninstalls-and-troubleshooting-tips/"><u>Updated Audacity Setup Guide for Ubuntu Installs, Uninstalls & Troubleshooting Tips</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-streamlining-silence-simplified-guide-to-extracting-background-noise-from-music-tracks-using-audacity/"><u>Updated Streamlining Silence Simplified Guide to Extracting Background Noise From Music Tracks Using Audacity</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-affordable-pc-obs-tuning-guide/"><u>2024 Approved Affordable PC OBS Tuning Guide</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-best-audio-modification-methods-for-youtube-stars/"><u>2024 Approved Best Audio Modification Methods for YouTube Stars</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-essential-tips-for-achieving-facebooks-trusted-marker/"><u>2024 Approved Essential Tips for Achieving Facebook's Trusted Marker</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/elevating-strategies-at-tiaa-the-power-of-process-intelligence-in-refining-judgments/"><u>Elevating Strategies at TIAA: The Power of Process Intelligence in Refining Judgments</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-intel-z270-gamer-motherboards-driver-bundle-now/"><u>Get Your Intel Z270 Gamer Motherboard's Driver Bundle Now!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-out-of-recovery-on-iphone-14-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of Recovery on iPhone 14 Pro? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-honor-x7b-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Honor X7b</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-6-methods-to-protect-yourself-from-location-tracking-on-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>In 2024, 6 Methods to Protect Yourself from Location Tracking on Apple iPhone XS Max | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-vivo-y27s-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Vivo Y27s Phone that is Locked?</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-chart-wolfs-sonorous-call-pattern/"><u>New In 2024, Chart Wolfs Sonorous Call Pattern</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/removing-background-noise-extracting-silent-videos/"><u>Removing Background Noise Extracting Silent Videos</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-advanced-audio-editing-implementing-real-time-ducking-in-windows-version-of-adobe-premiere-pro/"><u>Updated Advanced Audio Editing Implementing Real-Time Ducking in Windows Version of Adobe Premiere Pro</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-10-best-audio-editor-windows-mac/"><u>Updated In 2024, 10 Best Audio Editor Windows, Mac</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-cutting-edge-software-choices-for-distorting-and-enhancing-audio-quality/"><u>Updated In 2024, Cutting-Edge Software Choices for Distorting and Enhancing Audio Quality</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-what-you-should-know-about-pexelscom/"><u>Updated In 2024, What You Should Know About Pexels.com</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-the-art-of-pristine-audio-overcoming-hiss-and-harsh-sounds/"><u>Updated The Art of Pristine Audio Overcoming Hiss and Harsh Sounds</u></a></li>
 </ul></div>
 
