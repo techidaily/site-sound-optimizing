@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Issue: How to Get Your Corsair HS35 Microphone Functional on Windows"
-date: 2024-12-11T20:51:51.842Z
-updated: 2024-12-18T19:40:17.664Z
+date: 2024-12-23T07:17:57.412Z
+updated: 2024-12-27T00:07:21.211Z
 tags:
   - win11
   - win10
@@ -48,10 +48,6 @@ When you’re using a microphone such as MPOW attached to your computer, you may
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Update your audio driver
 
  Most of the audio or sound issues are driver related. If you’re using an audio driver which is outdated or corrupted, your headset mic would not be working properly and the sound coming from your headset could be crackling, popping or static. In this situation, updating your audio driver becomes quite crucial as this may fix your issues immediately.
@@ -66,20 +62,24 @@ When you’re using a microphone such as MPOW attached to your computer, you may
 
 ![update network adapter driver automatically with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/11/Scan-now-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/update-MPOW-driver-1200x901.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating your drivers, restart your computer and then try to use the microphone to check if it’s working now. If not, try the next fix below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Set your microphone as the default device
 
@@ -88,6 +88,10 @@ When you’re using a microphone such as MPOW attached to your computer, you may
  1) At the bottom-right corner of your taskbar, right-click your speaker icon and select **Open Sound settings** .
 
 ![open sound settings](https://images.drivereasy.com/wp-content/uploads/2021/04/open-sound-settings-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Scroll down to the section of **Related Settings** and click **Sound Control Panel** .  
   
@@ -98,7 +102,7 @@ When you’re using a microphone such as MPOW attached to your computer, you may
 ![set MPOW microphone as the default device](https://images.drivereasy.com/wp-content/uploads/2021/04/image.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After you’ve saved the changes, use your microphone to check if your problems have been solved.
@@ -119,19 +123,23 @@ When you’re using a microphone such as MPOW attached to your computer, you may
   
 ![turn on app permissions on your microphone](https://images.drivereasy.com/wp-content/uploads/2021/02/turn-on-app-permissions-for-your-micropho0ne.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Under the **Allow apps to access your microphone**  section, make sure it’s turned **On** .  
   
 ![allow apps to access your microphone](https://images.drivereasy.com/wp-content/uploads/2021/02/allow-apps-to-access-your-microphone.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Once you’ve allowed microphone access to your apps, you can change the settings for each app. Simply head to the **Choose which Microsoft apps can access your microphone** , and turn on apps you want to use with it. For desktop apps, make sure that **Allow desktop apps to access your microphone**  is turned **On** .
 
  After you’ve confirmed the changes, try to make a recording or call to check if it’s picking up your voice.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Make sure your microphone is enabled
 
@@ -145,17 +153,9 @@ When you’re using a microphone such as MPOW attached to your computer, you may
   
 ![choose the audio input device](https://images.drivereasy.com/wp-content/uploads/2021/04/input-device.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Make sure that your headset is not disabled.  
   
 ![make sure your device isn't disabled](https://images.drivereasy.com/wp-content/uploads/2021/04/enable-it.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Once you’ve confirmed that your microphone has been enabled but it’s still not working, try the next fix below.
 
@@ -170,7 +170,7 @@ When you’re using a microphone such as MPOW attached to your computer, you may
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/check-for-updates.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Click on the **Check for updates**  tab. If there are any updates available, it’ll automatically start to download and install it.  
@@ -198,24 +198,22 @@ When you’re using a microphone such as MPOW attached to your computer, you may
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-unlock-the-secrets-of-effective-video-cropping-for-instagram/"><u>[Updated] In 2024, Unlock the Secrets of Effective Video Cropping for Instagram</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-selecting-perfect-unboxing-tunes-a-guide-for-2024/"><u>[Updated] Selecting Perfect Unboxing Tunes A Guide for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-yuneecs-game-changer-typhoon-q500/"><u>[Updated] Yuneec's Game-Changer Typhoon Q500</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/2024-approved-amplify-your-contents-reach-with-optimal-publishing-days/"><u>2024 Approved Amplify Your Content's Reach with Optimal Publishing Days</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-v30-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from V30</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-realme-c53-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Realme C53? | Dr.fone</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-breaking-down-chromes-multi-tasking-the-pip-experience/"><u>In 2024, Breaking Down Chrome's Multi-Tasking The PIP Experience</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/in-2024-creative-audio-analysis-crafting-an-interactive-waveform-animation-spectacle-within-premiere-pro/"><u>In 2024, Creative Audio Analysis Crafting an Interactive Waveform Animation Spectacle Within Premiere Pro</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/in-2024-digital-resonance-a-comprehensive-tutorial-for-echo-addition-in-windows-and-web-audio-applications/"><u>In 2024, Digital Resonance A Comprehensive Tutorial for Echo Addition in Windows and Web Audio Applications</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-realme-c67-4g-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Realme C67 4G to Outlook | Dr.fone</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-discovering-the-most-advanced-online-tools-for-mp3-file-tagging-and-categorization/"><u>New 2024 Approved Discovering the Most Advanced Online Tools for MP3 File Tagging and Categorization</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-list-of-online-repositories-featuring-cat-vocalizations-in-mp3-for-2024/"><u>New List of Online Repositories Featuring Cat Vocalizations in MP3 for 2024</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-premium-audio-transformation-tool-free-mp3-creation-from-mpa-files/"><u>New Premium Audio Transformation Tool Free MP3 Creation From MPA Files</u></a></li>
-<li><a href="https://fox-info.techidaily.com/perspective-play-using-edits-to-redefine-images/"><u>Perspective Play Using Edits to Redefine Images</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-achieving-clarity-in-soundscapes-innovative-techniques-for-minimizing-audio-distractions-onlineoffline/"><u>Updated 2024 Approved Achieving Clarity in Soundscapes Innovative Techniques for Minimizing Audio Distractions, Online/Offline</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-2024s-must-have-recording-applications-for-aspiring-and-seasoned-guitar-players/"><u>Updated 2024S Must-Have Recording Applications for Aspiring and Seasoned Guitar Players</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-behind-the-scenes-the-essential-roles-of-film-production-team-members/"><u>Updated Behind the Scenes The Essential Roles of Film Production Team Members</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-mastering-sound-clarity-a-guide-to-eliminating-ambient-sounds-in-filmora-for-2024/"><u>Updated Mastering Sound Clarity A Guide to Eliminating Ambient Sounds in Filmora for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/zdnets-ultimate-selection-leading-streaming-mics-unveiled/"><u>ZDNet's Ultimate Selection: Leading Streaming Mics Unveiled!</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-conquer-your-screen-top-10-simple-youtube-projects-for-all-creators/"><u>[New] 2024 Approved Conquer Your Screen Top 10 Simple YouTube Projects for All Creators</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-capture-the-essence-choose-from-these-top-9-gif-recipes-for-windows/"><u>[New] In 2024, Capture the Essence Choose From These Top 9 GIF Recipes for Windows</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-mastering-iphone-screen-capture-with-simplicity/"><u>[Updated] In 2024, Mastering iPhone Screen Capture with Simplicity</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-innovative-mac-live-streaming-options-ranked-1-5/"><u>[Updated] Innovative Mac Live Streaming Options Ranked #1-5</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/2024-approved-echo-excellence-enhancing-windows-pc-sounds-with-online-acoustic-plugins/"><u>2024 Approved Echo Excellence Enhancing Windows PC Sounds with Online Acoustic Plugins</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-tech-triumphs-10-high-definition-screen-recorder-tools/"><u>2024 Approved Tech Triumphs #10 High-Definition Screen Recorder Tools</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/harmonizing-mp4-visuals-with-top-tier-music-selection-methods/"><u>Harmonizing MP4 Visuals with Top-Tier Music Selection Methods</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/how-to-fade-in-and-fade-out-audio-in-adobe-after-effects-for-2024/"><u>How to Fade In and Fade Out Audio in Adobe After Effects for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/in-2024-libertys-guide-to-attaching-tracks-in-movies-for-free/"><u>In 2024, Libertys Guide to Attaching Tracks in Movies for Free</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-audio-files-new-world-how-to-convert-srt-effortlessly/"><u>In 2024, The Audio Files' New World How to Convert SRT Effortlessly</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-generative-ai-an-essential-handbook-for-parents-on-chatgpt-use/"><u>Navigating Generative AI: An Essential Handbook for Parents on ChatGPT Use</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-deejay-discovery-compile-dj-beats-for-your-playlist-for-2024/"><u>New Deejay Discovery Compile DJ Beats for Your Playlist for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/speedy-access-to-razer-mamba-controller-drivers-your-hassle-free-solution/"><u>Speedy Access to Razer Mamba Controller Drivers – Your Hassle-Free Solution</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-the-dragons-dogma-2-crash-for-windows-gamers-effective-solutions-unveiled/"><u>Troubleshooting the Dragon's Dogma 2 Crash for Windows Gamers: Effective Solutions Unveiled</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-precision-in-recording-cutting-down-ambient-noises-using-advanced-filters/"><u>Updated 2024 Approved Precision in Recording Cutting Down Ambient Noises Using Advanced Filters</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-5-best-mp3-cutters-online-for-2024/"><u>Updated 5 Best MP3 Cutters Online for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-essential-features-of-a-mac-compatible-sound-editing-software/"><u>Updated Essential Features of a Mac-Compatible Sound Editing Software</u></a></li>
 </ul></div>
 

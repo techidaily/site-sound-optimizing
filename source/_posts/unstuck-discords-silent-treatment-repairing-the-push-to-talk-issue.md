@@ -1,7 +1,7 @@
 ---
 title: "Unstuck Discord's Silent Treatment: Repairing the Push-to-Talk Issue"
-date: 2024-12-14T16:03:33.634Z
-updated: 2024-12-18T18:42:35.622Z
+date: 2024-12-24T21:49:46.848Z
+updated: 2024-12-26T23:32:53.890Z
 tags:
   - win11
   - win10
@@ -72,6 +72,10 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-113.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -81,6 +85,10 @@ OR
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: End unnecessary background programs
 
@@ -105,6 +113,10 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-809.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If your issue continues, try **[Fix4](https://tools.techidaily.com/drivereasy/download/)**  .
 
 ---
@@ -115,9 +127,17 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-762.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Check your current **CPU and memory usage** to see what processes are consuming your resources most.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-805.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)**  Right-click the resource-consuming process and select **End task** .
 
@@ -126,10 +146,6 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-810.jpg)
 
  Try launching_Hearthstone_ again to see if the sound works properly now. If your issue still exists, read on and check the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Repair_Hearthstone_ files
 
@@ -141,19 +157,11 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-402-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)**  Click **Begin Scan** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-422.jpg)
 
  Wait for the scans to be complete, then relaunch_Hearthstone_ to test your issue. If the audio issue persists, read on and try the fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Disable Compatibility Mode
 
@@ -167,19 +175,15 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-424.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Click**Apply** then**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-425.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Relaunch your game to check if the sound comes back. If not, go ahead with the fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6:**Reset sound settings**
 
@@ -197,31 +201,27 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-550.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** Click the**Voice chat tab** , then click**Reset to Defaults** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-551.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **5)** Click**Reset** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-552.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **6)** Click**DONE** to save the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-553.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Relaunch your game to test your issue. If the audio is still missing in_Hearthstone_ , try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 7: Reinstall_Hearthstone_ and/or the Blizzard launcher
 
@@ -238,13 +238,13 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-438.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Click**Yes, Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-439.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)** Restart the Blizzard launcher to download and install_Hearthstone_ .
 
@@ -256,6 +256,10 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-441.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Under**View by** , select**Category** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-443.jpg)
@@ -263,10 +267,6 @@ OR
 **3)** Click**Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-443-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **4)** Right-click**Battle.net** , then click**Uninstall/Change** .
 
@@ -302,22 +302,22 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-secrets-to-amplifying-gopro-power-life-span/"><u>[New] Secrets to Amplifying GoPro Power Life Span</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-unleash-your-creativity-macs-finest-screen-capture-programs-free-for-2024/"><u>[New] Unleash Your Creativity Mac's Finest Screen Capture Programs (FREE) for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-elite-remote-meeting-apps-beyond-zoom/"><u>[Updated] 2024 Approved Elite Remote Meeting Apps Beyond Zoom</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/friendly-vr-best-multiplayer-metaverse-delights-for-2024/"><u>Friendly VR Best Multiplayer Metaverse Delights for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-honor-x9b-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Honor X9b Without Them Knowing? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-vivo-y02t-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Vivo Y02T | Dr.fone</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/in-2024-the-essential-list-of-top-10-audio-editors-for-windows-and-mac-platforms/"><u>In 2024, The Essential List of Top 10 Audio Editors for Windows & Mac Platforms</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-from-nokia-c300-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Nokia C300 FRP Bypass</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-from-raw-footage-to-hit-vids-a-step-by-step-guide-for-editors-for-2024/"><u>New From Raw Footage to Hit Vids A Step-by-Step Guide for Editors for 2024</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-prime-budget-optimized-mac-audio-adjustment-software/"><u>New In 2024, Prime Budget-Optimized Mac Audio Adjustment Software</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/the-definitive-manual-for-windows-10-perfecting-your-audio-recordings/"><u>The Definitive Manual for Windows 10 Perfecting Your Audio Recordings</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/ultimate-dj-streaming-repository-for-2024/"><u>Ultimate DJ Streaming Repository for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/unblocking-0x800f0845-from-windows-update/"><u>Unblocking 0X800F0845 From Windows Update</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-top-10-bgm-audio-archives/"><u>Updated 2024 Approved Top 10 BGM Audio Archives</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-voice-memos-made-simple-your-comprehensive-guide-to-high-quality-audio-recordings-on-windows-10/"><u>Updated 2024 Approved Voice Memos Made Simple Your Comprehensive Guide to High-Quality Audio Recordings on Windows 10</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-steps-for-integrating-sound-into-the-latest-avi-format/"><u>Updated In 2024, Steps for Integrating Sound Into the Latest AVI Format</u></a></li>
-<li><a href="https://blog-min.techidaily.com/1725290331579-mp3/"><u>オススメ MP3 再生デバイス・ソフトウェア・アプリ【信頼できる品質のポータブル選び】</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-prime-your-vlogging-game-top-tier-mac-mp4-editors-reviewed/"><u>[New] 2024 Approved Prime Your Vlogging Game Top-Tier Mac MP4 Editors Reviewed</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-crafting-conversations-that-captivate-google-meet-edition-for-2024/"><u>[New] Crafting Conversations that Captivate Google Meet Edition for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-convert-ppt-to-motion-picture/"><u>[New] In 2024, Convert PPT to Motion Picture</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-boost-your-game-presence-a-comprehensible-guide-to-freegame-hashtags/"><u>[Updated] In 2024, Boost Your Game Presence A Comprehensible Guide to FreeGame Hashtags</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/2024-approved-how-to-remove-audio-seamlessly-a-windows-10-users-handbook-for-sound-free-vids-free-of-charge/"><u>2024 Approved How to Remove Audio Seamlessly A Windows 10 Users Handbook for Sound-Free Vids (Free of Charge)</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-poco-m6-pro-4g-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Poco M6 Pro 4G Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/a-filmmakers-choice-the-top-five-free-audio-jokes-for-creative-videos-for-2024/"><u>A Filmmakers Choice The Top Five Free Audio Jokes for Creative Videos for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-fixes-for-continuous-killing-of-your-playtime-halo-infinite-pc-edition/"><u>Effective Fixes for Continuous Killing of Your Playtime - Halo Infinite PC Edition</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Oppo Find N3 Flip | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-efficient-cost-effective-steps-to-convert-voices-to-text-comprehensive-guide-for-2024/"><u>New Efficient, Cost-Effective Steps to Convert Voices to Text Comprehensive Guide for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-unleash-your-creativity-running-windows-and-mac-video-editing-apps-on-chrome-os/"><u>New In 2024, Unleash Your Creativity Running Windows and Mac Video Editing Apps on Chrome OS</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-reentry-guide-regaining-access-on-omegle-after-a-ban-for-2024/"><u>New Reentry Guide Regaining Access on Omegle After a Ban for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/uncovering-plugins-that-create-realistic-flatulent-effects-for-games-and-films/"><u>Uncovering Plugins That Create Realistic Flatulent Effects for Games and Films</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-exploring-archives-for-articulated-grunt-effects/"><u>Updated In 2024, Exploring Archives for Articulated Grunt Effects</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-navigating-audio-segmentation-easy-ways-to-split-your-mp3s-and-aacs/"><u>Updated In 2024, Navigating Audio Segmentation Easy Ways to Split Your MP3s and AACs</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-synchronizing-sonic-elements-controlling-audio-duration-and-tonality-in-adobe-rush/"><u>Updated Synchronizing Sonic Elements Controlling Audio Duration and Tonality in Adobe Rush</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-the-button-symphony-locating-the-percussive-elements-in-gaming-for-2024/"><u>Updated The Button Symphony Locating the Percussive Elements in Gaming for 2024</u></a></li>
 </ul></div>
 

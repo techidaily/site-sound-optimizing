@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Restarting Internet Explorer When It Crashes or Fails"
-date: 2024-12-17T20:20:52.888Z
-updated: 2024-12-18T21:18:50.277Z
+date: 2024-12-25T17:01:04.079Z
+updated: 2024-12-26T17:48:54.491Z
 tags:
   - win11
   - win10
@@ -55,12 +55,12 @@ thumbnail: https://thmb.techidaily.com/14b0662c78e5872a3461f2dbc1feb1f76e4bd1f28
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/graphics-settings.jpg)
 3. Click**Browse** to add the executable file of Minecraft.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/browse.jpg)
 4. Then click**Options** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/Minecraft-options-1.jpg)
 5. In the pop-up window, select**High performance** and click**Save** .  
@@ -75,9 +75,17 @@ If this solution doesn’t help, continue with the next fix below.
 
  Minecraft is a graphics-intensive game, so your graphics card is essential for its performance. You cannot have an outdated or faulty driver on your graphics card since this is usually what causes stuttering in Minecraft. To update your graphics driver, there are two ways you can try: manually and automatically.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Option 1: Update your graphics driver manually
 
  You can update your graphics drivers manually by going to the manufacturer’s website ([NVIDIA](http://nvidia.com/drivers) ,[AMD](https://www.amd.com/en/support) ,[Intel](https://downloadcenter.intel.com/) ) for your graphics card, and searching for the most recent correct driver. Be sure to choose only drivers that are compatible with your Windows version.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 2: Update your graphics driver automatically (recommended)
 
@@ -91,7 +99,7 @@ If this solution doesn’t help, continue with the next fix below.
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
@@ -103,10 +111,6 @@ If this solution doesn’t help, continue with the next fix below.
  After updating your graphics driver, restart your computer and check if Minecraft stutters again.
 
 If the stuttering issue persists, move on to the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 3: Lower your Render Distance
 
@@ -120,15 +124,15 @@ If the stuttering issue persists, move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/video-settings.jpg)
 4. Lower the**Render distance** according to your need.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/render-distance-1.jpg)
 
 This should give you a better game experience.
 
 But if it doesn’t, take a look at the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 4: Enable VSync
 
@@ -142,11 +146,19 @@ But if it doesn’t, take a look at the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/turn-on-vsync.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Via AMD Radeon Settings
 
 1. Right-click your desktop and select**AMD Radeon Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/amdradeon-settings.jpg)
 2. Click the**Gaming** Tab.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/amd-gaming-1.jpg)
 3. Then click**Global Settings** .  
@@ -168,22 +180,22 @@ If enabling Vsync didn’t do the trick, proceed to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/nvidia-control-panel.jpg)
 2. In the left panel, click**Manage 3D settings** , navigate to the**Program Settings** tab, and select**Minecraft Launcher.exe** from the first dropdown menu.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/step1.jpg)
 3. Scroll down to the bottom of the list and find the**Threaded optimization** , then click the dropdown menu next to it and**change the value from Auto to Off** . Click**Apply** to save changes.  
 
-![](https://images.drivereasy.com/wp-content/uploads/2021/07/step2.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/07/step2.jpg)
 
 After doing so, restart Minecraft and check if the problem is resolved.
 
 If the stuttering issue remains, try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 6: Allocate more RAM
 
@@ -193,25 +205,17 @@ If the stuttering issue remains, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/Installations1.jpg)
 2. Click the**three dots** button next to Minecraft, then select**Edit** from the dropdown menu.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/edit.jpg)
 3. Click**MORE OPTIONS** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/more-options.jpg)
 4. Under the**JVM ARGUMENTS** section, there’s a line of text. **Change the amount of RAM that Minecraft can utilize after Xmx** (for example, Xmx4G means Minecraft is allowed to use 4GB RAM). Then click**Save** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/4g-save.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Launch Minecraft and see if this helps fix the stuttering.
 
@@ -222,10 +226,6 @@ If this solution doesn’t work, take a look at the next fix.
  OptiFine is a Minecraft optimization mod, which allows the game to run faster and look better. However, it consumes some resources and may cause the stuttering issue. To see if that’s the case for you, you can try uninstalling OptiFine.
 
  If the stuttering issue remains after uninstalling OptiFine, check out the last fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 8: Reinstall Minecraft
 
@@ -252,24 +252,18 @@ If this solution doesn’t work, take a look at the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-ignite-your-narratives-complimentary-fb-apps-for-everyday-users/"><u>[New] In 2024, Ignite Your Narratives Complimentary FB Apps for Everyday Users</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-attract-more-viewers-boosting-your-youtube-following/"><u>[Updated] Attract More Viewers Boosting Your YouTube Following</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-intrinsic-insights-for-instant-identification-in-fb-for-2024/"><u>[Updated] Intrinsic Insights for Instant Identification in FB for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-money-making-masters-youtubes-financial-kings/"><u>[Updated] Money-Making Masters YouTube's Financial Kings</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-tecno-pova-6-pro-5g-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Tecno Pova 6 Pro 5G Phone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-4-ways-to-unlock-iphone-6-to-use-usb-accessories-without-passcode-drfone-by-drfone-ios/"><u>In 2024, 4 Ways to Unlock iPhone 6 to Use USB Accessories Without Passcode | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/modern-warfare-and-warzone-crash-fix-overcoming-fatal-developer-errors/"><u>Modern Warfare & Warzone Crash Fix - Overcoming Fatal Developer Errors</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/motion-graphics-101-key-principles-and-methods/"><u>Motion Graphics 101 Key Principles & Methods</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-10-best-audio-editor-windows-mac/"><u>New 2024 Approved 10 Best Audio Editor Windows, Mac</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-vibrant-soundscapes-10-melodies-that-elevate-your-video-montages/"><u>New 2024 Approved Vibrant Soundscapes 10 Melodies That Elevate Your Video Montages</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-audacity-installation-made-easy-the-ultimate-chromebook-checklist-for-2024/"><u>New Audacity Installation Made Easy The Ultimate Chromebook Checklist for 2024</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-crafting-the-perfect-soundtrack-for-your-project-step-by-step-audio-replacement-tactics/"><u>New Crafting the Perfect Soundtrack for Your Project Step-by-Step Audio Replacement Tactics</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-evolving-sound-quality-issues-within-the-2023-adobe-rush-iteration-for-2024/"><u>New Evolving Sound Quality Issues Within the 2023 Adobe Rush Iteration for 2024</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-top-ten-digital-melodies-discovering-the-most-downloaded-background-scores/"><u>New Top Ten Digital Melodies Discovering the Most Downloaded Background Scores</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-top-ranked-ringtones-to-enhance-your-call-experience/"><u>New Top-Ranked Ringtones to Enhance Your Call Experience</u></a></li>
-<li><a href="https://common-error.techidaily.com/support-locked-blizzard-disconnected/"><u>Support Locked: Blizzard Disconnected</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/unveil-the-power-of-storytelling-in-your-facebook-bio/"><u>Unveil the Power of Storytelling in Your Facebook Bio</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-how-to-cut-ringtones-for-2024/"><u>Updated How to Cut Ringtones for 2024</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-procuring-specialized-sounds-mimicking-intestinal-gas-release-for-enhanced-aural-realism/"><u>Updated Procuring Specialized Sounds Mimicking Intestinal Gas Release for Enhanced Aural Realism</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-innovative-cloud-storage-solutions-mematic-app/"><u>[New] In 2024, Innovative Cloud Storage Solutions Mematic App</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-exploring-top-ios-psp-emulation-tools-for-gamers/"><u>[Updated] Exploring Top iOS PSP Emulation Tools for Gamers</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-learn-the-easy-ways-to-turn-your-watching-experience-on-youtube-into-a-screencast-without-money/"><u>2024 Approved Learn the Easy Ways to Turn Your Watching Experience on YouTube Into a Screencast Without Money</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-save-instastories-infinite-the-liberation-app/"><u>2024 Approved Save InstaStories Infinite The Liberation App</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1726028853558-dvdiphone/"><u>手軽にDVDビデオをiPhoneへ！フリーアプリベストセレクションガイド</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/best-free-android-capture-app-zero-ads-in-2024/"><u>Best Free Android Capture App, Zero Ads, In 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-logitech-brio-webcam-software-for-win-10-8-and-7/"><u>Download Logitech BRIO Webcam Software for Win 10, 8 & 7</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-freeware-harmonies-to-accentuate-photo-stories-for-2024/"><u>New Freeware Harmonies to Accentuate Photo Stories for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-echo-eradication-professional-strategies-for-silencing-unwanted-acoustic-features/"><u>New In 2024, Echo Eradication Professional Strategies for Silencing Unwanted Acoustic Features</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-harmonizing-soundscape-a-comprehensive-guide-to-eq-adjustments/"><u>New In 2024, Harmonizing Soundscape A Comprehensive Guide to EQ Adjustments</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-understanding-audacitys-noise-suppression-techniques-step-by-step-guide/"><u>New In 2024, Understanding Audacitys Noise Suppression Techniques Step-by-Step Guide</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-awaken-your-creative-flow-pro-bargain-tunes-for-video-editing-for-2024/"><u>Updated Awaken Your Creative Flow Pro Bargain Tunes for Video Editing for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/vlc-recorder-functionality-check/"><u>VLC Recorder Functionality Check</u></a></li>
 </ul></div>
 

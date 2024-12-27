@@ -1,7 +1,7 @@
 ---
 title: "Defeat Scavengers on Windows: Ultimate Winning Strategies Unveiled!"
-date: 2024-12-15T19:20:39.815Z
-updated: 2024-12-18T21:39:59.158Z
+date: 2024-12-24T20:11:09.257Z
+updated: 2024-12-27T06:52:18.830Z
 tags:
   - win11
   - win10
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/14ed548cb6ba934243f074a1f0d25040231f7c304
 Recently, we’ve seen many players reporting that**Dirt 5 keeps crashing** on their PC. If you’re running into the exact same issue, don’t worry. Although it’s quite frustrating, the good news is that this issue can be fixed easily!
 
  Here we’ve gathered the latest fixes that helped other players resolve the Dirt 5 crashing issue. Whether Dirt 5 crashes on startup or crashes in the middle of the game, you can find a fix to try in this article.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -53,10 +49,6 @@ The outdated or broken graphics driver often crashes the game.
 ![Driver Easy Scan Now](https://images.drivereasy.com/wp-content/uploads/2021/03/Driver-Easy-Scan-Now.jpg)
 3. Click the **Update** button next to a device to automatically download the correct version of their driver, then you can manually install the driver (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 4. Restart your PC after you finished updating your graphics driver.
@@ -71,9 +63,21 @@ The outdated or broken graphics driver often crashes the game.
 ![Steam->properties](https://images.drivereasy.com/wp-content/uploads/2019/04/image-122.png)
 2. Click **the LOCAL FILES tab** , then click **VERIFY INTEGRITY OF GAME CACHE…** . After that, click **CLOSE** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![LOCAL FILES>VERIFY INTEGRITY OF GAME CACHE...](https://images.drivereasy.com/wp-content/uploads/2019/04/image-120.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  It may take some time to finish verifying the game files. Launch the game after the verifying process completed to see if this fix works. If not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 3: Install the latest game patch
 
@@ -84,7 +88,7 @@ The outdated or broken graphics driver often crashes the game.
  Run Dirt 5 again to check whether the game crash issue has been resolved. If it didn’t work, or there was no new game patch available, move on to next fix, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 4: Disable Steam Overlay
@@ -98,14 +102,10 @@ The outdated or broken graphics driver often crashes the game.
 ![Disable Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-Steam-Overlay.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Launch Dirt 5 to see if the game crashes. If the issue persists, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 5: Set launch options on Steam
 
@@ -150,21 +150,24 @@ The outdated or broken graphics driver often crashes the game.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-affordable-pc-obs-tuning-guide/"><u>2024 Approved Affordable PC OBS Tuning Guide</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-best-audio-modification-methods-for-youtube-stars/"><u>2024 Approved Best Audio Modification Methods for YouTube Stars</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-essential-tips-for-achieving-facebooks-trusted-marker/"><u>2024 Approved Essential Tips for Achieving Facebook's Trusted Marker</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/elevating-strategies-at-tiaa-the-power-of-process-intelligence-in-refining-judgments/"><u>Elevating Strategies at TIAA: The Power of Process Intelligence in Refining Judgments</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-intel-z270-gamer-motherboards-driver-bundle-now/"><u>Get Your Intel Z270 Gamer Motherboard's Driver Bundle Now!</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-get-out-of-recovery-on-iphone-14-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of Recovery on iPhone 14 Pro? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-honor-x7b-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Honor X7b</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-6-methods-to-protect-yourself-from-location-tracking-on-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>In 2024, 6 Methods to Protect Yourself from Location Tracking on Apple iPhone XS Max | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-vivo-y27s-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Vivo Y27s Phone that is Locked?</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-chart-wolfs-sonorous-call-pattern/"><u>New In 2024, Chart Wolfs Sonorous Call Pattern</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/removing-background-noise-extracting-silent-videos/"><u>Removing Background Noise Extracting Silent Videos</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-advanced-audio-editing-implementing-real-time-ducking-in-windows-version-of-adobe-premiere-pro/"><u>Updated Advanced Audio Editing Implementing Real-Time Ducking in Windows Version of Adobe Premiere Pro</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-10-best-audio-editor-windows-mac/"><u>Updated In 2024, 10 Best Audio Editor Windows, Mac</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-cutting-edge-software-choices-for-distorting-and-enhancing-audio-quality/"><u>Updated In 2024, Cutting-Edge Software Choices for Distorting and Enhancing Audio Quality</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-what-you-should-know-about-pexelscom/"><u>Updated In 2024, What You Should Know About Pexels.com</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-the-art-of-pristine-audio-overcoming-hiss-and-harsh-sounds/"><u>Updated The Art of Pristine Audio Overcoming Hiss and Harsh Sounds</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-smiles-snorts-and-sighs-the-finest-meme-accounts-on-ig/"><u>[New] In 2024, Smiles, Snorts & Sighs The Finest Meme Accounts on IG</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-from-static-to-spinning-mastering-photo-effects-in-illustrator/"><u>2024 Approved From Static to Spinning Mastering Photo Effects in Illustrator</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-the-ultimate-guide-to-fb-messenger-call-archiving/"><u>2024 Approved The Ultimate Guide to FB Messenger Call Archiving</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/beyond-acid-the-future-of-graphic-vectors/"><u>Beyond ACID The Future of Graphic Vectors</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/como-resolver-problemas-de-visibilidad-de-google-drive-en-windows-file-explorer/"><u>Cómo Resolver Problemas De Visibilidad De Google Drive en Windows File Explorer</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-idea-to-interaction-creating-specialized-ai-with-gpt/"><u>From Idea to Interaction: Creating Specialized AI with GPT</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/how-abbyys-smart-data-extraction-is-reshaping-the-future-of-service-businesses/"><u>How ABBYY's Smart Data Extraction Is Reshaping the Future of Service Businesses</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hp-840-g3-user-manual-how-to-download-and-set-up-drivers/"><u>HP 840 G3 User Manual: How to Download and Set Up Drivers</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/in-2024-free-vs-paid-linux-audio-software-an-insiders-look-at-leading-choices/"><u>In 2024, Free Vs. Paid Linux Audio Software An Insiders Look at Leading Choices</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/in-2024-optimizing-pitch-alteration-in-audacity-a-guide-to-quality-retention/"><u>In 2024, Optimizing Pitch Alteration in Audacity A Guide to Quality Retention</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-techniques-for-designing-and-extracting-your-own-mobile-tunes/"><u>New In 2024, Techniques for Designing and Extracting Your Own Mobile Tunes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/supercharge-3d-painting-learn-the-crucial-keyboard-tricks/"><u>Supercharge 3D Painting: Learn the Crucial Keyboard Tricks</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-infinix-hot-40-by-drfone-android/"><u>Three Ways to Sim Unlock Infinix Hot 40</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-pushing-boundaries-in-sound-design-top-5-innovative-audio-distortion-applications/"><u>Updated 2024 Approved Pushing Boundaries in Sound Design Top 5 Innovative Audio Distortion Applications</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-achieving-consistent-sound-levels-with-davinci-resolve-for-2024/"><u>Updated Achieving Consistent Sound Levels with DaVinci Resolve for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-beyond-dialogue-creative-audio-video-integration-techniques-for-impactful-visual-narratives-for-2024/"><u>Updated Beyond Dialogue Creative Audio-Video Integration Techniques for Impactful Visual Narratives for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-speed-up-secrets-eliminating-unwanted-sound-waves-for-2024/"><u>Updated Speed-Up Secrets Eliminating Unwanted Sound Waves for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-the-path-to-precision-sound-step-by-step-audio-normalization-in-davinci-resolve-for-2024/"><u>Updated The Path to Precision Sound Step-by-Step Audio Normalization in DaVinci Resolve for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-the-ultimate-guide-to-choosing-top-audio-reversing-applications-for-your-pc-phone-and-tablet-for-2024/"><u>Updated The Ultimate Guide to Choosing Top Audio Reversing Applications For Your PC, Phone, and Tablet for 2024</u></a></li>
 </ul></div>
 

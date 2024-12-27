@@ -1,7 +1,7 @@
 ---
 title: How the Kobo Nia Stacks Up as a Rival to the Kindle by Amazon
-date: 2024-12-14T20:15:18.933Z
-updated: 2024-12-18T16:54:09.022Z
+date: 2024-12-19T18:30:30.269Z
+updated: 2024-12-27T05:23:13.250Z
 categories:
   - BestProducts
 description: This Article Describes How the Kobo Nia Stacks Up as a Rival to the Kindle by Amazon
@@ -16,6 +16,10 @@ thumbnail: https://www.lifewire.com/thmb/l-thYcivDg_wxc7mx5_01YaMCKg=/400x300/fi
 ## ZMI PowerPack 20000
 
 ![ZMI PowerPack 20000](https://www.lifewire.com/thmb/A__IgeAPd2C0e_2iExqDqXJAGB8=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/zmi-HeroSquare-492efa01c9e54737bfa9d16223ff9d82.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Lifewire / Andrew Hayward
 
@@ -41,10 +45,6 @@ thumbnail: https://www.lifewire.com/thmb/l-thYcivDg_wxc7mx5_01YaMCKg=/400x300/fi
 
 ![ZMI PowerPack 20000](https://www.lifewire.com/thmb/FttxoftMtHF3B2ZGmP2QubmOp3I=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/zmi-HeroSquare-492efa01c9e54737bfa9d16223ff9d82.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Lifewire / Andrew Hayward
 
  in this article
@@ -67,11 +67,11 @@ thumbnail: https://www.lifewire.com/thmb/l-thYcivDg_wxc7mx5_01YaMCKg=/400x300/fi
 
 ![ZMI PowerPack 20000](https://www.lifewire.com/thmb/jITowxAWHBUo5WF3Y-XI6lKQNQE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/zmi-05-02d76c869b864ef0abddfe824cfbf53a.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Lifewire / Andrew Hayward
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Design: Small but powerful**
 
@@ -90,7 +90,7 @@ thumbnail: https://www.lifewire.com/thmb/l-thYcivDg_wxc7mx5_01YaMCKg=/400x300/fi
 Lifewire / Andrew Hayward
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Setup Process: Easy does it**
@@ -109,6 +109,10 @@ Lifewire / Andrew Hayward
 
  Lifewire / Andrew Hayward
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Price: It’s a bargain**
 
  With larger laptop-friendly battery packs sometimes selling for well north of $100, the $70 price point of the ZMI PowerPack 20000 is an incredibly attractive deal. Granted, the maximum USB-C PD output of 45W won’t charge some super-powered laptops—but for compatible laptops, as well as smartphones, tablets, and other portable electronics, it’s very well priced.
@@ -116,7 +120,7 @@ Lifewire / Andrew Hayward
  With larger laptop-friendly battery packs sometimes selling for well north of $100, the $70 price point of the ZMI PowerPack 20000 is an incredibly attractive deal.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **ZMI PowerPack 20000 vs Mophie Powerstation AC**
@@ -128,10 +132,6 @@ Lifewire / Andrew Hayward
  **A fantastic portable laptop battery charger for nearly everyone.**
 
  It’s honestly difficult to find anything to complain about with the ZMI PowerPack 20000\. It’s powerful and does a great job of charging laptops and phones, it has enough capacity to handle those tasks with ease, it’s compact and well-designed, and the price is fantastic. It’s half the size of the giant Anker power brick that I’ve brought on my last two international trips and can handle all of the same tasks. In other words,_this_ is the power brick I’m bringing on my next trip.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Specs
 
@@ -159,22 +159,20 @@ Lifewire / Andrew Hayward
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-screensnap-it-all-high-quality-netflix-on-mac/"><u>[Updated] In 2024, ScreenSnap It All High-Quality Netflix on Mac</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/2024-approved-chromebook-users-companion-to-launching-and-deleting-audacity/"><u>2024 Approved Chromebook Users Companion to Launching and Deleting Audacity</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-metaviews-analyzing-6-in-depth-metaverse-scenarios/"><u>2024 Approved Metaviews Analyzing 6 In-Depth Metaverse Scenarios</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-optimal-orientation-for-fb-content-creation/"><u>2024 Approved Optimal Orientation for FB Content Creation</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/2024-approved-the-a-list-of-audio-harvesters-10-indispensable-tools-to-master-your-sound-design/"><u>2024 Approved The A-List of Audio Harvesters 10 Indispensable Tools to Master Your Sound Design</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/cutting-corners-with-care-10plus-top-ranked-free-audio-editors-online-for-2024/"><u>Cutting Corners with Care 10+ Top-Ranked Free Audio Editors Online for 2024</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/fresh-beginnings-selecting-the-best-8-soundtracks-to-start-videos/"><u>Fresh Beginnings Selecting the Best 8 Soundtracks to Start Videos</u></a></li>
-<li><a href="https://change-location.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-samsung-galaxy-s23plus-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Samsung Galaxy S23+ | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-gionee-f3-pro-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Gionee F3 Pro Mirror Screen to PC? | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-fix-when-apple-account-locked-from-apple-iphone-se-2022-by-drfone-ios/"><u>How to Fix when Apple Account Locked From Apple iPhone SE (2022)?</u></a></li>
-<li><a href="https://review-topics.techidaily.com/oppo-reno-9a-support-forgotten-screen-lock-by-drfone-android-unlock-android-unlock/"><u>Oppo Reno 9A support - Forgotten screen lock.</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-microsoft-wireless-display-adapter-connections-errors-on-windows-11-systems/"><u>Resolving Microsoft Wireless Display Adapter Connections Errors on Windows 11 Systems</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-tailoring-auditory-experiences-to-your-videos-with-ease-and-precision/"><u>Updated 2024 Approved Tailoring Auditory Experiences to Your Videos with Ease and Precision</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-apowersoft-audio-recorder-tutorial-and-4-alternatives/"><u>Updated In 2024, Apowersoft Audio Recorder Tutorial and 4 Alternatives</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-silent-film-techniques-how-to-minimize-background-noise-in-your-mac-imovie-projects-for-2024/"><u>Updated Silent Film Techniques How to Minimize Background Noise in Your Mac iMovie Projects for 2024</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-synchronizing-sound-and-movement-crafting-clear-audio-visualization-waves-and-incorporating-animation-flourishes-in-adobe-premiere-pro/"><u>Updated Synchronizing Sound and Movement Crafting Clear Audio Visualization Waves & Incorporating Animation Flourishes in Adobe Premiere Pro</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/your-guide-to-iconic-fonts-boosting-video-engagement/"><u>Your Guide to Iconic Fonts Boosting Video Engagement</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-creating-captivating-360-footage-for-social-media-sharing/"><u>[New] 2024 Approved Creating Captivating 360 Footage for Social Media Sharing</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-plunge-into-quality-leading-camcorders-for-aquatic-adventurers/"><u>[Updated] Plunge Into Quality Leading Camcorders for Aquatic Adventurers</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-probing-into-hdr-effectiveness-with-luminance-writings/"><u>[Updated] Probing Into HDR Effectiveness with Luminance’ Writings</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/2024-approved-virtual-sound-crafting-platform-split-and-stitch-mp3s/"><u>2024 Approved Virtual Sound Crafting Platform Split & Stitch MP3s</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/complete-catalog-of-playstation-vr2-software-officially-announced-selection/"><u>Complete Catalog of PlayStation VR2 Software: Officially Announced Selection</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-xr-to-the-latest-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone XR to the Latest iOS/iPadOS Version? | Dr.fone</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-achieving-clarity-in-sound-strategies-to-dampen-unwanted-echoes/"><u>New 2024 Approved Achieving Clarity in Sound Strategies to Dampen Unwanted Echoes</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-cost-effective-mac-sound-editor-software/"><u>New 2024 Approved Cost-Effective Mac Sound Editor Software</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-efficient-cost-effective-steps-to-convert-voices-to-text-comprehensive-guide/"><u>New 2024 Approved Efficient, Cost-Effective Steps to Convert Voices to Text Comprehensive Guide</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-unleash-your-creative-potential-with-these-5-leading-audio-distortion-programs/"><u>New In 2024, Unleash Your Creative Potential with These 5 Leading Audio Distortion Programs</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-modern-guide-to-mkv-audio-removal-update-users-for-2024/"><u>New Modern Guide to MKV Audio Removal Update Users for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-reality-behind-earbud-audio-quality-debunking-lossless-expectations-with-zdnets-analysis/"><u>The Reality Behind Earbud Audio Quality: Debunking Lossless Expectations with ZDNet's Analysis</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-cartoonize-your-photos-in-seconds/"><u>Updated 2024 Approved Cartoonize Your Photos in Seconds</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-step-by-step-walkthrough-for-extracting-vocals-from-audio-files-using-adobe-audition/"><u>Updated Step-by-Step Walkthrough for Extracting Vocals From Audio Files Using Adobe Audition</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ultimate-guide-to-distinguishing-your-youtube-shorts/"><u>Your Ultimate Guide to Distinguishing Your Youtube Shorts</u></a></li>
 </ul></div>
 

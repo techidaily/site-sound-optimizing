@@ -1,7 +1,7 @@
 ---
 title: "Mount & Blade II: Bannerlord - Resolving Game Crash Issues"
-date: 2024-12-17T18:46:26.964Z
-updated: 2024-12-18T21:00:27.185Z
+date: 2024-12-25T08:23:50.713Z
+updated: 2024-12-27T07:25:47.223Z
 tags:
   - win11
   - win10
@@ -43,10 +43,6 @@ Stellaris might crash or stop responding unexpectedly for various reasons, such 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-11_18-07-52.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Click**Apply > OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-11_18-07-52-1.jpg)
@@ -58,6 +54,10 @@ Stellaris might crash or stop responding unexpectedly for various reasons, such 
 **5)** Click the**Compatibility tab** , then check**Run this program as an administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-11_18-07-45.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **6)** Click**Apply** , then**OK** .
 
@@ -87,13 +87,13 @@ If the crashing issue continues to occur, move on to the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-12_11-42-53.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Verify the integrity of your game files
 
@@ -104,6 +104,10 @@ If the crashing issue continues to occur, move on to the fix below.
 **2)** Click **LIBRARY** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-05-42-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Right-click**Stellaris** and select**Properties** .
 
@@ -125,10 +129,6 @@ If the crashing issue continues to occur, move on to the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-11_18-02-45.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **5)** Click the**Compatibility tab** , then check**Disable fullscreen optimizations** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-12_12-04-04-1.jpg)
@@ -136,10 +136,6 @@ If the crashing issue continues to occur, move on to the fix below.
 **6)** Click**Apply** , then**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-12_12-04-04-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Relaunch your game to see if it runs correctly now. If your issue still exists, try the fix below.
 
@@ -153,13 +149,13 @@ If the crashing issue continues to occur, move on to the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-12_11-22-12.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)** Right-click**This PC** , then click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-12_11-21-20.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Click**Advanced system settings** .
 
@@ -180,10 +176,6 @@ If the crashing issue continues to occur, move on to the fix below.
 **7)** Relaunch your game to see if this worked for you.
 
 If the game is still unplayable, read on and try the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6:**Run your game on compatibility modes**
 
@@ -217,6 +209,10 @@ If your issue still exists, move on to the next fix, below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-12_14-07-57.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)**  Click **Check for updates,**  and then wait for Windows to download and install the updates automatically.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-12_14-08-03.jpg)
@@ -232,10 +228,6 @@ If your issue still exists, move on to the next fix, below.
 **1)**  On your keyboard, press the **Windows logo key** and **R** at the same time to open the Run dialog box.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-12_14-36-45.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **2)**  Type **msconfig** . Then, on your keyboard, press the **Enter, Shift**  and **Ctrl**  keys at the same time to run System configuration as administrator.
 
@@ -256,6 +248,10 @@ If your issue still exists, move on to the next fix, below.
 **6)** Click **Apply** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-12_14-37-32.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **7)**  Click the **Startup tab.**
 
@@ -296,7 +292,7 @@ If your issue still exists, move on to the next fix, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-12_15-02-59.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4)** Click the **Services tab,** and then check the box next to **Hide all Microsoft services** .
@@ -310,6 +306,10 @@ If your issue still exists, move on to the next fix, below.
 **6)** Click **Apply** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-12_15-03-12.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **7)**  Click the **Startup tab** , then click **Open Task Manager** .
 
@@ -354,7 +354,7 @@ If your issue still exists, move on to the next fix, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-12_15-10-39.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **6)**  Click **Restart** .
@@ -371,6 +371,10 @@ If your issue still exists, move on to the next fix, below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-12_14-12-09-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)**  Right-click the **steamapps**  folder and select **Copy** . Then, place the copy in another location to back it up.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-12_14-11-41.jpg)
@@ -382,10 +386,6 @@ If your issue still exists, move on to the next fix, below.
 **4)** Under **View by** , select **Category.**  Then, select **Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-12_14-11-53.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **5)** Right-click **Steam** , and then click **Uninstall** . Then, wait for the process to be complete.
 
@@ -426,19 +426,21 @@ If your issue still exists, move on to the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-audio-to-action-mp3-to-youtube-conversion-journey/"><u>[New] 2024 Approved From Audio to Action MP3-to-YouTube Conversion Journey</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-leveraging-video-production-microsofts-movie-maker-for-windows-11/"><u>[New] Leveraging Video Production Microsoft's Movie Maker for Windows 11</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-top-10-must-haves-action-cameras-unleashed/"><u>[New] Top 10 Must-Haves Action Cameras Unleashed</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-current-compendium-of-questions-for-captivating-audio-clips/"><u>[Updated] 2024 Approved Current Compendium of Questions for Captivating Audio Clips</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-professional-insights-io-screen-capturing-demystified/"><u>[Updated] Professional Insights IO Screen Capturing Demystified</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/elevate-your-game-experience-a-selection-process-for-immersive-vocal-transformation-technology-for-2024/"><u>Elevate Your Game Experience A Selection Process for Immersive Vocal Transformation Technology for 2024</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/get-free-youtube-music-anytime-with-these-high-performing-splitters/"><u>Get Free YouTube Music Anytime With These High-Performing Splitters</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/get-your-pcs-sound-recorded-download-x-recorder/"><u>Get Your PC's Sound Recorded – Download X-Recorder</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/navigating-to-the-pinnacle-5-leading-audio-mixers-for-mac-users/"><u>Navigating to the Pinnacle 5 Leading Audio Mixers for Mac Users</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-unveiling-the-best-5-audio-mixers-engineered-for-mac-enthusiasts/"><u>New Unveiling the Best 5 Audio Mixers Engineered for Mac Enthusiasts</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/the-ultimate-guide-to-fixing-persistent-windows-update-problems/"><u>The Ultimate Guide to Fixing Persistent Windows Update Problems</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-the-art-of-concealing-the-boundaries-between-sounds-with-fades-for-2024/"><u>Updated The Art of Concealing the Boundaries Between Sounds with Fades for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-unlock-mac-video-editing-vn-video-editor-and-other-top-options/"><u>Updated Unlock Mac Video Editing VN Video Editor and Other Top Options</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-visualizing-sound-displaying-waveforms-and-enhancing-animation-in-adobe-premiere-pro/"><u>Updated Visualizing Sound Displaying Waveforms & Enhancing Animation in Adobe Premiere Pro</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/aking-photos-steadily-on-one-leg-in-2024/"><u>[New] Taking Photos Steadily on One Leg, In 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-secret-to-skyrocketing-revenue-crafting-engaging-video-trailers/"><u>[New] The Secret to Skyrocketing Revenue Crafting Engaging Video Trailers</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-easy-steps-making-time-lapses-on-galaxy-phones/"><u>[Updated] In 2024, Easy Steps Making Time-Lapses on Galaxy Phones</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-vlog-to-audio-conversion-with-twitta/"><u>[Updated] Vlog-to-Audio Conversion with Twitta</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/2024-approved-mastering-audio-balance-achieving-consistent-volume-levels-with-vlc-media-player/"><u>2024 Approved Mastering Audio Balance Achieving Consistent Volume Levels with VLC Media Player</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/in-2024-achieving-profound-pronunciation-in-filmora-videos/"><u>In 2024, Achieving Profound Pronunciation in Filmora Videos</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-a-vivo-x100-easily-by-drfone-android/"><u>In 2024, How To Unlock a Vivo X100 Easily?</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-maximizing-your-youtube-clicks-with-optimal-dimensions/"><u>In 2024, Maximizing Your YouTube Clicks with Optimal Dimensions</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-top-5-nubia-red-magic-8s-proplus-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Nubia Red Magic 8S Pro+ Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-elevating-audio-excellence-adjusting-pitch-in-audacity-without-compromising-quality/"><u>New In 2024, Elevating Audio Excellence Adjusting Pitch in Audacity without Compromising Quality</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-ornithological-soundscapes-mp3-compilation/"><u>New In 2024, Ornithological Soundscapes MP3 Compilation</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/revolutionize-document-handling-with-10-time-saving-chatgpt-pdf-addons/"><u>Revolutionize Document Handling with 10 Time-Saving ChatGPT PDF Addons</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/still-using-pattern-locks-with-honor-magic-v2-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Honor Magic V2? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-enhancing-audio-quality-practical-methods-to-eradicate-low-frequency-rumble/"><u>Updated Enhancing Audio Quality Practical Methods to Eradicate Low-Frequency Rumble</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-best-places-to-download-and-listen-to-bird-songs-in-mp3-format/"><u>Updated In 2024, Best Places to Download and Listen to Bird Songs in MP3 Format</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-the-art-of-harmonizing-moving-images-and-sounds-a-2023-approach/"><u>Updated The Art of Harmonizing Moving Images and Sounds (A 2023 Approach)</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Unlock the Mystery Behind Phasmophobia's 90%% Load Plateau in Game Launches
-date: 2024-12-16T22:06:58.088Z
-updated: 2024-12-18T16:04:13.249Z
+date: 2024-12-21T07:52:12.136Z
+updated: 2024-12-26T19:37:07.729Z
 tags:
   - win11
   - win10
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/157b4e9d1934c1c32aca2d6b6705f77b73d99232e
 
 Phasmophobia is, according to the reviews, the best ghost game ever made. It allows you to ghost hunt through this creepy, haunted video game. But there are some unfixed bugs reported by players, such as the game**being** **stuck at a 90% loading screen** issue. Then**the game freezes** . If you’re in the same boat, don’t worry. We’ve rounded up some fixes.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  You should be able to resolve it with one of the following solutions. You may not have to try all of these solutions; just work from the top down until you find the one.
@@ -32,10 +28,6 @@ Phasmophobia is, according to the reviews, the best ghost game ever made. It all
 5. **[Run Steam as an administrator](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Reset your network](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Uninstall and reinstall Phasmophobia](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 1: Make sure your computer meets the specs
 
@@ -81,10 +73,6 @@ OR
 
  Once you’ve downloaded the drivers, double-click on the downloaded file and follow the on-screen instructions to install the drivers.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Option 2 – Automatically update your drivers**
 
  If you don’t have the time, patience, or computer skills to update drivers manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -96,10 +84,6 @@ OR
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![update drivers automatically](https://images.drivereasy.com/wp-content/uploads/2020/09/scan-now-driver-easy-1.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.)
@@ -114,7 +98,7 @@ OR
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 3: Verify the integrity of game files
@@ -133,10 +117,6 @@ OR
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 4: Delete the game’s save file
 
  If your game files are corrupt, they can cause your game to be stuck on the loading screen. Deleting the files can sometimes resolve the problem:
@@ -147,6 +127,10 @@ OR
 
 ![delete save file Phasmophobia stuck at 90% loading screen](https://images.drivereasy.com/wp-content/uploads/2020/10/delete-save-file.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Locate the**saveData.txt** file and delete it.
 
  4) Now relaunch your game to check if the issue is fixed.
@@ -156,7 +140,7 @@ OR
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 5: Run Steam as an administrator
@@ -171,6 +155,10 @@ OR
 
 ![run Steam as an administrator to fix Phasmophobia stuck at 90% loading screen](https://images.drivereasy.com/wp-content/uploads/2020/11/run-Steam-as-an-administrator-select-Properties-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Select the**Compatibility**  tab and check the box next to **Run this program as an administrator** . Then click **Apply > OK** .
 
 ![run Steam as an administrator to fix Phasmophobia stuck at 90% loading screen](https://images.drivereasy.com/wp-content/uploads/2020/11/run-steam-as-an-administrator-apply-ok.jpg)
@@ -178,6 +166,10 @@ OR
 If this didn’t work, move on to the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 6: Reset your network
 
@@ -188,6 +180,10 @@ Here’s how you can do this:
  1) In the Search bar, type **network reset** and click **Network reset**  from the results.  
   
 ![reset network](https://images.drivereasy.com/wp-content/uploads/2020/10/network-reset-type-in-the-search-bar.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Click **Reset now** .  
   
@@ -210,12 +206,16 @@ Take these steps:
  1) On your keyboard, press the**Windows logo key** ![windows logo key](https://images.drivereasy.com/wp-content/uploads/2020/10/Windows.png) and**R** at the same time to invoke the Run box.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Type**%appdata%LocalLowKinetic Games** and press**Enter** .
 
 ![uninstall and reinstall Phasmophobia stuck at 90% loading screen](https://images.drivereasy.com/wp-content/uploads/2020/10/delete-save-file.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Delete everything in the**Kinetic Games folder** .
 
@@ -247,19 +247,20 @@ Take these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-cutting-edge-capturing-10-apps-that-lead-the-web-video-recording-race/"><u>[New] Cutting Edge Capturing #10 Apps That Lead the Web Video Recording Race</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-leveraging-insta-archive-features-a-step-by-step-approach/"><u>[New] Leveraging Insta Archive Features A Step-by-Step Approach</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-premium-headsets-for-next-gen-drone-pilots/"><u>[New] Premium Headsets for Next-Gen Drone Pilots</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/sovled-warno-stability-issues-expert-advice-to-prevent-game-crashing-on-computers/"><u>[SOVLED] Warno Stability Issues: Expert Advice to Prevent Game Crashing on Computers</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-the-complete-guide-to-audio-editing-in-audacity-made-simple/"><u>[Updated] The Complete Guide to Audio Editing in Audacity, Made Simple</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-crafting-perfect-photo-collage-in-your-iphone-app/"><u>2024 Approved Crafting Perfect Photo Collage in Your iPhone App</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/2024-approved-navigating-the-visual-landscape-key-facts-about-pexelscom-stock-images/"><u>2024 Approved Navigating the Visual Landscape Key Facts About Pexels.com Stock Images</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/a-comprehensive-overview-of-changing-speech-and-music-levels-in-files/"><u>A Comprehensive Overview of Changing Speech and Music Levels in Files</u></a></li>
-<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-samsung-galaxy-m34-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Samsung Galaxy M34 5G | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-motorola-moto-g34-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Motorola Moto G34 5G | Dr.fone</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/tumblr-mavens-live-on-snapchat-feed/"><u>Tumblr Mavens Live on Snapchat Feed</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-free-methods-to-embed-songs-within-video-content-creation-processes/"><u>Updated In 2024, Free Methods to Embed Songs Within Video Content Creation Processes</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-navigating-the-world-of-public-domain-photography-the-pexels-experience/"><u>Updated Navigating the World of Public Domain Photography The Pexels Experience</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-straightforward-speech-modification-software-overview-principles-and-comparable-alternatives-for-2024/"><u>Updated Straightforward Speech Modification Software Overview, Principles, & Comparable Alternatives for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/2024-approved-perfected-acoustic-parameters-for-electronics-optimization/"><u>2024 Approved Perfected Acoustic Parameters for Electronics Optimization</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-xiaomi-civi-3-disney-100th-anniversary-edition-support-mov-videos-by-aiseesoft-video-converter-play-mov-on-android/"><u>Does Xiaomi Civi 3 Disney 100th Anniversary Edition support MOV videos ?</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/eliminating-echoes-and-interference-ai-strategies-for-pristine-sound-quality-for-2024/"><u>Eliminating Echoes and Interference AI Strategies for Pristine Sound Quality for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/in-2024-enhancing-visual-storytelling-with-background-tunes-a-filmora-approach/"><u>In 2024, Enhancing Visual Storytelling with Background Tunes A Filmora Approach</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/in-2024-global-top-rated-mp3-editing-applications/"><u>In 2024, Global Top-Rated MP3 Editing Applications</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-lock-apps-on-vivo-v29-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Vivo V29 to Protect Your Individual Information</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-best-10-websites-to-download-montage-music/"><u>New Best 10 Websites to Download Montage Music</u></a></li>
+<li><a href="https://review-topics.techidaily.com/online-signature-for-pdf-v15-document-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>Online signature for PDF v1.5 document</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/pinpoint-wolfs-howling-frequency-for-2024/"><u>Pinpoint Wolfs Howling Frequency for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-nubia-red-magic-8s-proplus-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Nubia Red Magic 8S Pro+ Device</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/trouble-with-audio-solve-your-headphone-problems-on-a-windows-11-pc/"><u>Trouble with Audio? Solve Your Headphone Problems on a Windows 11 PC</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/ultimate-guide-to-improve-your-videos-with-winxvideo-ai-expert-tips-on-audio-removal-editing-and-format-conversions/"><u>Ultimate Guide to Improve Your Videos with Winxvideo AI – Expert Tips on Audio Removal, Editing & Format Conversions</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-mute-the-movie-guide-to-erasing-auditory-elements-from-various-video-formats/"><u>Updated 2024 Approved Mute the Movie Guide to Erasing Auditory Elements From Various Video Formats</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/viral-visuals-high-favored-instagram-filters/"><u>Viral Visuals High-Favored Instagram Filters</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/visions-of-the-future-the-historical-vr-journey/"><u>Visions of the Future The Historical VR Journey</u></a></li>
 </ul></div>
 
