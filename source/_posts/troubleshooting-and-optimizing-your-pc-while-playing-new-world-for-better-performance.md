@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting and Optimizing Your PC While Playing New World for Better Performance
-date: 2025-01-06T11:03:11.517Z
-updated: 2025-01-11T18:57:54.022Z
+date: 2025-01-17T03:38:29.071Z
+updated: 2025-01-17T18:17:20.525Z
 tags:
   - win11
   - win10
@@ -50,6 +50,10 @@ Here’s how to use Fortect to run a Windows repair:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)  
  To fix all the issues automatically, click **Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Restart your computer for the changes to take effect.
 5. Check your computer to see if the game still crashes.
 
@@ -63,17 +67,9 @@ Here’s how to use Fortect to run a Windows repair:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)
 2. Click**Yes** when prompted to confirm.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. In the command prompt window, type**sfc /scannow** and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)  
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Restart your computer for the changes to take effect.
 5. Check your computer to see if the game still crashes.
@@ -93,15 +89,19 @@ Here’s how to use Fortect to run a Windows repair:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/1650-super-de-update-all-1.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Restart your PC for the changes to take effect.
 5. Launch CoD, then check to see if the game crashing problem has been resolved. If yes, then great! If the issue still persist, please try**Fix** 3, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3:**Make sure your PC meets the specs for Vanguard**
 
@@ -125,21 +125,21 @@ To check the specs of your PC:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/dxdiag-Run-box.png)
 2. Under the **System** tab and you can check the **Operating System**  and **Memory** information on your PC.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/dxdiag-diagnostic-tool-1.png)
 3. Select the **Display** tab, and you’ll be presented with the information about your **graphics card** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/display-1.png)
 4. Close DirectX.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If your PC specs have been up to the mark but Call of Duty: Vanguard still crashes, please move on to **Fix 4** , below to begin troubleshooting.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Scan & repair Vanguard game files
 
@@ -149,6 +149,10 @@ To check the specs of your PC:
 2. In the left menu, choose **Call of Duty Vanguard** . Then click **Options**  \> **Scan and Repair** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/scan-and-repair-game-files-1.jpg)
 3. Click **Begin Scan** , then wait a while as the tool scans and repairs your game installation.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. Launch Vanguard again and check to see if the crashing issue still occurs.
 
@@ -161,7 +165,7 @@ To check the specs of your PC:
 Cod Vanguard crashing still not resolved? Please try Fix 6, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 6: Close background apps
@@ -176,10 +180,6 @@ Cod Vanguard crashing still not resolved? Please try Fix 6, below.
 3. Restart your computer.
 
 4. Test the gameplay in Vanguard and see if the crashing issue is fixed. If yes, congrats! If it’s still no joy, please move on to**Fix 7** , below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 7: Make sure your system is up to date
 
@@ -217,22 +217,22 @@ Here are the steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-best-translation-devices-to-subtitle-videos/"><u>[New] Best Translation Devices to Subtitle Videos</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-the-beat-goes-on-integrating-songs-into-your-snapchats/"><u>[New] In 2024, The Beat Goes On Integrating Songs Into Your Snapchats</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-snapchat-speed-control-a-detailed-walkthrough-for-2024/"><u>[New] Snapchat Speed Control A Detailed Walkthrough for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-light-your-youtube-video/"><u>[Updated] 2024 Approved How To Light Your YouTube Video</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-innovative-ways-to-create-captivating-slow-motion-videos-for-instagram-fame/"><u>[Updated] 2024 Approved Innovative Ways to Create Captivating Slow Motion Videos for Instagram Fame</u></a></li>
-<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-vivo-y77t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Vivo Y77t | Dr.fone</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/excellent-camcorders-with-facing-panel/"><u>Excellent Camcorders with Facing Panel</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-best-handhayer-reduction-the-top-10-cams-for-filmmaking/"><u>In 2024, Best Handhayer Reduction The Top 10 Cams for Filmmaking</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-premiere-pro-essentials-how-to-seamlessly-integrate-sound-with-visuals/"><u>New 2024 Approved Premiere Pro Essentials How to Seamlessly Integrate Sound with Visuals</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/solutions-for-unplayable-video-files/"><u>Solutions for Unplayable Video Files</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/ultimate-3-auditory-enhancement-devices-for-mp3-files/"><u>Ultimate 3 Auditory Enhancement Devices for MP3 Files</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/ultimate-data-archiving-system/"><u>Ultimate Data Archiving System</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/update-your-logitech-g403-mouse-and-keyboard-software-for-optimal-performance-on-desktop-computers/"><u>Update Your Logitech G403 Mouse and Keyboard Software for Optimal Performance on Desktop Computers</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-the-complete-process-of-audio-integration-into-quicktime-video-files/"><u>Updated 2024 Approved The Complete Process of Audio Integration Into QuickTime Video Files</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-how-to-quickly-fix-audio-importing-issues-in-adobe-premiere-pro-for-2024/"><u>Updated How to Quickly Fix Audio Importing Issues in Adobe Premiere Pro for 2024</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-audio-free-video-formats-mastering-the-art-of-silence-removal-in-popular-file-types-mp4-mkv-avi-mov-wmv/"><u>Updated In 2024, Audio-Free Video Formats Mastering the Art of Silence Removal in Popular File Types (MP4, MKV, AVI, MOV, WMV)</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-streamlined-methods-for-obtaining-pitched-ding-sound-files-online-the-top-10-list/"><u>Updated Streamlined Methods for Obtaining Pitched Ding Sound Files Online - The Top 10 List</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-mastering-iphones-ringtone-personalization-for-2024/"><u>[New] Mastering iPhone's Ringtone Personalization for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-clickbait-crafting-secrets-to-facebooks-favorites/"><u>2024 Approved Clickbait Crafting Secrets to Facebook's Favorites</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/2024-approved-innovations-in-capturing-high-fidelity-broadcast-sound/"><u>2024 Approved Innovations in Capturing High-Fidelity Broadcast Sound</u></a></li>
+<li><a href="https://win-able.techidaily.com/crisp-and-clear-imagery-how-recent-fixes-have-refined-outriders-visual-presentation/"><u>Crisp and Clear Imagery: How Recent Fixes Have Refined Outriders' Visual Presentation</u></a></li>
+<li><a href="https://games-able.techidaily.com/eliminating-steam-installation-problems-on-pc/"><u>Eliminating Steam Installation Problems on PC</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-revive-your-bricked-infinix-smart-8-hd-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Infinix Smart 8 HD in Minutes | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-4-typical-gpu-woes-solutions-explored/"><u>Navigating 4 Typical GPU Woes: Solutions Explored</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-tailoring-sound-techniques-for-altering-audio-speed-and-pitch-in-adobe-rush/"><u>New 2024 Approved Tailoring Sound Techniques for Altering Audio Speed & Pitch in Adobe Rush</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-discovering-the-most-advanced-online-tools-for-mp3-file-tagging-and-categorization/"><u>New In 2024, Discovering the Most Advanced Online Tools for MP3 File Tagging and Categorization</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-harmonizing-your-listening-experience-levels-of-loudness-control-in-vlc-player/"><u>New In 2024, Harmonizing Your Listening Experience Levels of Loudness Control in VLC Player</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-messages-from-motorola-moto-g24-by-fonelab-android-recover-messages/"><u>Possible solutions to restore deleted messages from Motorola Moto G24</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/solving-compatibility-issues-with-hp-monitor-drivers-on-windows-1187-platforms/"><u>Solving Compatibility Issues with HP Monitor Drivers on Windows 11/8/7 Platforms</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-paramount-practices-in-gathering-your-precious-collection-of-high-fidelity-youtube-audio/"><u>Updated 2024 Approved Paramount Practices in Gathering Your Precious Collection of High-Fidelity YouTube Audio</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-how-to-get-filmora-for-free-without-crack-for-2024/"><u>Updated How to Get Filmora for Free without Crack for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-auditory-sculpture-in-motion-constructing-vibrant-audio-visual-compositions-with-premiere-pro/"><u>Updated In 2024, Auditory Sculpture in Motion Constructing Vibrant Audio-Visual Compositions with Premiere Pro</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-seamless-audio-visual-integration-the-top-5-audio-video-mixer-innovations/"><u>Updated In 2024, Seamless Audio-Visual Integration The Top 5 Audio Video Mixer Innovations</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-isolating-the-aural-feedback-resulting-from-button-engagement-for-2024/"><u>Updated Isolating the Aural Feedback Resulting From Button Engagement for 2024</u></a></li>
 </ul></div>
 

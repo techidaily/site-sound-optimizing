@@ -1,7 +1,7 @@
 ---
 title: New The Ultimate Guide to Pre-Processing Tracks Using Lame & Audacity for 2024
-date: 2025-01-07T03:24:33.005Z
-updated: 2025-01-11T22:05:42.436Z
+date: 2025-01-16T20:28:05.540Z
+updated: 2025-01-18T04:27:34.182Z
 tags: 
   - audio editing software
   - audio editing
@@ -89,6 +89,10 @@ Chrome OS does not support the most recent version of Audacity. It is possible t
 
 ![lame-for-audacity-windows](https://images.wondershare.com/how-to-download-lame-for-audacity.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Installing Lame for Audacity is a simple process with no extra tools required. Right-click and choose "Install," then restart your computer. Continue to press the "Next" button until you've completed the task. A lame mp3 encoder may now be installed. However, here are the procedures to follow in order to utilize and begin the mp3 encoding process:
 
 * Open Audacity and choose "Edit" from the drop-down menu.
@@ -127,7 +131,7 @@ Most of the time, Audacity will automatically find the Lame Library. The actions
 Are you looking for an alternative to Audacity? It's also available to us! You may also want to investigate the Audacity VST enabler, which will allow you to utilize Audacity much more effectively.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusions
@@ -166,16 +170,12 @@ Installing Lame for Audacity is a simple process with no extra tools required. R
 
 You may either download or develop a suitable version of the Lame mp3 encoder, after which you can install it. Following installation, look for lame for audacity in the library choices. The majority of Linux distributions have a form of package manager that detects, downloads, and installs software packages from the internet for you. Once you've opened the package manager, look for Lame and then install it if it hasn't already been done so.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Preferences for Library Resources
 
 ![preferences-for-library-resources](https://images.wondershare.com/preferences-for-library-resources.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Some distributions, such as the Ubuntu(Current) distribution, provide packages for Audacity, which includes mp3 encoding, and Libav, which is connected to the appropriate system libraries. It is not necessary to identify LAME or FFmpeg in the Audacity builds that have previously been packaged since there are no library choices for Audacity.
@@ -225,15 +225,15 @@ Installing Lame for Audacity is a simple process with no extra tools required. R
 * Select "File" and then "Export to mp3" from the drop-down menu.
 * Save the file on your computer. You will be required to input the ID3 tags for the artist's name and the title of the music into the Audacity program. By clicking "Ok," the encoding procedure for the file into the mp3 format will begin.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Lame for Audacity Windows
 
 ![lame-for-audacity-windows](https://images.wondershare.com/lame-for-audacity-windows.png)
 
 You may either download or develop a suitable version of the Lame mp3 encoder, after which you can install it. Following installation, look for lame for audacity in the library choices. The majority of Linux distributions have a form of package manager that detects, downloads, and installs software packages from the internet for you. Once you've opened the package manager, look for Lame and then install it if it hasn't already been done so.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Preferences for Library Resources
 
@@ -242,6 +242,10 @@ You may either download or develop a suitable version of the Lame mp3 encoder, a
 Some distributions, such as the Ubuntu(Current) distribution, provide packages for Audacity, which includes mp3 encoding, and Libav, which is connected to the appropriate system libraries. It is not necessary to identify LAME or FFmpeg in the Audacity builds that have previously been packaged since there are no library choices for Audacity.
 
 If you construct Audacity from source code, you may disable libraries' preferences by setting Audacity as follows: Disable > Dynamic > Encoding > Disable > Dynamic > Encoding > Disable > Dynamic > Encoding. Finally, create an instance of Audacity that is connected to the LAME system. Additionally, you may build FFmpeg or Libav on your own computer if you so wish.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Can’t find MP3 Lame Library?
 
@@ -331,10 +335,6 @@ After that, click the “Export” button to export the extracted audio track. H
 
 ![save extracted audio in MP3](https://images.wondershare.com/filmora/article-images/mp3-export.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 To customize the audio Encoder, Sample Rate, Bit Rate or Channel settings, click the SETTINGS button to start.
 
 Besides that, you can export the audio file for playback on portable devices, burn it to DVD or share it to YouTube directly.
@@ -369,10 +369,6 @@ Install and run this Wondershare Filmora. Then click the “Import” button to 
 
 ![extract audio from video - import media](https://images.wondershare.com/filmora/article-images/extract-audio-from-video-filmora9-media-library.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### 2. Start extracting audio from video
 
 ![extract audio from video](https://images.wondershare.com/filmora/article-images/detach-audio-filmora9.jpg)
@@ -386,6 +382,10 @@ Double click the extracted file in the audio track and then you will see the aud
 You can add fade-in and fade-out effects, [change the sound volume](https://tools.techidaily.com/wondershare/filmora/download/), adjust the pitch to [change the voice](https://tools.techidaily.com/wondershare/filmora/download/), etc. as you like.
 
 ![edit extracted audio from video in Filmora9](https://images.wondershare.com/filmora/article-images/audio-editing-panel.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 If you find some unnecessary sounds in the extracted audio file, and you want to delete them, just put the cursor to the place where you would like the deletion to start and press the “Split” button to split. The end of the deletion area can be marked similarly – play the audio and select the final point of the area to be excluded from the output audio, and then press the “Split” button again.
 
@@ -437,6 +437,10 @@ Install and run this Wondershare Filmora. Then click the “Import” button to 
 
 ![extract audio from video](https://images.wondershare.com/filmora/article-images/detach-audio-filmora9.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 After importing video to Wondershare Filmora, drag the video from the media library to the video Timeline. You can then right-click the video clip and choose “Audio Detach” to extract audio from the video. After a while, video and audio will be displayed on different tracks. If you don’t want to keep the video file, right-click it and choose “Delete” to remove it from the video timeline.
 
 #### 3. Edit the extracted audio if you like
@@ -487,6 +491,10 @@ You have a video that includes a great soundtrack that you'd like to **extract**
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### 1. Import video files
 
 Install and run this Wondershare Filmora. Then click the “Import” button to locate and add your target video. You can also directly drag and drop the video to the program. The loaded video will be listed in the media library as the following picture shows.
@@ -507,10 +515,6 @@ You can add fade-in and fade-out effects, [change the sound volume](https://tool
 
 ![edit extracted audio from video in Filmora9](https://images.wondershare.com/filmora/article-images/audio-editing-panel.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 If you find some unnecessary sounds in the extracted audio file, and you want to delete them, just put the cursor to the place where you would like the deletion to start and press the “Split” button to split. The end of the deletion area can be marked similarly – play the audio and select the final point of the area to be excluded from the output audio, and then press the “Split” button again.
 
 ![split and delete unwanted part from extracted audio](https://images.wondershare.com/filmora/article-images/split-delete-extracted-audio-min.gif)
@@ -522,10 +526,6 @@ Click the split part in the audio track, press the Delete button on the keyboard
 After that, click the “Export” button to export the extracted audio track. Here different options are provided. For example, you can save the audio in regular formats such as MP3, MP4, WMV, AVI, and so on in the “Device” tab.
 
 ![save extracted audio in MP3](https://images.wondershare.com/filmora/article-images/mp3-export.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 To customize the audio Encoder, Sample Rate, Bit Rate or Channel settings, click the SETTINGS button to start.
 
@@ -550,10 +550,6 @@ Follow @Shanoon Cox
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Essential List: The Best Song Editing Apps for Windows/Mac Devices
 
@@ -595,6 +591,10 @@ This editor also offers Silence Detection, Video Sync, and many more cool audio 
 
 ![twistedwave mac](https://images.wondershare.com/filmora/article-images/2022/best-audio-editor-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. WavePad Audio Editing Software
 
 Compatibility: Windows & Mac
@@ -626,7 +626,7 @@ This editor has a lot of new features like Modern Reverb, Modern EQ, Resampling 
 ![sound forge audio editor](https://images.wondershare.com/filmora/article-images/2022/best-audio-editor-6.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 7\. Logic Pro
@@ -711,18 +711,17 @@ For macOS 10.12 or later
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-step-by-step-process-to-perfect-your-fb-reel-skills/"><u>[New] Step-by-Step Process to Perfect Your FB Reel Skills</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/dable-online-education-hosting-on-youtube-for-2024/"><u>Affordable Online Education Hosting on YouTube for 2024</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/behind-the-scenes-the-essential-roles-of-film-production-team-members/"><u>Behind the Scenes The Essential Roles of Film Production Team Members</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/comparing-cloud-prices-for-maximum-savings-for-2024/"><u>Comparing Cloud Prices for Maximum Savings for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/get-your-custom-sized-oura-smart-ring-from-target-and-more-tips-inside-articles-by-zdnet/"><u>Get Your Custom-Sized Oura Smart Ring From Target & More Tips Inside | Articles by ZDNet</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/in-2024-achieving-profound-pronunciation-in-filmora-videos/"><u>In 2024, Achieving Profound Pronunciation in Filmora Videos</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-exploring-the-creme-de-la-creme-of-distorted-audio-technology-tools-for-2024/"><u>New Exploring the Crème De La Crème of Distorted Audio Technology Tools for 2024</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-elevating-your-viewing-experience-2023-guide-to-audio-volume-adjustment-in-videos/"><u>New In 2024, Elevating Your Viewing Experience 2023 Guide to Audio Volume Adjustment in Videos</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-tutorial-for-creating-mute-avi-video-files-edition/"><u>New Tutorial for Creating Mute AVI Video Files Edition</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/photo-your-desktop-windows-edition-for-2024/"><u>Photo Your Desktop Windows Edition for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/restoring-functionality-in-windows-11-help-app/"><u>Restoring Functionality in Windows 11 Help App</u></a></li>
-<li><a href="https://media-tips.techidaily.com/rewind-live-broadcasts-easily-discover-the-power-of-nbcuniversals-now-service-and-nextgen-tv-technology/"><u>Rewind Live Broadcasts Easily: Discover the Power of NBCUniversal's Now Service and NextGen TV Technology</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/simplify-your-life-with-time-lapsing-on-samsung-gear-for-2024/"><u>Simplify Your Life with Time-Lapsing on Samsung Gear for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-from-silence-to-sonata-cropping-and-mixing-music-into-video-content/"><u>[New] 2024 Approved From Silence to Sonata Cropping & Mixing Music Into Video Content</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-define-new-destination-for-mac-screenshots/"><u>[New] Define New Destination for Mac Screenshots</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-capture-save-your-guide-to-androidmac-video-savings/"><u>[Updated] Capture, Save Your Guide to Android/Mac Video Savings</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-stand-out-from-the-noise-logo-design-for-podcast-success-for-2024/"><u>[Updated] Stand Out From the Noise Logo Design for Podcast Success for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/2024-approved-echo-excellence-enhancing-windows-pc-sounds-with-online-acoustic-plugins/"><u>2024 Approved Echo Excellence Enhancing Windows PC Sounds with Online Acoustic Plugins</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/boundless-conversations-with-chatgpt-navigating-through-global-accessibility-with-the-help-of-chatgpt-everywhere/"><u>Boundless Conversations with ChatGPT: Navigating Through Global Accessibility with the Help of ChatGPT Everywhere</u></a></li>
+<li><a href="https://common-error.techidaily.com/easy-solutions-resolving-unrecognizable-usb-flash-drive-issues/"><u>Easy Solutions: Resolving Unrecognizable USB Flash Drive Issues</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/how-to-fade-in-and-fade-out-audio-in-adobe-after-effects-for-2024/"><u>How to Fade In and Fade Out Audio in Adobe After Effects for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-instagram-power-play-top-10-apps-to-increase-followers-and-posts/"><u>In 2024, Instagram Power Play Top 10 Apps to Increase Followers & Posts</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/in-2024-libertys-guide-to-attaching-tracks-in-movies-for-free/"><u>In 2024, Libertys Guide to Attaching Tracks in Movies for Free</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-deejay-discovery-compile-dj-beats-for-your-playlist-for-2024/"><u>New Deejay Discovery Compile DJ Beats for Your Playlist for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/premium-4k-capture-systems-our-1-to-18-picks/"><u>Premium 4K Capture Systems Our #1 to #18 Picks</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Overcoming Performance Hiccups in Urban Planning Simulator Skyline Edition - PC Guide
-date: 2025-01-10T08:14:13.307Z
-updated: 2025-01-12T03:22:46.224Z
+date: 2025-01-10T18:52:55.401Z
+updated: 2025-01-17T23:04:04.658Z
 tags:
   - win11
   - win10
@@ -37,10 +37,6 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
 | Graphics  | NVIDIA GeForce GTX 1060 / AMD Radeon RX Vega 56 |
 | Storage   | 32 GB available space                           |
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
 1. [Download the latest patch](https://tools.techidaily.com/drivereasy/download/)
@@ -61,6 +57,10 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/1-4.jpg)
 3. Under the**Advanced** tab, click**Settings** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2-4.jpg)
 4. Under**Virtual memory** , click**Change** .  
 
@@ -70,11 +70,11 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/4-2.jpg)
 6. Click**Set > OK** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 7. Reboot your computer can check whether the crash will appear or not.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Delete specific files from the save folder
 
@@ -87,14 +87,10 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/browse-2.jpg)
 4. Navigate to the save folder, delete Data(999).sav & Data(999).bak.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Reboot your computer and check the issue is solved or not.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Underclock your clock speed
@@ -129,10 +125,14 @@ OR
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Thanks for reading. Hope this article meets your need. And you are welcome to leave comments below.
 
@@ -153,17 +153,16 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-high-quality-sfpr-settings-for-deliberate-moments/"><u>[New] High-Quality SFPR Settings for Deliberate Moments</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-a-new-era-for-cameras-exploring-the-multicam-revolution/"><u>[New] In 2024, A New Era for Cameras Exploring the MultiCam Revolution</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-prime-tools-for-gopro-action-footage/"><u>[Updated] 2024 Approved Prime Tools for GoPro Action Footage</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-momentum-meets-mass-audience-for-2024/"><u>[Updated] Momentum Meets Mass Audience for 2024</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/5-prime-destinations-for-finding-and-downloading-legal-funny-tunes-online/"><u>5 Prime Destinations for Finding and Downloading Legal Funny Tunes Online</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-tecno-camon-20-premier-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Tecno Camon 20 Premier 5G | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-infinix-note-30-pro-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Infinix Note 30 Pro Phones? | Dr.fone</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-silencing-unwanted-noise-in-your-imovie-projects-on-macos-systems-for-2024/"><u>New Silencing Unwanted Noise in Your iMovie Projects on macOS Systems for 2024</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-audacity-setup-guide-for-ubuntu-installs-uninstalls-and-troubleshooting-tips/"><u>Updated Audacity Setup Guide for Ubuntu Installs, Uninstalls & Troubleshooting Tips</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-seamless-audio-visual-integration-the-top-5-audio-video-mixer-innovations/"><u>Updated In 2024, Seamless Audio-Visual Integration The Top 5 Audio Video Mixer Innovations</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-streamlining-silence-simplified-guide-to-extracting-background-noise-from-music-tracks-using-audacity/"><u>Updated Streamlining Silence Simplified Guide to Extracting Background Noise From Music Tracks Using Audacity</u></a></li>
-<li><a href="https://blog-min.techidaily.com/winxvideo-ai-enhance-stabilize-and-edit-your-videos-and-images/"><u>Winxvideo AI: Enhance, Stabilize & Edit Your Videos and Images</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-innovative-iosandroid-apps-for-photo-writing/"><u>[Updated] Innovative iOS/Android Apps for Photo-Writing</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/crafting-dynamic-fb-video-covers-a-step-by-step-guide-for-2024/"><u>Crafting Dynamic FB Video Covers A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/effiziente-konvertierung-von-dvds-zu-digitalen-videoversionen-auf-windows-11-und-mac/"><u>Effiziente Konvertierung Von DVDs Zu Digitalen Videoversionen Auf Windows 11 Und Mac</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/eliminating-echoes-and-interference-ai-strategies-for-pristine-sound-quality-for-2024/"><u>Eliminating Echoes and Interference AI Strategies for Pristine Sound Quality for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-tecno-spark-20-pro-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Tecno Spark 20 Pro? | Dr.fone</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/in-2024-best-worth-websites-to-find-your-perfect-montage-soundtrack/"><u>In 2024, Best-Worth Websites to Find Your Perfect Montage Soundtrack</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-from-silence-to-symphony-a-practical-approach-to-changing-video-audio-part-1/"><u>New From Silence to Symphony A Practical Approach to Changing Video Audio (Part 1)</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/silent-battles-uncovering-the-reasons-behind-muted-apex-legends-audio-problems/"><u>Silent Battles: Uncovering the Reasons Behind Muted Apex Legends Audio Problems</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-finding-the-best-synthetic-textures-to-replicate-a-paintbrushs-swipe-for-2024/"><u>Updated Finding the Best Synthetic Textures to Replicate a Paintbrushs Swipe for 2024</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-reinstall-drivers-on-windows-11-and-10-by-drivereasy-guide/"><u>Use Device Manager to reinstall drivers on Windows 11 & 10</u></a></li>
+<li><a href="https://driver-install.techidaily.com/xerox-workcentre-system-update/"><u>Xerox WorkCentre System Update</u></a></li>
 </ul></div>
 

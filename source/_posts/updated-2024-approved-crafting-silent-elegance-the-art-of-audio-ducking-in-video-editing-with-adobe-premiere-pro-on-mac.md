@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Crafting Silent Elegance The Art of Audio Ducking in Video Editing with Adobe Premiere Pro on Mac
-date: 2025-01-06T09:48:52.010Z
-updated: 2025-01-12T06:44:50.266Z
+date: 2025-01-12T18:26:18.890Z
+updated: 2025-01-18T03:18:55.110Z
 tags: 
   - audio editing software
   - audio editing
@@ -56,10 +56,6 @@ Great! You can now preview the changes you have made and check the audio ducking
 
 Furthermore, you can also perform an instant hard ducking in Premiere Pro. For this, just choose the track, go to the side panel, and select **Preset** \> **Music** \> **Hard Vocal Ducking**. While it would get instant results in Adobe Premiere audio ducking, the results might not be so effective.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 2: Wondershare Filmora
 
 As you can see, the Premiere Pro audio ducking feature can get a bit complicated if you are a beginner. Therefore, if you are looking for a simpler and more effective automatic ducking solution, then use Wondershare Filmora. This intuitive and diverse video/audio editing tool has an automatic audio ducking option that would make your job a whole lot easier.
@@ -240,10 +236,6 @@ Who knew it would be so easy to do auto-ducking in Premiere Pro, right? Though, 
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.
@@ -319,7 +311,7 @@ Who knew it would be so easy to do auto-ducking in Premiere Pro, right? Though, 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -355,6 +347,10 @@ Topaz DeNoise AI has a very simple and intuitive interface with different noise 
 
 So, as mentioned, traditional noise reduction software most of the time reduces the original detail in the images, but DeNoise AI’s noise reduction eliminates noise, meanwhile, preserves the detail and even enhances it. The new update of Topaz DeNoise AI offers different advanced DeNoise AI Models that can be integrated perfectly into your workflow; you can use it as a standalone piece of software or as a plugin for Adobe Photoshop or Lightroom.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to AI DeNoise a file
 
 Let’s just suppose you don’t have the software. So, download and install Topaz DeNoise AI. Go to Topaz Labs and select your operating system: Windows or Macintosh OS. Then, install the program.
@@ -387,10 +383,6 @@ Zoom in on your images to accurately check the process’s progress.
 
 ![zoom in on images](https://images.wondershare.com/filmora/article-images/2022/07/ai-denoise-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Denoise AI full review and tutorial
 
 On the right side, you’ll find:
@@ -408,10 +400,6 @@ On the right side, you’ll find:
 
 ![set output settings](https://images.wondershare.com/filmora/article-images/2022/07/ai-denoise-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Then, adjust the setting sliders (you can just select Auto mode here); now, apply the adjustments locally, if necessary, using the mask tool; and, save the file with the output settings selected.
 
 **Second, let’ts move to DeNoise AI workflow.**
@@ -419,6 +407,10 @@ Then, adjust the setting sliders (you can just select Auto mode here); now, appl
 If you are trying to find the simplest way to start with DeNoise Ai, it’s better to use the suggested mode, - Light bulb icon! This will automatically select an AI model, and will do so based oon your image. Anyway, in order to remove digital noise there, it’s the best to use the updated comparison view. The reason is obvious – you can take a look right away and compare varied AI models, or the same ones with some different settings to your liking.
 
 ![use light bulb icon](https://images.wondershare.com/filmora/article-images/2022/07/ai-denoise-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 So, how to do just that? Well, select the AI model and fine-tune the adjustment using the following settings:
 
@@ -447,10 +439,6 @@ And, the masking settings are:
 
 Once you finish creating your mask, just click on the “apply mask” button, and there you go!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Wondershare Filmora X
 
 Even though we discussed in so much detail how to DeNoise AI our images, it’s important to keep in mind that even videos need denoising. So, we decided to keep you informed about how to do that, as well. [Wondershare Filmora X](https://tools.techidaily.com/wondershare/filmora/download/) is something that can help us with that – it can change our damaged scene into something more acceptable. And in order to do so, first, you need to go to the Effects panel and type: “Smart Denoise”, then, right-click on the video and choose Edit Properties.
@@ -461,9 +449,17 @@ Even though we discussed in so much detail how to DeNoise AI our images, it’s 
 
 ![wondershare filmora x](https://images.wondershare.com/filmora/article-images/2022/07/ai-denoise-6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 With this, you will see the Smart Denoise, where you are able to change opacity of the clip, threshold and radius.
 
 ![see smart denoise](https://images.wondershare.com/filmora/article-images/2022/07/ai-denoise-7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 You can now reduce Opacity until you are satisfied with the result. The box next to Smart Denoise will show you the scene before and after the effect.
 
@@ -481,6 +477,10 @@ Double-click on the audio track and have access to the editing panel, where you 
 
 ![double click on audio track](https://images.wondershare.com/filmora/article-images/2022/07/ai-denoise-9.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Keep in mind that there is a second way to achieve the same result as well, but this in case you don’t want to detach the audio: Double-click on the video clip in the timeline, the editing panel opens, so switch to Audio. Checking the box next to Remove background noise will show that there are three levels – weak, mid, and strong, and of course, you can choose to your liking!
 
 If the voice recording doesn’t sound natural anymore, you can do the following: Click on Customize and Customize Equalizer window will open.
@@ -491,10 +491,6 @@ On the left, you can see the low tunes, while the highs are on the right. Backgr
 
 ![lower sound](https://images.wondershare.com/filmora/article-images/2022/07/ai-denoise-11.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 So, in this article, you learned about different noises, and about different tools and programs to denoise your images, videos, and audios! Pretty enlightening, ha? Let’s hope this is something you are looking for, and will put to good use very, very soon!
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
@@ -504,10 +500,6 @@ So, in this article, you learned about different noises, and about different too
 With this, you will see the Smart Denoise, where you are able to change opacity of the clip, threshold and radius.
 
 ![see smart denoise](https://images.wondershare.com/filmora/article-images/2022/07/ai-denoise-7.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 You can now reduce Opacity until you are satisfied with the result. The box next to Smart Denoise will show you the scene before and after the effect.
 
@@ -549,66 +541,112 @@ So, in this article, you learned about different noises, and about different too
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
-##### Shanoon Cox
-
- Mar 27, 2024• Proven solutions
-
- Got video with more than one audio track and want to remove the unnecessary one? Or want to extract audio, sound, or background music from home movies, YouTube videos, and any other video file? Well, what you need is an easy-to-use audio remover. This following article will introduce a step-by-step instruction on how to use powerful video editing software- [Wondershare Filmora (originally Wondershare Video Editor)](https://tools.techidaily.com/wondershare/filmora/download/). With it, you can extract audio from video files like AVI, MP4, FLV, AVI, ect and save them in different for formats.
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-#### 1 Add the AVI file to the program
-
- To get started using Wondershare Filmora (originally Wondershare Video Editor), download and install the program. Open the AVI you wish to edit in this video editing software. You can either drag and drop the file into the program or click “Import”. Then AVI file will appear in the media item near the preview pane.
-
-![remove audio from avi](https://images.wondershare.com/images/multimedia/video-editor/video-editor-main-interface.jpg)
-
-#### 2 Remove the audio from AVI file
-
- Then drag the AVI file into the Video Timeline to begin editing. Right click on the file and select "Audio Detach”. The audio will automatically appear on the Audio Timeline. Click on the audio track you wish to delete and press the "Delete" button on your keyboard. Alternately, you could right-click the track and select the "Delete" command.
-
- Tip: If you want to add a new audio file to the video, just drag-n-drop it to the Audio Timeline. Then double click to edit it in the editing panel. You can change the playing speed, volume, pitch, etc. as you like. You can also hit “Record a voiceover” and plug in your microphone to record your own voice and add it to the video.
-
-![remove audio track from avi](https://images.wondershare.com/images/multimedia/video-editor/audio-detach.jpg)
-
-#### 3 Save the new file
-
- After that, press the Create button to save it to a suitable format. The process will take some time depending on the output file length and your computer performance. When extraction is over, find your file in the destination folder and play it using your media player. Of course, you can also directly upload the new file to YouTube or burn to DVD- all your choice!
-
-![remove audio from avi file](https://images.wondershare.com/images/multimedia/video-editor/video-editor-output.jpg)
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
- Now just follow the above detailed guide and easily remove audio from AVI or delete the unwanted sound track. Besides removing audio, you can also use Wondershare Filmora (originally Wondershare Video Editor) to [split video](https://tools.techidaily.com/wondershare/filmora/download/), [merge videos into one](/video-editing-tips/combine-videos.html), [rotate video](https://tools.techidaily.com/wondershare/filmora/download/), [trim and crop video](https://tools.techidaily.com/wondershare/filmora/download/), [add image to video](/video-editing-tips/add-image-to-mp3.html), [make multi screen video](/video-editing-tips/make-multi-screen-video.html) and more. Just download this ideal video editing tool and enrich your video life.
-
- Here is a video tutorial:
-
-![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
-
-Shanoon Cox
-
-Shanoon Cox is a writer and a lover of all things video.
-
-Follow @Shanoon Cox
-
-##### Shanoon Cox
-
- Mar 27, 2024• Proven solutions
-
- Got video with more than one audio track and want to remove the unnecessary one? Or want to extract audio, sound, or background music from home movies, YouTube videos, and any other video file? Well, what you need is an easy-to-use audio remover. This following article will introduce a step-by-step instruction on how to use powerful video editing software- [Wondershare Filmora (originally Wondershare Video Editor)](https://tools.techidaily.com/wondershare/filmora/download/). With it, you can extract audio from video files like AVI, MP4, FLV, AVI, ect and save them in different for formats.
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-#### 1 Add the AVI file to the program
-
- To get started using Wondershare Filmora (originally Wondershare Video Editor), download and install the program. Open the AVI you wish to edit in this video editing software. You can either drag and drop the file into the program or click “Import”. Then AVI file will appear in the media item near the preview pane.
-
-![remove audio from avi](https://images.wondershare.com/images/multimedia/video-editor/video-editor-main-interface.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
+##### Shanoon Cox
+
+ Mar 27, 2024• Proven solutions
+
+ Got video with more than one audio track and want to remove the unnecessary one? Or want to extract audio, sound, or background music from home movies, YouTube videos, and any other video file? Well, what you need is an easy-to-use audio remover. This following article will introduce a step-by-step instruction on how to use powerful video editing software- [Wondershare Filmora (originally Wondershare Video Editor)](https://tools.techidaily.com/wondershare/filmora/download/). With it, you can extract audio from video files like AVI, MP4, FLV, AVI, ect and save them in different for formats.
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+#### 1 Add the AVI file to the program
+
+ To get started using Wondershare Filmora (originally Wondershare Video Editor), download and install the program. Open the AVI you wish to edit in this video editing software. You can either drag and drop the file into the program or click “Import”. Then AVI file will appear in the media item near the preview pane.
+
+![remove audio from avi](https://images.wondershare.com/images/multimedia/video-editor/video-editor-main-interface.jpg)
+
+#### 2 Remove the audio from AVI file
+
+ Then drag the AVI file into the Video Timeline to begin editing. Right click on the file and select "Audio Detach”. The audio will automatically appear on the Audio Timeline. Click on the audio track you wish to delete and press the "Delete" button on your keyboard. Alternately, you could right-click the track and select the "Delete" command.
+
+ Tip: If you want to add a new audio file to the video, just drag-n-drop it to the Audio Timeline. Then double click to edit it in the editing panel. You can change the playing speed, volume, pitch, etc. as you like. You can also hit “Record a voiceover” and plug in your microphone to record your own voice and add it to the video.
+
+![remove audio track from avi](https://images.wondershare.com/images/multimedia/video-editor/audio-detach.jpg)
+
+#### 3 Save the new file
+
+ After that, press the Create button to save it to a suitable format. The process will take some time depending on the output file length and your computer performance. When extraction is over, find your file in the destination folder and play it using your media player. Of course, you can also directly upload the new file to YouTube or burn to DVD- all your choice!
+
+![remove audio from avi file](https://images.wondershare.com/images/multimedia/video-editor/video-editor-output.jpg)
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+ Now just follow the above detailed guide and easily remove audio from AVI or delete the unwanted sound track. Besides removing audio, you can also use Wondershare Filmora (originally Wondershare Video Editor) to [split video](https://tools.techidaily.com/wondershare/filmora/download/), [merge videos into one](/video-editing-tips/combine-videos.html), [rotate video](https://tools.techidaily.com/wondershare/filmora/download/), [trim and crop video](https://tools.techidaily.com/wondershare/filmora/download/), [add image to video](/video-editing-tips/add-image-to-mp3.html), [make multi screen video](/video-editing-tips/make-multi-screen-video.html) and more. Just download this ideal video editing tool and enrich your video life.
+
+ Here is a video tutorial:
+
+![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+Shanoon Cox
+
+Shanoon Cox is a writer and a lover of all things video.
+
+Follow @Shanoon Cox
+
+##### Shanoon Cox
+
+ Mar 27, 2024• Proven solutions
+
+ Got video with more than one audio track and want to remove the unnecessary one? Or want to extract audio, sound, or background music from home movies, YouTube videos, and any other video file? Well, what you need is an easy-to-use audio remover. This following article will introduce a step-by-step instruction on how to use powerful video editing software- [Wondershare Filmora (originally Wondershare Video Editor)](https://tools.techidaily.com/wondershare/filmora/download/). With it, you can extract audio from video files like AVI, MP4, FLV, AVI, ect and save them in different for formats.
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+#### 1 Add the AVI file to the program
+
+ To get started using Wondershare Filmora (originally Wondershare Video Editor), download and install the program. Open the AVI you wish to edit in this video editing software. You can either drag and drop the file into the program or click “Import”. Then AVI file will appear in the media item near the preview pane.
+
+![remove audio from avi](https://images.wondershare.com/images/multimedia/video-editor/video-editor-main-interface.jpg)
+
+#### 2 Remove the audio from AVI file
+
+ Then drag the AVI file into the Video Timeline to begin editing. Right click on the file and select "Audio Detach”. The audio will automatically appear on the Audio Timeline. Click on the audio track you wish to delete and press the "Delete" button on your keyboard. Alternately, you could right-click the track and select the "Delete" command.
+
+ Tip: If you want to add a new audio file to the video, just drag-n-drop it to the Audio Timeline. Then double click to edit it in the editing panel. You can change the playing speed, volume, pitch, etc. as you like. You can also hit “Record a voiceover” and plug in your microphone to record your own voice and add it to the video.
+
+![remove audio track from avi](https://images.wondershare.com/images/multimedia/video-editor/audio-detach.jpg)
+
+#### 3 Save the new file
+
+ After that, press the Create button to save it to a suitable format. The process will take some time depending on the output file length and your computer performance. When extraction is over, find your file in the destination folder and play it using your media player. Of course, you can also directly upload the new file to YouTube or burn to DVD- all your choice!
+
+![remove audio from avi file](https://images.wondershare.com/images/multimedia/video-editor/video-editor-output.jpg)
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+ Now just follow the above detailed guide and easily remove audio from AVI or delete the unwanted sound track. Besides removing audio, you can also use Wondershare Filmora (originally Wondershare Video Editor) to [split video](https://tools.techidaily.com/wondershare/filmora/download/), [merge videos into one](/video-editing-tips/combine-videos.html), [rotate video](https://tools.techidaily.com/wondershare/filmora/download/), [trim and crop video](https://tools.techidaily.com/wondershare/filmora/download/), [add image to video](/video-editing-tips/add-image-to-mp3.html), [make multi screen video](/video-editing-tips/make-multi-screen-video.html) and more. Just download this ideal video editing tool and enrich your video life.
+
+ Here is a video tutorial:
+
+![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+Shanoon Cox
+
+Shanoon Cox is a writer and a lover of all things video.
+
+Follow @Shanoon Cox
+
+##### Shanoon Cox
+
+ Mar 27, 2024• Proven solutions
+
+ Got video with more than one audio track and want to remove the unnecessary one? Or want to extract audio, sound, or background music from home movies, YouTube videos, and any other video file? Well, what you need is an easy-to-use audio remover. This following article will introduce a step-by-step instruction on how to use powerful video editing software- [Wondershare Filmora (originally Wondershare Video Editor)](https://tools.techidaily.com/wondershare/filmora/download/). With it, you can extract audio from video files like AVI, MP4, FLV, AVI, ect and save them in different for formats.
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+#### 1 Add the AVI file to the program
+
+ To get started using Wondershare Filmora (originally Wondershare Video Editor), download and install the program. Open the AVI you wish to edit in this video editing software. You can either drag and drop the file into the program or click “Import”. Then AVI file will appear in the media item near the preview pane.
+
+![remove audio from avi](https://images.wondershare.com/images/multimedia/video-editor/video-editor-main-interface.jpg)
+
 #### 2 Remove the audio from AVI file
 
  Then drag the AVI file into the Video Timeline to begin editing. Right click on the file and select "Audio Detach”. The audio will automatically appear on the Audio Timeline. Click on the audio track you wish to delete and press the "Delete" button on your keyboard. Alternately, you could right-click the track and select the "Delete" command.
@@ -624,7 +662,7 @@ Follow @Shanoon Cox
 ![remove audio from avi file](https://images.wondershare.com/images/multimedia/video-editor/video-editor-output.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -677,47 +715,9 @@ Follow @Shanoon Cox
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
-Shanoon Cox
-
-Shanoon Cox is a writer and a lover of all things video.
-
-Follow @Shanoon Cox
-
-##### Shanoon Cox
-
- Mar 27, 2024• Proven solutions
-
- Got video with more than one audio track and want to remove the unnecessary one? Or want to extract audio, sound, or background music from home movies, YouTube videos, and any other video file? Well, what you need is an easy-to-use audio remover. This following article will introduce a step-by-step instruction on how to use powerful video editing software- [Wondershare Filmora (originally Wondershare Video Editor)](https://tools.techidaily.com/wondershare/filmora/download/). With it, you can extract audio from video files like AVI, MP4, FLV, AVI, ect and save them in different for formats.
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-#### 1 Add the AVI file to the program
-
- To get started using Wondershare Filmora (originally Wondershare Video Editor), download and install the program. Open the AVI you wish to edit in this video editing software. You can either drag and drop the file into the program or click “Import”. Then AVI file will appear in the media item near the preview pane.
-
-![remove audio from avi](https://images.wondershare.com/images/multimedia/video-editor/video-editor-main-interface.jpg)
-
-#### 2 Remove the audio from AVI file
-
- Then drag the AVI file into the Video Timeline to begin editing. Right click on the file and select "Audio Detach”. The audio will automatically appear on the Audio Timeline. Click on the audio track you wish to delete and press the "Delete" button on your keyboard. Alternately, you could right-click the track and select the "Delete" command.
-
- Tip: If you want to add a new audio file to the video, just drag-n-drop it to the Audio Timeline. Then double click to edit it in the editing panel. You can change the playing speed, volume, pitch, etc. as you like. You can also hit “Record a voiceover” and plug in your microphone to record your own voice and add it to the video.
-
-![remove audio track from avi](https://images.wondershare.com/images/multimedia/video-editor/audio-detach.jpg)
-
-#### 3 Save the new file
-
- After that, press the Create button to save it to a suitable format. The process will take some time depending on the output file length and your computer performance. When extraction is over, find your file in the destination folder and play it using your media player. Of course, you can also directly upload the new file to YouTube or burn to DVD- all your choice!
-
-![remove audio from avi file](https://images.wondershare.com/images/multimedia/video-editor/video-editor-output.jpg)
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
- Now just follow the above detailed guide and easily remove audio from AVI or delete the unwanted sound track. Besides removing audio, you can also use Wondershare Filmora (originally Wondershare Video Editor) to [split video](https://tools.techidaily.com/wondershare/filmora/download/), [merge videos into one](/video-editing-tips/combine-videos.html), [rotate video](https://tools.techidaily.com/wondershare/filmora/download/), [trim and crop video](https://tools.techidaily.com/wondershare/filmora/download/), [add image to video](/video-editing-tips/add-image-to-mp3.html), [make multi screen video](/video-editing-tips/make-multi-screen-video.html) and more. Just download this ideal video editing tool and enrich your video life.
-
- Here is a video tutorial:
-
-![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -743,20 +743,24 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-infographic-mind-numbing-youtube-factsfigures-and-statistics-2017/"><u>[New] Infographic - Mind Numbing YouTube Facts,Figures and Statistics 2017</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-unlock-your-creative-flow-sharing-hundreds-of-photos-and-vids-on-ig/"><u>[New] Unlock Your Creative Flow Sharing Hundreds of Photos and Vids on IG</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/comprehensive-fixes-for-helperdll-missing-errors-on-your-pc/"><u>Comprehensive Fixes for Helper.dll Missing Errors on Your PC</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-tecno-phantom-v-flip-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Tecno Phantom V Flip FRP Locks</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/in-2024-navigating-through-music-production-software-landscape-can-magix-samplitude-be-considered-supreme/"><u>In 2024, Navigating Through Music Production Software Landscape Can MAGIX Samplitude Be Considered Supreme?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/intelligent-dialogue-gemini-pro-vs-plus-chatgpt/"><u>Intelligent Dialogue: Gemini Pro V/S Plus-ChatGPT</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-enhancing-film-production-adding-audio-elements-in-magix-pro-2023-edition/"><u>New 2024 Approved Enhancing Film Production Adding Audio Elements in Magix Pro 2023 Edition</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-choreographed-audio-selecting-superior-soundtracks-for-montage-masterpieces/"><u>New Choreographed Audio Selecting Superior Soundtracks for Montage Masterpieces</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-ideal-eq-settings-to-maximize-your-devices-hearing-capabilities/"><u>New In 2024, Ideal EQ Settings to Maximize Your Devices Hearing Capabilities</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-perfect-harmony-unveiling-the-best-5-mixers-for-mac-enthusiasts/"><u>New In 2024, Perfect Harmony Unveiling the Best 5 Mixers for Mac Enthusiasts</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-the-ultimate-compendium-of-chromes-best-audio-recording-software/"><u>New The Ultimate Compendium of Chromes Best Audio Recording Software</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/outdoor-enthusiasts-essential-gear-reviewed-discover-the-super-bright-anker-tactical-beam/"><u>Outdoor Enthusiast's Essential Gear Reviewed – Discover the Super Bright Anker Tactical Beam</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210692933-9780008589417-sagittarius-2024-your-personal-horoscope/"><u>Sagittarius 2024: Your Personal Horoscope | Free Book</u></a></li>
-<li><a href="https://win11.techidaily.com/streamlining-the-process-setting-up-msoffice-on-windows-11/"><u>Streamlining the Process: Setting Up MSOffice on Windows 11</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-mp4-file-optimization-removing-unwanted-audio-tracks/"><u>Updated In 2024, MP4 File Optimization Removing Unwanted Audio Tracks</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-strength-of-details-why-hdr-triumphs-over-sdr/"><u>[New] The Strength of Details Why HDR Triumphs Over SDR</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-designing-intriguing-instagram-post-thumbnails/"><u>[Updated] 2024 Approved Designing Intriguing Instagram Post Thumbnails</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-expert-tips-for-youtube-short-pitfall-prevention/"><u>[Updated] 2024 Approved Expert Tips for YouTube Short Pitfall Prevention</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-secrets-to-joining-friends-tiktok-live-events-for-2024/"><u>[Updated] Secrets to Joining Friends' TikTok Live Events for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-installation-walkthrough-for-moviemaker-6-users/"><u>2024 Approved Installation Walkthrough for Moviemaker 6 Users</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-methodology-incorporating-youtube-playlists-into-a-websites-structure/"><u>2024 Approved Methodology Incorporating YouTube Playlists Into a Website's Structure</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1723620244835-broken-cell-phone-screen-discover-quick-fix-solutions-today/"><u>Broken Cell Phone Screen? Discover Quick Fix Solutions Today</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/composing-captivating-cinema-trailers-for-2024/"><u>Composing Captivating Cinema Trailers for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/experience-unparalleled-audio-visual-sync-in-the-best-av-mixers-for-2024/"><u>Experience Unparalleled Audio-Visual Sync in the Best AV Mixers for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-cutting-edge-techniques-for-incorporating-smooth-audio-reduction/"><u>New In 2024, Cutting Edge Techniques for Incorporating Smooth Audio Reduction</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unleash-your-inner-star-with-economical-usa-karaoke-options-ideal-for-under-150/"><u>Unleash Your Inner Star with Economical USA Karaoke Options - Ideal for Under $150</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlock-efficient-coding-with-microsoft-copilot-on-your-mac-the-ultimate-guide/"><u>Unlock Efficient Coding with Microsoft Copilot on Your Mac - The Ultimate Guide</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-leading-platforms-for-seamless-mp3-refinement-and-cutting/"><u>Updated 2024 Approved Leading Platforms for Seamless MP3 Refinement and Cutting</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-silencing-the-chatter-essential-methods-for-muting-tiktok-audio/"><u>Updated 2024 Approved Silencing the Chatter Essential Methods for Muting TikTok Audio</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-cutting-edge-audio-mastery-expert-tips-for-implementing-gradual-sound-diminishment-and-augmentation-in-adobe-after-effects/"><u>Updated In 2024, Cutting-Edge Audio Mastery Expert Tips for Implementing Gradual Sound Diminishment & Augmentation in Adobe After Effects</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-non-licensed-music-choices-excelling-in-video-montages/"><u>Updated In 2024, Non-Licensed Music Choices Excelling in Video Montages</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-techniques-to-remove-audio-from-updated-avi-software-file/"><u>Updated In 2024, Techniques to Remove Audio From Updated AVI Software File</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-strategies-for-standardizing-sound-intensity-during-media-playback-via-vlc-for-2024/"><u>Updated Strategies for Standardizing Sound Intensity During Media Playback via VLC for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-ultimate-tutorial-transforming-whatsapp-sound-files-into-mp3-quickly-for-2024/"><u>Updated Ultimate Tutorial Transforming WhatsApp Sound Files Into MP3 Quickly for 2024</u></a></li>
 </ul></div>
 

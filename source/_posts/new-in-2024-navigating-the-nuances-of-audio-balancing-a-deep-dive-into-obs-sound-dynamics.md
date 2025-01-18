@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Navigating the Nuances of Audio Balancing A Deep Dive Into OBS Sound Dynamics
-date: 2025-01-10T17:52:53.488Z
-updated: 2025-01-12T06:22:02.663Z
+date: 2025-01-14T17:26:04.852Z
+updated: 2025-01-17T23:05:07.190Z
 tags: 
   - audio editing software
   - audio editing
@@ -64,6 +64,10 @@ Developed for the inspired, Filmora follows its unique way of ducking sound, eas
 * Get access to other in-built options like noise remover, after effects; fade in/out, equalizer, keyframing, and so on.
 * Perfect your audio to the video along with tons of features like an audio mixer along with options like mute, detach, split, and background removal.
 * Add voiceover, sprinkle magic with filters, detect beat, and create markers easily with Wondershare Filmora.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to use the audio ducking feature in Wondershare Filmora?
 
@@ -132,6 +136,10 @@ On the space bar, enter a name for the filter. For example, for **ducking music*
 You can now specify the values of the ratio, threshold, attack, release, output gain, and the ducking source, for example, “Mic” for microphone voiceover addition.
 
 It's complete. Yes, OBS audio ducking is over. Now you can check the video and alter the parameters if required after a preview.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: The Best Audio Ducking Alternative to OBS
 
@@ -266,7 +274,7 @@ Video making or filmmaking has now come to the level where the history of imperf
 If you are a content creator, maybe you will be familiar with coordinating the right audio with the video. If not, it isn't a problem anymore as I have included a detailed guide of implementing **audio ducking** in a step-wise way. With primary importance to the popular software **OBS** followed by a suitable alternative, let's begin our article!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: How to Balance Your Stream Sound with OBS Audio Ducking?
@@ -354,7 +362,7 @@ Follow @Benjamin Arango
 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Mastering Vocal Depth: Techniques for a Powerful Tone in Filmora
@@ -435,21 +443,17 @@ For macOS 10.12 or later
 
 ![fx-deeper-voice-step2](https://images.wondershare.com/filmora/article-images/fx-deeper-voice-step2.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step3:** Now drag the video and drop it into the timeline.
 
 ![fx-deeper-voice-step3](https://images.wondershare.com/filmora/article-images/fx-deeper-voice-step3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step4:** Now, right-click on the track in the timeline and click on "Adjust Audio" from the menu.
 
 ![fx-deeper-voice-step4](https://images.wondershare.com/filmora/article-images/fx-deeper-voice-step4.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 5:** Now, you need to adjust the pitch at this step. Try to lower the pitch by a point or two, and you play the video. You will notice a considerable change in your voice. You will feel that your voice has become much deeper than the original one.
 
@@ -497,10 +501,6 @@ For macOS 10.12 or later
 
 ![fx-deeper-voice-step5](https://images.wondershare.com/filmora/article-images/fx-deeper-voice-step5.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 6:**  Reduce the pitch point by point by point and observe that at which point do you have the desired depth in your voice.
 
 **Step7:** Once you are satisfied with the results, all you need to do is click on the "OK" button to save the settings and then export your video to your system.
@@ -538,10 +538,6 @@ For macOS 10.12 or later
 **Step4:** Now, right-click on the track in the timeline and click on "Adjust Audio" from the menu.
 
 ![fx-deeper-voice-step4](https://images.wondershare.com/filmora/article-images/fx-deeper-voice-step4.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 5:** Now, you need to adjust the pitch at this step. Try to lower the pitch by a point or two, and you play the video. You will notice a considerable change in your voice. You will feel that your voice has become much deeper than the original one.
 
@@ -586,7 +582,7 @@ For macOS 10.12 or later
 ![fx-deeper-voice-step4](https://images.wondershare.com/filmora/article-images/fx-deeper-voice-step4.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 5:** Now, you need to adjust the pitch at this step. Try to lower the pitch by a point or two, and you play the video. You will notice a considerable change in your voice. You will feel that your voice has become much deeper than the original one.
@@ -633,6 +629,10 @@ To simplify the scenario, we have divided the crew into these major departments,
 
 The producer is the main handler of the filming. Before filming, he finds out the content and directions and links with the director and DP for each direction to get the best vision of the music video. The producer are responsible for:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Schedule the crew members
 
 Producers can make the call sheets for the crew members to maintain their schedule according to the specific timelines.
@@ -656,6 +656,10 @@ If the filming is starting and you don't know who to choose, you should build a 
 The director is considered to be in charge of filmmaking. His main responsibility is creatively giving the idea to the production and communicating to the crew and characters to check out what they want in their scenes to play out.
 
 The director department mainly consists of the director and the first assistant director, and sometimes there is a 2nd, a 3rd, and 4th AD. For example,
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1st AD
 
@@ -717,10 +721,6 @@ DMT will handle the exposed footage, which Digital Memory Card will do with tape
 
 ![note](https://images.wondershare.com/assets/images-common/icon-note.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Note:** Making two copies for the backup will reduce the risk of corrupted files and physical accidents of losing the footage.
 
 ## Additional Roles
@@ -728,10 +728,6 @@ DMT will handle the exposed footage, which Digital Memory Card will do with tape
 If you are the music video **director**, you need a **Cinematographer** with **Camera Operators**. He will be in charge of pulling and adjusting all the camera alignments. If you have enough budget, go with the **co-producer** to help you direct the talents.
 
 ![additional roles of director department](https://images.wondershare.com/filmora/article-images/2023/04/additional-roles-of-director-department.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 To make your subject looks good and modern according to the theme, you should hire **hair and makeup artist.** If you have more budget, you can do it professionally with more and more crew members.
 
@@ -752,6 +748,10 @@ In this department, the production designer is mainly involved in decorating the
 **Cinematographers Department**
 
 The cinematic department comes to the frontline to give the shots and the lit music video final touches. In this, the head of the department is also known as the director of photography.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Director of photography
 
@@ -793,15 +793,15 @@ DMT will handle the exposed footage, which Digital Memory Card will do with tape
 
 **Note:** Making two copies for the backup will reduce the risk of corrupted files and physical accidents of losing the footage.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Additional Roles
 
 If you are the music video **director**, you need a **Cinematographer** with **Camera Operators**. He will be in charge of pulling and adjusting all the camera alignments. If you have enough budget, go with the **co-producer** to help you direct the talents.
 
 ![additional roles of director department](https://images.wondershare.com/filmora/article-images/2023/04/additional-roles-of-director-department.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 To make your subject looks good and modern according to the theme, you should hire **hair and makeup artist.** If you have more budget, you can do it professionally with more and more crew members.
 
@@ -825,19 +825,18 @@ If you are a starter, then there is no need to worry to pull-off all the roles i
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-tricks-to-improve-mobile-streaming-quality-on-chrome-browser/"><u>[New] Tricks to Improve Mobile Streaming Quality on Chrome Browser</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-rapid-diy-techniques-that-every-indie-filmmaker-should-try/"><u>[Updated] Rapid DIY Techniques That Every Indie Filmmaker Should Try</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/2024-approved-how-to-remove-audio-seamlessly-a-windows-10-users-handbook-for-sound-free-vids-free-of-charge/"><u>2024 Approved How to Remove Audio Seamlessly A Windows 10 Users Handbook for Sound-Free Vids (Free of Charge)</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/a-filmmakers-choice-the-top-five-free-audio-jokes-for-creative-videos-for-2024/"><u>A Filmmakers Choice The Top Five Free Audio Jokes for Creative Videos for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/avoiding-pitfalls-spotting-top-5-manipulative-practices-in-automated-conversations/"><u>Avoiding Pitfalls: Spotting Top 5 Manipulative Practices in Automated Conversations</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/exclusive-list-the-top-10-camcorders-for-2ranking-for-2024/"><u>Exclusive List The Top 10 Camcorders for 2Ranking for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/maximize-your-consoles-potential-top-monitors-explored/"><u>Maximize Your Console's Potential - Top Monitors Explored</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-top-10-best-free-webm-video-editors/"><u>New In 2024, Top 10 Best Free WebM Video Editors</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-reentry-guide-regaining-access-on-omegle-after-a-ban-for-2024/"><u>New Reentry Guide Regaining Access on Omegle After a Ban for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/top-10-free-audio-capture-tools-for-excellent-podcasts-updated-for-2024/"><u>Top 10 Free Audio Capture Tools for Excellent Podcasts (Updated) for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/transforming-google-to-do-lists-into-kanban-boards-with-ease-a-guide-by-tasksboard-zdnet/"><u>Transforming Google To-Do Lists Into Kanban Boards with Ease – A Guide by TasksBoard | ZDNET</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/uncovering-plugins-that-create-realistic-flatulent-effects-for-games-and-films/"><u>Uncovering Plugins That Create Realistic Flatulent Effects for Games and Films</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-synchronizing-sonic-elements-controlling-audio-duration-and-tonality-in-adobe-rush/"><u>Updated Synchronizing Sonic Elements Controlling Audio Duration and Tonality in Adobe Rush</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-the-button-symphony-locating-the-percussive-elements-in-gaming-for-2024/"><u>Updated The Button Symphony Locating the Percussive Elements in Gaming for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-transform-your-images-erase-backdrops-with-canva-skills/"><u>[New] 2024 Approved Transform Your Images Erase Backdrops with Canva Skills</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-earnings-breakdown-one-million-glances-at-youtube/"><u>[Updated] 2024 Approved Earnings Breakdown One Million Glances at Youtube</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-the-authoritative-guide-to-generating-srt-files-with-expert-tips/"><u>[Updated] 2024 Approved The Authoritative Guide to Generating SRT Files with Expert Tips</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-top-android-recorder-commercial-free/"><u>[Updated] Top Android Recorder - Commercial-Free</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/advanced-software-options-for-distilling-pure-auditory-experiences/"><u>Advanced Software Options for Distilling Pure Auditory Experiences</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/final-cut-pro-sound-visualization-step-by-step-on-rendering-audio-waveforms-and-their-animation-integration-for-2024/"><u>Final Cut Pro Sound Visualization Step-by-Step on Rendering Audio Waveforms and Their Animation Integration for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-vivo-y100-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Vivo Y100 | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-understanding-podcast-profit-margins/"><u>In 2024, Understanding Podcast Profit Margins</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-in-depth-look-into-how-twistedwave-revolutionizes-sound-editing-processes/"><u>New In 2024, In Depth Look Into How TwistedWave Revolutionizes Sound Editing Processes</u></a></li>
+<li><a href="https://howto.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-tecno-camon-30-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Tecno Camon 30 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/tailoring-voice-effects-a-comprehensive-instruction-for-audacity-users-on-autotune-use-for-2024/"><u>Tailoring Voice Effects A Comprehensive Instruction for Audacity Users on Autotune Use for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-simplifying-the-art-of-audiobook-making-a-complete-step-by-step-tutorial-for-aspiring-authors/"><u>Updated 2024 Approved Simplifying the Art of Audiobook Making A Complete, Step-by-Step Tutorial for Aspiring Authors</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-roles-of-every-crew-member-in-filming/"><u>Updated Roles of Every Crew Member in Filming</u></a></li>
 </ul></div>
 

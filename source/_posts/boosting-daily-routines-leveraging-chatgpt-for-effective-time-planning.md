@@ -1,7 +1,7 @@
 ---
 title: "Boosting Daily Routines: Leveraging ChatGPT for Effective Time Planning"
-date: 2025-01-04T17:14:58.539Z
-updated: 2025-01-11T23:40:30.836Z
+date: 2025-01-15T16:44:47.961Z
+updated: 2025-01-18T06:12:57.958Z
 tags:
   - chatgpt
   - open-ai
@@ -29,10 +29,14 @@ thumbnail: https://thmb.techidaily.com/cda03445bb5af4617363a25ef0e62c6e1b665fa4b
 
 ![Screenshot of response to PDF query on the US constitution](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-response-to-pdf-query-on-the-us-constitution.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  ChatGPT will then nicely summarize the main points on the requested pages. One point of note here, there are[limitations to ChatGPT prompts and responses](https://www.makeuseof.com/do-chatgpt-responses-have-character-or-word-limit/) , especially when it comes to more complex requests. So, for larger documents, it is good policy to break the task down into smaller parts.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Copy Text From the PDF
@@ -47,10 +51,6 @@ thumbnail: https://thmb.techidaily.com/cda03445bb5af4617363a25ef0e62c6e1b665fa4b
 
  As you can see, ChatGPT will easily respond to prompts with text pasted into them. Just remember not to ask too much of it in a single request. This technique will work with most applications that can open PDFs.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Convert the PDF Into a Text Document
 
  ChatGPT will happily read text, after all, the beating heart of any AI chatbot is a large language model (LLM).[LLMs are huge text databases](https://www.makeuseof.com/what-are-large-langauge-models-how-do-they-work/) that AI chatbots reference to supply human-like responses. Although PDFs contain text, they aren’t easy to edit. This makes it awkward if you want to work with this format in ChatGPT. But converting it to a more manageable format is easy.
@@ -64,17 +64,17 @@ thumbnail: https://thmb.techidaily.com/cda03445bb5af4617363a25ef0e62c6e1b665fa4b
 ![Screenshot of Word opening PDF file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-word-opening-pdf-file.jpg)
 3. When you open the file you will be asked to convert the document, press**OK** to proceed.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Screenshot of Word PDF Conversion](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-word-pdf-conversion.jpg)
 4. Word will now convert and open the file, you can use the**Save As** command to save it as a Word or text document as preferred.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Once the conversion is complete, you can copy the text directly into ChatGPT and run prompts on it to get your desired results.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Install and Use an Extension
@@ -88,7 +88,7 @@ thumbnail: https://thmb.techidaily.com/cda03445bb5af4617363a25ef0e62c6e1b665fa4b
  The steps are straightforward—install the ChatGPT File Uploader to your browser, open ChatGPT, and you'll notice a shiny, new**Upload** button next to the message bar at the bottom. From there, all you have to do is hit the button and choose the PDF you want to upload.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## PDFs Don't Have to Hinder Your ChatGPT Usage
@@ -112,19 +112,21 @@ thumbnail: https://thmb.techidaily.com/cda03445bb5af4617363a25ef0e62c6e1b665fa4b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-advanced-tactics-preserving-the-integrity-of-whatsapp-talks/"><u>[New] 2024 Approved Advanced Tactics Preserving the Integrity of WhatsApp Talks</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-innovating-filming-techniques-smartphones-as-webcams/"><u>[New] In 2024, Innovating Filming Techniques Smartphones as Webcams</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-how-to-share-a-tiktok-video-on-twitter-in-2024/"><u>[Updated] How to Share A Tiktok Video on Twitter, In 2024</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/2024-approved-contemporary-techniques-for-crafting-effective-audio-echoes/"><u>2024 Approved Contemporary Techniques for Crafting Effective Audio Echoes</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/2024-approved-learn-the-free-techniques-to-mute-audio-in-windows-10-videos/"><u>2024 Approved Learn the Free Techniques to Mute Audio in Windows 10 Videos</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/end-non-responsive-scrolls-in-microsoft-excel-2019/"><u>End Non-Responsive Scrolls in Microsoft Excel 2019</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/exhaustive-explanation-unveiling-the-google-podcasts-app-for-2024/"><u>Exhaustive Explanation Unveiling the Google Podcasts App for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-ultimate-roguelike-rankings-the-best-10-games/"><u>In 2024, Ultimate Roguelike Rankings The Best 10 Games</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/mastering-the-art-of-isolating-rhythms-a-guide-to-online-beat-extraction/"><u>Mastering the Art of Isolating Rhythms A Guide to Online Beat Extraction</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/navigating-tech-dominance-from-googles-regulatory-setbacks-to-samsungs-rise-with-galaxy-ai-in-the-latest-innovation-rankings/"><u>Navigating Tech Dominance: From Google's Regulatory Setbacks to Samsung’s Rise with Galaxy AI in The Latest Innovation Rankings</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-balancing-the-scales-normalizing-sound-volume-for-optimal-viewing-with-vlc-for-2024/"><u>New Balancing the Scales Normalizing Sound Volume for Optimal Viewing with VLC for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/supercharged-visuals-video-content-plus-filter-amplification-pcmobile/"><u>Supercharged Visuals Video Content + Filter Amplification (PC/Mobile)</u></a></li>
-<li><a href="https://facebook.techidaily.com/unlocking-full-power-facebooks-rooting-of-oculus-go-explained/"><u>Unlocking Full Power: Facebook's Rooting of Oculus Go Explained</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-the-sonic-landscape-a-study-on-sound-forgeutility/"><u>Updated 2024 Approved The Sonic Landscape A Study on Sound Forgeutility</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-the-procedure-for-severing-digital-bonds/"><u>[New] 2024 Approved The Procedure for Severing Digital Bonds</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-calculating-youtubes-adsense-gains-per-thousand-viewer-income/"><u>[New] Calculating Youtube's AdSense Gains Per Thousand Viewer Income</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-xiaomis-precision-flight-insights-via-4k-lens/"><u>[New] In 2024, Xiaomi's Precision Flight Insights via 4K Lens</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-full-review-of-camstudios-screen-capture-features/"><u>[Updated] In 2024, Full Review of CamStudio's Screen Capture Features</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-spectral-footage-innovation-in-cams/"><u>[Updated] Spectral Footage Innovation in Cams</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-ultimate-list-ps2-games-on-android-devices/"><u>[Updated] Ultimate List PS2 Games on Android Devices</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/2024-approved-ultimate-car-audio-blend-tool-for-mac-users/"><u>2024 Approved Ultimate Car Audio Blend Tool for Mac Users</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-solutions-to-overcome-kernel-system-page-faults/"><u>Comprehensive Solutions to Overcome Kernel System Page Faults</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-infinix-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Infinix?</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-10-must-have-sound-recording-devices-for-broadcast-enthusiasts-for-2024/"><u>New 10 Must-Have Sound Recording Devices for Broadcast Enthusiasts for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-cresting-waves-in-sound-discovering-true-cricket-noises/"><u>New 2024 Approved Cresting Waves in Sound Discovering True Cricket Noises</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-effective-ways-to-shrink-large-scale-digital-media-downscale/"><u>New 2024 Approved Effective Ways to Shrink Large Scale Digital Media Downscale</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-free-audio-workflow-with-audacity-tips-and-tricks-for-effective-recording/"><u>New 2024 Approved Free Audio Workflow with Audacity Tips and Tricks for Effective Recording</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-transform-your-memories-top-rated-video-collage-apps-for-iphone-and-ipad/"><u>New 2024 Approved Transform Your Memories Top-Rated Video Collage Apps for iPhone and iPad</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-the-ultimate-guide-to-the-best-10-websites-for-obtaining-vintage-and-contemporary-montage-sounds/"><u>New The Ultimate Guide to the Best 10 Websites for Obtaining Vintage and Contemporary Montage Sounds</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-steps-for-creating-mp3-from-audacity-recordings/"><u>Updated Steps for Creating MP3 From Audacity Recordings</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How the Kobo Nia Stacks Up as a Rival to the Kindle by Amazon
-date: 2025-01-09T09:44:15.166Z
-updated: 2025-01-12T09:34:48.845Z
+date: 2025-01-12T01:31:44.313Z
+updated: 2025-01-18T04:37:13.810Z
 categories:
   - BestProducts
 description: This Article Describes How the Kobo Nia Stacks Up as a Rival to the Kindle by Amazon
@@ -18,7 +18,7 @@ thumbnail: https://www.lifewire.com/thmb/l-thYcivDg_wxc7mx5_01YaMCKg=/400x300/fi
 ![ZMI PowerPack 20000](https://www.lifewire.com/thmb/A__IgeAPd2C0e_2iExqDqXJAGB8=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/zmi-HeroSquare-492efa01c9e54737bfa9d16223ff9d82.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Lifewire / Andrew Hayward
@@ -40,10 +40,6 @@ thumbnail: https://www.lifewire.com/thmb/l-thYcivDg_wxc7mx5_01YaMCKg=/400x300/fi
 [Buy on Amazon](https://www.amazon.com/dp/B072BD98CM?tag=lifewire-onsite-prod-20&%2F=&ascsubtag=5071991%7Cn210c12f6fa164d19b551ef300c5549c018%7C)
 
 4.9
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## ZMI PowerPack 20000
 
@@ -71,14 +67,10 @@ thumbnail: https://www.lifewire.com/thmb/l-thYcivDg_wxc7mx5_01YaMCKg=/400x300/fi
 
 ![ZMI PowerPack 20000](https://www.lifewire.com/thmb/jITowxAWHBUo5WF3Y-XI6lKQNQE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/zmi-05-02d76c869b864ef0abddfe824cfbf53a.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Lifewire / Andrew Hayward
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Design: Small but powerful**
@@ -94,6 +86,10 @@ thumbnail: https://www.lifewire.com/thmb/l-thYcivDg_wxc7mx5_01YaMCKg=/400x300/fi
  This power bank doesn’t have an AC port for full-sized power plugs, as some competing power banks do, but it also costs less and is much smaller than those alternatives typically are.
 
 ![ZMI PowerPack 20000](https://www.lifewire.com/thmb/vaINPELrwcWnOZDsX1ztKkCouww=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/zmi-03-1530f666df824f6281040c2ae3285eb2-2e7956941b91403aa888795a7e5e2e33.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Andrew Hayward
 
@@ -112,7 +108,7 @@ Lifewire / Andrew Hayward
 ![ZMI PowerPack 20000](https://www.lifewire.com/thmb/asGVK-moJ54HvqyY9N6Kb-KM8hw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/zmi-04-828899fb01024cd4a0e35980251c04b4.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Lifewire / Andrew Hayward
@@ -122,6 +118,10 @@ Lifewire / Andrew Hayward
  With larger laptop-friendly battery packs sometimes selling for well north of $100, the $70 price point of the ZMI PowerPack 20000 is an incredibly attractive deal. Granted, the maximum USB-C PD output of 45W won’t charge some super-powered laptops—but for compatible laptops, as well as smartphones, tablets, and other portable electronics, it’s very well priced.
 
  With larger laptop-friendly battery packs sometimes selling for well north of $100, the $70 price point of the ZMI PowerPack 20000 is an incredibly attractive deal.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **ZMI PowerPack 20000 vs Mophie Powerstation AC**
 
@@ -159,24 +159,21 @@ Lifewire / Andrew Hayward
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-seamless-screen-record-for-windows-11/"><u>[New] 2024 Approved Seamless Screen Record for Windows 11</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-trivia-treasures-2024-best-general-knowledge-streaming-sites/"><u>[New] Trivia Treasures 2024 Best General Knowledge Streaming Sites</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-stepwise-blend-integrating-obs-and-zoom/"><u>[Updated] 2024 Approved Stepwise Blend Integrating OBS and Zoom</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-achieve-massive-momentum-hit-1k-ig-gains-monthly/"><u>[Updated] Achieve Massive Momentum Hit 1K IG Gains Monthly</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/comparing-wrist-tech-apple-watch-series-9-versus-fitbit-charge-6/"><u>Comparing Wrist Tech: Apple Watch Series 9 Versus Fitbit Charge 6</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/confirmation-techniques-for-youtube-accounts-for-2024/"><u>Confirmation Techniques for Youtube Accounts for 2024</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/discovering-the-strength-in-size-with-the-unihertz-atom-xl-a-review-of-its-impressive-features/"><u>Discovering the Strength in Size with the Unihertz Atom XL: A Review of Its Impressive Features</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/evaluating-the-value-life-q30-anc-hearing-gadgets-analysis/"><u>Evaluating the Value: Life Q30 ANC Hearing Gadgets Analysis</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/experience-flawless-singing-with-the-user-friendly-and-colorful-singing-machine-sml385btbk/"><u>Experience Flawless Singing with the User-Friendly and Colorful Singing Machine SML385BTBK!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/experience-lightning-fast-browsing-flush-your-macs-dns-data-today/"><u>Experience Lightning-Fast Browsing: Flush Your Mac's DNS Data Today!</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/1723002391563-fallout-asterisk-76-server-connection-issues-heres-how-to-resolve-them-on-windows/"><u>Fallout Asterisk 76 Server Connection Issues? Here's How to Resolve Them on Windows</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-epicurean-eminence-best-online-chefs-and-cooks/"><u>In 2024, Epicurean Eminence Best Online Chefs & Cooks</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-maximizing-your-visuals-the-ultrawide-vs-uhd-4k-debate/"><u>In 2024, Maximizing Your Visuals The UltraWide vs UHD 4K Debate</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/in-depth-look-at-samsung-galaxy-note-9-the-ultimate-giant-display-device/"><u>In-Depth Look at Samsung Galaxy Note 9 – The Ultimate Giant Display Device</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/mount-and-blade-ii-bannerlord-resolving-game-crash-issues/"><u>Mount & Blade II: Bannerlord - Resolving Game Crash Issues</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/pathfinder-wrath-of-the-righteous-not-loading-up-try-these-fixes-first/"><u>Pathfinder: Wrath of the Righteous Not Loading Up? Try These Fixes First</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-most-advanced-gaming-consoles-launched-in-2023-rankings-and-reviews/"><u>The Most Advanced Gaming Consoles Launched in 202^3 - Rankings and Reviews</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/troubleshooting-and-optimizing-your-pc-while-playing-new-world-for-better-performance/"><u>Troubleshooting and Optimizing Your PC While Playing New World for Better Performance</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/troubleshooting-fall-guys-solutions-for-game-crashes-on-start-up/"><u>Troubleshooting Fall Guys: Solutions for Game Crashes on Start-Up</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-the-artisans-handbook-perfecting-your-windows-pc-in-live-tv-recording/"><u>[Updated] 2024 Approved The Artisan's Handbook Perfecting Your Windows PC in Live TV Recording</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-shutterbugs-essential-guide-for-insta-posting/"><u>[Updated] In 2024, Shutterbugs' Essential Guide for Insta-Posting</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-zero-cost-zest-the-ultimate-guide-to-free-game-film/"><u>[Updated] Zero Cost Zest The Ultimate Guide to Free Game Film</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/2024-approved-how-add-emojisstickers-to-videos-on-pcmacmobileonline/"><u>2024 Approved How Add Emojis/Stickers to Videos on PC/Mac/Mobile/Online</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-guide-to-space-empire-management-in-stellaris/"><u>Comprehensive Guide to Space Empire Management in Stellaris</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-can-we-unlock-our-samsung-galaxy-a14-5g-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Samsung Galaxy A14 5G Phone Screen?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-master-your-vision-with-these-6-premier-nft-tools/"><u>In 2024, Master Your Vision with These 6 Premier NFT Tools</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-premium-picklist-of-digital-vault-services/"><u>In 2024, Premium Picklist of Digital Vault Services</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mercedes-benz-elevates-driving-with-cutting-edge-chatgpt-and-voice-recognition-technology/"><u>Mercedes-Benz Elevates Driving with Cutting-Edge ChatGPT and Voice Recognition Technology</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-discovering-the-most-advanced-online-tools-for-mp3-file-tagging-and-categorization-for-2024/"><u>New Discovering the Most Advanced Online Tools for MP3 File Tagging and Categorization for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-from-beginner-to-pro-your-complete-guide-to-using-garagebands-recording-features/"><u>New From Beginner to Pro Your Complete Guide to Using GarageBands Recording Features</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-achieving-smooth-transitions-in-sound-the-guide-to-audio-fading/"><u>New In 2024, Achieving Smooth Transitions in Sound The Guide to Audio Fading</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/the-ultimate-strategy-for-fusing-audio-with-video-content-updated-for-2024/"><u>The Ultimate Strategy for Fusing Audio with Video Content (Updated) for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-best-pop-background-music-list-to-videos/"><u>Updated In 2024, Best Pop Background Music List to Videos</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-soothing-the-digital-soul-the-leading-web-sites-for-inner-peace/"><u>Updated In 2024, Soothing the Digital Soul The Leading Web Sites for Inner Peace</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-streamlining-audio-dynamics-a-comprehensive-approach-to-volume-normalization-with-vlc/"><u>Updated In 2024, Streamlining Audio Dynamics A Comprehensive Approach to Volume Normalization with VLC</u></a></li>
 </ul></div>
 
