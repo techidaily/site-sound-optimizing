@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Elevating Audio Excellence Adjusting Pitch in Audacity without Compromising Quality
-date: 2025-01-16T01:53:01.014Z
-updated: 2025-01-18T03:21:45.935Z
+date: 2025-01-19T04:06:57.927Z
+updated: 2025-01-24T12:36:31.610Z
 tags: 
   - audio editing software
   - audio editing
@@ -24,6 +24,10 @@ You may raise or lower the pitch of a pre-recorded song. Likewise, you may apply
 
 02 [How to Change Pitch in Audacity?](#part2)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: What is pitch, and how does it work?
 
 Not all sounds are the same. Some vary in terms of amplitude, which makes them loud or quiet. In contrast, others vary in terms of pitch, which makes them high or low. Pitch is used to differentiate between the acute and flat notes in a sound wave. High-pitched sounds are likely to be shrilling, whereas the lower-pitched will be bassy. Pitch depends upon the frequency of the sound waves producing them. In short, notes at a higher frequency are high-pitched.
@@ -51,84 +55,6 @@ Click on the **Effect** tab at the top right of the screen next to **Generate.**
 **Note:** You can also make other changes, such as **Change Speed** and **Change Tempo** option will let you alter the speed of the sound. So, the pitch can also be altered using this process.
 
 ![audacity effect change pitch](https://images.wondershare.com/filmora/article-images/audacity-effect-change-pitch.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-**Step 3:** **Adjust pitch**
-
-Drag the slider to alter the pitch of the sound and press the OK button to apply changes.
-
-**Note:** To increase pitch, slide towards the right. Similarly, slide towards the left to a lower pitch. In addition, the pitch can also be changed by configuring **From** and **To** parameters.
-
-![audacity change pitch without changing tempo](https://images.wondershare.com/filmora/article-images/audacity-change-pitch-without-changing-tempo.jpg)
-
-## Bonus Section: How to Adjust Sound Louder in Audacity?
-
-Volume in an audio file may or may not be ideal for use. Sometimes, the sound is too loud or low. Audacity can help you in such a situation. So, if you are editing sound recordings in Audacity, you can also fix the volume of the sound. The good thing to note is that you can adjust the sound in both directions, which implies you can easily amplify or reduce the volume in these open-source applications. Are you interested in knowing about the volume adjustment process in Audacity? If yes, we have summarized the process in simple steps. Let’s take a look.
-
-**Step 1:** **Add an audio file**
-
-Launch the software and click on **File**. Select **Open** and select the desired audio.
-
-**Note:** It is not recommended to change the volume through the playback volume knob at the top right corner of the screen, as this will only increase the volume in your device. However, the actual volume of the audio will remain unchanged.
-
-![open audacity audio file](https://images.wondershare.com/filmora/article-images/open-audacity-audio-file.jpg)
-
-**Step 2:** Increase/Decrease audio gain
-
-Change the gain of the audio at the left-hand side of the screen. Move the slider to adjust the volume to the desired level.
-
-![adjust audio gain audacity sound louder](https://images.wondershare.com/filmora/article-images/adjust-audio-gain-audacity-sound-louder.jpg)
-
-**Note:** Alternatively, you may also increase or increase the volume through the amplification process. To use this method, select the audio portion, access **Effect,** and tap **Amplify**. Tick **allow clipping** box and move the slider to set the volume of the sound.
-
-**Conclusion**
-
-There are high chances of audio sound not being in the required pitch or volume. Plus, you may also need to change the sound characteristics of an audio file for specific use. So, if this is the case, the Audacity change pitch technique is all you need to learn. Thus, we have summarized the process of changing pitch and volume in a step-by-step guide in this article. Hopefully, all your concerns will have been addressed.
-
-02 [How to Change Pitch in Audacity?](#part2)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-## Part 1: What is pitch, and how does it work?
-
-Not all sounds are the same. Some vary in terms of amplitude, which makes them loud or quiet. In contrast, others vary in terms of pitch, which makes them high or low. Pitch is used to differentiate between the acute and flat notes in a sound wave. High-pitched sounds are likely to be shrilling, whereas the lower-pitched will be bassy. Pitch depends upon the frequency of the sound waves producing them. In short, notes at a higher frequency are high-pitched.
-
-On the contrary, notes at lower frequencies are low-pitched. Changing a pitch of noise from low to high or vice versa is an art. Thus, sound recording and editing applications like Audacity come with the in-built effect that enables you to change the pitch of a sound.
-
-## Part 2: How to Change Pitch in Audacity?
-
-Sound editing is becoming increasingly popular in music and other relevant industries. Several applications offer sound editing tools to serve the needs of the people. Pitch-changing is one of the common tools that people look for in sound editors.
-
-Audacity is one of the notable software that allows users to change the pitch of the voice. It comes with an **Audacity pitch shift** mechanism to facilitate users. So, if you are editing sound in Audacity, changing the pitch is just a matter of a few clicks. Are you still wondering how you can apply the **Audacity change pitch** technique when editing? Here’s how you can do it in simple steps.
-
-**Step 1: Select the audio portion**
-
-Launch Audacity and add sound recordings you want to edit. Click on the timeline and drag to select the portion of the sound.
-
-**Note:** Only the portion whose pitch you want to change.
-
-![select audio portion to change pitch audacity](https://images.wondershare.com/filmora/article-images/select-audio-portion-to-change-pitch-audacity.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-**Step 2: Open Effect menu**
-
-Click on the **Effect** tab at the top right of the screen next to **Generate.** Select **Pitch Change** from the drop-down menu.
-
-**Note:** You can also make other changes, such as **Change Speed** and **Change Tempo** option will let you alter the speed of the sound. So, the pitch can also be altered using this process.
-
-![audacity effect change pitch](https://images.wondershare.com/filmora/article-images/audacity-effect-change-pitch.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 3:** **Adjust pitch**
 
@@ -262,8 +188,74 @@ Drag the slider to alter the pitch of the sound and press the OK button to apply
 
 ![audacity change pitch without changing tempo](https://images.wondershare.com/filmora/article-images/audacity-change-pitch-without-changing-tempo.jpg)
 
+## Bonus Section: How to Adjust Sound Louder in Audacity?
+
+Volume in an audio file may or may not be ideal for use. Sometimes, the sound is too loud or low. Audacity can help you in such a situation. So, if you are editing sound recordings in Audacity, you can also fix the volume of the sound. The good thing to note is that you can adjust the sound in both directions, which implies you can easily amplify or reduce the volume in these open-source applications. Are you interested in knowing about the volume adjustment process in Audacity? If yes, we have summarized the process in simple steps. Let’s take a look.
+
+**Step 1:** **Add an audio file**
+
+Launch the software and click on **File**. Select **Open** and select the desired audio.
+
+**Note:** It is not recommended to change the volume through the playback volume knob at the top right corner of the screen, as this will only increase the volume in your device. However, the actual volume of the audio will remain unchanged.
+
+![open audacity audio file](https://images.wondershare.com/filmora/article-images/open-audacity-audio-file.jpg)
+
+**Step 2:** Increase/Decrease audio gain
+
+Change the gain of the audio at the left-hand side of the screen. Move the slider to adjust the volume to the desired level.
+
+![adjust audio gain audacity sound louder](https://images.wondershare.com/filmora/article-images/adjust-audio-gain-audacity-sound-louder.jpg)
+
+**Note:** Alternatively, you may also increase or increase the volume through the amplification process. To use this method, select the audio portion, access **Effect,** and tap **Amplify**. Tick **allow clipping** box and move the slider to set the volume of the sound.
+
+**Conclusion**
+
+There are high chances of audio sound not being in the required pitch or volume. Plus, you may also need to change the sound characteristics of an audio file for specific use. So, if this is the case, the Audacity change pitch technique is all you need to learn. Thus, we have summarized the process of changing pitch and volume in a step-by-step guide in this article. Hopefully, all your concerns will have been addressed.
+
+02 [How to Change Pitch in Audacity?](#part2)
+
+## Part 1: What is pitch, and how does it work?
+
+Not all sounds are the same. Some vary in terms of amplitude, which makes them loud or quiet. In contrast, others vary in terms of pitch, which makes them high or low. Pitch is used to differentiate between the acute and flat notes in a sound wave. High-pitched sounds are likely to be shrilling, whereas the lower-pitched will be bassy. Pitch depends upon the frequency of the sound waves producing them. In short, notes at a higher frequency are high-pitched.
+
+On the contrary, notes at lower frequencies are low-pitched. Changing a pitch of noise from low to high or vice versa is an art. Thus, sound recording and editing applications like Audacity come with the in-built effect that enables you to change the pitch of a sound.
+
+## Part 2: How to Change Pitch in Audacity?
+
+Sound editing is becoming increasingly popular in music and other relevant industries. Several applications offer sound editing tools to serve the needs of the people. Pitch-changing is one of the common tools that people look for in sound editors.
+
+Audacity is one of the notable software that allows users to change the pitch of the voice. It comes with an **Audacity pitch shift** mechanism to facilitate users. So, if you are editing sound in Audacity, changing the pitch is just a matter of a few clicks. Are you still wondering how you can apply the **Audacity change pitch** technique when editing? Here’s how you can do it in simple steps.
+
+**Step 1: Select the audio portion**
+
+Launch Audacity and add sound recordings you want to edit. Click on the timeline and drag to select the portion of the sound.
+
+**Note:** Only the portion whose pitch you want to change.
+
+![select audio portion to change pitch audacity](https://images.wondershare.com/filmora/article-images/select-audio-portion-to-change-pitch-audacity.jpg)
+
+**Step 2: Open Effect menu**
+
+Click on the **Effect** tab at the top right of the screen next to **Generate.** Select **Pitch Change** from the drop-down menu.
+
+**Note:** You can also make other changes, such as **Change Speed** and **Change Tempo** option will let you alter the speed of the sound. So, the pitch can also be altered using this process.
+
+![audacity effect change pitch](https://images.wondershare.com/filmora/article-images/audacity-effect-change-pitch.jpg)
+
+**Step 3:** **Adjust pitch**
+
+Drag the slider to alter the pitch of the sound and press the OK button to apply changes.
+
+**Note:** To increase pitch, slide towards the right. Similarly, slide towards the left to a lower pitch. In addition, the pitch can also be changed by configuring **From** and **To** parameters.
+
+![audacity change pitch without changing tempo](https://images.wondershare.com/filmora/article-images/audacity-change-pitch-without-changing-tempo.jpg)
+
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Bonus Section: How to Adjust Sound Louder in Audacity?
@@ -277,6 +269,10 @@ Launch the software and click on **File**. Select **Open** and select the desire
 **Note:** It is not recommended to change the volume through the playback volume knob at the top right corner of the screen, as this will only increase the volume in your device. However, the actual volume of the audio will remain unchanged.
 
 ![open audacity audio file](https://images.wondershare.com/filmora/article-images/open-audacity-audio-file.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2:** Increase/Decrease audio gain
 
@@ -309,89 +305,10 @@ There are high chances of audio sound not being in the required pitch or volume.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
-##### Benjamin Arango
-
- Oct 26, 2023• Proven solutions
-
-Video making or filmmaking has now come to the level where the history of imperfections faded away a long time ago. Yes, while the animation is still ruling the floor, an inevitable back-end process might look off-screen and a little complicated. One such job is **ducking sound** that is the process of balancing voiceover and the background audio. If you aren't a tech-savvy person, I hope to go in-depth isn't needed, and hence we stop here. To depict how you need to work out this **ducking music** process, we have this post.
-
-If you are a content creator, maybe you will be familiar with coordinating the right audio with the video. If not, it isn't a problem anymore as I have included a detailed guide of implementing **audio ducking** in a step-wise way. With primary importance to the popular software **OBS** followed by a suitable alternative, let's begin our article!
-
-## Part 1: How to Balance Your Stream Sound with OBS Audio Ducking?
-
-**OBS** (Open Broadcaster Software) is free and open-source software reliable for Windows, Linux, and macOS 10.13+. With countless features like real video/audio capture, mixer, custom transitions, easy-to-use configurations, pre-source filters, VST plug-in support, noise suppression, and a lot more, you can accomplish audio ducking in OBS by adding a sidechain/ducking compression filter. Thus, perform OBS audio ducking in a clean manner by lowering the audio automatically once OBS detects audio on the other audio source.
-
-Does this magic of OBS audio ducking seem new to you? It will not be anymore as the below step-by-step manual will guide you through the process.
-
-**Step 1: Add video files**
-
-Launch the OBS software on your system, and import the files into the workspace with the "File" menu. If you need to add voiceover from your microphone, you can click the "Start Recording" option under the main interface's control section.
-
-If the video plays on VLC in the background, it will appear on the mixer column.
-
-**Step 2: Choose filter and compressor**
-
-On the **Settings** icon next to the streaming video, click on it, and choose the “Filters” option from the drop-down.
-
-You will reach the pop-up of the "Filters for Desktop Audio" whereby clicking on the "+" icon, choose the compressor option.
-
-On the space bar, enter a name for the filter. For example, for **ducking music**, specify as "ducking," and press "OK."
-
-**Step 3: Change the parameters**
-
-You can now specify the values of the ratio, threshold, attack, release, output gain, and the ducking source, for example, “Mic” for microphone voiceover addition.
-
-It's complete. Yes, OBS audio ducking is over. Now you can check the video and alter the parameters if required after a preview.
-
-## Part 2: The Best Audio Ducking Alternative to OBS
-
-Although OBS is preferable for being an open-source and free option with comprehensive abilities in video recording and live streaming strategies, the OBS ducking interface might seem a little unfriendly, making it difficult for newbies. Hence, we have come up with [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) in this session as the best alternative to Streamlabs OBS audio ducking. With an intuitive easy-to-use interface, and attractive video/audio features, Filmora stands as the recommended choice for professionals and beginners!
-
-Developed for the inspired, Filmora follows its unique way of ducking sound, easy to handle for travel Vlogs, makeup tutorials, video lectures, presentations, and so on. Going through the below feature set can reveal why is Filmora is better than OBS.
-
-* With simple steps, you can perform audio ducking in just on a single scale to attain the right audio balance on your video without complication.
-* Get access to other in-built options like noise remover, after effects; fade in/out, equalizer, keyframing, and so on.
-* Perfect your audio to the video along with tons of features like an audio mixer along with options like mute, detach, split, and background removal.
-* Add voiceover, sprinkle magic with filters, detect beat, and create markers easily with Wondershare Filmora.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
-### How to use the audio ducking feature in Wondershare Filmora?
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
-Download and install Wondershare Filmora by clicking on the **Try It Free** button above. Once installed, follow the steps below.
-
-**Step 1: Launch the application**
-
-Open or launch the Wondershare Filmora application and choose "**New Project**" or open the existing project from the primary dashboard.
-
-**Step 2: Import the video into the timeline**
-
-Drag the video file to which you need to balance the stream sound.
-
-Another option to bring the video file into the timeline is by executing “File> Import Media> Import Media Files”.
-
-**Step 3: Ducking sound in the video**
-
-Select the clips with dialogue, whereby right-clicking or double-clicking on them, choose the “**Adjust Audio**” option.
-
-On the following audio editing window, tick the "**Lower the volume of other clips**" option to reduce background music or any other media volume.
-
-## Conclusion
-
-I hope you have now come to know why **ducking sound** is a must and how well **Streamlabs OBS** and **Wondershare Filmora** carry out the job. Lastly, with the step-by-step guide to accomplish **audio ducking** with both the software, we can conclude that OBS performance is better, whereas Wondershare Filmora is the best choice in terms of interface and features!
-
-![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
-
-Benjamin Arango
-
-Benjamin Arango is a writer and a lover of all things video.
-
-Follow @Benjamin Arango
-
 ##### Benjamin Arango
 
  Oct 26, 2023• Proven solutions
@@ -399,205 +316,292 @@ Follow @Benjamin Arango
 Video making or filmmaking has now come to the level where the history of imperfections faded away a long time ago. Yes, while the animation is still ruling the floor, an inevitable back-end process might look off-screen and a little complicated. One such job is **ducking sound** that is the process of balancing voiceover and the background audio. If you aren't a tech-savvy person, I hope to go in-depth isn't needed, and hence we stop here. To depict how you need to work out this **ducking music** process, we have this post.
 
 If you are a content creator, maybe you will be familiar with coordinating the right audio with the video. If not, it isn't a problem anymore as I have included a detailed guide of implementing **audio ducking** in a step-wise way. With primary importance to the popular software **OBS** followed by a suitable alternative, let's begin our article!
-
-## Part 1: How to Balance Your Stream Sound with OBS Audio Ducking?
-
-**OBS** (Open Broadcaster Software) is free and open-source software reliable for Windows, Linux, and macOS 10.13+. With countless features like real video/audio capture, mixer, custom transitions, easy-to-use configurations, pre-source filters, VST plug-in support, noise suppression, and a lot more, you can accomplish audio ducking in OBS by adding a sidechain/ducking compression filter. Thus, perform OBS audio ducking in a clean manner by lowering the audio automatically once OBS detects audio on the other audio source.
-
-Does this magic of OBS audio ducking seem new to you? It will not be anymore as the below step-by-step manual will guide you through the process.
-
-**Step 1: Add video files**
-
-Launch the OBS software on your system, and import the files into the workspace with the "File" menu. If you need to add voiceover from your microphone, you can click the "Start Recording" option under the main interface's control section.
-
-If the video plays on VLC in the background, it will appear on the mixer column.
-
-**Step 2: Choose filter and compressor**
-
-On the **Settings** icon next to the streaming video, click on it, and choose the “Filters” option from the drop-down.
-
-You will reach the pop-up of the "Filters for Desktop Audio" whereby clicking on the "+" icon, choose the compressor option.
-
-On the space bar, enter a name for the filter. For example, for **ducking music**, specify as "ducking," and press "OK."
-
-**Step 3: Change the parameters**
-
-You can now specify the values of the ratio, threshold, attack, release, output gain, and the ducking source, for example, “Mic” for microphone voiceover addition.
-
-It's complete. Yes, OBS audio ducking is over. Now you can check the video and alter the parameters if required after a preview.
-
-## Part 2: The Best Audio Ducking Alternative to OBS
-
-Although OBS is preferable for being an open-source and free option with comprehensive abilities in video recording and live streaming strategies, the OBS ducking interface might seem a little unfriendly, making it difficult for newbies. Hence, we have come up with [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) in this session as the best alternative to Streamlabs OBS audio ducking. With an intuitive easy-to-use interface, and attractive video/audio features, Filmora stands as the recommended choice for professionals and beginners!
-
-Developed for the inspired, Filmora follows its unique way of ducking sound, easy to handle for travel Vlogs, makeup tutorials, video lectures, presentations, and so on. Going through the below feature set can reveal why is Filmora is better than OBS.
-
-* With simple steps, you can perform audio ducking in just on a single scale to attain the right audio balance on your video without complication.
-* Get access to other in-built options like noise remover, after effects; fade in/out, equalizer, keyframing, and so on.
-* Perfect your audio to the video along with tons of features like an audio mixer along with options like mute, detach, split, and background removal.
-* Add voiceover, sprinkle magic with filters, detect beat, and create markers easily with Wondershare Filmora.
-
-### How to use the audio ducking feature in Wondershare Filmora?
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
-Download and install Wondershare Filmora by clicking on the **Try It Free** button above. Once installed, follow the steps below.
-
-**Step 1: Launch the application**
-
-Open or launch the Wondershare Filmora application and choose "**New Project**" or open the existing project from the primary dashboard.
-
-**Step 2: Import the video into the timeline**
-
-Drag the video file to which you need to balance the stream sound.
-
-Another option to bring the video file into the timeline is by executing “File> Import Media> Import Media Files”.
-
-**Step 3: Ducking sound in the video**
-
-Select the clips with dialogue, whereby right-clicking or double-clicking on them, choose the “**Adjust Audio**” option.
-
-On the following audio editing window, tick the "**Lower the volume of other clips**" option to reduce background music or any other media volume.
-
-## Conclusion
-
-I hope you have now come to know why **ducking sound** is a must and how well **Streamlabs OBS** and **Wondershare Filmora** carry out the job. Lastly, with the step-by-step guide to accomplish **audio ducking** with both the software, we can conclude that OBS performance is better, whereas Wondershare Filmora is the best choice in terms of interface and features!
-
-![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
-
-Benjamin Arango
-
-Benjamin Arango is a writer and a lover of all things video.
-
-Follow @Benjamin Arango
-
-##### Benjamin Arango
-
- Oct 26, 2023• Proven solutions
-
-Video making or filmmaking has now come to the level where the history of imperfections faded away a long time ago. Yes, while the animation is still ruling the floor, an inevitable back-end process might look off-screen and a little complicated. One such job is **ducking sound** that is the process of balancing voiceover and the background audio. If you aren't a tech-savvy person, I hope to go in-depth isn't needed, and hence we stop here. To depict how you need to work out this **ducking music** process, we have this post.
-
-If you are a content creator, maybe you will be familiar with coordinating the right audio with the video. If not, it isn't a problem anymore as I have included a detailed guide of implementing **audio ducking** in a step-wise way. With primary importance to the popular software **OBS** followed by a suitable alternative, let's begin our article!
-
-## Part 1: How to Balance Your Stream Sound with OBS Audio Ducking?
-
-**OBS** (Open Broadcaster Software) is free and open-source software reliable for Windows, Linux, and macOS 10.13+. With countless features like real video/audio capture, mixer, custom transitions, easy-to-use configurations, pre-source filters, VST plug-in support, noise suppression, and a lot more, you can accomplish audio ducking in OBS by adding a sidechain/ducking compression filter. Thus, perform OBS audio ducking in a clean manner by lowering the audio automatically once OBS detects audio on the other audio source.
-
-Does this magic of OBS audio ducking seem new to you? It will not be anymore as the below step-by-step manual will guide you through the process.
-
-**Step 1: Add video files**
-
-Launch the OBS software on your system, and import the files into the workspace with the "File" menu. If you need to add voiceover from your microphone, you can click the "Start Recording" option under the main interface's control section.
-
-If the video plays on VLC in the background, it will appear on the mixer column.
-
-**Step 2: Choose filter and compressor**
-
-On the **Settings** icon next to the streaming video, click on it, and choose the “Filters” option from the drop-down.
-
-You will reach the pop-up of the "Filters for Desktop Audio" whereby clicking on the "+" icon, choose the compressor option.
-
-On the space bar, enter a name for the filter. For example, for **ducking music**, specify as "ducking," and press "OK."
-
-**Step 3: Change the parameters**
-
-You can now specify the values of the ratio, threshold, attack, release, output gain, and the ducking source, for example, “Mic” for microphone voiceover addition.
-
-It's complete. Yes, OBS audio ducking is over. Now you can check the video and alter the parameters if required after a preview.
-
-## Part 2: The Best Audio Ducking Alternative to OBS
-
-Although OBS is preferable for being an open-source and free option with comprehensive abilities in video recording and live streaming strategies, the OBS ducking interface might seem a little unfriendly, making it difficult for newbies. Hence, we have come up with [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) in this session as the best alternative to Streamlabs OBS audio ducking. With an intuitive easy-to-use interface, and attractive video/audio features, Filmora stands as the recommended choice for professionals and beginners!
-
-Developed for the inspired, Filmora follows its unique way of ducking sound, easy to handle for travel Vlogs, makeup tutorials, video lectures, presentations, and so on. Going through the below feature set can reveal why is Filmora is better than OBS.
-
-* With simple steps, you can perform audio ducking in just on a single scale to attain the right audio balance on your video without complication.
-* Get access to other in-built options like noise remover, after effects; fade in/out, equalizer, keyframing, and so on.
-* Perfect your audio to the video along with tons of features like an audio mixer along with options like mute, detach, split, and background removal.
-* Add voiceover, sprinkle magic with filters, detect beat, and create markers easily with Wondershare Filmora.
-
-### How to use the audio ducking feature in Wondershare Filmora?
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
-Download and install Wondershare Filmora by clicking on the **Try It Free** button above. Once installed, follow the steps below.
-
-**Step 1: Launch the application**
-
-Open or launch the Wondershare Filmora application and choose "**New Project**" or open the existing project from the primary dashboard.
-
-**Step 2: Import the video into the timeline**
-
-Drag the video file to which you need to balance the stream sound.
-
-Another option to bring the video file into the timeline is by executing “File> Import Media> Import Media Files”.
-
-**Step 3: Ducking sound in the video**
-
-Select the clips with dialogue, whereby right-clicking or double-clicking on them, choose the “**Adjust Audio**” option.
-
-On the following audio editing window, tick the "**Lower the volume of other clips**" option to reduce background music or any other media volume.
-
-## Conclusion
-
-I hope you have now come to know why **ducking sound** is a must and how well **Streamlabs OBS** and **Wondershare Filmora** carry out the job. Lastly, with the step-by-step guide to accomplish **audio ducking** with both the software, we can conclude that OBS performance is better, whereas Wondershare Filmora is the best choice in terms of interface and features!
-
-![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
-
-Benjamin Arango
-
-Benjamin Arango is a writer and a lover of all things video.
-
-Follow @Benjamin Arango
-
-##### Benjamin Arango
-
- Oct 26, 2023• Proven solutions
-
-Video making or filmmaking has now come to the level where the history of imperfections faded away a long time ago. Yes, while the animation is still ruling the floor, an inevitable back-end process might look off-screen and a little complicated. One such job is **ducking sound** that is the process of balancing voiceover and the background audio. If you aren't a tech-savvy person, I hope to go in-depth isn't needed, and hence we stop here. To depict how you need to work out this **ducking music** process, we have this post.
-
-If you are a content creator, maybe you will be familiar with coordinating the right audio with the video. If not, it isn't a problem anymore as I have included a detailed guide of implementing **audio ducking** in a step-wise way. With primary importance to the popular software **OBS** followed by a suitable alternative, let's begin our article!
-
-## Part 1: How to Balance Your Stream Sound with OBS Audio Ducking?
-
-**OBS** (Open Broadcaster Software) is free and open-source software reliable for Windows, Linux, and macOS 10.13+. With countless features like real video/audio capture, mixer, custom transitions, easy-to-use configurations, pre-source filters, VST plug-in support, noise suppression, and a lot more, you can accomplish audio ducking in OBS by adding a sidechain/ducking compression filter. Thus, perform OBS audio ducking in a clean manner by lowering the audio automatically once OBS detects audio on the other audio source.
-
-Does this magic of OBS audio ducking seem new to you? It will not be anymore as the below step-by-step manual will guide you through the process.
-
-**Step 1: Add video files**
-
-Launch the OBS software on your system, and import the files into the workspace with the "File" menu. If you need to add voiceover from your microphone, you can click the "Start Recording" option under the main interface's control section.
-
-If the video plays on VLC in the background, it will appear on the mixer column.
-
-**Step 2: Choose filter and compressor**
-
-On the **Settings** icon next to the streaming video, click on it, and choose the “Filters” option from the drop-down.
-
-You will reach the pop-up of the "Filters for Desktop Audio" whereby clicking on the "+" icon, choose the compressor option.
-
-On the space bar, enter a name for the filter. For example, for **ducking music**, specify as "ducking," and press "OK."
-
-**Step 3: Change the parameters**
-
-You can now specify the values of the ratio, threshold, attack, release, output gain, and the ducking source, for example, “Mic” for microphone voiceover addition.
-
-It's complete. Yes, OBS audio ducking is over. Now you can check the video and alter the parameters if required after a preview.
-
-## Part 2: The Best Audio Ducking Alternative to OBS
-
-Although OBS is preferable for being an open-source and free option with comprehensive abilities in video recording and live streaming strategies, the OBS ducking interface might seem a little unfriendly, making it difficult for newbies. Hence, we have come up with [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) in this session as the best alternative to Streamlabs OBS audio ducking. With an intuitive easy-to-use interface, and attractive video/audio features, Filmora stands as the recommended choice for professionals and beginners!
-
-Developed for the inspired, Filmora follows its unique way of ducking sound, easy to handle for travel Vlogs, makeup tutorials, video lectures, presentations, and so on. Going through the below feature set can reveal why is Filmora is better than OBS.
-
-* With simple steps, you can perform audio ducking in just on a single scale to attain the right audio balance on your video without complication.
-* Get access to other in-built options like noise remover, after effects; fade in/out, equalizer, keyframing, and so on.
-* Perfect your audio to the video along with tons of features like an audio mixer along with options like mute, detach, split, and background removal.
-* Add voiceover, sprinkle magic with filters, detect beat, and create markers easily with Wondershare Filmora.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Part 1: How to Balance Your Stream Sound with OBS Audio Ducking?
+
+**OBS** (Open Broadcaster Software) is free and open-source software reliable for Windows, Linux, and macOS 10.13+. With countless features like real video/audio capture, mixer, custom transitions, easy-to-use configurations, pre-source filters, VST plug-in support, noise suppression, and a lot more, you can accomplish audio ducking in OBS by adding a sidechain/ducking compression filter. Thus, perform OBS audio ducking in a clean manner by lowering the audio automatically once OBS detects audio on the other audio source.
+
+Does this magic of OBS audio ducking seem new to you? It will not be anymore as the below step-by-step manual will guide you through the process.
+
+**Step 1: Add video files**
+
+Launch the OBS software on your system, and import the files into the workspace with the "File" menu. If you need to add voiceover from your microphone, you can click the "Start Recording" option under the main interface's control section.
+
+If the video plays on VLC in the background, it will appear on the mixer column.
+
+**Step 2: Choose filter and compressor**
+
+On the **Settings** icon next to the streaming video, click on it, and choose the “Filters” option from the drop-down.
+
+You will reach the pop-up of the "Filters for Desktop Audio" whereby clicking on the "+" icon, choose the compressor option.
+
+On the space bar, enter a name for the filter. For example, for **ducking music**, specify as "ducking," and press "OK."
+
+**Step 3: Change the parameters**
+
+You can now specify the values of the ratio, threshold, attack, release, output gain, and the ducking source, for example, “Mic” for microphone voiceover addition.
+
+It's complete. Yes, OBS audio ducking is over. Now you can check the video and alter the parameters if required after a preview.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## Part 2: The Best Audio Ducking Alternative to OBS
+
+Although OBS is preferable for being an open-source and free option with comprehensive abilities in video recording and live streaming strategies, the OBS ducking interface might seem a little unfriendly, making it difficult for newbies. Hence, we have come up with [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) in this session as the best alternative to Streamlabs OBS audio ducking. With an intuitive easy-to-use interface, and attractive video/audio features, Filmora stands as the recommended choice for professionals and beginners!
+
+Developed for the inspired, Filmora follows its unique way of ducking sound, easy to handle for travel Vlogs, makeup tutorials, video lectures, presentations, and so on. Going through the below feature set can reveal why is Filmora is better than OBS.
+
+* With simple steps, you can perform audio ducking in just on a single scale to attain the right audio balance on your video without complication.
+* Get access to other in-built options like noise remover, after effects; fade in/out, equalizer, keyframing, and so on.
+* Perfect your audio to the video along with tons of features like an audio mixer along with options like mute, detach, split, and background removal.
+* Add voiceover, sprinkle magic with filters, detect beat, and create markers easily with Wondershare Filmora.
+
+### How to use the audio ducking feature in Wondershare Filmora?
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+Download and install Wondershare Filmora by clicking on the **Try It Free** button above. Once installed, follow the steps below.
+
+**Step 1: Launch the application**
+
+Open or launch the Wondershare Filmora application and choose "**New Project**" or open the existing project from the primary dashboard.
+
+**Step 2: Import the video into the timeline**
+
+Drag the video file to which you need to balance the stream sound.
+
+Another option to bring the video file into the timeline is by executing “File> Import Media> Import Media Files”.
+
+**Step 3: Ducking sound in the video**
+
+Select the clips with dialogue, whereby right-clicking or double-clicking on them, choose the “**Adjust Audio**” option.
+
+On the following audio editing window, tick the "**Lower the volume of other clips**" option to reduce background music or any other media volume.
+
+## Conclusion
+
+I hope you have now come to know why **ducking sound** is a must and how well **Streamlabs OBS** and **Wondershare Filmora** carry out the job. Lastly, with the step-by-step guide to accomplish **audio ducking** with both the software, we can conclude that OBS performance is better, whereas Wondershare Filmora is the best choice in terms of interface and features!
+
+![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+Benjamin Arango
+
+Benjamin Arango is a writer and a lover of all things video.
+
+Follow @Benjamin Arango
+
+##### Benjamin Arango
+
+ Oct 26, 2023• Proven solutions
+
+Video making or filmmaking has now come to the level where the history of imperfections faded away a long time ago. Yes, while the animation is still ruling the floor, an inevitable back-end process might look off-screen and a little complicated. One such job is **ducking sound** that is the process of balancing voiceover and the background audio. If you aren't a tech-savvy person, I hope to go in-depth isn't needed, and hence we stop here. To depict how you need to work out this **ducking music** process, we have this post.
+
+If you are a content creator, maybe you will be familiar with coordinating the right audio with the video. If not, it isn't a problem anymore as I have included a detailed guide of implementing **audio ducking** in a step-wise way. With primary importance to the popular software **OBS** followed by a suitable alternative, let's begin our article!
+
+## Part 1: How to Balance Your Stream Sound with OBS Audio Ducking?
+
+**OBS** (Open Broadcaster Software) is free and open-source software reliable for Windows, Linux, and macOS 10.13+. With countless features like real video/audio capture, mixer, custom transitions, easy-to-use configurations, pre-source filters, VST plug-in support, noise suppression, and a lot more, you can accomplish audio ducking in OBS by adding a sidechain/ducking compression filter. Thus, perform OBS audio ducking in a clean manner by lowering the audio automatically once OBS detects audio on the other audio source.
+
+Does this magic of OBS audio ducking seem new to you? It will not be anymore as the below step-by-step manual will guide you through the process.
+
+**Step 1: Add video files**
+
+Launch the OBS software on your system, and import the files into the workspace with the "File" menu. If you need to add voiceover from your microphone, you can click the "Start Recording" option under the main interface's control section.
+
+If the video plays on VLC in the background, it will appear on the mixer column.
+
+**Step 2: Choose filter and compressor**
+
+On the **Settings** icon next to the streaming video, click on it, and choose the “Filters” option from the drop-down.
+
+You will reach the pop-up of the "Filters for Desktop Audio" whereby clicking on the "+" icon, choose the compressor option.
+
+On the space bar, enter a name for the filter. For example, for **ducking music**, specify as "ducking," and press "OK."
+
+**Step 3: Change the parameters**
+
+You can now specify the values of the ratio, threshold, attack, release, output gain, and the ducking source, for example, “Mic” for microphone voiceover addition.
+
+It's complete. Yes, OBS audio ducking is over. Now you can check the video and alter the parameters if required after a preview.
+
+## Part 2: The Best Audio Ducking Alternative to OBS
+
+Although OBS is preferable for being an open-source and free option with comprehensive abilities in video recording and live streaming strategies, the OBS ducking interface might seem a little unfriendly, making it difficult for newbies. Hence, we have come up with [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) in this session as the best alternative to Streamlabs OBS audio ducking. With an intuitive easy-to-use interface, and attractive video/audio features, Filmora stands as the recommended choice for professionals and beginners!
+
+Developed for the inspired, Filmora follows its unique way of ducking sound, easy to handle for travel Vlogs, makeup tutorials, video lectures, presentations, and so on. Going through the below feature set can reveal why is Filmora is better than OBS.
+
+* With simple steps, you can perform audio ducking in just on a single scale to attain the right audio balance on your video without complication.
+* Get access to other in-built options like noise remover, after effects; fade in/out, equalizer, keyframing, and so on.
+* Perfect your audio to the video along with tons of features like an audio mixer along with options like mute, detach, split, and background removal.
+* Add voiceover, sprinkle magic with filters, detect beat, and create markers easily with Wondershare Filmora.
+
+### How to use the audio ducking feature in Wondershare Filmora?
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+Download and install Wondershare Filmora by clicking on the **Try It Free** button above. Once installed, follow the steps below.
+
+**Step 1: Launch the application**
+
+Open or launch the Wondershare Filmora application and choose "**New Project**" or open the existing project from the primary dashboard.
+
+**Step 2: Import the video into the timeline**
+
+Drag the video file to which you need to balance the stream sound.
+
+Another option to bring the video file into the timeline is by executing “File> Import Media> Import Media Files”.
+
+**Step 3: Ducking sound in the video**
+
+Select the clips with dialogue, whereby right-clicking or double-clicking on them, choose the “**Adjust Audio**” option.
+
+On the following audio editing window, tick the "**Lower the volume of other clips**" option to reduce background music or any other media volume.
+
+## Conclusion
+
+I hope you have now come to know why **ducking sound** is a must and how well **Streamlabs OBS** and **Wondershare Filmora** carry out the job. Lastly, with the step-by-step guide to accomplish **audio ducking** with both the software, we can conclude that OBS performance is better, whereas Wondershare Filmora is the best choice in terms of interface and features!
+
+![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+Benjamin Arango
+
+Benjamin Arango is a writer and a lover of all things video.
+
+Follow @Benjamin Arango
+
+##### Benjamin Arango
+
+ Oct 26, 2023• Proven solutions
+
+Video making or filmmaking has now come to the level where the history of imperfections faded away a long time ago. Yes, while the animation is still ruling the floor, an inevitable back-end process might look off-screen and a little complicated. One such job is **ducking sound** that is the process of balancing voiceover and the background audio. If you aren't a tech-savvy person, I hope to go in-depth isn't needed, and hence we stop here. To depict how you need to work out this **ducking music** process, we have this post.
+
+If you are a content creator, maybe you will be familiar with coordinating the right audio with the video. If not, it isn't a problem anymore as I have included a detailed guide of implementing **audio ducking** in a step-wise way. With primary importance to the popular software **OBS** followed by a suitable alternative, let's begin our article!
+
+## Part 1: How to Balance Your Stream Sound with OBS Audio Ducking?
+
+**OBS** (Open Broadcaster Software) is free and open-source software reliable for Windows, Linux, and macOS 10.13+. With countless features like real video/audio capture, mixer, custom transitions, easy-to-use configurations, pre-source filters, VST plug-in support, noise suppression, and a lot more, you can accomplish audio ducking in OBS by adding a sidechain/ducking compression filter. Thus, perform OBS audio ducking in a clean manner by lowering the audio automatically once OBS detects audio on the other audio source.
+
+Does this magic of OBS audio ducking seem new to you? It will not be anymore as the below step-by-step manual will guide you through the process.
+
+**Step 1: Add video files**
+
+Launch the OBS software on your system, and import the files into the workspace with the "File" menu. If you need to add voiceover from your microphone, you can click the "Start Recording" option under the main interface's control section.
+
+If the video plays on VLC in the background, it will appear on the mixer column.
+
+**Step 2: Choose filter and compressor**
+
+On the **Settings** icon next to the streaming video, click on it, and choose the “Filters” option from the drop-down.
+
+You will reach the pop-up of the "Filters for Desktop Audio" whereby clicking on the "+" icon, choose the compressor option.
+
+On the space bar, enter a name for the filter. For example, for **ducking music**, specify as "ducking," and press "OK."
+
+**Step 3: Change the parameters**
+
+You can now specify the values of the ratio, threshold, attack, release, output gain, and the ducking source, for example, “Mic” for microphone voiceover addition.
+
+It's complete. Yes, OBS audio ducking is over. Now you can check the video and alter the parameters if required after a preview.
+
+## Part 2: The Best Audio Ducking Alternative to OBS
+
+Although OBS is preferable for being an open-source and free option with comprehensive abilities in video recording and live streaming strategies, the OBS ducking interface might seem a little unfriendly, making it difficult for newbies. Hence, we have come up with [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) in this session as the best alternative to Streamlabs OBS audio ducking. With an intuitive easy-to-use interface, and attractive video/audio features, Filmora stands as the recommended choice for professionals and beginners!
+
+Developed for the inspired, Filmora follows its unique way of ducking sound, easy to handle for travel Vlogs, makeup tutorials, video lectures, presentations, and so on. Going through the below feature set can reveal why is Filmora is better than OBS.
+
+* With simple steps, you can perform audio ducking in just on a single scale to attain the right audio balance on your video without complication.
+* Get access to other in-built options like noise remover, after effects; fade in/out, equalizer, keyframing, and so on.
+* Perfect your audio to the video along with tons of features like an audio mixer along with options like mute, detach, split, and background removal.
+* Add voiceover, sprinkle magic with filters, detect beat, and create markers easily with Wondershare Filmora.
+
+### How to use the audio ducking feature in Wondershare Filmora?
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+Download and install Wondershare Filmora by clicking on the **Try It Free** button above. Once installed, follow the steps below.
+
+**Step 1: Launch the application**
+
+Open or launch the Wondershare Filmora application and choose "**New Project**" or open the existing project from the primary dashboard.
+
+**Step 2: Import the video into the timeline**
+
+Drag the video file to which you need to balance the stream sound.
+
+Another option to bring the video file into the timeline is by executing “File> Import Media> Import Media Files”.
+
+**Step 3: Ducking sound in the video**
+
+Select the clips with dialogue, whereby right-clicking or double-clicking on them, choose the “**Adjust Audio**” option.
+
+On the following audio editing window, tick the "**Lower the volume of other clips**" option to reduce background music or any other media volume.
+
+## Conclusion
+
+I hope you have now come to know why **ducking sound** is a must and how well **Streamlabs OBS** and **Wondershare Filmora** carry out the job. Lastly, with the step-by-step guide to accomplish **audio ducking** with both the software, we can conclude that OBS performance is better, whereas Wondershare Filmora is the best choice in terms of interface and features!
+
+![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+Benjamin Arango
+
+Benjamin Arango is a writer and a lover of all things video.
+
+Follow @Benjamin Arango
+
+##### Benjamin Arango
+
+ Oct 26, 2023• Proven solutions
+
+Video making or filmmaking has now come to the level where the history of imperfections faded away a long time ago. Yes, while the animation is still ruling the floor, an inevitable back-end process might look off-screen and a little complicated. One such job is **ducking sound** that is the process of balancing voiceover and the background audio. If you aren't a tech-savvy person, I hope to go in-depth isn't needed, and hence we stop here. To depict how you need to work out this **ducking music** process, we have this post.
+
+If you are a content creator, maybe you will be familiar with coordinating the right audio with the video. If not, it isn't a problem anymore as I have included a detailed guide of implementing **audio ducking** in a step-wise way. With primary importance to the popular software **OBS** followed by a suitable alternative, let's begin our article!
+
+## Part 1: How to Balance Your Stream Sound with OBS Audio Ducking?
+
+**OBS** (Open Broadcaster Software) is free and open-source software reliable for Windows, Linux, and macOS 10.13+. With countless features like real video/audio capture, mixer, custom transitions, easy-to-use configurations, pre-source filters, VST plug-in support, noise suppression, and a lot more, you can accomplish audio ducking in OBS by adding a sidechain/ducking compression filter. Thus, perform OBS audio ducking in a clean manner by lowering the audio automatically once OBS detects audio on the other audio source.
+
+Does this magic of OBS audio ducking seem new to you? It will not be anymore as the below step-by-step manual will guide you through the process.
+
+**Step 1: Add video files**
+
+Launch the OBS software on your system, and import the files into the workspace with the "File" menu. If you need to add voiceover from your microphone, you can click the "Start Recording" option under the main interface's control section.
+
+If the video plays on VLC in the background, it will appear on the mixer column.
+
+**Step 2: Choose filter and compressor**
+
+On the **Settings** icon next to the streaming video, click on it, and choose the “Filters” option from the drop-down.
+
+You will reach the pop-up of the "Filters for Desktop Audio" whereby clicking on the "+" icon, choose the compressor option.
+
+On the space bar, enter a name for the filter. For example, for **ducking music**, specify as "ducking," and press "OK."
+
+**Step 3: Change the parameters**
+
+You can now specify the values of the ratio, threshold, attack, release, output gain, and the ducking source, for example, “Mic” for microphone voiceover addition.
+
+It's complete. Yes, OBS audio ducking is over. Now you can check the video and alter the parameters if required after a preview.
+
+## Part 2: The Best Audio Ducking Alternative to OBS
+
+Although OBS is preferable for being an open-source and free option with comprehensive abilities in video recording and live streaming strategies, the OBS ducking interface might seem a little unfriendly, making it difficult for newbies. Hence, we have come up with [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) in this session as the best alternative to Streamlabs OBS audio ducking. With an intuitive easy-to-use interface, and attractive video/audio features, Filmora stands as the recommended choice for professionals and beginners!
+
+Developed for the inspired, Filmora follows its unique way of ducking sound, easy to handle for travel Vlogs, makeup tutorials, video lectures, presentations, and so on. Going through the below feature set can reveal why is Filmora is better than OBS.
+
+* With simple steps, you can perform audio ducking in just on a single scale to attain the right audio balance on your video without complication.
+* Get access to other in-built options like noise remover, after effects; fade in/out, equalizer, keyframing, and so on.
+* Perfect your audio to the video along with tons of features like an audio mixer along with options like mute, detach, split, and background removal.
+* Add voiceover, sprinkle magic with filters, detect beat, and create markers easily with Wondershare Filmora.
 
 ### How to use the audio ducking feature in Wondershare Filmora?
 
@@ -649,10 +653,6 @@ The other type is 'Royalty-free Music,' which allows the purchaser to pay for th
 
 We are not always connected to the internet. Suppose you want to listen to songs, but sadly you don't have internet connectivity. What are you going to do in such a situation? The best suggestion to avoid such problems is to download your favorite music. The following section of this article will share 10 sites to download BGM songs.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Jamendo
 
 The first site that we are going to talk about is Jamendo. The site offers two platforms; Music and Licensing. With Jamendo Music, you can do free downloading and free streaming. All the songs under Jamendo Music have a Creative Commons License.
@@ -685,6 +685,10 @@ Working with SoundCloud is very convenient. It helps you narrow your search by u
 
 ![soundcloud](https://images.wondershare.com/filmora/article-images/2022/popular-sites-to-download-bgm-music-in-2022-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 5\. Thematic
 
 The next popular site for downloading cool BGM songs is Thematic. The site has copyright-free music. You can find suitable music for your videos that matches the video theme. The platform has free songs that musicians and artists establish.
@@ -700,10 +704,6 @@ Up next is the ccMixter in line. This is a collaborative platform for musicians.
 Hence, you are free to use the music as long as you give credit to the artist. ccMixter offers you Instrumental Music, Free Music for Commercials and Video Games. Do you know that ccMixter has a tag search? This narrows your search process and saves time. A fact about ccMixter is that it has been used in over 1 million games and videos.
 
 ![ccmixter](https://images.wondershare.com/filmora/article-images/2022/popular-sites-to-download-bgm-music-in-2022-6.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 7\. YouTube Audio Library
 
@@ -729,10 +729,6 @@ The interface of Incompetech is straightforward. You can easily understand it an
 
 ![incompetech](https://images.wondershare.com/filmora/article-images/2022/popular-sites-to-download-bgm-music-in-2022-9.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 10\. StoryBlocks
 
 The last site to be discussed is StoryBlocks. This is another brilliant platform to get royalty-free music. You have to subscribe to StoryBlocks. This opens your gateway to download hundreds of free sound effects.
@@ -740,6 +736,10 @@ The last site to be discussed is StoryBlocks. This is another brilliant platform
 Let us tell you the coolest thing about StoryBlocks. You can specify the length of the track you are looking for. This is done by using its slide bar. This feature has made the search process so easy in StoryBlocks.
 
 ![storyblocks](https://images.wondershare.com/filmora/article-images/2022/popular-sites-to-download-bgm-music-in-2022-10.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Bottom Line
 
@@ -761,18 +761,22 @@ Looking for suitable BGM music for your video is not easy. The task consumes you
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-the-complete-scan-of-lg-360-modern-updates-review/"><u>[New] The Complete Scan of LG 360 Modern Updates Review</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-prime-mp4-fb-file-enhancer/"><u>[Updated] 2024 Approved Prime MP4-FB File Enhancer</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/updated-boosting-streams-switching-to-av1-in-youtubes-settings/"><u>[Updated] Boosting Streams Switching to AV1 in YouTube's Settings</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-starting-stronger-exploring-the-best-15-video-intros-for-2024/"><u>[Updated] Starting Stronger Exploring the Best 15 Video Intros for 2024</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/2024-approved-uncovering-artistic-soundscapes-mimicking-brush-techniques/"><u>2024 Approved Uncovering Artistic Soundscapes Mimicking Brush Techniques</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/aac-movavi/"><u>網路直接下載AAC轉換器 – Movavi高效音樂解決方案</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/balancing-the-scales-normalizing-sound-volume-for-optimal-viewing-with-vlc/"><u>Balancing the Scales Normalizing Sound Volume for Optimal Viewing with VLC</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/in-depth-analysis-and-assessment-of-the-high-capacity-zmi-20000-power-pack/"><u>In Depth Analysis and Assessment of the High Capacity ZMI 20000 Power Pack</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/navigating-audacity-how-to-archive-desktop-audio-on-your-pc/"><u>Navigating Audacity How to Archive Desktop Audio on Your PC</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-mastering-tiktok-sound-control-simple-methods-for-quieting-videos/"><u>New In 2024, Mastering TikTok Sound Control Simple Methods for Quieting Videos</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-uncover-belching-sound-simulation/"><u>New Uncover Belching Sound Simulation</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-the-audionists-toolkit-for-silencing-unwanted-audio-elements-for-2024/"><u>Updated The Audionists Toolkit for Silencing Unwanted Audio Elements for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Motorola Moto G84 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-5-best-no-cost-video-enhancement-platforms-for-2024/"><u>[Updated] 5 Best No-Cost Video Enhancement Platforms for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-snapchat-screen-recording-mobile-tips-and-tricks/"><u>[Updated] In 2024, Snapchat Screen Recording Mobile Tips and Tricks</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-navigating-the-numbers-game-a-guide-to-yt-stardom/"><u>[Updated] Navigating the Numbers Game A Guide to YT Stardom</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/how-to-add-audio-to-mkv-2023-update-for-2024/"><u>How to Add Audio to MKV-2023 Update for 2024</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-troubleshoot-and-solve-windows-11-power-malfunction/"><u>How To Troubleshoot and Solve Windows 11 Power Malfunction</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/in-2024-harmonize-your-hearings-top-software-to-extract-clean-soundscapes-from-original-recordings/"><u>In 2024, Harmonize Your Hearings Top Software to Extract Clean Soundscapes From Original Recordings</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-vivo-s18-pro-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Vivo S18 Pro? | Dr.fone</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/in-2024-identifying-sources-for-authentic-canine-symphony-sounds/"><u>In 2024, Identifying Sources for Authentic Canine Symphony Sounds</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-the-art-of-capturing-and-sharing-your-nintendo-switch-gameplay/"><u>Mastering the Art of Capturing & Sharing Your Nintendo Switch Gameplay</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/navigate-video-trimming-with-ease-on-windows-11-photos/"><u>Navigate Video Trimming with Ease on Windows 11 Photos</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-constructing-an-elegant-transition-for-decreasing-auditory-intensity/"><u>New Constructing an Elegant Transition for Decreasing Auditory Intensity</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-mastering-audio-integration-in-updated-mkv-formats-for-2024/"><u>New Mastering Audio Integration in Updated MKV Formats for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-step-by-step-guide-acquiring-audio-content-for-your-computer/"><u>New Step-by-Step Guide Acquiring Audio Content for Your Computer</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/mline-your-thumbnail-design-journey-today-in-2024/"><u>Streamline Your Thumbnail Design Journey Today, In 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/ultimate-dj-streaming-repository-for-2024/"><u>Ultimate DJ Streaming Repository for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-enriched-sound-experience-synthesizing-audio-waves-and-animating-them-for-premiere-pro-audience/"><u>Updated 2024 Approved Enriched Sound Experience Synthesizing Audio Waves and Animating Them for Premiere Pro Audience</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-honor-play-40c-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Honor Play 40C? | Dr.fone</u></a></li>
 </ul></div>
 

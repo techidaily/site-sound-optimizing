@@ -1,7 +1,7 @@
 ---
 title: How the Kobo Nia Stacks Up as a Rival to the Kindle by Amazon
-date: 2025-01-12T01:31:44.313Z
-updated: 2025-01-18T04:37:13.810Z
+date: 2025-01-23T06:43:22.164Z
+updated: 2025-01-24T04:46:17.531Z
 categories:
   - BestProducts
 description: This Article Describes How the Kobo Nia Stacks Up as a Rival to the Kindle by Amazon
@@ -13,13 +13,13 @@ thumbnail: https://www.lifewire.com/thmb/l-thYcivDg_wxc7mx5_01YaMCKg=/400x300/fi
 
 4.9
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ZMI PowerPack 20000
 
 ![ZMI PowerPack 20000](https://www.lifewire.com/thmb/A__IgeAPd2C0e_2iExqDqXJAGB8=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/zmi-HeroSquare-492efa01c9e54737bfa9d16223ff9d82.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Lifewire / Andrew Hayward
 
@@ -45,6 +45,10 @@ thumbnail: https://www.lifewire.com/thmb/l-thYcivDg_wxc7mx5_01YaMCKg=/400x300/fi
 
 ![ZMI PowerPack 20000](https://www.lifewire.com/thmb/FttxoftMtHF3B2ZGmP2QubmOp3I=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/zmi-HeroSquare-492efa01c9e54737bfa9d16223ff9d82.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Lifewire / Andrew Hayward
 
  in this article
@@ -69,10 +73,6 @@ thumbnail: https://www.lifewire.com/thmb/l-thYcivDg_wxc7mx5_01YaMCKg=/400x300/fi
 
  Lifewire / Andrew Hayward
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Design: Small but powerful**
 
  The ZMI PowerPack 20000’s size is easily one of its biggest selling points. While it is a little heavy at 14.3 ounces, this power bank is the approximate width and height of a large smartphone, measuring up very closely to the size of my Apple iPhone 11 Pro at 6.3 x 3.2 inches (HWD). Of course, the 0.8-inch thickness is quite a bit larger than any phone today, but unlike most laptop-friendly charging banks, ZMI’s can still fit into a pocket or handbag with ease.
@@ -88,7 +88,7 @@ thumbnail: https://www.lifewire.com/thmb/l-thYcivDg_wxc7mx5_01YaMCKg=/400x300/fi
 ![ZMI PowerPack 20000](https://www.lifewire.com/thmb/vaINPELrwcWnOZDsX1ztKkCouww=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/zmi-03-1530f666df824f6281040c2ae3285eb2-2e7956941b91403aa888795a7e5e2e33.jpeg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Lifewire / Andrew Hayward
@@ -96,6 +96,10 @@ Lifewire / Andrew Hayward
 ## **Setup Process: Easy does it**
 
  There’s not much to the setup process here. Using the included USB-C to USB-C cable, simply plug one end into the power bank and the other into an AC adapter that you have handy—like one for a laptop, tablet, or[smartphone](https://www.lifewire.com/best-smartphones-4043781) . Once the four lights on the side are fully illuminated, then the battery pack is fully charged. Simply plug in devices using their respective cables to charge them using the power within the ZMI PowerPack 20000.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Charging Speed and Battery: It keeps going**
 
@@ -107,21 +111,17 @@ Lifewire / Andrew Hayward
 
 ![ZMI PowerPack 20000](https://www.lifewire.com/thmb/asGVK-moJ54HvqyY9N6Kb-KM8hw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/zmi-04-828899fb01024cd4a0e35980251c04b4.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Lifewire / Andrew Hayward
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Price: It’s a bargain**
 
  With larger laptop-friendly battery packs sometimes selling for well north of $100, the $70 price point of the ZMI PowerPack 20000 is an incredibly attractive deal. Granted, the maximum USB-C PD output of 45W won’t charge some super-powered laptops—but for compatible laptops, as well as smartphones, tablets, and other portable electronics, it’s very well priced.
 
  With larger laptop-friendly battery packs sometimes selling for well north of $100, the $70 price point of the ZMI PowerPack 20000 is an incredibly attractive deal.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **ZMI PowerPack 20000 vs Mophie Powerstation AC**
 
@@ -159,21 +159,19 @@ Lifewire / Andrew Hayward
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-the-artisans-handbook-perfecting-your-windows-pc-in-live-tv-recording/"><u>[Updated] 2024 Approved The Artisan's Handbook Perfecting Your Windows PC in Live TV Recording</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-shutterbugs-essential-guide-for-insta-posting/"><u>[Updated] In 2024, Shutterbugs' Essential Guide for Insta-Posting</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-zero-cost-zest-the-ultimate-guide-to-free-game-film/"><u>[Updated] Zero Cost Zest The Ultimate Guide to Free Game Film</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/2024-approved-how-add-emojisstickers-to-videos-on-pcmacmobileonline/"><u>2024 Approved How Add Emojis/Stickers to Videos on PC/Mac/Mobile/Online</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/comprehensive-guide-to-space-empire-management-in-stellaris/"><u>Comprehensive Guide to Space Empire Management in Stellaris</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-can-we-unlock-our-samsung-galaxy-a14-5g-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Samsung Galaxy A14 5G Phone Screen?</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-master-your-vision-with-these-6-premier-nft-tools/"><u>In 2024, Master Your Vision with These 6 Premier NFT Tools</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-premium-picklist-of-digital-vault-services/"><u>In 2024, Premium Picklist of Digital Vault Services</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mercedes-benz-elevates-driving-with-cutting-edge-chatgpt-and-voice-recognition-technology/"><u>Mercedes-Benz Elevates Driving with Cutting-Edge ChatGPT and Voice Recognition Technology</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-discovering-the-most-advanced-online-tools-for-mp3-file-tagging-and-categorization-for-2024/"><u>New Discovering the Most Advanced Online Tools for MP3 File Tagging and Categorization for 2024</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-from-beginner-to-pro-your-complete-guide-to-using-garagebands-recording-features/"><u>New From Beginner to Pro Your Complete Guide to Using GarageBands Recording Features</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-achieving-smooth-transitions-in-sound-the-guide-to-audio-fading/"><u>New In 2024, Achieving Smooth Transitions in Sound The Guide to Audio Fading</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/the-ultimate-strategy-for-fusing-audio-with-video-content-updated-for-2024/"><u>The Ultimate Strategy for Fusing Audio with Video Content (Updated) for 2024</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-best-pop-background-music-list-to-videos/"><u>Updated In 2024, Best Pop Background Music List to Videos</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-soothing-the-digital-soul-the-leading-web-sites-for-inner-peace/"><u>Updated In 2024, Soothing the Digital Soul The Leading Web Sites for Inner Peace</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-streamlining-audio-dynamics-a-comprehensive-approach-to-volume-normalization-with-vlc/"><u>Updated In 2024, Streamlining Audio Dynamics A Comprehensive Approach to Volume Normalization with VLC</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-monetize-smart-a-creative-approach-to-earning-with-vimeo/"><u>[New] 2024 Approved Monetize Smart A Creative Approach to Earning with Vimeo</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ecure-and-simple-grab-your-desired-youtube-cover-at-no-charge-for-2024/"><u>[New] Secure & Simple Grab Your Desired YouTube Cover at No Charge for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-a-deep-dive-into-panasonics-hx-a1-camera-features/"><u>[Updated] A Deep Dive Into Panasonic's HX-A1 Camera Features</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/beste-losung-probleme-mit-sd-karte-beim-ubertragen-von-dateien-auf-den-pc/"><u>Beste Lösung: Probleme Mit SD-Karte Beim Übertragen Von Dateien Auf Den PC</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722116040520-chatgpt-now-available-as-a-mobile-application-download-it-on-ios/"><u>ChatGPT Now Available as a Mobile Application - Download It on iOS!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ihome-zenergy-bedside-sleep-therapy-machine-review/"><u>IHome Zenergy Bedside Sleep Therapy Machine Review</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-expert-advice-how-to-hush-tiktoks-auditory-distractions-effortlessly/"><u>New Expert Advice How to Hush TikToks Auditory Distractions Effortlessly</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-essential-insights-into-image-stock-sourcing-pexels-uncovered/"><u>New In 2024, Essential Insights Into Image Stock Sourcing Pexels Uncovered</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-melody-matters-top-ranked-linux-auditory-software-evaluating-cost-and-quality/"><u>Updated 2024 Approved Melody Matters Top-Ranked Linux Auditory Software - Evaluating Cost and Quality</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-sync-songs-to-boost-engagement-on-igtv/"><u>Updated 2024 Approved Sync Songs to Boost Engagement on IGTV</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-hunting-down-crafted-metallic-chime-echoes/"><u>Updated In 2024, Hunting Down Crafted Metallic Chime Echoes</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-unraveling-the-process-of-stripping-beat-tracks-from-online-compositions/"><u>Updated In 2024, Unraveling the Process of Stripping Beat Tracks From Online Compositions</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/windows-10-pc/"><u>Windows 10 PC修復手引: トラブルシューティング上達法</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/xbox-one-earphones-malfunction-heres-how-to-fix-them/"><u>Xbox One Earphones Malfunction? Here's How to Fix Them!</u></a></li>
 </ul></div>
 
