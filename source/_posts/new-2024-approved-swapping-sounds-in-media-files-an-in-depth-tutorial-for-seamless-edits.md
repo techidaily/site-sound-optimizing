@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Swapping Sounds in Media Files An In-Depth Tutorial for Seamless Edits
-date: 2025-01-22T22:17:32.778Z
-updated: 2025-01-23T22:19:50.836Z
+date: 2025-01-27T20:19:20.624Z
+updated: 2025-01-31T17:28:48.606Z
 tags: 
   - audio editing software
   - audio editing
@@ -50,10 +50,6 @@ The videos selected will be displayed as thumbnails. Choose a video, hit and cli
 
 ![drag video to timeline](https://images.wondershare.com/filmora/article-images/drag-video-timelinw-filmora.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Step 3\. Remove the original sound of the video
 
 Right-click on it, and you would see the option of "Audio detach." Click on it, and the audio file will detach from the video file and get added to Music Timeline.
@@ -71,108 +67,6 @@ You can add a new audio track to the video by choosing royalty sound or music fr
 ## Part 2: How to change audio in video with Windows Movie Maker
 
 The second method, Apart from replacing audio by Filmora, you can also make it by Windows Movie Maker. Though it is discontinued to develop a new version, you can still use it in Windows 7\. Below are the steps to replace audio in [Windows Movie Maker](https://windows-movie-maker.en.softonic.com/).
-
-### Step 1: Import video
-
-First, download and run it. Click **Add videos and photos** to import video.
-
-![import video file](https://images.wondershare.com/filmora/article-images/add-files.png)
-
-### Step 2: Turn off the original sound
-
-Click **Edit** tab > **Video volume** to turn off the sound by draging the slider to the left.
-
-![turn off audio windows movie maker](https://images.wondershare.com/filmora/article-images/turn-off-audio-windows-movie-maker.JPG)
-
-### Step 3: Add audio to video
-
-Click **Add music** to import the targeted music to Windows Movie Maker. You can select **Add music** or **Add music at the current point**.
-
-![add audio windows movie maker](https://images.wondershare.com/filmora/article-images/add-auido-windows-movie-maker.JPG)
-
-### Step 4: Save project
-
-Click the file icon in the top left corner to save the video. Choose **Save movie** to export the targeted file.
-
-![save video windows movie maker](https://images.wondershare.com/filmora/article-images/save-video-windows-movie-maker.JPG)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-## Wondershare Filmora allows you to replace easily and edit the audio in the video
-
-Unfortunately, no application by default on your desktop or laptop, phone, or tablet would get this done. To replace audio in the video, you would need the help of state of the art software. Fortunately, you have Wondershare Filmora at your disposal.
-
-With Wondershare Filmora, you can replace audio in the video, mute audio, detach the audio, and add audio. You can eliminate background noise, organic noise, sound effects, address the sync problem in a video file, and edit the audio in a video without any extensive training or expertise.
-
-* It has a user-friendly interface which makes things simple even for amateurs.
-* It supports all common video and audio formats, including WMV, MOV, FLV, MTS, MP4, etc.
-* You can move audio, replace it or add new audio to the video without worrying about general loss, which is loss of quality.
-* You can export the [edited video](https://tools.techidaily.com/wondershare/filmora/download/) with the new or edited audio to various devices, including the cloud and social media sites.
-* Compatible with Windows (including Windows 8) & Mac OS X (10.6 and above).
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For Win 7 or later (64-bit)
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.12 or later
-
-02 [How to change audio in video with Windows Movie Maker](#part2)
-
-## Part 1: How to replace audio in video with Filmora
-
-The first method, let us explore how you can replace audio in video with Wondershare Filmora.
-
-**_To begin with, get a free trial copy of [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)._**
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For Win 7 or later (64-bit)
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.12 or later
-
-### Step 1\. Import file
-
-Open the application and click ' Import once you have downloaded and installed Wondershare Filmora. Please search for the relevant video you wish to edit and load it from the hard disk or the specific folder. You can select multiple videos using 'ctrl' and clicking on the chosen files.
-
-![import video filmora](https://images.wondershare.com/filmora/article-images/import-video-filmora.jpg)
-
-### Step 2\. Drag and drop to the video Timeline
-
-The videos selected will be displayed as thumbnails. Choose a video, hit and click without releasing the click and drag the chosen video to the Video Timeline.
-
-![drag video to timeline](https://images.wondershare.com/filmora/article-images/drag-video-timelinw-filmora.jpg)
-
-### Step 3\. Remove the original sound of the video
-
-Right-click on it, and you would see the option of "Audio detach." Click on it, and the audio file will detach from the video file and get added to Music Timeline.
-
-Press "Delete" on your keyboard, and you will get rid of it. You can save this video without the audio, and you would only have the visuals, unimpaired and unaffected in any way, without the sound.
-
-![remove original sound](https://images.wondershare.com/filmora/article-images/audio-detach-windows.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-### Step 4\. Add a new audio track
-
-You can add a new audio track to the video by choosing royalty sound or music from the Filmora library or importing any audio you like.
-
-![Filmora add new audio track](https://images.wondershare.com/filmora/article-images/add-new-audio.jpg)
-
-## Part 2: How to change audio in video with Windows Movie Maker
-
-The second method, Apart from replacing audio by Filmora, you can also make it by Windows Movie Maker. Though it is discontinued to develop a new version, you can still use it in Windows 7\. Below are the steps to replace audio in [Windows Movie Maker](https://windows-movie-maker.en.softonic.com/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Step 1: Import video
 
@@ -254,6 +148,10 @@ Press "Delete" on your keyboard, and you will get rid of it. You can save this v
 
 ![remove original sound](https://images.wondershare.com/filmora/article-images/audio-detach-windows.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Step 4\. Add a new audio track
 
 You can add a new audio track to the video by choosing royalty sound or music from the Filmora library or importing any audio you like.
@@ -282,8 +180,106 @@ Click **Add music** to import the targeted music to Windows Movie Maker. You can
 
 ![add audio windows movie maker](https://images.wondershare.com/filmora/article-images/add-auido-windows-movie-maker.JPG)
 
+### Step 4: Save project
+
+Click the file icon in the top left corner to save the video. Choose **Save movie** to export the targeted file.
+
+![save video windows movie maker](https://images.wondershare.com/filmora/article-images/save-video-windows-movie-maker.JPG)
+
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## Wondershare Filmora allows you to replace easily and edit the audio in the video
+
+Unfortunately, no application by default on your desktop or laptop, phone, or tablet would get this done. To replace audio in the video, you would need the help of state of the art software. Fortunately, you have Wondershare Filmora at your disposal.
+
+With Wondershare Filmora, you can replace audio in the video, mute audio, detach the audio, and add audio. You can eliminate background noise, organic noise, sound effects, address the sync problem in a video file, and edit the audio in a video without any extensive training or expertise.
+
+* It has a user-friendly interface which makes things simple even for amateurs.
+* It supports all common video and audio formats, including WMV, MOV, FLV, MTS, MP4, etc.
+* You can move audio, replace it or add new audio to the video without worrying about general loss, which is loss of quality.
+* You can export the [edited video](https://tools.techidaily.com/wondershare/filmora/download/) with the new or edited audio to various devices, including the cloud and social media sites.
+* Compatible with Windows (including Windows 8) & Mac OS X (10.6 and above).
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For Win 7 or later (64-bit)
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+02 [How to change audio in video with Windows Movie Maker](#part2)
+
+## Part 1: How to replace audio in video with Filmora
+
+The first method, let us explore how you can replace audio in video with Wondershare Filmora.
+
+**_To begin with, get a free trial copy of [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)._**
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For Win 7 or later (64-bit)
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+### Step 1\. Import file
+
+Open the application and click ' Import once you have downloaded and installed Wondershare Filmora. Please search for the relevant video you wish to edit and load it from the hard disk or the specific folder. You can select multiple videos using 'ctrl' and clicking on the chosen files.
+
+![import video filmora](https://images.wondershare.com/filmora/article-images/import-video-filmora.jpg)
+
+### Step 2\. Drag and drop to the video Timeline
+
+The videos selected will be displayed as thumbnails. Choose a video, hit and click without releasing the click and drag the chosen video to the Video Timeline.
+
+![drag video to timeline](https://images.wondershare.com/filmora/article-images/drag-video-timelinw-filmora.jpg)
+
+### Step 3\. Remove the original sound of the video
+
+Right-click on it, and you would see the option of "Audio detach." Click on it, and the audio file will detach from the video file and get added to Music Timeline.
+
+Press "Delete" on your keyboard, and you will get rid of it. You can save this video without the audio, and you would only have the visuals, unimpaired and unaffected in any way, without the sound.
+
+![remove original sound](https://images.wondershare.com/filmora/article-images/audio-detach-windows.jpg)
+
+### Step 4\. Add a new audio track
+
+You can add a new audio track to the video by choosing royalty sound or music from the Filmora library or importing any audio you like.
+
+![Filmora add new audio track](https://images.wondershare.com/filmora/article-images/add-new-audio.jpg)
+
+## Part 2: How to change audio in video with Windows Movie Maker
+
+The second method, Apart from replacing audio by Filmora, you can also make it by Windows Movie Maker. Though it is discontinued to develop a new version, you can still use it in Windows 7\. Below are the steps to replace audio in [Windows Movie Maker](https://windows-movie-maker.en.softonic.com/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+### Step 1: Import video
+
+First, download and run it. Click **Add videos and photos** to import video.
+
+![import video file](https://images.wondershare.com/filmora/article-images/add-files.png)
+
+### Step 2: Turn off the original sound
+
+Click **Edit** tab > **Video volume** to turn off the sound by draging the slider to the left.
+
+![turn off audio windows movie maker](https://images.wondershare.com/filmora/article-images/turn-off-audio-windows-movie-maker.JPG)
+
+### Step 3: Add audio to video
+
+Click **Add music** to import the targeted music to Windows Movie Maker. You can select **Add music** or **Add music at the current point**.
+
+![add audio windows movie maker](https://images.wondershare.com/filmora/article-images/add-auido-windows-movie-maker.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 4: Save project
@@ -348,10 +344,6 @@ Press "Delete" on your keyboard, and you will get rid of it. You can save this v
 
 ![remove original sound](https://images.wondershare.com/filmora/article-images/audio-detach-windows.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Step 4\. Add a new audio track
 
 You can add a new audio track to the video by choosing royalty sound or music from the Filmora library or importing any audio you like.
@@ -373,6 +365,10 @@ First, download and run it. Click **Add videos and photos** to import video.
 Click **Edit** tab > **Video volume** to turn off the sound by draging the slider to the left.
 
 ![turn off audio windows movie maker](https://images.wondershare.com/filmora/article-images/turn-off-audio-windows-movie-maker.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Step 3: Add audio to video
 
@@ -547,6 +543,10 @@ For macOS 10.12 or later
 
 ![fx-deeper-voice-step4](https://images.wondershare.com/filmora/article-images/fx-deeper-voice-step4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 5:** Now, you need to adjust the pitch at this step. Try to lower the pitch by a point or two, and you play the video. You will notice a considerable change in your voice. You will feel that your voice has become much deeper than the original one.
 
 ![fx-deeper-voice-step5](https://images.wondershare.com/filmora/article-images/fx-deeper-voice-step5.png)
@@ -589,6 +589,10 @@ For macOS 10.12 or later
 
 ![fx-deeper-voice-step4](https://images.wondershare.com/filmora/article-images/fx-deeper-voice-step4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 5:** Now, you need to adjust the pitch at this step. Try to lower the pitch by a point or two, and you play the video. You will notice a considerable change in your voice. You will feel that your voice has become much deeper than the original one.
 
 ![fx-deeper-voice-step5](https://images.wondershare.com/filmora/article-images/fx-deeper-voice-step5.png)
@@ -626,6 +630,10 @@ For macOS 10.12 or later
 **Step3:** Now drag the video and drop it into the timeline.
 
 ![fx-deeper-voice-step3](https://images.wondershare.com/filmora/article-images/fx-deeper-voice-step3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step4:** Now, right-click on the track in the timeline and click on "Adjust Audio" from the menu.
 
@@ -679,6 +687,10 @@ _How to add a .mka audio track to a .mkv video? Is there a simple step-by-step? 
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### 1 Add video and audio files
 
  Download and install Wondershare Filmora first. Once run it, click the “Import” button to load both the video and audio files. You can also directly drag and drop the media files to the program.
@@ -694,54 +706,8 @@ _How to add a .mka audio track to a .mkv video? Is there a simple step-by-step? 
 ![remove audio track from mkv](https://images.wondershare.com/images/multimedia/video-editor/audio-detach.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-
-#### 3 Export the new MKV file
-
- After adding audio, click “Play” to preview and listen to the new file. Then click “Create” to export your MKV file. Here are various choices for you: export the video to various video formats, convert the video to play on different mobile devices, upload the video to YouTube instantly or burn video to DVD disc. Select a desired output way and hit “Create” to start exporting the video file with the added audio.
-
-![remove audio from mkv file](https://images.wondershare.com/images/multimedia/video-editor/video-editor-output.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
- Learn more about Wondershare Filmora:
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
-
-Shanoon Cox
-
-Shanoon Cox is a writer and a lover of all things video.
-
-Follow @Shanoon Cox
-
-##### Shanoon Cox
-
- Mar 27, 2024• Proven solutions
-
-_How to add a .mka audio track to a .mkv video? Is there a simple step-by-step? I tried Mkvmerge but it doesn't seem to work with this._
-
- You may come across the same problem: want to add audio to MKV but find video editing tools like Mkvmerge doesn’t work. Well, then what’s the available way to do so? In this article, I’ll show you how to add audio to MKV file by using [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/). If you are looking for such a solution, just feel free to see the guide below. This program enables you to add specified audio track to MKV as well as apply more effects to your source file.
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-#### 1 Add video and audio files
-
- Download and install Wondershare Filmora first. Once run it, click the “Import” button to load both the video and audio files. You can also directly drag and drop the media files to the program.
-
-![remove audio from mkv](https://images.wondershare.com/images/multimedia/video-editor/video-editor-main-interface.jpg)
-
-#### 2 Add audio to MKV
-
- Now what you have to do is to drop the video file to the Video track in the Timeline and audio to the Audio Track. Then you can make the audio file fit your video by trimming or double click the audio file to set fade in/out effects, speed up or slow down it, adjust volume so that it doesn't drown out the original audio of your video, etc. If you want to remove the original audio, just right click the video in Timeline and select “Audio Detach” and press “Delete” to remove audio from video.
-
- Besides adding an audio file, you can also use Wondershare Filmora (originally Wondershare Video Editor) to record and add your own voiceover. To do this, simply click the “Record” button on the toolbar and record the voiceover in the Record Audio window. Click the red button to get started and “OK” to save it and return to the main interface. The recorded voiceover will then appear in the audio track. Then adjust its position, volume, etc., just like any audio files.
-
-![remove audio track from mkv](https://images.wondershare.com/images/multimedia/video-editor/audio-detach.jpg)
 
 #### 3 Export the new MKV file
 
@@ -813,19 +779,53 @@ _How to add a .mka audio track to a .mkv video? Is there a simple step-by-step? 
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### 1 Add video and audio files
 
  Download and install Wondershare Filmora first. Once run it, click the “Import” button to load both the video and audio files. You can also directly drag and drop the media files to the program.
 
 ![remove audio from mkv](https://images.wondershare.com/images/multimedia/video-editor/video-editor-main-interface.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
+#### 2 Add audio to MKV
+
+ Now what you have to do is to drop the video file to the Video track in the Timeline and audio to the Audio Track. Then you can make the audio file fit your video by trimming or double click the audio file to set fade in/out effects, speed up or slow down it, adjust volume so that it doesn't drown out the original audio of your video, etc. If you want to remove the original audio, just right click the video in Timeline and select “Audio Detach” and press “Delete” to remove audio from video.
+
+ Besides adding an audio file, you can also use Wondershare Filmora (originally Wondershare Video Editor) to record and add your own voiceover. To do this, simply click the “Record” button on the toolbar and record the voiceover in the Record Audio window. Click the red button to get started and “OK” to save it and return to the main interface. The recorded voiceover will then appear in the audio track. Then adjust its position, volume, etc., just like any audio files.
+
+![remove audio track from mkv](https://images.wondershare.com/images/multimedia/video-editor/audio-detach.jpg)
+
+#### 3 Export the new MKV file
+
+ After adding audio, click “Play” to preview and listen to the new file. Then click “Create” to export your MKV file. Here are various choices for you: export the video to various video formats, convert the video to play on different mobile devices, upload the video to YouTube instantly or burn video to DVD disc. Select a desired output way and hit “Create” to start exporting the video file with the added audio.
+
+![remove audio from mkv file](https://images.wondershare.com/images/multimedia/video-editor/video-editor-output.jpg)
+
+ Learn more about Wondershare Filmora:
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+Shanoon Cox
+
+Shanoon Cox is a writer and a lover of all things video.
+
+Follow @Shanoon Cox
+
+##### Shanoon Cox
+
+ Mar 27, 2024• Proven solutions
+
+_How to add a .mka audio track to a .mkv video? Is there a simple step-by-step? I tried Mkvmerge but it doesn't seem to work with this._
+
+ You may come across the same problem: want to add audio to MKV but find video editing tools like Mkvmerge doesn’t work. Well, then what’s the available way to do so? In this article, I’ll show you how to add audio to MKV file by using [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/). If you are looking for such a solution, just feel free to see the guide below. This program enables you to add specified audio track to MKV as well as apply more effects to your source file.
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+#### 1 Add video and audio files
+
+ Download and install Wondershare Filmora first. Once run it, click the “Import” button to load both the video and audio files. You can also directly drag and drop the media files to the program.
+
+![remove audio from mkv](https://images.wondershare.com/images/multimedia/video-editor/video-editor-main-interface.jpg)
 
 #### 2 Add audio to MKV
 
@@ -869,20 +869,21 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-free-to-learn-4-youtube-channels-unlocking-the-secrets-of-background-substitution/"><u>[New] 2024 Approved Free-to-Learn 4 YouTube Channels Unlocking the Secrets of Background Substitution</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-yield-yonder-the-financial-fidelity-of-a-fanfare-figure/"><u>[New] In 2024, Yield Yonder The Financial Fidelity of a Fanfare Figure</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-2023-12-methods-to-posted-facebook-videos-not-showing-up/"><u>[Updated] In 2024, 2023 | 12 Methods to Posted Facebook Videos Not Showing Up</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-simplified-protocol-effortless-video-conversion-and-dvd-making/"><u>[Updated] Simplified Protocol Effortless Video Conversion and DVD Making</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-boost-visuals-zoom-in-on-snapchat-content/"><u>[New] Boost Visuals Zoom in on Snapchat Content</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-stepwise-instructions-snapchat-for-mac-users/"><u>[New] Stepwise Instructions Snapchat for Mac Users</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-accessing-premium-facebook-videos-offline/"><u>[Updated] 2024 Approved Accessing Premium Facebook Videos Offline</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-avoiding-obscured-games-fixes-for-obs-black-screen-issues/"><u>[Updated] Avoiding Obscured Games Fixes for OBS Black Screen Issues</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-unlocking-smooth-streams-facebooks-buffering-breakthrough-for-2024/"><u>[Updated] Unlocking Smooth Streams - Facebook's Buffering Breakthrough for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-crystal-clear-on-screen-discovering-the-cg318-4k-monitor/"><u>2024 Approved Crystal Clear on Screen Discovering the CG318-4K Monitor</u></a></li>
 <li><a href="https://sound-optimizing.techidaily.com/2024-approved-guide-to-instantly-diminish-audio-volume-gently/"><u>2024 Approved Guide to Instantly Diminish Audio Volume Gently</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/a-comedians-guide-to-the-best-free-royalty-free-background-music-sources/"><u>A Comedians Guide to the Best Free, Royalty-Free Background Music Sources</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/gratuito-conversor-de-videos-para-formato-f4v-online-do-movavi/"><u>Gratuito: Conversor De Vídeos Para Formato F4V Online Do Movavi</u></a></li>
 <li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-5-popular-tools-to-help-you-distort-audio/"><u>New 2024 Approved 5 Popular Tools to Help You Distort Audio</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/next-gen-entertainment-experience-scrutiny/"><u>Next-Gen Entertainment Experience Scrutiny</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-identifying-sources-for-authentic-canine-symphony-sounds/"><u>New Identifying Sources for Authentic Canine Symphony Sounds</u></a></li>
 <li><a href="https://sound-optimizing.techidaily.com/speedy-silencing-eradicating-static-and-white-noise-from-audio-tracks-for-2024/"><u>Speedy Silencing Eradicating Static and White Noise From Audio Tracks for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-permission-based-save-errors-in-windows-os/"><u>Tackling Permission-Based Save Errors in Windows OS</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/top-mp4-video-encoders-of-202nk-a-comprehensive-guide-to-mp4-file-conversion/"><u>Top MP4 Video Encoders of 202Nk: A Comprehensive Guide to MP4 File Conversion</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ior-streaming-recorders-for-youtube-vloggers/"><u>Superior Streaming Recorders for YouTube Vloggers</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/the-premier-a-tunes-for-mobile-musicians-worldwide/"><u>The Premier A-Tunes for Mobile Musicians Worldwide</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlock-apple-iphone-13-pro-max-without-passcode-easily-drfone-by-drfone-ios/"><u>Unlock Apple iPhone 13 Pro Max Without Passcode Easily | Dr.fone</u></a></li>
 <li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-crafting-silent-elegance-the-art-of-audio-ducking-in-video-editing-with-adobe-premiere-pro-on-mac/"><u>Updated 2024 Approved Crafting Silent Elegance The Art of Audio Ducking in Video Editing with Adobe Premiere Pro on Mac</u></a></li>
 <li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-discovering-the-value-a-comprehensive-guide-to-using-pexelscom-imagery/"><u>Updated 2024 Approved Discovering the Value A Comprehensive Guide to Using Pexels.com Imagery</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-securing-purity-in-recordings-the-art-of-removing-hum-and-hissing-sounds/"><u>Updated In 2024, Securing Purity in Recordings The Art of Removing Hum and Hissing Sounds</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-the-best-free-online-movie-making-platforms-for-2024/"><u>Updated The Best Free Online Movie Making Platforms for 2024</u></a></li>
 </ul></div>
 

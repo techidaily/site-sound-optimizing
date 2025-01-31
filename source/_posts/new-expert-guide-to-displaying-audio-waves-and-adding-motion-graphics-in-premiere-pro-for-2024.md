@@ -1,7 +1,7 @@
 ---
 title: New Expert Guide to Displaying Audio Waves and Adding Motion Graphics in Premiere Pro for 2024
-date: 2025-01-17T04:59:14.652Z
-updated: 2025-01-23T23:23:01.731Z
+date: 2025-01-29T16:50:27.180Z
+updated: 2025-01-31T18:01:58.737Z
 tags: 
   - audio editing software
   - audio editing
@@ -36,6 +36,14 @@ That will toggle off the audio waveforms and that is how to show the audio wavef
 
 ![adobe premiere pro](https://images.wondershare.com/filmora/article-images/2022/08/premiere-pro-audio-waveform-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Automatic generate audio waveform
 
 Make sure **"Automatic audio waveform creation"** is selected by going to **"Edit > Preferences > Audio"** first. When importing files, no waveforms are generated if option is unticked. Only clips you import moving forward will be impacted by this; clips already imported won't be affected.
@@ -43,6 +51,10 @@ Make sure **"Automatic audio waveform creation"** is selected by going to **"Edi
 Second, for creating audio waveforms on clips that don't have them, select the clips in the Program panel and go to **“Clip > Generate Audio Waveform”**.
 
 ![select the clips](https://images.wondershare.com/filmora/article-images/2022/08/premiere-pro-audio-waveform-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2\. How to add audio waveform animation in Premiere Pro?
 
@@ -53,10 +65,6 @@ If you want to simply add a dynamic effect to your audio, just follow the tutori
 First, make sure both the video and audio are selected. Right-click and select replace with **After Effects composition**.
 
 ![click after effects composition](https://images.wondershare.com/filmora/article-images/2022/08/premiere-pro-audio-waveform-5.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##### Step2Create a new solid in After Effects
 
@@ -81,10 +89,6 @@ The position of the waveform on your video can be changed by utilizing the start
 Back in Premiere, you can pick whether you want the traditional analog lines to appear or a more contemporary digital waveform. Your clip will now be replaced with an After Effects composition that is dynamically tied to the audio waveform.
 
 ![check the animation](https://images.wondershare.com/filmora/article-images/2022/08/premiere-pro-audio-waveform-9.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3\. How to change the incorrect audio waveform in Premiere Pro?
 
@@ -114,6 +118,10 @@ This article will help you in resolving various audio waveform issues in Premier
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 This article will help you in resolving various audio waveform issues in Premiere Pro. Additionally, you can discover how to create waveforms in your audio clips. You should try Wondershare Filmora to add the waveform animation even if Premiere Pro is one of the greatest audio and video editing programs. Beginners will find it more convenient and simpler. If you simply want to quickly polish your music video or podcast video, the [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) audio visualizer is a better option.
@@ -134,10 +142,6 @@ This article will help you in resolving various audio waveform issues in Premier
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Separate Audio From Video in iMovie on Mac?
 
@@ -305,10 +309,6 @@ Want to extract the music file from a video clip's audio and visual tracks? Or d
 
 [![Download Filmora Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 You can make your own MP3 file of the amazing piece of music for enjoyment on the move, whether it's from a music video, TV show, or concert footage. To separate your audio from your video, follow the steps outlined below.
 
 #### Step 1\. Import your media files into Filmora
@@ -365,6 +365,10 @@ By clicking the play button next to the **Share** button, you may see a preview 
 
 Alternatively, you can share it directly from the app to other social media platforms. Apart from removing audio from videos, Animaker also includes other video editing tools that you'll need to modify your videos for social media and your website.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Wrap Up
 
 As seen in this instructional article, iMovie has countless amazing features as a [video editor on Mac](https://tools.techidaily.com/wondershare/filmora/download/). Separating audio from a video is one of those interesting features on iMovie.
@@ -374,10 +378,6 @@ If a video has music, sounds, or voices that you'd like to separate from the vid
 And if iMovie can’t meet your need, don’t worry. Wondershare Filmora can be your better choice.
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Liza Brown
 
@@ -422,6 +422,10 @@ You can remove the video by clicking it and utilizing one of these techniques af
 Select **Delete** from the shortcut menu by right-clicking.
 
 Or hold **Control** while clicking and selecting **Delete**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2\. Separate Audio from Video on Mac with the Best Alternative to iMovie
 
@@ -516,7 +520,7 @@ Now let's look at how to **separate audio from video in iMovie on Mac**.
 * [**Part 3\. FAQs about Separating Audio from Video in iMovie**](#part3)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1\. How to Separate/Detach/Split Audio from Video in iMovie on Mac
@@ -568,10 +572,6 @@ You've successfully detached the audio track from the video file.
 Because the audio and video tracks have been split, you may simply delete the audio or video track you don't need and replace it with the new one. Then press "Export" to save the audio track as an MP3 file, or go straight to the "iPod" preset to listen on the move.
 
 You should first save the split video frame or audio track to a project file on your hard disk if you wish to save it separately in a new file. Reload the project file that contains the video frame after you've finished exporting the audio track, and then export it to a new video file.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3\. FAQs about Separating Audio from Video in iMovie
 
@@ -631,10 +631,6 @@ Follow @Liza Brown
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Expert Suggestions for Enhancing Device's Audiovisual Experience
 
 When you use your device for listening to music, default audio profile of your device is just not good enough. This is because a default audio profile makes almost all types of music sound similar and you will never get to listen to the variations they have. That is where an equalizer comes into the scene. An equalizer is basically an audio filter or profile that has a certain setting for the frequencies of sound so that the music you are playing on your device sounds as good as originally recorded.
@@ -692,6 +688,10 @@ Step 3: Go to Equalizer tab and set any preset equalizer setting as per your req
 Step 4: Go to Advanced tab top customizer equalizer and the changes will reflect if you are playing anything on the background.
 
 ![advanced](https://images.wondershare.com/filmora/article-images/advanced.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Bonus: How To Get The Best Setting For Equalizer For Any Audio File
 
@@ -763,15 +763,15 @@ Step 3: Select the audio or the video file that you want to work with and then d
 
 ![drag to timeline](https://images.wondershare.com/filmora/article-images/drag-to-timeline.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 4: Double-click on the file from the Timeline and go to Audio tab.
 
 Step 5: Select from preset equalizers. You can also click on Customize button and make modifications as you think appropriate.
 
 ![customize button](https://images.wondershare.com/filmora/article-images/customize-button.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion –
 
@@ -791,15 +791,15 @@ Step 3: Select the audio or the video file that you want to work with and then d
 
 ![drag to timeline](https://images.wondershare.com/filmora/article-images/drag-to-timeline.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 4: Double-click on the file from the Timeline and go to Audio tab.
 
 Step 5: Select from preset equalizers. You can also click on Customize button and make modifications as you think appropriate.
 
 ![customize button](https://images.wondershare.com/filmora/article-images/customize-button.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion –
 
@@ -821,20 +821,20 @@ We have provided you with the best apps with the best settings for equalizer. Yo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-ultimate-guide-to-high-speed-pc-controller-extensions/"><u>[New] 2024 Approved Ultimate Guide to High-Speed PC Controller Extensions</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-youtube-video-ranking-breakdown-how-it-works/"><u>[New] YouTube Video Ranking Breakdown How It Works</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-holistic-capture-vs-structured-visual-space/"><u>[Updated] In 2024, Holistic Capture vs Structured Visual Space</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-unlock-video-potential-leading-tools-turning-youtubes-to-avis-for-2024/"><u>[Updated] Unlock Video Potential Leading Tools Turning YouTubes to Avis for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-building-a-brand-the-art-of-creating-attention-grabbing-reels-on-social-media/"><u>2024 Approved Building a Brand The Art of Creating Attention-Grabbing Reels on Social Media</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/boosting-daily-routines-leveraging-chatgpt-for-effective-time-planning/"><u>Boosting Daily Routines: Leveraging ChatGPT for Effective Time Planning</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/boosting-engagement-interpreting-youtube-video-data-for-2024/"><u>Boosting Engagement Interpreting YouTube Video Data for 2024</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/exploring-the-features-comprehensive-review-of-the-mobvoi-ticwatch-pro-connectivity-marvel/"><u>Exploring the Features: Comprehensive Review of the Mobvoi Ticwatch Pro Connectivity Marvel</u></a></li>
-<li><a href="https://driver-install.techidaily.com/fix-ftdi-usb-to-serial-driver-issue/"><u>Fix FTDI USB to Serial Driver Issue</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/fixing-the-issue-how-to-get-your-corsair-hs35-microphone-functional-on-windows/"><u>Fixing the Issue: How to Get Your Corsair HS35 Microphone Functional on Windows</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-google-pixel-7a-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Google Pixel 7a FRP Locks</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-the-earning-trajectory-of-youtube-star-pewdopeep/"><u>In 2024, The Earning Trajectory of YouTube Star PewDoPeep</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/no-more-silence-in-battle-royale-fixed-guide-to-restore-voice-chat-on-apex-legends/"><u>No More Silence in Battle Royale: Fixed Guide to Restore Voice Chat on Apex Legends</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/solve-your-minecraft-woes-a-step-by-step-guide-to-fixing-error-code-crossbow/"><u>Solve Your Minecraft Woes: A Step-by-Step Guide to Fixing Error Code: Crossbow</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/troubleshooting-guide-unstuck-baldurs-gate-iii-from-your-computer/"><u>Troubleshooting Guide: Unstuck Baldur's Gate III From Your Computer</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-who-takes-the-crown-in-action-camera-warfare/"><u>[New] In 2024, Who Takes the Crown in Action Camera Warfare?</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-androids-leading-downloader-choice-the-ultimate-top-10-list-of-fb-video-tools/"><u>[Updated] 2024 Approved Android's Leading Downloader Choice The Ultimate Top 10 List of FB Video Tools</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-double-the-joy-master-looping-of-youtube-media-on-televisions/"><u>[Updated] 2024 Approved Double the Joy Master Looping of YouTube Media on Televisions</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-elevating-twitter-interactions-through-personalized-video-previews/"><u>[Updated] In 2024, Elevating Twitter Interactions Through Personalized Video Previews</u></a></li>
+<li><a href="https://win-answers.techidaily.com/swfhtml52/"><u>「SWFからHTML5へ：2つの最適化されたコンバートテクニック」</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-top-glitch-video-editing-software-for-windows-and-mac-users/"><u>2024 Approved Top Glitch Video Editing Software for Windows and Mac Users</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/expert-virtual-audio-fusion-and-cutting-program/"><u>Expert Virtual Audio Fusion and Cutting Program</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-solution-how-to-resolve-low-frame-rate-problems-in-outriders/"><u>Fixing the Solution: How to Resolve Low Frame Rate Problems in Outriders</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/in-2024-chill-out-playlists-for-non-profit-video-arrangements/"><u>In 2024, Chill-Out Playlists for Non-Profit Video Arrangements</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/in-2024-mastering-ai-powered-vocal-replication-two-techniques-for-authenticity/"><u>In 2024, Mastering AI-Powered Vocal Replication Two Techniques for Authenticity</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-oppo-reno-11-pro-5g-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change Oppo Reno 11 Pro 5G IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/mastering-video-editing-replacing-audio-tracks-a-comprehensive-guide-part-1/"><u>Mastering Video Editing Replacing Audio Tracks - A Comprehensive Guide (Part 1)</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-10-must-hear-tunes-as-your-phones-greeting-melody/"><u>New 2024 Approved 10 Must-Hear Tunes as Your Phones Greeting Melody</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/rapid-method-for-silencing-audio-in-audacity-essential-tips/"><u>Rapid Method for Silencing Audio in Audacity Essential Tips</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722898108565-yahoo-mail-alert-steps-for-restoring-your-inbox-and-ensuring-new-emails-arrive/"><u>Yahoo Mail Alert: Steps for Restoring Your Inbox and Ensuring New Emails Arrive</u></a></li>
 </ul></div>
 

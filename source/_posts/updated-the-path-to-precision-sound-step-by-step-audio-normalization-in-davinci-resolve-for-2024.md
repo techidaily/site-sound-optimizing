@@ -1,7 +1,7 @@
 ---
 title: Updated The Path to Precision Sound Step-by-Step Audio Normalization in DaVinci Resolve for 2024
-date: 2025-01-18T08:41:53.178Z
-updated: 2025-01-23T18:26:11.897Z
+date: 2025-01-26T18:33:13.525Z
+updated: 2025-01-31T23:00:15.689Z
 tags: 
   - audio editing software
   - audio editing
@@ -15,6 +15,10 @@ thumbnail: https://thmb.techidaily.com/e9e9b7ca60047014bff6bb18f8c482a86a228fe45
 ---
 
 ## "The Path to Precision Sound: Step-by-Step Audio Normalization in DaVinci Resolve"
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How To Normalize Audio In DaVinci Resolve
 
@@ -44,6 +48,10 @@ Next, you are going to head to the Fairlight page and make sure that your meters
 
 ![make sure open the meters](https://images.wondershare.com/filmora/article-images/2022/07/normalize-audio-davinci-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Here, zero represents exactly what our target loudness level is, in this case, as you remember, we set it to -14 LUFS. So, ensure that our loudness is as close as zero as possible on the meter, but you can also make it lower, such as -3\. Whenever you play, you will be able to see that there are some numbers popping up to the right of the meter.
 
 ![set loudness as close as zero](https://images.wondershare.com/filmora/article-images/2022/07/normalize-audio-davinci-3.jpg)
@@ -53,10 +61,6 @@ The first one, you’ll find, is Short – constantly changing, indicating how f
 We can use our main slider (next to the sequence on the right) to make our video louder or quieter until we hit that target loudness level.
 
 ![makee video louder or quieter](https://images.wondershare.com/filmora/article-images/2022/07/normalize-audio-davinci-4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Also, there is an automation tool that can help you dial in your loudness. In order to access this feature, find a red icon, looking like a wave with kind of a key frames.
 
@@ -83,10 +87,6 @@ Even though doing this with the help of DaVinci Resolve is really helpful, and, 
 After having installed and opened a software, click and drag the video of which the audio you want to normalize. Now you can select the clip you have chosen – if there are multiple, select all of them, then right-click and choose Detach Audio.
 
 ![click and drag video of wanted audio to normalize](https://images.wondershare.com/filmora/article-images/2022/07/normalize-audio-davinci-8.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Now, you can see on the graphic that the noises are of different levels from each other. This makes us understand why we need to balance our audio files whenever we are aiming for a good listening experience for our audiences.
 
@@ -116,6 +116,10 @@ Now, you can see on the graphic that the noises are of different levels from eac
 
 ![noises are of different levels](https://images.wondershare.com/filmora/article-images/2022/07/normalize-audio-davinci-9.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Select these files, right-click and choose Adjust Audio. New panel will be opened on left top and there, you will see Audio Normalization – check the box there.
 
 ![select files](https://images.wondershare.com/filmora/article-images/2022/07/normalize-audio-davinci-10.jpg)
@@ -125,6 +129,10 @@ Select these files, right-click and choose Adjust Audio. New panel will be opene
 Now, after clicking on it, you can just wait and the normalization will be completed soon.
 
 ![finish normalization](https://images.wondershare.com/filmora/article-images/2022/07/normalize-audio-davinci-12.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 When it happens, you will be able to see on the graphics that the volumes are almost on the same level, moreover, listening to it, your ears will “understand” that there is no longer apparent difference between how they sound. So, let’s hope you are happy with the result – in this case, you can save the file you just normalized!
 
@@ -154,7 +162,7 @@ Removing vocals from audio tracks or songs can be tricky. You may want to create
 ![Wondershare Filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Method 1: Remove Vocals Using Audacity Vocal Reduction Tool**
@@ -167,19 +175,11 @@ The first thing you need to do is open the Audacity software in preparation for 
 
 ![open audacity](https://images.wondershare.com/filmora/article-images/2023/quick-and-easy-vocal-removal-in-audacity-a-guide-1.JPG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Step 2: Import the Audio Track**
 
 Go to File > Import > Audio to import the audio track you want to edit.
 
 ![import audio](https://images.wondershare.com/filmora/article-images/2023/quick-and-easy-vocal-removal-in-audacity-a-guide-2.JPG)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Step 3: Select Audio Track**
 
@@ -205,6 +205,10 @@ Click on Select, then Select All. On the Effect drop-down menu, select Audacity 
 
 ![apply vocal reduction](https://images.wondershare.com/filmora/article-images/2023/quick-and-easy-vocal-removal-in-audacity-a-guide-6.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Step 7: Remove Vocals**
 
 Click on the Action tab and select Remove Vocals. Wait for Audacity to remove the vocal and click Play to listen to the edited track. Audacity isolate vocals giving you clear instruments for your audio track or song file.
@@ -229,6 +233,10 @@ In the title of the audio, click the Down Arrow. Then select Split Stereo to Mon
 
 ![split stereo to mono](https://images.wondershare.com/filmora/article-images/2023/quick-and-easy-vocal-removal-in-audacity-a-guide-9.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Step 3: Play Solo**
 
 Click on the Play button and choose Solo on each track. This allows you to see if there is any isolated vocal on either channel.
@@ -250,10 +258,6 @@ Another great option for removing vocals from a song is using Wondershare Filmor
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Quick Tutorial on Removing Vocals with Filmora**
 
@@ -296,7 +300,7 @@ Removing vocals from a video song or audio file gives you more freedom in your p
 ![Wondershare Filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Method 1: Remove Vocals Using Audacity Vocal Reduction Tool**
@@ -309,11 +313,19 @@ The first thing you need to do is open the Audacity software in preparation for 
 
 ![open audacity](https://images.wondershare.com/filmora/article-images/2023/quick-and-easy-vocal-removal-in-audacity-a-guide-1.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Step 2: Import the Audio Track**
 
 Go to File > Import > Audio to import the audio track you want to edit.
 
 ![import audio](https://images.wondershare.com/filmora/article-images/2023/quick-and-easy-vocal-removal-in-audacity-a-guide-2.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Step 3: Select Audio Track**
 
@@ -327,19 +339,11 @@ Backup the file so that you still have the whole song available for use later. G
 
 ![export audio](https://images.wondershare.com/filmora/article-images/2023/quick-and-easy-vocal-removal-in-audacity-a-guide-4.JPG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Step 5: Import the New Audio File**
 
 Once you have exported the audio file, click “Close “on the original file. Then import the file you exported in the last step.
 
 ![import new audio file](https://images.wondershare.com/filmora/article-images/2023/quick-and-easy-vocal-removal-in-audacity-a-guide-5.JPG)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Step 6: Apply Vocal Reduction and Isolation**
 
@@ -370,10 +374,6 @@ Start by importing your audio track or song file into Audacity.
 In the title of the audio, click the Down Arrow. Then select Split Stereo to Mono.
 
 ![split stereo to mono](https://images.wondershare.com/filmora/article-images/2023/quick-and-easy-vocal-removal-in-audacity-a-guide-9.JPG)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Step 3: Play Solo**
 
@@ -449,17 +449,24 @@ Removing vocals from a video song or audio file gives you more freedom in your p
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-mobile-security-focused-the-leading-10-free-video-calling-applications-for-2024/"><u>[New] Mobile Security-Focused The Leading 10 Free Video Calling Applications for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-join-the-giggle-roll-and-tearful-talks-on-instagram-memes/"><u>[Updated] Join the Giggle-Roll and Tearful Talks on Instagram Memes</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-whipped-watchers-guide-complete-review-of-frozen-food-filming-tech/"><u>[Updated] Whipped Watcher's Guide Complete Review of Frozen Food Filming Tech</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-expert-insights-into-magix-video-pro-xs-design/"><u>2024 Approved Expert Insights Into Magix Video Pro X's Design</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-slick-shots-from-yesteryear-mastering-vhs-hacks-in-modern-edits/"><u>[New] In 2024, Slick Shots From Yesteryear Mastering VHS Hacks in Modern Edits</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-customizing-characters-the-ae-font-guide/"><u>[Updated] 2024 Approved Customizing Characters The AE Font Guide</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-how-to-effortlessly-eradicate-unwanted-youtube-feedback/"><u>[Updated] How to Effortlessly Eradicate Unwanted YouTube Feedback</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-aural-artistry-the-magic-of-sound-fading/"><u>[Updated] In 2024, Aural Artistry The Magic of Sound Fading</u></a></li>
 <li><a href="https://sound-optimizing.techidaily.com/2024-approved-how-to-remove-audio-seamlessly-a-windows-10-users-handbook-for-sound-free-vids-free-of-charge/"><u>2024 Approved How to Remove Audio Seamlessly A Windows 10 Users Handbook for Sound-Free Vids (Free of Charge)</u></a></li>
 <li><a href="https://sound-optimizing.techidaily.com/a-filmmakers-choice-the-top-five-free-audio-jokes-for-creative-videos-for-2024/"><u>A Filmmakers Choice The Top Five Free Audio Jokes for Creative Videos for 2024</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/all-you-need-to-know-about-mega-greninja-for-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/are-we-trading-authenticity-for-efficiency-with-ai/"><u>Are We Trading Authenticity for Efficiency? - With AI</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/youtube-endings-that-stand-out-ranked/"><u>Free YouTube Endings That Stand Out - Ranked!</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-motorola-defy-2-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Motorola Defy 2 | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-eliminate-packet-loss-for-a-stable-discord-experience-expert-tips/"><u>How to Eliminate Packet Loss for a Stable Discord Experience: Expert Tips</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-oppo-a1-5g-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Oppo A1 5G Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/master-the-art-of-live-streaming-old-content-with-facebook-tools-for-2024/"><u>Master the Art of Live-Streaming Old Content with Facebook Tools for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/mastering-asus-pce-ac56-driver-setup-a-step-by-step-guide-for-windows-1087-users/"><u>Mastering ASUS PCE-AC56 Driver Setup: A Step-by-Step Guide for Windows 10/8/7 Users</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/mastering-slomo-videography-comprehensive-review/"><u>Mastering SloMo Videography - Comprehensive Review</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-reentry-guide-regaining-access-on-omegle-after-a-ban-for-2024/"><u>New Reentry Guide Regaining Access on Omegle After a Ban for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-uncover-digital-entertainment-auditory-elements-for-2024/"><u>New Uncover Digital Entertainment Auditory Elements for 2024</u></a></li>
 <li><a href="https://sound-optimizing.techidaily.com/uncovering-plugins-that-create-realistic-flatulent-effects-for-games-and-films/"><u>Uncovering Plugins That Create Realistic Flatulent Effects for Games and Films</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-design-a-new-you-best-free-online-face-generation-software/"><u>Updated In 2024, Design a New You Best Free Online Face Generation Software</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-exploring-archives-for-articulated-grunt-effects/"><u>Updated In 2024, Exploring Archives for Articulated Grunt Effects</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-navigating-audio-segmentation-easy-ways-to-split-your-mp3s-and-aacs/"><u>Updated In 2024, Navigating Audio Segmentation Easy Ways to Split Your MP3s and AACs</u></a></li>
 <li><a href="https://sound-optimizing.techidaily.com/updated-synchronizing-sonic-elements-controlling-audio-duration-and-tonality-in-adobe-rush/"><u>Updated Synchronizing Sonic Elements Controlling Audio Duration and Tonality in Adobe Rush</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-the-button-symphony-locating-the-percussive-elements-in-gaming-for-2024/"><u>Updated The Button Symphony Locating the Percussive Elements in Gaming for 2024</u></a></li>
 </ul></div>
 
