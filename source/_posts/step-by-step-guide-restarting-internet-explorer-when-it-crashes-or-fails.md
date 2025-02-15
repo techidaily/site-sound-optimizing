@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Restarting Internet Explorer When It Crashes or Fails"
-date: 2025-01-30T16:45:37.335Z
-updated: 2025-01-31T22:00:41.812Z
+date: 2025-02-11T23:25:26.960Z
+updated: 2025-02-14T17:49:59.280Z
 tags:
   - win11
   - win10
@@ -44,6 +44,10 @@ thumbnail: https://thmb.techidaily.com/14b0662c78e5872a3461f2dbc1feb1f76e4bd1f28
 7. **[Uninstall Optifine](https://tools.techidaily.com/drivereasy/download/)**
 8. **[Reinstall Minecraft](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Make sure Minecraft is using the dedicated GPU
 
  Sometimes the operating system won’t recognize Minecraft as a game and won’t run it with the dedicated GPU for high performance. If that’s the case for you, you’re likely to experience stuttering in Minecraft. To fix it, you can force the game to use the dedicated GPU via Graphics settings. Here’s how:
@@ -55,6 +59,10 @@ thumbnail: https://thmb.techidaily.com/14b0662c78e5872a3461f2dbc1feb1f76e4bd1f28
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/graphics-settings.jpg)
 3. Click**Browse** to add the executable file of Minecraft.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/browse.jpg)
 4. Then click**Options** .  
 
@@ -64,7 +72,7 @@ thumbnail: https://thmb.techidaily.com/14b0662c78e5872a3461f2dbc1feb1f76e4bd1f28
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/high-performance-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once done, run Minecraft again and see if the stuttering issue still appears.
@@ -74,6 +82,10 @@ If this solution doesn’t help, continue with the next fix below.
 ## Fix 2: Update your graphics driver
 
  Minecraft is a graphics-intensive game, so your graphics card is essential for its performance. You cannot have an outdated or faulty driver on your graphics card since this is usually what causes stuttering in Minecraft. To update your graphics driver, there are two ways you can try: manually and automatically.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 1: Update your graphics driver manually
 
@@ -100,6 +112,10 @@ If this solution doesn’t help, continue with the next fix below.
 
 If the stuttering issue persists, move on to the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 3: Lower your Render Distance
 
  In Minecraft, chunks make up your world. And the render distance controls how many chunks of the world are visible at once. So if you set a high value of chunks, you may face the issue of fps drops or stuttering. To get better performance, you should lower the value to 8 or less, depending on your PC’s hardware. Here’s how:
@@ -109,12 +125,12 @@ If the stuttering issue persists, move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/options.jpg)
 3. Click**Video Settings** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/video-settings.jpg)
 4. Lower the**Render distance** according to your need.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/render-distance-1.jpg)
 
@@ -126,6 +142,10 @@ But if it doesn’t, take a look at the next fix.
 
  Sometimes the stuttering issue might occur due to a frame rate discrepancy between the monitor and GPU. But luckily you can fix it by enabling VSync in your graphics control panel.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Via NVIDIA Control Panel
 
 1. Right-click your desktop and select**NVIDIA Control Panel** .  
@@ -134,10 +154,6 @@ But if it doesn’t, take a look at the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/turn-on-vsync.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Via AMD Radeon Settings
 
 1. Right-click your desktop and select**AMD Radeon Settings** .  
@@ -145,28 +161,24 @@ But if it doesn’t, take a look at the next fix.
 2. Click the**Gaming** Tab.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/amd-gaming-1.jpg)
 3. Then click**Global Settings** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/amd-global-settings-1.jpg)
 4. Click**Wait for Vertical Refresh** , then select**Enhanced Sync** from the dropdown menu.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/enhanced-sync-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After you’ve done these, relaunch Minecraft to check if the stuttering persists.
 
 If enabling Vsync didn’t do the trick, proceed to the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 5: Turn off threaded optimization
 
@@ -178,6 +190,10 @@ If enabling Vsync didn’t do the trick, proceed to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/step1.jpg)
 3. Scroll down to the bottom of the list and find the**Threaded optimization** , then click the dropdown menu next to it and**change the value from Auto to Off** . Click**Apply** to save changes.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/step2.jpg)
 
@@ -193,19 +209,11 @@ If the stuttering issue remains, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/Installations1.jpg)
 2. Click the**three dots** button next to Minecraft, then select**Edit** from the dropdown menu.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/edit.jpg)
 3. Click**MORE OPTIONS** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/more-options.jpg)
 4. Under the**JVM ARGUMENTS** section, there’s a line of text. **Change the amount of RAM that Minecraft can utilize after Xmx** (for example, Xmx4G means Minecraft is allowed to use 4GB RAM). Then click**Save** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/4g-save.jpg)
 
@@ -213,19 +221,11 @@ Launch Minecraft and see if this helps fix the stuttering.
 
 If this solution doesn’t work, take a look at the next fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 7: Uninstall OptiFine
 
  OptiFine is a Minecraft optimization mod, which allows the game to run faster and look better. However, it consumes some resources and may cause the stuttering issue. To see if that’s the case for you, you can try uninstalling OptiFine.
 
  If the stuttering issue remains after uninstalling OptiFine, check out the last fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 8: Reinstall Minecraft
 
@@ -252,14 +252,18 @@ If this solution doesn’t work, take a look at the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-navigating-the-invisible-aspects-of-social-media-success/"><u>[Updated] In 2024, Navigating the Invisible Aspects of Social Media Success</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-action-camera-boosters-and-their-buyers-guide/"><u>2024 Approved Action Camera Boosters and Their Buyer's Guide</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-clipcreatorassessment-full-dissection/"><u>2024 Approved ClipCreatorAssessment – Full Dissection</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/harmony-in-transition-15-masterful-scores-enhancing-diverse-video-styles/"><u>Harmony in Transition 15 Masterful Scores Enhancing Diverse Video Styles</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/in-2024-top-10-tools-for-clearing-up-clutter-in-audio-files-a-comprehensive-guide/"><u>In 2024, Top 10 Tools for Clearing Up Clutter in Audio Files A Comprehensive Guide</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/pattern-locks-are-unsafe-secure-your-honor-90-pro-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Honor 90 Pro Phone Now with These Tips</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-achieving-clarity-in-sound-strategies-to-dampen-unwanted-echoes-for-2024/"><u>Updated Achieving Clarity in Sound Strategies to Dampen Unwanted Echoes for 2024</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-reinventing-your-speech-implementing-voice-changer-pro-on-your-iphone-device/"><u>Updated In 2024, Reinventing Your Speech Implementing Voice Changer Pro on Your iPhone Device</u></a></li>
-<li><a href="https://some-tips.techidaily.com/zdnets-ultimate-picks-the-best-high-quality-wi-fi-connectable-speakers/"><u>ZDNet's Ultimate Picks: The Best High-Quality Wi-Fi Connectable Speakers</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-multitask-mastery-in-media-co-watching-channels-with-ease/"><u>[New] 2024 Approved Multitask Mastery in Media Co-Watching Channels with Ease</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-tips-for-timely-termination-of-social-media-screenshots/"><u>[New] 2024 Approved Tips for Timely Termination of Social Media Screenshots</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/1726221362388-mac5/"><u>音声入りで記録: Macにおすすめのビデオキャプチャ5コツ</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/edgeplus-2023-messages-recovery-recover-deleted-messages-from-edgeplus-2023-by-fonelab-android-recover-messages/"><u>Edge+ (2023) Messages Recovery - Recover Deleted Messages from Edge+ (2023)</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/in-2024-best-worth-websites-to-find-your-perfect-montage-soundtrack/"><u>In 2024, Best-Worth Websites to Find Your Perfect Montage Soundtrack</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-the-essential-tutorial-for-creating-a-biz-focused-instagram/"><u>In 2024, The Essential Tutorial for Creating a Biz-Focused Instagram</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-fine-tuning-audacitys-decibel-settings-for-perfect-balance/"><u>New 2024 Approved Fine-Tuning Audacitys Decibel Settings for Perfect Balance</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-essential-audio-setups-for-personalized-mobile-soundscapes/"><u>New Essential Audio Setups for Personalized Mobile Soundscapes</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-approaches-to-silence-echoes-in-professional-audio-recording/"><u>New In 2024, Approaches to Silence Echoes in Professional Audio Recording</u></a></li>
+<li><a href="https://techtrends.techidaily.com/secure-your-own-apple-vision-pro-today-with-choices-of-512gb-or-1tb-exclusive-pre-order-available/"><u>Secure Your Own Apple Vision Pro Today with Choices of 512GB or 1TB - Exclusive Pre-Order Available !</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-nokia-150-2023-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from Nokia 150 (2023) to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/unparalleled-youtube-soundscapes-to-experience-for-2024/"><u>Unparalleled YouTube Soundscapes to Experience for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/why-is-my-minecraft-in-the-library-mode-solving-noise-problems-for-gamers/"><u>Why Is My Minecraft in the Library Mode? Solving Noise Problems for Gamers</u></a></li>
 </ul></div>
 

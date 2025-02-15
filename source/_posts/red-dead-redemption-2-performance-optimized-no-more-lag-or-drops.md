@@ -1,7 +1,7 @@
 ---
 title: Red Dead Redemption 2 Performance Optimized - No More Lag or Drops
-date: 2025-01-29T20:22:26.102Z
-updated: 2025-01-31T23:24:24.783Z
+date: 2025-02-11T18:56:17.502Z
+updated: 2025-02-14T17:59:24.105Z
 tags:
   - win11
   - win10
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/ddfdfc8e69381106d1b66c2809b663a8f7e41d96d
 
  But don’t worry if you’re on the same boat. In this post, we’ll show you some working fixes that could boost your FPS in no time.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You might not need to try them all. Simply work your way down until you find the one that gives you luck.
@@ -32,10 +36,6 @@ thumbnail: https://thmb.techidaily.com/ddfdfc8e69381106d1b66c2809b663a8f7e41d96d
 5. **[Disable all mods](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Fine tune in-game graphics settings](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Install all Windows updates
 
 **The latest Windows updates** give you bug fixes and some boost of overall performance. Usually Windows updates automatically, but it’s best for you to make sure your system is up to date.
@@ -43,6 +43,10 @@ thumbnail: https://thmb.techidaily.com/ddfdfc8e69381106d1b66c2809b663a8f7e41d96d
 1. On your keyboard, press**Win+I** (the Windows logo key and the i key) to open the Windows Settings app. Click**Update & Security** .  
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click**Check for updates** . Windows will then download and install the available patches. It might take some time (up to 30 mins).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
@@ -61,15 +65,11 @@ After installing all the updates, restart your PC and check the gameplay.
 2. Select **Ultimate Performance** . (If you don’t see this power plan, simply continue to the next step to unhide it.)  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-ultimate-performance.jpg)
 3. On your keyboard, press Win (the Windows logo key) and type **cmd** . Select **Run as Administrator** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/run-cmd-as-administrator.jpg)
 4. In the command prompt, type or paste the following command and press **Enter** .  
@@ -79,16 +79,12 @@ powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-cmd-unhide-ultimate-performance.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Now you can start RDR2 and check if it stutters again.
 
  If this fix doesn’t give you luck, you can continue to the next one below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -112,6 +108,10 @@ Now you can start RDR2 and check if it stutters again.
 
  If the latest GPU driver doesn’t do the trick for you, you can move on to the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4: Enable HAGs
 
  HAGs is short for**hardware-accelerated GPU scheduling** . It’s a feature that comes with a recent Windows update designed to boost in-game FPS. There’re reports showing that HAGs might help with the FPS in RDR2, so you can try it and test the results.
@@ -125,27 +125,23 @@ Now you can start RDR2 and check if it stutters again.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/hags-02.jpg)
 3. Under the **Default settings** section, click **Change default graphics settings** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/hags-3.jpg)
 4. Turn on **Hardware-accelerated GPU scheduling** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/hags-4.jpg)
 5. Restart your PC for the changes to take effect.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Now you can launch RDR2 and check if there’s any improvements.
 
 If HAGs doesn’t work for you, you can try the next method.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Disable all mods
 
@@ -166,6 +162,10 @@ If HAGs doesn’t work for you, you can try the next method.
 4. Also set**Reflection MSAA** to**X4** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/RDR2-graphics-tuning-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 You can now test your gameplay and see if the game lags again.
 
@@ -192,21 +192,20 @@ You can now test your gameplay and see if the game lags again.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-adobes-shake-mitigation-in-photoshop-worth-it-in-2024/"><u>[New] Adobe's Shake Mitigation in Photoshop, Worth It, In 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-cyber-city-scenes-video-game-list-like-gta-v/"><u>2024 Approved Cyber City Scenes Video Game List Like GTA V</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/in-2024-best-worth-websites-to-find-your-perfect-montage-soundtrack/"><u>In 2024, Best-Worth Websites to Find Your Perfect Montage Soundtrack</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mastering-ai-limitations-an-in-depth-look-at-precision-challenges-by-zdnet/"><u>Mastering AI Limitations: An In-Depth Look at Precision Challenges by ZDNet</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/maximize-mobile-video-quality-top-4-strategies-to-brighten-iphone-hdr-in-adobe/"><u>Maximize Mobile Video Quality Top 4 Strategies to Brighten iPhone HDR in Adobe</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/navigating-voice-assistants-why-alexa-might-be-your-best-choice-over-google-assistant/"><u>Navigating Voice Assistants: Why Alexa Might Be Your Best Choice Over Google Assistant</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-fine-tuning-audacitys-decibel-settings-for-perfect-balance/"><u>New 2024 Approved Fine-Tuning Audacitys Decibel Settings for Perfect Balance</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-essential-audio-setups-for-personalized-mobile-soundscapes/"><u>New Essential Audio Setups for Personalized Mobile Soundscapes</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-from-silence-to-symphony-a-practical-approach-to-changing-video-audio-part-1/"><u>New From Silence to Symphony A Practical Approach to Changing Video Audio (Part 1)</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-approaches-to-silence-echoes-in-professional-audio-recording/"><u>New In 2024, Approaches to Silence Echoes in Professional Audio Recording</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-the-function-key-problem-a-guide-to-repairing-non-responsive-keys-on-dell-computers/"><u>Solving the Function-Key Problem: A Guide to Repairing Non-Responsive Keys on Dell Computers</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/struggling-with-excessive-cpu-demand-from-obs-effective-strategies-to-optimize-and-reduce-its-resource-consumption/"><u>Struggling with Excessive CPU Demand From OBS? Effective Strategies to Optimize and Reduce Its Resource Consumption</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/unparalleled-youtube-soundscapes-to-experience-for-2024/"><u>Unparalleled YouTube Soundscapes to Experience for 2024</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-finding-the-best-synthetic-textures-to-replicate-a-paintbrushs-swipe-for-2024/"><u>Updated Finding the Best Synthetic Textures to Replicate a Paintbrushs Swipe for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/vr-gaming-redefined-discover-why-the-vive-cosmos-stands-out-in-an-intense-competitive-landscape/"><u>VR Gaming Redefined: Discover Why the Vive Cosmos Stands Out in an Intense Competitive Landscape</u></a></li>
-<li><a href="https://fox-access.techidaily.com/who-takes-the-crown-in-motorsport-camera-wars-for-2024/"><u>Who Takes the Crown in Motorsport Camera Wars for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-adding-dynamic-blurs-to-ai-designed-graphics/"><u>[Updated] In 2024, Adding Dynamic Blurs to AI-Designed Graphics</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-inquiry-how-to-view-all-media-sharing-in-app-messages/"><u>[Updated] In 2024, Inquiry How to View All Media Sharing in App Messages?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/call-of-duty-warzone-blackout-blues-heres-how-to-restore-your-gameplay/"><u>Call of Duty: Warzone Blackout Blues? Here's How to Restore Your Gameplay</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/essential-roles-and-their-impact-during-filming-phase/"><u>Essential Roles and Their Impact During Filming Phase</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/in-2024-50-best-film-scores-an-assortment-for-every-video-format-and-theme/"><u>In 2024, 50 Best Film Scores An Assortment for Every Video Format and Theme</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/in-2024-best-mac-app-for-amplifying-and-blending-car-audio/"><u>In 2024, Best Mac App for Amplifying and Blending Car Audio</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expert-strategies-for-efficient-video-editing-with-gopro-studio/"><u>In 2024, Expert Strategies for Efficient Video Editing with GoPro Studio</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-finding-the-best-dog-noise-samples-for-audio-creators/"><u>New 2024 Approved Finding the Best Dog Noise Samples for Audio Creators</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-your-ultimate-source-list-the-top-picks-of-copyright-friendly-comic-soundtracks-websites/"><u>New Your Ultimate Source List The Top Picks of Copyright-Friendly Comic Soundtracks Websites</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/overcoming-legal-hurdles-with-chatgpt-the-latest-evolution-of-google-news-feeds-and-secrets-to-enhanced-internet-access-on-the-go/"><u>Overcoming Legal Hurdles with ChatGPT, The Latest Evolution of Google News Feeds & Secrets to Enhanced Internet Access on the Go</u></a></li>
+<li><a href="https://techidaily.com/samsung-galaxy-s23plus-support-turn-off-screen-lock-by-drfone-android-unlock-android-unlock/"><u>Samsung Galaxy S23+ support - Turn Off Screen Lock.</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/seamless-time-stamp-integration-on-youtube-videos-for-2024/"><u>Seamless Time-Stamp Integration on YouTube Videos for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-amplify-visual-audio-levels-enhancing-video-clarity-and-audibility/"><u>Updated 2024 Approved Amplify Visual Audio Levels Enhancing Video Clarity and Audibility</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-best-video-editing-apps-for-mac-from-novice-to-expert/"><u>Updated Best Video Editing Apps for Mac From Novice to Expert</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-step-by-step-to-silence-zoom-microphones-on-windows-macos-and-android-devices-for-2024/"><u>Updated Step by Step to Silence Zoom Microphones on Windows, macOS, and Android Devices for 2024</u></a></li>
 </ul></div>
 

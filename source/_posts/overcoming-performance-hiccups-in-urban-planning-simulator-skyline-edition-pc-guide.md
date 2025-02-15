@@ -1,7 +1,7 @@
 ---
 title: Overcoming Performance Hiccups in Urban Planning Simulator Skyline Edition - PC Guide
-date: 2025-01-26T20:58:33.180Z
-updated: 2025-01-31T18:12:34.291Z
+date: 2025-02-08T00:12:18.341Z
+updated: 2025-02-14T17:08:06.947Z
 tags:
   - win11
   - win10
@@ -45,7 +45,7 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
 4. [Underclock your clock speed](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Download the latest patch
@@ -53,7 +53,7 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
  If you haven’t been updated your game for a while, you can update your game. The official keeps releasing new patches, the latest version may solve the crashing issue.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Manage Virtual Memory
@@ -66,7 +66,7 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
 3. Under the**Advanced** tab, click**Settings** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2-4.jpg)
@@ -80,10 +80,6 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
 
 7. Reboot your computer can check whether the crash will appear or not.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 3: Delete specific files from the save folder
 
  It’s possible some of the files in your game folder is corrupted, you can delete the specific files to get rid of crashes.  
@@ -95,11 +91,19 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/browse-2.jpg)
 4. Navigate to the save folder, delete Data(999).sav & Data(999).bak.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Reboot your computer and check the issue is solved or not.
 
 ### Fix 4: Underclock your clock speed
 
  The game is built with an old Unreal Engine version. This may be the reason for the random crashes. You can underclock your CPU speed by 100 MHz or 150 MHz to see whether it helps or not.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Bonus: Update your drivers
 
@@ -130,10 +134,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Thanks for reading. Hope this article meets your need. And you are welcome to leave comments below.
 
 * [games](https://tools.techidaily.com/drivereasy/download/)
@@ -153,19 +153,18 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-convert-twitter-video-to-audiomp4webm/"><u>[New] In 2024, Convert Twitter Video to Audio/MP4/WebM</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-perfecting-your-ringtone-choices-on-an-iphone/"><u>[New] In 2024, Perfecting Your Ringtone Choices on an iPhone</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-formulating-attractive-instagram-post-headlines/"><u>[Updated] 2024 Approved Formulating Attractive Instagram Post Headlines</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/2024-approved-guide-to-instantly-diminish-audio-volume-gently/"><u>2024 Approved Guide to Instantly Diminish Audio Volume Gently</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/apple-macbook-air-vs-pro-which-m1-laptop-is-better/"><u>Apple MacBook Air Vs. Pro Which M1 Laptop Is Better?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/comprehensive-tutorial-for-engaging-with-nvidias-revolutionary-rtx-ai-chatbot-on-your-desktop/"><u>Comprehensive Tutorial for Engaging with Nvidia's Revolutionary RTX AI Chatbot on Your Desktop</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/gamings-finest-shooters-a-top-7-list/"><u>Gaming's Finest Shooters - A Top 7 List</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Sony Xperia 5 V | Dr.fone</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-5-popular-tools-to-help-you-distort-audio/"><u>New 2024 Approved 5 Popular Tools to Help You Distort Audio</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-identifying-sources-for-authentic-canine-symphony-sounds/"><u>New Identifying Sources for Authentic Canine Symphony Sounds</u></a></li>
-<li><a href="https://extra-information.techidaily.com/photo-vid-mosaic-designer-slideshows-for-sierra/"><u>Photo-Vid Mosaic Designer Slideshows for Sierra</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/speedy-silencing-eradicating-static-and-white-noise-from-audio-tracks-for-2024/"><u>Speedy Silencing Eradicating Static and White Noise From Audio Tracks for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ing-from-scratch-essential-gear-list-guide/"><u>Starting From Scratch Essential Gear List Guide</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-discovering-the-value-a-comprehensive-guide-to-using-pexelscom-imagery/"><u>Updated 2024 Approved Discovering the Value A Comprehensive Guide to Using Pexels.com Imagery</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-efficient-techniques-for-secure-and-effective-lecture-capturing-using-imac/"><u>[New] In 2024, Efficient Techniques for Secure and Effective Lecture Capturing Using iMac</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-plant-and-play-stardew-esque-gaming-winners/"><u>[Updated] 2024 Approved Plant and Play Stardew-Esque Gaming Winners</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/dngpng-movavi/"><u>網路直接無成本 DNG到PNG 過渡：Movavi的高效解決方案</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-solutions-to-accelerate-windows-7-boot-times/"><u>Effective Solutions to Accelerate Windows 7 Boot Times</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722902145645-experience-innovation-with-the-apple-iphone-debut-get-ready/"><u>Experience Innovation with the Apple iPhone Debut – Get Ready</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-tecno-spark-go-2023-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Tecno Spark Go (2023) FRP In 3 Different Ways</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/in-2024-free-vs-paid-linux-audio-software-an-insiders-look-at-leading-choices/"><u>In 2024, Free Vs. Paid Linux Audio Software An Insiders Look at Leading Choices</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-masterful-color-transformations-with-free-and-paid-luts-for-cameras/"><u>In 2024, Masterful Color Transformations with Free & Paid LUTs for Cameras</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-trendsetting-techniques-going-viral-in-the-digital-world/"><u>In 2024, Trendsetting Techniques Going Viral in the Digital World</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-techniques-for-designing-and-extracting-your-own-mobile-tunes/"><u>New In 2024, Techniques for Designing and Extracting Your Own Mobile Tunes</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-achieving-consistent-sound-levels-with-davinci-resolve-for-2024/"><u>Updated Achieving Consistent Sound Levels with DaVinci Resolve for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-navigating-the-world-of-public-domain-photography-the-pexels-experience/"><u>Updated Navigating the World of Public Domain Photography The Pexels Experience</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-the-ultimate-guide-to-choosing-top-audio-reversing-applications-for-your-pc-phone-and-tablet-for-2024/"><u>Updated The Ultimate Guide to Choosing Top Audio Reversing Applications For Your PC, Phone, and Tablet for 2024</u></a></li>
 </ul></div>
 

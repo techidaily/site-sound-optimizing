@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Issue: How to Get Your Corsair HS35 Microphone Functional on Windows"
-date: 2025-01-30T21:08:16.192Z
-updated: 2025-01-31T22:57:17.133Z
+date: 2025-02-09T23:07:33.213Z
+updated: 2025-02-14T22:38:03.549Z
 tags:
   - win11
   - win10
@@ -42,10 +42,6 @@ When you’re using a microphone such as MPOW attached to your computer, you may
   
 ![run the audio troubleshooter MPOW Microphone not working](https://images.drivereasy.com/wp-content/uploads/2021/04/select-the-device-you-want-to-troubleshoot.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now Windows will help you scan for issues. Simply follow the on-screen instructions to resolve your problems.
 
  If running the audio troubleshooter didn’t get your microphone back to a working state, try the fixes above.
@@ -66,17 +62,13 @@ When you’re using a microphone such as MPOW attached to your computer, you may
 
 ![update network adapter driver automatically with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/11/Scan-now-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/update-MPOW-driver-1200x901.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -84,10 +76,6 @@ When you’re using a microphone such as MPOW attached to your computer, you may
  After updating your drivers, restart your computer and then try to use the microphone to check if it’s working now. If not, try the next fix below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Set your microphone as the default device
 
@@ -97,17 +85,9 @@ When you’re using a microphone such as MPOW attached to your computer, you may
 
 ![open sound settings](https://images.drivereasy.com/wp-content/uploads/2021/04/open-sound-settings-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Scroll down to the section of **Related Settings** and click **Sound Control Panel** .  
   
 ![Open Sound Control Panel](https://images.drivereasy.com/wp-content/uploads/2021/02/sound-control-panel.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) When the Sound window opens, select the**Recording** tab. Click on your microphone and then click**Set Default > OK** .  
   
@@ -116,6 +96,10 @@ When you’re using a microphone such as MPOW attached to your computer, you may
  After you’ve saved the changes, use your microphone to check if your problems have been solved.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Make sure apps have access to your microphone
 
@@ -131,6 +115,10 @@ When you’re using a microphone such as MPOW attached to your computer, you may
   
 ![turn on app permissions on your microphone](https://images.drivereasy.com/wp-content/uploads/2021/02/turn-on-app-permissions-for-your-micropho0ne.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Under the **Allow apps to access your microphone**  section, make sure it’s turned **On** .  
   
 ![allow apps to access your microphone](https://images.drivereasy.com/wp-content/uploads/2021/02/allow-apps-to-access-your-microphone.png)
@@ -140,6 +128,10 @@ When you’re using a microphone such as MPOW attached to your computer, you may
  After you’ve confirmed the changes, try to make a recording or call to check if it’s picking up your voice.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Make sure your microphone is enabled
 
@@ -153,13 +145,13 @@ When you’re using a microphone such as MPOW attached to your computer, you may
   
 ![choose the audio input device](https://images.drivereasy.com/wp-content/uploads/2021/04/input-device.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Make sure that your headset is not disabled.  
   
 ![make sure your device isn't disabled](https://images.drivereasy.com/wp-content/uploads/2021/04/enable-it.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Once you’ve confirmed that your microphone has been enabled but it’s still not working, try the next fix below.
 
@@ -173,9 +165,17 @@ When you’re using a microphone such as MPOW attached to your computer, you may
   
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/check-for-updates.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click on the **Check for updates**  tab. If there are any updates available, it’ll automatically start to download and install it.  
   
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/click-on-the-Check-for-updates-tab.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After installing the latest Windows updates, use your headset mic and it should be functioning now.
 
@@ -198,21 +198,21 @@ When you’re using a microphone such as MPOW attached to your computer, you may
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-navigating-the-path-of-global-storytelling-through-film/"><u>[New] 2024 Approved Navigating the Path of Global Storytelling Through Film</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-screen-spectacular-sj6-vs-yi-4k-edition-for-2024/"><u>[New] Screen Spectacular SJ6 Vs. Yi 4K Edition for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-effortless-image-capturing-on-chrome-devices-method-4/"><u>[Updated] 2024 Approved Effortless Image Capturing on Chrome Devices (Method #4)</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-essential-asmr-creators-to-follow-for-2024/"><u>[Updated] Essential ASMR Creators to Follow for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-professional-webcam-recording-solutions-explored/"><u>2024 Approved Professional WebCam Recording Solutions Explored</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/2024-approved-removing-background-music-and-sounds-from-new-avi-files/"><u>2024 Approved Removing Background Music and Sounds From New AVI Files</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/brief-guide-to-obscured-faces-on-piscart-platforms/"><u>Brief Guide to Obscured Faces on PiscArt Platforms</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-unveil-your-gaming-identity-code-on-steam/"><u>How to Unveil Your Gaming Identity Code on Steam</u></a></li>
-<li><a href="https://win11.techidaily.com/mp4iphoneandroid/"><u>MP4形式ビデオを着信音として使うiPhone/Androidの方法解説</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-silent-stream-sculptors-crafting-audience-free-video-formats-mp4-mkv-avi-mov-wmv/"><u>New 2024 Approved Silent Stream Sculptors Crafting Audience-Free Video Formats (MP4, MKV, AVI, MOV, WMV)</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-unlocking-clearer-listening-the-complete-process-of-audio-level-standardization-in-vlc/"><u>New In 2024, Unlocking Clearer Listening The Complete Process of Audio Level Standardization in VLC</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solve-unwanted-sound-movement-turn-off-head-tracking-feature-for-airpods/"><u>Solve Unwanted Sound Movement: Turn Off Head-Tracking Feature for AirPods</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-enhancing-narrative-flow-advanced-methods-for-cross-clip-integration/"><u>Updated 2024 Approved Enhancing Narrative Flow Advanced Methods for Cross-Clip Integration</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-show-audio-waveform-and-add-waveform-animation-in-final-cut-protuto/"><u>Updated 2024 Approved Show Audio Waveform and Add Waveform Animation in Final Cut ProTuto</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-how-to-normalize-audio-in-davinci-resolve-for-2024/"><u>Updated How To Normalize Audio In DaVinci Resolve for 2024</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-tutorial-on-audio-ducking-in-adobe-premiere-pro-on-mac/"><u>Updated In 2024, Tutorial on Audio Ducking in Adobe Premiere Pro on Mac</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-effortless-android-screenshot-and-screen-record/"><u>[New] Effortless Android Screenshot & Screen Record</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-fine-tune-your-cinematography-mastering-kinemaster-zoom-features/"><u>[Updated] Fine-Tune Your Cinematography Mastering Kinemaster Zoom Features</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-components-that-lift-you-in-youtube-viewership-for-2024/"><u>[Updated] The Components That Lift You in YouTube Viewership for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/2024-approved-how-to-eliminate-background-music-from-your-mp4-videos/"><u>2024 Approved How to Eliminate Background Music From Your MP4 Videos</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-intro-to-using-snap-camera-effectively-in-meetings/"><u>2024 Approved Intro to Using Snap Camera Effectively in Meetings</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/captivating-visuals-for-your-space-premium-bmw-e61-design-wallpaper-collections-from-yl-creatives/"><u>Captivating Visuals for Your Space: Premium BMW E61 Design Wallpaper Collections From YL Creatives</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Samsung Galaxy M14 5G | Dr.fone</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-audacity-installation-made-easy-the-ultimate-chromebook-checklist-for-2024/"><u>New Audacity Installation Made Easy The Ultimate Chromebook Checklist for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-tracking-down-simulated-acoustics-from-steel-percussion-devices/"><u>New In 2024, Tracking Down Simulated Acoustics From Steel Percussion Devices</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-mute-the-movie-guide-to-erasing-auditory-elements-from-various-video-formats-for-2024/"><u>New Mute the Movie Guide to Erasing Auditory Elements From Various Video Formats for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-top-ten-digital-melodies-discovering-the-most-downloaded-background-scores/"><u>New Top Ten Digital Melodies Discovering the Most Downloaded Background Scores</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/revolutionizing-scanning-technology-with-new-abbyy-pdf-and-ocr-tools-spotlighted-at-the-american-bar-associations-annual-techshow-2019/"><u>Revolutionizing Scanning Technology with New ABBYY PDF and OCR Tools, Spotlighted at the American Bar Association's Annual Techshow 2019</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unmissable-early-bird-accessories-for-the-upcoming-oct-24-prime-day-sale-shoppers-guide/"><u>Unmissable Early Bird Accessories for the Upcoming Oct '24 Prime Day Sale Shoppers Guide</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-add-humor-to-your-videos-best-dubbing-apps/"><u>Updated 2024 Approved Add Humor to Your Videos Best Dubbing Apps</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-your-ultimate-source-list-the-top-picks-of-copyright-friendly-comic-soundtracks-websites/"><u>Updated In 2024, Your Ultimate Source List The Top Picks of Copyright-Friendly Comic Soundtracks Websites</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-the-ultimate-imovie-strategy-to-eliminate-unwanted-sounds-in-your-projects-for-2024/"><u>Updated The Ultimate iMovie Strategy to Eliminate Unwanted Sounds in Your Projects for 2024</u></a></li>
 </ul></div>
 

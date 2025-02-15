@@ -1,7 +1,7 @@
 ---
 title: "No More Silence in Battle Royale: Fixed Guide to Restore Voice Chat on Apex Legends"
-date: 2025-01-26T18:33:57.573Z
-updated: 2025-01-31T17:24:50.359Z
+date: 2025-02-12T19:19:55.807Z
+updated: 2025-02-14T16:21:17.964Z
 tags:
   - win11
   - win10
@@ -30,10 +30,6 @@ thumbnail: https://thmb.techidaily.com/d24bf389d1254603d8aad9f86f16f5f0cd9be072e
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Sign out Fortnite, then sign back in
 
  This is the quickest and easiest fix to try when chat’s not working in Fortnite. Just sign out of the game, then sign back in.
@@ -58,11 +54,11 @@ thumbnail: https://thmb.techidaily.com/d24bf389d1254603d8aad9f86f16f5f0cd9be072e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/Update-all-drivers.jpg)
 
- If you need assistance, please contact**Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ If you need assistance, please contact**Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 ### Fix 3: Install the latest Fortnite patch
 
@@ -77,7 +73,7 @@ thumbnail: https://thmb.techidaily.com/d24bf389d1254603d8aad9f86f16f5f0cd9be072e
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap911.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3.**Turn on** the toggle next to **Auto update** .
@@ -90,11 +86,11 @@ thumbnail: https://thmb.techidaily.com/d24bf389d1254603d8aad9f86f16f5f0cd9be072e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap898.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Run Fortnite again to check whether your chat problem has been resolved. If it hasn’t, or there was no new game patch available, move on to Fix 4, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Make sure your microphone is on for Fortnite
 
@@ -105,12 +101,16 @@ thumbnail: https://thmb.techidaily.com/d24bf389d1254603d8aad9f86f16f5f0cd9be072e
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap427.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2\. Click **Microphone**  on the left pane, and make sure**Microphone access for this device** is**on** , and the status is **On** for **Fortnite** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap428.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3\. Run Fortnite to see if chat works now. If not, try Fix 5, below.
 
@@ -125,7 +125,7 @@ thumbnail: https://thmb.techidaily.com/d24bf389d1254603d8aad9f86f16f5f0cd9be072e
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap925.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  ii. Click**the speaker icon** to view the audio settings. Then**turn off Voice Chat** and click**Apply** .  
@@ -138,6 +138,10 @@ iii. Exit Fortnite.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap432.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3\. Click the **Playback** tab, select the speakers/headphones you’re using and click **Set Default** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap442-1.jpg)
@@ -146,13 +150,13 @@ iii. Exit Fortnite.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap447.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5\. While still in the**Recording** tab, try**speaking into your microphone** to test if it works properly. If it is, you should see some green in the bar on the right:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap443.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  6\. Click **OK** .
 
@@ -171,10 +175,6 @@ iii. Exit Fortnite.
  2\. Click**Uninstall** to uninstall Fortnite.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap950.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3\. Restart your PC.
 
@@ -205,14 +205,21 @@ iii. Exit Fortnite.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-master-quick-red-eye-correction-with-this-free-ios-tool/"><u>[Updated] 2024 Approved Master Quick Red-Eye Correction with This Free iOS Tool</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-from-audio-to-text-the-5-most-acclaimed-zoom-transcribing-platforms-freepaid/"><u>[Updated] In 2024, From Audio to Text The 5 Most Acclaimed Zoom Transcribing Platforms (Free/Paid)</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/enhancing-visual-storytelling-adding-audio-elements-in-adobe-premiere-pro-for-2024/"><u>Enhancing Visual Storytelling Adding Audio Elements in Adobe Premiere Pro for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-the-experts-approach-to-inserting-subtitlescc-on-youtube-videos/"><u>In 2024, The Expert's Approach to Inserting Subtitles/CC on YouTube Videos</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-10-best-websites-to-download-ding-sound-effect-easily-for-2024/"><u>New 10 Best Websites to Download Ding Sound Effect Easily for 2024</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/step-by-step-tutorial-for-incorporating-soundtracks-in-adobe-after-effects/"><u>Step-by-Step Tutorial for Incorporating Soundtracks in Adobe After Effects</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/understanding-ai-prompt-injection-unveiling-the-technique-and-its-mechanics/"><u>Understanding AI Prompt Injection: Unveiling the Technique & Its Mechanics</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-concepts-behind-ray-tracing/"><u>Unveiling the Concepts Behind Ray Tracing</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-turning-the-tables-on-sound-innovations-in-audio-reversal-technology/"><u>Updated In 2024, Turning the Tables on Sound Innovations in Audio Reversal Technology</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-curating-striking-instagram-profile-photos/"><u>[New] In 2024, Curating Striking Instagram Profile Photos</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-social-stream-top-8-viral-videos/"><u>[New] In 2024, Social Stream Top 8 Viral Videos</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-pioneering-strategies-in-instavid-world-design-an-optimal-marketing-approach/"><u>[Updated] In 2024, Pioneering Strategies in InstaVid World Design an Optimal Marketing Approach</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/2024-approved-echo-excellence-enhancing-windows-pc-sounds-with-online-acoustic-plugins/"><u>2024 Approved Echo Excellence Enhancing Windows PC Sounds with Online Acoustic Plugins</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/command-and-response-symbiosis-in-ai-dialogue-systems/"><u>Command and Response Symbiosis in AI Dialogue Systems</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721477035086-getting-aol-mail-up-and-running-again-on-iphone-discover-these-erseven-techniques-for-success/"><u>Getting AOL Mail Up and Running Again on iPhone – Discover These Erseven Techniques for Success!</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/harmonizing-mp4-visuals-with-top-tier-music-selection-methods/"><u>Harmonizing MP4 Visuals with Top-Tier Music Selection Methods</u></a></li>
+<li><a href="https://facebook.techidaily.com/hidden-in-plain-sight-the-4-most-influential-silicon-stories/"><u>Hidden in Plain Sight: The 4 Most Influential Silicon Stories</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/how-to-fade-in-and-fade-out-audio-in-adobe-after-effects-for-2024/"><u>How to Fade In and Fade Out Audio in Adobe After Effects for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/in-2024-libertys-guide-to-attaching-tracks-in-movies-for-free/"><u>In 2024, Libertys Guide to Attaching Tracks in Movies for Free</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-guide-to-toolwiz-photosapp-for-photographers/"><u>In 2024, The Ultimate Guide to Toolwiz PhotosApp for Photographers</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-multicultural-communication-using-chatgpt-fluently-across-diverse-languages/"><u>Mastering Multicultural Communication: Using ChatGPT Fluently Across Diverse Languages</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-mastering-mp4-sound-retrieval-top-5-simplified-strategies/"><u>New 2024 Approved Mastering MP4 Sound Retrieval Top 5 Simplified Strategies</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-deejay-discovery-compile-dj-beats-for-your-playlist-for-2024/"><u>New Deejay Discovery Compile DJ Beats for Your Playlist for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-8-must-play-mobile-gaming-experiences/"><u>Top 8 Must-Play Mobile Gaming Experiences</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-5-best-mp3-cutters-online-for-2024/"><u>Updated 5 Best MP3 Cutters Online for 2024</u></a></li>
 </ul></div>
 

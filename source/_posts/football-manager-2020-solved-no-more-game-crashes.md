@@ -1,7 +1,7 @@
 ---
 title: "Football Manager 2020: Solved - No More Game Crashes!"
-date: 2025-01-28T16:00:15.592Z
-updated: 2025-01-31T16:07:38.728Z
+date: 2025-02-10T19:10:51.249Z
+updated: 2025-02-14T17:03:33.418Z
 tags:
   - win11
   - win10
@@ -18,7 +18,7 @@ thumbnail: https://thmb.techidaily.com/4fec1082aae14c609dc25605c639b1fbe3c36aac7
 _**Football Manager 2020 (FM20)**_ constantly crashes your PC? You’re not alone! Many players are reporting it, but the good news is that you can fix it. Here are 5 solutions to try.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fixes to try
@@ -30,10 +30,6 @@ _**Football Manager 2020 (FM20)**_ constantly crashes your PC? You’re not alon
 3. **[Check for Software conflicts](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Delete the Preferences and/or Caches Folder](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Reinstall your game and/or Steam](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Update your graphics driver
 
@@ -49,6 +45,10 @@ _**Football Manager 2020 (FM20)**_ constantly crashes your PC? You’re not alon
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_12-00-53-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -61,6 +61,10 @@ _**Football Manager 2020 (FM20)**_ constantly crashes your PC? You’re not alon
 
  If your issue persists after updating your graphics driver, move on to the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Verify the integrity of your game files
 
  Game crashing issues are likely to occur when one or more game files are damaged or missing. To see if that’s the issue for you, try verifying the integrity of your game files from Steam. Here is how to do it:
@@ -71,10 +75,6 @@ _**Football Manager 2020 (FM20)**_ constantly crashes your PC? You’re not alon
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-25_10-39-20-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)**  Right-click **Football Manager 2020**  and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-25_10-43-22.jpg)
@@ -82,10 +82,6 @@ _**Football Manager 2020 (FM20)**_ constantly crashes your PC? You’re not alon
 **4)** Click the **LOCAL FILES** tab, then click **VERIFY INTEGRITY OF GAME FILES** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-25_10-46-20.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **5)**  Restart your game to test your issue.
 
@@ -98,6 +94,10 @@ If your game still crashes, then go ahead with the fix below.
 **1)**  Right-click**your taskbar** and select **Task Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-25_10-53-50.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **2)**  Right-click the program you want to close and select **End task** .
 
@@ -121,13 +121,13 @@ If your game still crashes, then go ahead with the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-25_11-07-35.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)**  Delete the **Preferences** and **Cache folder** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-25_11-02-15-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **5)** Restart your game to check if this worked for you.
 
@@ -148,13 +148,13 @@ If your game is still unplayable, move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-25_10-39-20-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)**  Right-click **Football Manager 2020** , and select **Manage > Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-25_11-20-09.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **4)** Restart Steam to download and install _Football Manager 2020_ .
 
@@ -169,7 +169,7 @@ If your game is still unplayable, move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-25_11-22-59.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2)** Right-click the **steamapps folder** and select **Copy.** Then, place the copy in another location to back up your game content.
@@ -177,7 +177,7 @@ If your game is still unplayable, move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-25_11-23-11.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** On your keyboard, press the **Windows logo** key and type **control** . Then, click **Control Panel** .
@@ -188,6 +188,10 @@ If your game is still unplayable, move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-25_11-23-51.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **5)**  Right-click **Steam** , and then click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-25_11-24-01.jpg)
@@ -197,10 +201,6 @@ If your game is still unplayable, move on to the next fix.
 **7)** Right-click the **Steam icon**  and select **Open file location** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-25_11-25-08.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **8)**  Move the backup **steamapps folder**  you created to your current directory location.
 
@@ -231,20 +231,21 @@ If your game is still unplayable, move on to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-the-ultimate-video-twist-guide-from-portrait-to-panoramic-on-instagram/"><u>[New] The Ultimate Video Twist Guide From Portrait to Panoramic on Instagram</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-unveiling-brilliance-a-thorough-review-of-the-professional-quest-with-bl2711u/"><u>[Updated] Unveiling Brilliance A Thorough Review of the Professional Quest with BL2711U</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/5-best-mp3-cutters-online-for-2024/"><u>5 Best MP3 Cutters Online for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boost-productivity-customized-windows-cmd-tricks-and-tips/"><u>Boost Productivity: Customized Windows Cmd Tricks and Tips</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/how-to-activate-auto-hdr-setting-in-windows-11-for-2024/"><u>How to Activate Auto HDR Setting in Windows 11 for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-x-to-other-iphone-11-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone X To Other iPhone 11 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-10-best-sites-to-download-bgm-music/"><u>New 2024 Approved 10 Best Sites to Download BGM Music</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-mastering-signal-processing-advanced-noise-reduction-techniques-using-artificial-intelligence/"><u>New Mastering Signal Processing Advanced Noise Reduction Techniques Using Artificial Intelligence</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-removing-background-music-and-sounds-from-new-avi-files/"><u>New Removing Background Music and Sounds From New AVI Files</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/online-tool-by-movavi-seamlessly-transforming-ppm-images-into-editable-gifs-at-no-cost/"><u>Online Tool by Movavi: Seamlessly Transforming PPM Images Into Editable GIFs at No Cost</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-to-restore-your-onikuma-mic-functionality/"><u>Step-by-Step Guide to Restore Your Onikuma Mic Functionality</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-the-audio-architects-guide-to-stripping-down-beats-online/"><u>Updated In 2024, The Audio Architects Guide to Stripping Down Beats Online</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-the-guide-to-amplifying-your-android-footage-adding-audio-seamlessly/"><u>Updated In 2024, The Guide to Amplifying Your Android Footage Adding Audio Seamlessly</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/vital-insights-for-constructing-an-unparalleled-collection-of-youtube-audio-tracks/"><u>Vital Insights for Constructing an Unparalleled Collection of YouTube Audio Tracks</u></a></li>
-<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-poco-c65-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Poco C65? Here is How | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-capture-and-save-video-images-on-windows-11/"><u>[New] 2024 Approved Capture and Save Video Images on Windows 11</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-discontinuing-instant-recording-on-quicktime/"><u>[New] Discontinuing Instant Recording on QuickTime</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/2024-approved-how-to-remove-audio-seamlessly-a-windows-10-users-handbook-for-sound-free-vids-free-of-charge/"><u>2024 Approved How to Remove Audio Seamlessly A Windows 10 Users Handbook for Sound-Free Vids (Free of Charge)</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/a-filmmakers-choice-the-top-five-free-audio-jokes-for-creative-videos-for-2024/"><u>A Filmmakers Choice The Top Five Free Audio Jokes for Creative Videos for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/gmail-not-working-on-motorola-moto-g34-5g-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Motorola Moto G34 5G 7 Common Problems & Fixes | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-itel-s23plus-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Itel S23+ Phones? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-vivo-y78t-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Vivo Y78t? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/movavif4vmp3/"><u>Movavi網路轉換器：無需付費，自動順利F4V到MP3格式變更</u></a></li>
+<li><a href="https://article-helps.techidaily.com/reliable-schedule-with-the-petsafe-six-meal-auto-feeder-ideal-for-your-furry-friend/"><u>Reliable Schedule with the PetSafe Six-Meal Auto Feeder – Ideal for Your Furry Friend</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/two-ways-to-sync-contacts-from-samsung-galaxy-f04-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Two Ways to Sync Contacts from Samsung Galaxy F04 to Gmail | Dr.fone</u></a></li>
+<li><a href="https://win-webmaster.techidaily.com/unable-to-locate-webpage-what-to-do-when-you-encounter-a-404-error/"><u>Unable to Locate Webpage: What to Do When You Encounter a 404 Error</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/uncovering-plugins-that-create-realistic-flatulent-effects-for-games-and-films/"><u>Uncovering Plugins That Create Realistic Flatulent Effects for Games and Films</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-exploring-archives-for-articulated-grunt-effects/"><u>Updated In 2024, Exploring Archives for Articulated Grunt Effects</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-navigating-audio-segmentation-easy-ways-to-split-your-mp3s-and-aacs/"><u>Updated In 2024, Navigating Audio Segmentation Easy Ways to Split Your MP3s and AACs</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-synchronizing-sonic-elements-controlling-audio-duration-and-tonality-in-adobe-rush/"><u>Updated Synchronizing Sonic Elements Controlling Audio Duration and Tonality in Adobe Rush</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-the-button-symphony-locating-the-percussive-elements-in-gaming-for-2024/"><u>Updated The Button Symphony Locating the Percussive Elements in Gaming for 2024</u></a></li>
 </ul></div>
 

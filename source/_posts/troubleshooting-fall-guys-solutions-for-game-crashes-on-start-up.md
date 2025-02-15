@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Fall Guys: Solutions for Game Crashes on Start-Up"
-date: 2025-01-30T16:18:35.266Z
-updated: 2025-01-31T18:55:43.770Z
+date: 2025-02-10T23:51:57.004Z
+updated: 2025-02-14T16:21:06.807Z
 tags:
   - win11
   - win10
@@ -52,6 +52,10 @@ _Hearts of Iron IV (HOI4)_ keeps crashing on your PC? Don’t worry. After readi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-222.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)**  Check your **Operating System, Processor, Memory** and **DirectX Version** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-91.png)
@@ -62,10 +66,6 @@ _Hearts of Iron IV (HOI4)_ keeps crashing on your PC? Don’t worry. After readi
 
  If your computer meets the minimum requirements to run _HOI4_ , read on and check the fix, below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: **Restart your computer**
 
  Extraneous software not only takes up your PC resources and affects your gaming performance, it can also conflict with_Hearts of Iron IV_ , causing it to crash.
@@ -73,10 +73,6 @@ _Hearts of Iron IV (HOI4)_ keeps crashing on your PC? Don’t worry. After readi
  So if you’re running multiple programs during your gameplay, try restarting your PC to close unnecessary programs completely and refresh your system environment.
 
  If **_HOI4_**  still crashes after the reboot, go ahead with the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: **Run your game as an Administrator**
 
@@ -108,15 +104,19 @@ If your problem still exists, then move on to the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-131.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)**  Click the **Compatibility tab** , then check the box next to **Disable fullscreen optimizations** and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-130.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Relaunch_HOI4_ to see if this has resolved your issue. If not, read on and try the fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: **Update your graphics driver**
 
@@ -147,10 +147,6 @@ There are two ways you can get the right graphics driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-203.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -174,16 +170,12 @@ To fix it, try verifying the integrity of your game files on Steam:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-321.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)**  Right-click **Hearts of Iron IV**  and select **Properties.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-133.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **4)**  Click the **LOCAL FILES**  tab, then click **VERIFY INTEGRITY OF GAME FILES** .
 
@@ -200,7 +192,7 @@ To fix it, try verifying the integrity of your game files on Steam:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-737.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2)** Under **View by,** click **Large icons** .
@@ -211,17 +203,9 @@ To fix it, try verifying the integrity of your game files on Steam:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-721.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **4)** Select **High Performance** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-738.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Restart your computer and your game to see if this worked for you. If your problem persists, try the fix below.
 
@@ -241,6 +225,10 @@ To fix it, try verifying the integrity of your game files on Steam:
 
  You can hopefully play the game without crashes now. If not, check the fix, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 9: Reinstall your game and/or Steam
 
  If none of the fixes above worked for you, reinstalling your game and/or Steam is very likely the solution to your problem. Here is how to do it:
@@ -256,9 +244,17 @@ To fix it, try verifying the integrity of your game files on Steam:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-321.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)**  Right-click **Hearts of Iron IV**  and select **Uninstall.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-135.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)** Click **DELETE** .
 
@@ -280,10 +276,6 @@ Relaunch your game to test your issue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-360.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)**  On your keyboard, press the **Windows logo**  key and type **control** . Then, click **Control Panel** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-361.png)
@@ -292,9 +284,17 @@ Relaunch your game to test your issue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-374.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **5)** Right-click **Steam** , and then click **Uninstall** . Then, wait for the process to be complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-364.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  **6)[Download](https://store.steampowered.com/about/)**  and install Steam.
 
@@ -331,22 +331,18 @@ Relaunch your game to test your issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-commence-your-filmmaking-adventure-with-xps-toolkit/"><u>[New] Commence Your Filmmaking Adventure with XP's Toolkit</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-expert-guidelines-to-improve-zoom-on-chromeos/"><u>[Updated] 2024 Approved Expert Guidelines to Improve Zoom on ChromeOS</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-arcade-alpha-check-in-gamers-thoughts/"><u>[Updated] ARCADE ALPHA CHECK-IN Gamers' Thoughts</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-instantaneously-crafting-creative-collage-imagery-for-fb/"><u>[Updated] Instantaneously Crafting Creative Collage Imagery for FB</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-best-aspect-ratios-to-enhance-video-quality/"><u>2024 Approved Best Aspect Ratios to Enhance Video Quality</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/2024-approved-how-to-achieve-pristine-sound-quality-tactics-to-reduce-echo/"><u>2024 Approved How to Achieve Pristine Sound Quality Tactics to Reduce Echo</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/blending-the-tunes-and-pictures-a-step-by-step-guide-to-audio-video-integration-in-current-technology/"><u>Blending the Tunes and Pictures A Step-by-Step Guide to Audio Video Integration in Current Technology</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/comprehensive-analysis-of-the-byb-e430-led-pendant-top-rated-swing-arm-lampsphere-reviewed/"><u>Comprehensive Analysis of the BYB E430 LED Pendant: Top Rated Swing Arm Lampsphere Reviewed</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/elite-sound-mixers-for-superior-stream-quality/"><u>Elite Sound Mixers for Superior Stream Quality</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-honor-x9a-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Honor X9a? | Dr.fone</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-the-essential-process-of-adding-sound-to-mkv-updated-videographies/"><u>New In 2024, The Essential Process of Adding Sound to MKV-Updated Videographies</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-the-essential-list-of-top-10-audio-editors-for-windows-and-mac-platforms/"><u>New The Essential List of Top 10 Audio Editors for Windows & Mac Platforms</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/step-by-step-instructions-for-saving-youtube-content-onto-mobile-phones-and-tablets/"><u>Step-by-Step Instructions for Saving YouTube Content Onto Mobile Phones and Tablets</u></a></li>
-<li><a href="https://win-community.techidaily.com/troubleshoot-and-diagnose-ram-problems-with-ease-tips-from-yl-computing-experts/"><u>Troubleshoot and Diagnose RAM Problems with Ease - Tips From YL Computing Experts</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-pioneering-the-silent-echo-techniques-and-tools-for-gradual-audio-fading-released/"><u>Updated 2024 Approved Pioneering the Silent Echo Techniques and Tools for Gradual Audio Fading Released</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-bridging-the-gap-between-sound-waves-and-storage-space-a-guide-to-downloading-audio-programs-onto-computers/"><u>Updated In 2024, Bridging the Gap Between Sound Waves and Storage Space A Guide to Downloading Audio Programs Onto Computers</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-step-by-step-audio-augmentation-for-quality-video-files-on-quicktime/"><u>Updated In 2024, Step-by-Step Audio Augmentation for Quality Video Files on QuickTime</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-ace-your-youtube-finances-secrets-for-profits-at-the-500-subscriber-milestone/"><u>[New] 2024 Approved Ace Your Youtube Finances Secrets for Profits at the 500-Subscriber Milestone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-learning-the-art-of-softly-amplifying-audio-tracks-for-2024/"><u>[New] Learning the Art of Softly Amplifying Audio Tracks for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-integrating-instagram-effects-into-pre-existing-content/"><u>[Updated] In 2024, Integrating Instagram Effects Into Pre-Existing Content</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-installation-of-logitech-drivers-for-windows-pcs-get-them-now/"><u>Easy Installation of Logitech Drivers for Windows PCs – Get Them Now!</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/elite-4k-gaming-laptops-ranked-1-for-2024/"><u>Elite 4K Gaming Laptops Ranked #1 for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/ensuring-compatibility-free-download-and-update-for-corsair-keyboards-k55-model/"><u>Ensuring Compatibility: Free Download & Update for Corsair Keyboard's K55 Model</u></a></li>
+<li><a href="https://win-great.techidaily.com/fehler-wiederherstellungspunkt-kann-nicht-erstellt-werden-top-3-losungsmoglichkeiten/"><u>Fehler: Wiederherstellungspunkt Kann Nicht Erstellt Werden – Top-3 Lösungsmöglichkeiten</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/from-blurry-to-crystal-clear-the-ultimate-guide-to-vce-22/"><u>From Blurry to Crystal Clear The Ultimate Guide to VCE 2.2</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-unlocking-clearer-listening-the-complete-process-of-audio-level-standardization-in-vlc/"><u>New In 2024, Unlocking Clearer Listening The Complete Process of Audio Level Standardization in VLC</u></a></li>
+<li><a href="https://facebook.techidaily.com/trapped-in-online-purgatory-discover-why/"><u>Trapped in Online Purgatory? Discover Why</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-enhancing-narrative-flow-advanced-methods-for-cross-clip-integration/"><u>Updated 2024 Approved Enhancing Narrative Flow Advanced Methods for Cross-Clip Integration</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-no-fuss-vocal-elimination-procedures-for-audacity-professionals/"><u>Updated 2024 Approved No-Fuss Vocal Elimination Procedures for Audacity Professionals</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-discovering-the-chirping-noise-of-crickets/"><u>Updated In 2024, Discovering the Chirping Noise of Crickets</u></a></li>
 </ul></div>
 

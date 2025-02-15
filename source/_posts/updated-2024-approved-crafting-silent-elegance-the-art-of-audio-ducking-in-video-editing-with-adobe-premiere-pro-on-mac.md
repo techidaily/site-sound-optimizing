@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Crafting Silent Elegance The Art of Audio Ducking in Video Editing with Adobe Premiere Pro on Mac
-date: 2025-01-26T16:31:12.264Z
-updated: 2025-01-31T17:17:12.085Z
+date: 2025-02-11T19:59:28.243Z
+updated: 2025-02-14T21:43:46.814Z
 tags: 
   - audio editing software
   - audio editing
@@ -28,6 +28,10 @@ Too many times, while mixing voiceover with the background music in a video, the
 
 The best thing about Premiere Pro audio ducking is that it is an automatic process and we don’t need to put a lot of effort. To make your job easier, I’m going to let you know how to use the Adobe Premiere Pro audio ducking feature in a step by step manner in this guide.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: How to Use Audio Ducking to Balance Music and Voiceover in Adobe Premiere Pro on Mac?
 
 If you have been using Adobe Premiere Pro on Mac, then you would already be familiar with the wide range of editing features that it has. One of them is the Premiere Pro audio ducking option that comes inbuilt in the application. Using it, you can automatically lower the volume of the background music and amplify your dialogues.
@@ -56,11 +60,19 @@ Great! You can now preview the changes you have made and check the audio ducking
 
 Furthermore, you can also perform an instant hard ducking in Premiere Pro. For this, just choose the track, go to the side panel, and select **Preset** \> **Music** \> **Hard Vocal Ducking**. While it would get instant results in Adobe Premiere audio ducking, the results might not be so effective.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: Wondershare Filmora
 
 As you can see, the Premiere Pro audio ducking feature can get a bit complicated if you are a beginner. Therefore, if you are looking for a simpler and more effective automatic ducking solution, then use Wondershare Filmora. This intuitive and diverse video/audio editing tool has an automatic audio ducking option that would make your job a whole lot easier.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 To learn how to perform automatic audio ducking in your videos on Mac via Wondershare Filmora, one can follow these steps:
 
@@ -103,7 +115,7 @@ Too many times, while mixing voiceover with the background music in a video, the
 The best thing about Premiere Pro audio ducking is that it is an automatic process and we don’t need to put a lot of effort. To make your job easier, I’m going to let you know how to use the Adobe Premiere Pro audio ducking feature in a step by step manner in this guide.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: How to Use Audio Ducking to Balance Music and Voiceover in Adobe Premiere Pro on Mac?
@@ -133,164 +145,16 @@ Apart from the dialogue icon, you can also click on the Music icon and do the sa
 Great! You can now preview the changes you have made and check the audio ducking results in Premiere Pro. If you want to finalize things, then you can perform keyframing and manually adjust the volume.
 
 Furthermore, you can also perform an instant hard ducking in Premiere Pro. For this, just choose the track, go to the side panel, and select **Preset** \> **Music** \> **Hard Vocal Ducking**. While it would get instant results in Adobe Premiere audio ducking, the results might not be so effective.
-
-## Part 2: Wondershare Filmora
-
-As you can see, the Premiere Pro audio ducking feature can get a bit complicated if you are a beginner. Therefore, if you are looking for a simpler and more effective automatic ducking solution, then use Wondershare Filmora. This intuitive and diverse video/audio editing tool has an automatic audio ducking option that would make your job a whole lot easier.
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
-To learn how to perform automatic audio ducking in your videos on Mac via Wondershare Filmora, one can follow these steps:
-
-#### Step 1: Load the Video or Audio Files on Filmora
-
-Firstly, you can just launch Wondershare Filmora on your Mac and import your videos/audios. You can drag and drop the files or just go to its Import Menu option to browse the files. Afterward, you can drag the files to the timeline at the bottom to work on them.
-
-On the native interface of Filmora, you can also directly record voiceovers. Just click on the voiceover icon (below the preview window) and start recording any dialogue.
-
-Not just that, you can also find a wide range of royalty-free music on Filmora that you can readily use in your projects without any copyright issues.
-
-#### Step 2: Perform Automatic Audio Ducking on Filmora
-
-Great! Now you can see your video and the audio track on the timeline of Filmora. At first, you need to select the voiceover (or any other track) that you want to amplify.
-
-Once the desired audio track is selected, right-click it, and choose the “Adjust Audio” option.
-
-As the dedicated Audio Editor will open, just go to the “Ducking” option at the bottom and turn on the “Lower the volume of other clips” feature. You can further select the level to lower the volume of other background clips in the video here.
-
-#### Step 3: Save and Export Your Video
-
-That’s it! After making the changes, just click on the “OK” button and Filmora would automatically adjust the volume of other clips. You can further make the needed changes in the video and click on the “Export” icon. This will let you save the project in the desired format and resolution on your computer.
-
-Who knew it would be so easy to do auto-ducking in Premiere Pro, right? Though, if you are looking for even a simpler alternative to Adobe Premiere audio ducking, then consider using Wondershare Filmora. A user-friendly and resourceful video editor, it offers a wide range of features and other inbuilt tools that would meet every post-production requirement of yours in one place.
-
-![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
-
-Benjamin Arango
-
-Benjamin Arango is a writer and a lover of all things video.
-
-Follow @Benjamin Arango
-
-##### Benjamin Arango
-
- Oct 26, 2023• Proven solutions
-
-Too many times, while mixing voiceover with the background music in a video, the dialogues don’t seem to be audible. That’s when we follow the process of audio ducking in **Premiere Pro** that would automatically lower the volume of the background music whenever there is a dialogue.
-
-The best thing about Premiere Pro audio ducking is that it is an automatic process and we don’t need to put a lot of effort. To make your job easier, I’m going to let you know how to use the Adobe Premiere Pro audio ducking feature in a step by step manner in this guide.
-
-## Part 1: How to Use Audio Ducking to Balance Music and Voiceover in Adobe Premiere Pro on Mac?
-
-If you have been using Adobe Premiere Pro on Mac, then you would already be familiar with the wide range of editing features that it has. One of them is the Premiere Pro audio ducking option that comes inbuilt in the application. Using it, you can automatically lower the volume of the background music and amplify your dialogues.
-
-To perform auto-ducking in Premiere Pro, we first need to define each audio track and then use the ducking feature. Here’s how you can also perform audio ducking in Premiere Pro like a pro.
-
-#### Step 1: Define the Audio Types
-
-Since Adobe Premiere Pro can’t automatically detect the type of sounds, you need to do it manually. To do audio ducking in Premiere Pro, you can first import your video clip and the voiceover to the application, and drag them to the working timeline.
-
-Now, you can first select the voiceover file that you want to amplify, and from the sidebar on the right, click on “Dialogue” as the type of the audio file.
-
-Once you mark the audio type, you will get different options. Here, go to the “Loudness” option and click on the “Auto Match” button.
-
-Afterward, you can do the same for your background audio file. Select the file and choose its audio type as “Music”. You can also set its loudness to “Auto Match” if you want to.
-
-#### Step 2: Perform Auto Ducking in Premiere Pro
-
-Now when you have set the audio types, you can just find the Ducking option on the sidebar and turn it on. Here, you can first click on the dialogue icon from the top and get the needed options. You can adjust its sensitivity and set a level or improve or reduce its quality.
-
-Apart from the dialogue icon, you can also click on the Music icon and do the same. For instance, you can reduce the quality of the background music and increase the level of the dialogue track.
-
-#### Step 3: Make the Final Changes
-
-Great! You can now preview the changes you have made and check the audio ducking results in Premiere Pro. If you want to finalize things, then you can perform keyframing and manually adjust the volume.
-
-Furthermore, you can also perform an instant hard ducking in Premiere Pro. For this, just choose the track, go to the side panel, and select **Preset** \> **Music** \> **Hard Vocal Ducking**. While it would get instant results in Adobe Premiere audio ducking, the results might not be so effective.
-
-## Part 2: Wondershare Filmora
-
-As you can see, the Premiere Pro audio ducking feature can get a bit complicated if you are a beginner. Therefore, if you are looking for a simpler and more effective automatic ducking solution, then use Wondershare Filmora. This intuitive and diverse video/audio editing tool has an automatic audio ducking option that would make your job a whole lot easier.
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
-To learn how to perform automatic audio ducking in your videos on Mac via Wondershare Filmora, one can follow these steps:
-
-#### Step 1: Load the Video or Audio Files on Filmora
-
-Firstly, you can just launch Wondershare Filmora on your Mac and import your videos/audios. You can drag and drop the files or just go to its Import Menu option to browse the files. Afterward, you can drag the files to the timeline at the bottom to work on them.
-
-On the native interface of Filmora, you can also directly record voiceovers. Just click on the voiceover icon (below the preview window) and start recording any dialogue.
-
-Not just that, you can also find a wide range of royalty-free music on Filmora that you can readily use in your projects without any copyright issues.
-
-#### Step 2: Perform Automatic Audio Ducking on Filmora
-
-Great! Now you can see your video and the audio track on the timeline of Filmora. At first, you need to select the voiceover (or any other track) that you want to amplify.
-
-Once the desired audio track is selected, right-click it, and choose the “Adjust Audio” option.
-
-As the dedicated Audio Editor will open, just go to the “Ducking” option at the bottom and turn on the “Lower the volume of other clips” feature. You can further select the level to lower the volume of other background clips in the video here.
-
-#### Step 3: Save and Export Your Video
-
-That’s it! After making the changes, just click on the “OK” button and Filmora would automatically adjust the volume of other clips. You can further make the needed changes in the video and click on the “Export” icon. This will let you save the project in the desired format and resolution on your computer.
-
-Who knew it would be so easy to do auto-ducking in Premiere Pro, right? Though, if you are looking for even a simpler alternative to Adobe Premiere audio ducking, then consider using Wondershare Filmora. A user-friendly and resourceful video editor, it offers a wide range of features and other inbuilt tools that would meet every post-production requirement of yours in one place.
-
-![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
-
-Benjamin Arango
-
-Benjamin Arango is a writer and a lover of all things video.
-
-Follow @Benjamin Arango
-
-##### Benjamin Arango
-
- Oct 26, 2023• Proven solutions
-
-Too many times, while mixing voiceover with the background music in a video, the dialogues don’t seem to be audible. That’s when we follow the process of audio ducking in **Premiere Pro** that would automatically lower the volume of the background music whenever there is a dialogue.
-
-The best thing about Premiere Pro audio ducking is that it is an automatic process and we don’t need to put a lot of effort. To make your job easier, I’m going to let you know how to use the Adobe Premiere Pro audio ducking feature in a step by step manner in this guide.
-
-## Part 1: How to Use Audio Ducking to Balance Music and Voiceover in Adobe Premiere Pro on Mac?
-
-If you have been using Adobe Premiere Pro on Mac, then you would already be familiar with the wide range of editing features that it has. One of them is the Premiere Pro audio ducking option that comes inbuilt in the application. Using it, you can automatically lower the volume of the background music and amplify your dialogues.
-
-To perform auto-ducking in Premiere Pro, we first need to define each audio track and then use the ducking feature. Here’s how you can also perform audio ducking in Premiere Pro like a pro.
-
-#### Step 1: Define the Audio Types
-
-Since Adobe Premiere Pro can’t automatically detect the type of sounds, you need to do it manually. To do audio ducking in Premiere Pro, you can first import your video clip and the voiceover to the application, and drag them to the working timeline.
-
-Now, you can first select the voiceover file that you want to amplify, and from the sidebar on the right, click on “Dialogue” as the type of the audio file.
-
-Once you mark the audio type, you will get different options. Here, go to the “Loudness” option and click on the “Auto Match” button.
-
-Afterward, you can do the same for your background audio file. Select the file and choose its audio type as “Music”. You can also set its loudness to “Auto Match” if you want to.
-
-#### Step 2: Perform Auto Ducking in Premiere Pro
-
-Now when you have set the audio types, you can just find the Ducking option on the sidebar and turn it on. Here, you can first click on the dialogue icon from the top and get the needed options. You can adjust its sensitivity and set a level or improve or reduce its quality.
-
-Apart from the dialogue icon, you can also click on the Music icon and do the same. For instance, you can reduce the quality of the background music and increase the level of the dialogue track.
-
-#### Step 3: Make the Final Changes
-
-Great! You can now preview the changes you have made and check the audio ducking results in Premiere Pro. If you want to finalize things, then you can perform keyframing and manually adjust the volume.
-
-Furthermore, you can also perform an instant hard ducking in Premiere Pro. For this, just choose the track, go to the side panel, and select **Preset** \> **Music** \> **Hard Vocal Ducking**. While it would get instant results in Adobe Premiere audio ducking, the results might not be so effective.
-
-## Part 2: Wondershare Filmora
-
-As you can see, the Premiere Pro audio ducking feature can get a bit complicated if you are a beginner. Therefore, if you are looking for a simpler and more effective automatic ducking solution, then use Wondershare Filmora. This intuitive and diverse video/audio editing tool has an automatic audio ducking option that would make your job a whole lot easier.
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Part 2: Wondershare Filmora
+
+As you can see, the Premiere Pro audio ducking feature can get a bit complicated if you are a beginner. Therefore, if you are looking for a simpler and more effective automatic ducking solution, then use Wondershare Filmora. This intuitive and diverse video/audio editing tool has an automatic audio ducking option that would make your job a whole lot easier.
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 To learn how to perform automatic audio ducking in your videos on Mac via Wondershare Filmora, one can follow these steps:
 
@@ -317,6 +181,158 @@ That’s it! After making the changes, just click on the “OK” button and Fil
 Who knew it would be so easy to do auto-ducking in Premiere Pro, right? Though, if you are looking for even a simpler alternative to Adobe Premiere audio ducking, then consider using Wondershare Filmora. A user-friendly and resourceful video editor, it offers a wide range of features and other inbuilt tools that would meet every post-production requirement of yours in one place.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+Benjamin Arango
+
+Benjamin Arango is a writer and a lover of all things video.
+
+Follow @Benjamin Arango
+
+##### Benjamin Arango
+
+ Oct 26, 2023• Proven solutions
+
+Too many times, while mixing voiceover with the background music in a video, the dialogues don’t seem to be audible. That’s when we follow the process of audio ducking in **Premiere Pro** that would automatically lower the volume of the background music whenever there is a dialogue.
+
+The best thing about Premiere Pro audio ducking is that it is an automatic process and we don’t need to put a lot of effort. To make your job easier, I’m going to let you know how to use the Adobe Premiere Pro audio ducking feature in a step by step manner in this guide.
+
+## Part 1: How to Use Audio Ducking to Balance Music and Voiceover in Adobe Premiere Pro on Mac?
+
+If you have been using Adobe Premiere Pro on Mac, then you would already be familiar with the wide range of editing features that it has. One of them is the Premiere Pro audio ducking option that comes inbuilt in the application. Using it, you can automatically lower the volume of the background music and amplify your dialogues.
+
+To perform auto-ducking in Premiere Pro, we first need to define each audio track and then use the ducking feature. Here’s how you can also perform audio ducking in Premiere Pro like a pro.
+
+#### Step 1: Define the Audio Types
+
+Since Adobe Premiere Pro can’t automatically detect the type of sounds, you need to do it manually. To do audio ducking in Premiere Pro, you can first import your video clip and the voiceover to the application, and drag them to the working timeline.
+
+Now, you can first select the voiceover file that you want to amplify, and from the sidebar on the right, click on “Dialogue” as the type of the audio file.
+
+Once you mark the audio type, you will get different options. Here, go to the “Loudness” option and click on the “Auto Match” button.
+
+Afterward, you can do the same for your background audio file. Select the file and choose its audio type as “Music”. You can also set its loudness to “Auto Match” if you want to.
+
+#### Step 2: Perform Auto Ducking in Premiere Pro
+
+Now when you have set the audio types, you can just find the Ducking option on the sidebar and turn it on. Here, you can first click on the dialogue icon from the top and get the needed options. You can adjust its sensitivity and set a level or improve or reduce its quality.
+
+Apart from the dialogue icon, you can also click on the Music icon and do the same. For instance, you can reduce the quality of the background music and increase the level of the dialogue track.
+
+#### Step 3: Make the Final Changes
+
+Great! You can now preview the changes you have made and check the audio ducking results in Premiere Pro. If you want to finalize things, then you can perform keyframing and manually adjust the volume.
+
+Furthermore, you can also perform an instant hard ducking in Premiere Pro. For this, just choose the track, go to the side panel, and select **Preset** \> **Music** \> **Hard Vocal Ducking**. While it would get instant results in Adobe Premiere audio ducking, the results might not be so effective.
+
+## Part 2: Wondershare Filmora
+
+As you can see, the Premiere Pro audio ducking feature can get a bit complicated if you are a beginner. Therefore, if you are looking for a simpler and more effective automatic ducking solution, then use Wondershare Filmora. This intuitive and diverse video/audio editing tool has an automatic audio ducking option that would make your job a whole lot easier.
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+To learn how to perform automatic audio ducking in your videos on Mac via Wondershare Filmora, one can follow these steps:
+
+#### Step 1: Load the Video or Audio Files on Filmora
+
+Firstly, you can just launch Wondershare Filmora on your Mac and import your videos/audios. You can drag and drop the files or just go to its Import Menu option to browse the files. Afterward, you can drag the files to the timeline at the bottom to work on them.
+
+On the native interface of Filmora, you can also directly record voiceovers. Just click on the voiceover icon (below the preview window) and start recording any dialogue.
+
+Not just that, you can also find a wide range of royalty-free music on Filmora that you can readily use in your projects without any copyright issues.
+
+#### Step 2: Perform Automatic Audio Ducking on Filmora
+
+Great! Now you can see your video and the audio track on the timeline of Filmora. At first, you need to select the voiceover (or any other track) that you want to amplify.
+
+Once the desired audio track is selected, right-click it, and choose the “Adjust Audio” option.
+
+As the dedicated Audio Editor will open, just go to the “Ducking” option at the bottom and turn on the “Lower the volume of other clips” feature. You can further select the level to lower the volume of other background clips in the video here.
+
+#### Step 3: Save and Export Your Video
+
+That’s it! After making the changes, just click on the “OK” button and Filmora would automatically adjust the volume of other clips. You can further make the needed changes in the video and click on the “Export” icon. This will let you save the project in the desired format and resolution on your computer.
+
+Who knew it would be so easy to do auto-ducking in Premiere Pro, right? Though, if you are looking for even a simpler alternative to Adobe Premiere audio ducking, then consider using Wondershare Filmora. A user-friendly and resourceful video editor, it offers a wide range of features and other inbuilt tools that would meet every post-production requirement of yours in one place.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+Benjamin Arango
+
+Benjamin Arango is a writer and a lover of all things video.
+
+Follow @Benjamin Arango
+
+##### Benjamin Arango
+
+ Oct 26, 2023• Proven solutions
+
+Too many times, while mixing voiceover with the background music in a video, the dialogues don’t seem to be audible. That’s when we follow the process of audio ducking in **Premiere Pro** that would automatically lower the volume of the background music whenever there is a dialogue.
+
+The best thing about Premiere Pro audio ducking is that it is an automatic process and we don’t need to put a lot of effort. To make your job easier, I’m going to let you know how to use the Adobe Premiere Pro audio ducking feature in a step by step manner in this guide.
+
+## Part 1: How to Use Audio Ducking to Balance Music and Voiceover in Adobe Premiere Pro on Mac?
+
+If you have been using Adobe Premiere Pro on Mac, then you would already be familiar with the wide range of editing features that it has. One of them is the Premiere Pro audio ducking option that comes inbuilt in the application. Using it, you can automatically lower the volume of the background music and amplify your dialogues.
+
+To perform auto-ducking in Premiere Pro, we first need to define each audio track and then use the ducking feature. Here’s how you can also perform audio ducking in Premiere Pro like a pro.
+
+#### Step 1: Define the Audio Types
+
+Since Adobe Premiere Pro can’t automatically detect the type of sounds, you need to do it manually. To do audio ducking in Premiere Pro, you can first import your video clip and the voiceover to the application, and drag them to the working timeline.
+
+Now, you can first select the voiceover file that you want to amplify, and from the sidebar on the right, click on “Dialogue” as the type of the audio file.
+
+Once you mark the audio type, you will get different options. Here, go to the “Loudness” option and click on the “Auto Match” button.
+
+Afterward, you can do the same for your background audio file. Select the file and choose its audio type as “Music”. You can also set its loudness to “Auto Match” if you want to.
+
+#### Step 2: Perform Auto Ducking in Premiere Pro
+
+Now when you have set the audio types, you can just find the Ducking option on the sidebar and turn it on. Here, you can first click on the dialogue icon from the top and get the needed options. You can adjust its sensitivity and set a level or improve or reduce its quality.
+
+Apart from the dialogue icon, you can also click on the Music icon and do the same. For instance, you can reduce the quality of the background music and increase the level of the dialogue track.
+
+#### Step 3: Make the Final Changes
+
+Great! You can now preview the changes you have made and check the audio ducking results in Premiere Pro. If you want to finalize things, then you can perform keyframing and manually adjust the volume.
+
+Furthermore, you can also perform an instant hard ducking in Premiere Pro. For this, just choose the track, go to the side panel, and select **Preset** \> **Music** \> **Hard Vocal Ducking**. While it would get instant results in Adobe Premiere audio ducking, the results might not be so effective.
+
+## Part 2: Wondershare Filmora
+
+As you can see, the Premiere Pro audio ducking feature can get a bit complicated if you are a beginner. Therefore, if you are looking for a simpler and more effective automatic ducking solution, then use Wondershare Filmora. This intuitive and diverse video/audio editing tool has an automatic audio ducking option that would make your job a whole lot easier.
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+To learn how to perform automatic audio ducking in your videos on Mac via Wondershare Filmora, one can follow these steps:
+
+#### Step 1: Load the Video or Audio Files on Filmora
+
+Firstly, you can just launch Wondershare Filmora on your Mac and import your videos/audios. You can drag and drop the files or just go to its Import Menu option to browse the files. Afterward, you can drag the files to the timeline at the bottom to work on them.
+
+On the native interface of Filmora, you can also directly record voiceovers. Just click on the voiceover icon (below the preview window) and start recording any dialogue.
+
+Not just that, you can also find a wide range of royalty-free music on Filmora that you can readily use in your projects without any copyright issues.
+
+#### Step 2: Perform Automatic Audio Ducking on Filmora
+
+Great! Now you can see your video and the audio track on the timeline of Filmora. At first, you need to select the voiceover (or any other track) that you want to amplify.
+
+Once the desired audio track is selected, right-click it, and choose the “Adjust Audio” option.
+
+As the dedicated Audio Editor will open, just go to the “Ducking” option at the bottom and turn on the “Lower the volume of other clips” feature. You can further select the level to lower the volume of other background clips in the video here.
+
+#### Step 3: Save and Export Your Video
+
+That’s it! After making the changes, just click on the “OK” button and Filmora would automatically adjust the volume of other clips. You can further make the needed changes in the video and click on the “Export” icon. This will let you save the project in the desired format and resolution on your computer.
+
+Who knew it would be so easy to do auto-ducking in Premiere Pro, right? Though, if you are looking for even a simpler alternative to Adobe Premiere audio ducking, then consider using Wondershare Filmora. A user-friendly and resourceful video editor, it offers a wide range of features and other inbuilt tools that would meet every post-production requirement of yours in one place.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -356,10 +372,6 @@ So, as mentioned, traditional noise reduction software most of the time reduces 
 Let’s just suppose you don’t have the software. So, download and install Topaz DeNoise AI. Go to Topaz Labs and select your operating system: Windows or Macintosh OS. Then, install the program.
 
 ![download and install topaz denoise ai](https://images.wondershare.com/filmora/article-images/2022/07/ai-denoise-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Once the installation is finished, you will be able to see the Topaz DeNoise AI icon among your applications. Topaz DeNoise AI plugins for Lightroom or Photoshop would also be added there automatically, without any further intervention. But, if that is not the case, it’s ok to add them manually.
 
@@ -453,10 +465,6 @@ With this, you will see the Smart Denoise, where you are able to change opacity 
 
 ![see smart denoise](https://images.wondershare.com/filmora/article-images/2022/07/ai-denoise-7.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 You can now reduce Opacity until you are satisfied with the result. The box next to Smart Denoise will show you the scene before and after the effect.
 
 Of course, it is much easier than DeNoise AI looks and works, and it’s worth the try – will take so much less minutes!
@@ -489,10 +497,6 @@ So, in this article, you learned about different noises, and about different too
 
 ![wondershare filmora x](https://images.wondershare.com/filmora/article-images/2022/07/ai-denoise-6.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 With this, you will see the Smart Denoise, where you are able to change opacity of the clip, threshold and radius.
 
 ![see smart denoise](https://images.wondershare.com/filmora/article-images/2022/07/ai-denoise-7.jpg)
@@ -501,6 +505,10 @@ You can now reduce Opacity until you are satisfied with the result. The box next
 
 Of course, it is much easier than DeNoise AI looks and works, and it’s worth the try – will take so much less minutes!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Bonus tip: Wondershare Filmora audio denoise
 
 We already explained how video image and video denoising work, but, denoising not only means digital noise on the screen, of course. It can be literally a noise! The sound which is not so pleasant to listen to… Audio background denoising is to remove unwanted hum from the audio in order for it to become more hearable. So, doing this in [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) works in a quite easy way. Use the guideline:
@@ -508,10 +516,6 @@ We already explained how video image and video denoising work, but, denoising no
 Drag and drop your video into the timeline. Right-click on the clip and hit Detach Audio, which will let you separate audio and video from one another and make sure you can work on them one by one.
 
 ![drag and drop video into timeline](https://images.wondershare.com/filmora/article-images/2022/07/ai-denoise-8.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Double-click on the audio track and have access to the editing panel, where you can see Remove background noise – it is not needed to emphasize what this option does for you!
 
@@ -528,7 +532,7 @@ On the left, you can see the low tunes, while the highs are on the right. Backgr
 ![lower sound](https://images.wondershare.com/filmora/article-images/2022/07/ai-denoise-11.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 So, in this article, you learned about different noises, and about different tools and programs to denoise your images, videos, and audios! Pretty enlightening, ha? Let’s hope this is something you are looking for, and will put to good use very, very soon!
@@ -545,6 +549,10 @@ So, in this article, you learned about different noises, and about different too
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Shanoon Cox
 
  Mar 27, 2024• Proven solutions
@@ -552,6 +560,10 @@ So, in this article, you learned about different noises, and about different too
  Got video with more than one audio track and want to remove the unnecessary one? Or want to extract audio, sound, or background music from home movies, YouTube videos, and any other video file? Well, what you need is an easy-to-use audio remover. This following article will introduce a step-by-step instruction on how to use powerful video editing software- [Wondershare Filmora (originally Wondershare Video Editor)](https://tools.techidaily.com/wondershare/filmora/download/). With it, you can extract audio from video files like AVI, MP4, FLV, AVI, ect and save them in different for formats.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### 1 Add the AVI file to the program
 
@@ -573,15 +585,7 @@ So, in this article, you learned about different noises, and about different too
 
 ![remove audio from avi file](https://images.wondershare.com/images/multimedia/video-editor/video-editor-output.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Now just follow the above detailed guide and easily remove audio from AVI or delete the unwanted sound track. Besides removing audio, you can also use Wondershare Filmora (originally Wondershare Video Editor) to [split video](https://tools.techidaily.com/wondershare/filmora/download/), [merge videos into one](/video-editing-tips/combine-videos.html), [rotate video](https://tools.techidaily.com/wondershare/filmora/download/), [trim and crop video](https://tools.techidaily.com/wondershare/filmora/download/), [add image to video](/video-editing-tips/add-image-to-mp3.html), [make multi screen video](/video-editing-tips/make-multi-screen-video.html) and more. Just download this ideal video editing tool and enrich your video life.
 
@@ -714,10 +718,6 @@ Follow @Shanoon Cox
  Here is a video tutorial:
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -743,20 +743,22 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-amplify-your-music-experience-with-youtubes-playlist-guide-for-2024/"><u>[New] Amplify Your Music Experience with YouTube's Playlist Guide for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-picture-crafting-top-10-resources-for-elegant-photo-framing/"><u>[New] In 2024, Picture Crafting Top 10 Resources for Elegant Photo Framing</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-the-essential-breakdown-of-dji-phantom-3-mechanics-for-2024/"><u>[New] The Essential Breakdown of DJI Phantom 3 Mechanics for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-comprehensive-analysis-mastering-video-production-with-xmedia-suite/"><u>[Updated] 2024 Approved Comprehensive Analysis Mastering Video Production with XMedia Suite</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/2024-approved-ultimate-car-audio-blend-tool-for-mac-users/"><u>2024 Approved Ultimate Car Audio Blend Tool for Mac Users</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-the-leading-safe-email-platforms-the-ultimate-guide/"><u>Discover the Leading Safe Email Platforms: The Ultimate Guide</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/gratis-online-omzetten-van-mp2-naar-mp3-expertise-movavi/"><u>Gratis Online Omzetten Van MP2 Naar MP3 - Expertise Movavi</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-unlock-higher-rankings-essential-tips-to-elevate-your-yt-content/"><u>In 2024, Unlock Higher Rankings Essential Tips to Elevate Your YT Content</u></a></li>
-<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-nokia-c110-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Nokia C110? Look No Further | Dr.fone</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-10-must-have-sound-recording-devices-for-broadcast-enthusiasts-for-2024/"><u>New 10 Must-Have Sound Recording Devices for Broadcast Enthusiasts for 2024</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-cost-effective-mac-sound-editor-software/"><u>New 2024 Approved Cost-Effective Mac Sound Editor Software</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-effective-ways-to-shrink-large-scale-digital-media-downscale/"><u>New 2024 Approved Effective Ways to Shrink Large Scale Digital Media Downscale</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-the-ultimate-guide-to-the-best-10-websites-for-obtaining-vintage-and-contemporary-montage-sounds/"><u>New The Ultimate Guide to the Best 10 Websites for Obtaining Vintage and Contemporary Montage Sounds</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-5-leading-digital-audio-workstation-options-for-professional-guitarists-updated/"><u>Updated 2024 Approved 5 Leading Digital Audio Workstation Options for Professional Guitarists, Updated</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-steps-for-creating-mp3-from-audacity-recordings/"><u>Updated Steps for Creating MP3 From Audacity Recordings</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/1716069171130-new-in-2024-android-without-a-wire-heres-your-free-games-list/"><u>[New] In 2024, Android Without A Wire? Here's Your Free Games List!</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-a-beginners-blueprint-to-crafting-engaging-tiktok-reaction-videos-with-filmora/"><u>[Updated] 2024 Approved A Beginner’s Blueprint to Crafting Engaging TikTok Reaction Videos with Filmora</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-fostering-relationships-not-just-viewers-a-guide-to-subscriptions/"><u>[Updated] Fostering Relationships, Not Just Viewers A Guide to Subscriptions</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/2024-approved-echo-excellence-enhancing-windows-pc-sounds-with-online-acoustic-plugins/"><u>2024 Approved Echo Excellence Enhancing Windows PC Sounds with Online Acoustic Plugins</u></a></li>
+<li><a href="https://video-capture.techidaily.com/civics-challenge-club-leading-political-gaming-series-for-2024/"><u>Civics Challenge Club Leading Political Gaming Series for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/harmonizing-mp4-visuals-with-top-tier-music-selection-methods/"><u>Harmonizing MP4 Visuals with Top-Tier Music Selection Methods</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/how-to-fade-in-and-fade-out-audio-in-adobe-after-effects-for-2024/"><u>How to Fade In and Fade Out Audio in Adobe After Effects for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/in-2024-libertys-guide-to-attaching-tracks-in-movies-for-free/"><u>In 2024, Libertys Guide to Attaching Tracks in Movies for Free</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/macos-version-1441-ensures-safe-update-processes-on-your-apple-device-zdnet/"><u>MacOS Version 14.4.1 Ensures Safe Update Processes on Your Apple Device | ZDNet</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-mastering-mp4-sound-retrieval-top-5-simplified-strategies/"><u>New 2024 Approved Mastering MP4 Sound Retrieval Top 5 Simplified Strategies</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-deejay-discovery-compile-dj-beats-for-your-playlist-for-2024/"><u>New Deejay Discovery Compile DJ Beats for Your Playlist for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/perfecting-auto-captioned-content-in-instagram-reels-for-2024/"><u>Perfecting Auto-Captioned Content in Instagram Reels for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/professional-audio-recording-strategies-for-windows-10-for-2024/"><u>Professional Audio Recording Strategies for Windows 10 for 2024</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/restoring-defaults-a-guide-to-reinitializing-your-nvidia-or-amd-gpu-on-windows-11-tutorial-by-yl-computing/"><u>Restoring Defaults: A Guide to Reinitializing Your NVIDIA or AMD GPU on Windows 11 - Tutorial by YL Computing</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-ultimate-guide-deleting-items-using-cmd-on-windows-10/"><u>The Ultimate Guide: Deleting Items Using CMD on Windows 10</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-5-best-mp3-cutters-online-for-2024/"><u>Updated 5 Best MP3 Cutters Online for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-essential-features-of-a-mac-compatible-sound-editing-software/"><u>Updated Essential Features of a Mac-Compatible Sound Editing Software</u></a></li>
 </ul></div>
 

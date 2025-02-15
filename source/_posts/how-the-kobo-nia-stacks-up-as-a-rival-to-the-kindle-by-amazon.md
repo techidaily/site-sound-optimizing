@@ -1,7 +1,7 @@
 ---
 title: How the Kobo Nia Stacks Up as a Rival to the Kindle by Amazon
-date: 2025-01-24T21:57:37.980Z
-updated: 2025-01-31T17:31:06.185Z
+date: 2025-02-11T22:17:23.203Z
+updated: 2025-02-14T17:26:29.426Z
 categories:
   - BestProducts
 description: This Article Describes How the Kobo Nia Stacks Up as a Rival to the Kindle by Amazon
@@ -12,6 +12,10 @@ thumbnail: https://www.lifewire.com/thmb/l-thYcivDg_wxc7mx5_01YaMCKg=/400x300/fi
 ## Evaluating the Mighty ZMI PowerPack 2nkWh: The Authoritative Guide to Your Go-To Compact Charger
 
 4.9
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## ZMI PowerPack 20000
 
@@ -37,13 +41,13 @@ thumbnail: https://www.lifewire.com/thmb/l-thYcivDg_wxc7mx5_01YaMCKg=/400x300/fi
 
 4.9
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ZMI PowerPack 20000
 
 ![ZMI PowerPack 20000](https://www.lifewire.com/thmb/FttxoftMtHF3B2ZGmP2QubmOp3I=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/zmi-HeroSquare-492efa01c9e54737bfa9d16223ff9d82.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Lifewire / Andrew Hayward
 
@@ -68,10 +72,6 @@ thumbnail: https://www.lifewire.com/thmb/l-thYcivDg_wxc7mx5_01YaMCKg=/400x300/fi
 ![ZMI PowerPack 20000](https://www.lifewire.com/thmb/jITowxAWHBUo5WF3Y-XI6lKQNQE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/zmi-05-02d76c869b864ef0abddfe824cfbf53a.jpg)
 
  Lifewire / Andrew Hayward
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Design: Small but powerful**
 
@@ -103,10 +103,14 @@ Lifewire / Andrew Hayward
 
 ![ZMI PowerPack 20000](https://www.lifewire.com/thmb/asGVK-moJ54HvqyY9N6Kb-KM8hw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/zmi-04-828899fb01024cd4a0e35980251c04b4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Lifewire / Andrew Hayward
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Price: It’s a bargain**
@@ -116,7 +120,7 @@ Lifewire / Andrew Hayward
  With larger laptop-friendly battery packs sometimes selling for well north of $100, the $70 price point of the ZMI PowerPack 20000 is an incredibly attractive deal.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **ZMI PowerPack 20000 vs Mophie Powerstation AC**
@@ -128,10 +132,6 @@ Lifewire / Andrew Hayward
  **A fantastic portable laptop battery charger for nearly everyone.**
 
  It’s honestly difficult to find anything to complain about with the ZMI PowerPack 20000\. It’s powerful and does a great job of charging laptops and phones, it has enough capacity to handle those tasks with ease, it’s compact and well-designed, and the price is fantastic. It’s half the size of the giant Anker power brick that I’ve brought on my last two international trips and can handle all of the same tasks. In other words,_this_ is the power brick I’m bringing on my next trip.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Specs
 
@@ -159,22 +159,15 @@ Lifewire / Andrew Hayward
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/approved-determinants-of-youtube-video-prominence-and-success/"><u>2024 Approved Determinants of YouTube Video Prominence and Success</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/5-prime-destinations-for-finding-and-downloading-legal-funny-tunes-online/"><u>5 Prime Destinations for Finding and Downloading Legal Funny Tunes Online</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/become-a-study-powerhouse-leveraging-chatgpt-for-notes/"><u>Become a Study Powerhouse: Leveraging ChatGPT for Notes</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-11-best-location-changers-for-honor-x8b-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Honor X8b | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-compiling-individual-iphone-video-pieces/"><u>In 2024, Compiling Individual iPhone Video Pieces</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-explore-iphones-best-value-top-10-budget-friendly-photo-collage-apps/"><u>In 2024, Explore iPhone's Best Value Top 10 Budget-Friendly Photo Collage Apps</u></a></li>
-<li><a href="https://techtrends.techidaily.com/navigating-the-world-of-facebook-insight-into-its-history-user-engagement-and-primary-characteristics/"><u>Navigating the World of Facebook: Insight Into Its History, User Engagement, and Primary Characteristics</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-tailoring-sound-techniques-for-altering-audio-speed-and-pitch-in-adobe-rush/"><u>New 2024 Approved Tailoring Sound Techniques for Altering Audio Speed & Pitch in Adobe Rush</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-harmonizing-your-listening-experience-levels-of-loudness-control-in-vlc-player/"><u>New In 2024, Harmonizing Your Listening Experience Levels of Loudness Control in VLC Player</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-silencing-unwanted-noise-in-your-imovie-projects-on-macos-systems-for-2024/"><u>New Silencing Unwanted Noise in Your iMovie Projects on macOS Systems for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/perfecting-your-discopic-the-ultimate-guide-to-eye-catching-images-for-2024/"><u>Perfecting Your DiscoPic The Ultimate Guide to Eye-Catching Images for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-common-issues-with-the-astro-a10-microphone-expert-solutions-for-optimal-audio-performance/"><u>Troubleshooting Common Issues with the Astro A10 Microphone: Expert Solutions for Optimal Audio Performance</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/tune-travelers-guide-transferring-playlists-with-precision-for-2024/"><u>Tune Traveler's Guide Transferring Playlists with Precision for 2024</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-audacity-setup-guide-for-ubuntu-installs-uninstalls-and-troubleshooting-tips/"><u>Updated Audacity Setup Guide for Ubuntu Installs, Uninstalls & Troubleshooting Tips</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-seamless-audio-visual-integration-the-top-5-audio-video-mixer-innovations/"><u>Updated In 2024, Seamless Audio-Visual Integration The Top 5 Audio Video Mixer Innovations</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-isolating-the-aural-feedback-resulting-from-button-engagement-for-2024/"><u>Updated Isolating the Aural Feedback Resulting From Button Engagement for 2024</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-streamlining-silence-simplified-guide-to-extracting-background-noise-from-music-tracks-using-audacity/"><u>Updated Streamlining Silence Simplified Guide to Extracting Background Noise From Music Tracks Using Audacity</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-a-comprehensive-manual-on-motion-detection-systems/"><u>[New] A Comprehensive Manual on Motion Detection Systems</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/enhancing-visual-storytelling-adding-audio-elements-in-adobe-premiere-pro-for-2024/"><u>Enhancing Visual Storytelling Adding Audio Elements in Adobe Premiere Pro for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-vivo-y78-5g-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From Vivo Y78 5G To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-poco-x6-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Poco X6</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-10-best-websites-to-download-ding-sound-effect-easily-for-2024/"><u>New 10 Best Websites to Download Ding Sound Effect Easily for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-oppo-k11x-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Oppo K11x Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-lost-sounds-fixing-the-no-sound-problem-in-windows-devices-with-ease/"><u>Reviving Lost Sounds: Fixing the 'No Sound' Problem in Windows Devices with Ease</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/step-by-step-tutorial-for-incorporating-soundtracks-in-adobe-after-effects/"><u>Step-by-Step Tutorial for Incorporating Soundtracks in Adobe After Effects</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-restore-sounds-in-anthem-for-windows-10-users-a-comprehensive-guide/"><u>Troubleshoot and Restore Sounds in Anthem for Windows 10 Users: A Comprehensive Guide</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-turning-the-tables-on-sound-innovations-in-audio-reversal-technology/"><u>Updated In 2024, Turning the Tables on Sound Innovations in Audio Reversal Technology</u></a></li>
 </ul></div>
 
