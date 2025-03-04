@@ -1,7 +1,7 @@
 ---
 title: Overcoming Performance Hiccups in Urban Planning Simulator Skyline Edition - PC Guide
-date: 2025-02-08T00:12:18.341Z
-updated: 2025-02-14T17:08:06.947Z
+date: 2025-03-02T22:25:09.868Z
+updated: 2025-03-03T19:44:24.002Z
 tags:
   - win11
   - win10
@@ -44,17 +44,9 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
 3. [Delete specific files from the save folder](https://tools.techidaily.com/drivereasy/download/)
 4. [Underclock your clock speed](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Download the latest patch
 
  If you haven’t been updated your game for a while, you can update your game. The official keeps releasing new patches, the latest version may solve the crashing issue.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Manage Virtual Memory
 
@@ -64,10 +56,6 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
 2. Click**Advanced system settings.**  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/1-4.jpg)
 3. Under the**Advanced** tab, click**Settings** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2-4.jpg)
 4. Under**Virtual memory** , click**Change** .  
@@ -91,19 +79,11 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/browse-2.jpg)
 4. Navigate to the save folder, delete Data(999).sav & Data(999).bak.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Reboot your computer and check the issue is solved or not.
 
 ### Fix 4: Underclock your clock speed
 
  The game is built with an old Unreal Engine version. This may be the reason for the random crashes. You can underclock your CPU speed by 100 MHz or 150 MHz to see whether it helps or not.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Bonus: Update your drivers
 
@@ -153,18 +133,18 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-efficient-techniques-for-secure-and-effective-lecture-capturing-using-imac/"><u>[New] In 2024, Efficient Techniques for Secure and Effective Lecture Capturing Using iMac</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-plant-and-play-stardew-esque-gaming-winners/"><u>[Updated] 2024 Approved Plant and Play Stardew-Esque Gaming Winners</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/dngpng-movavi/"><u>網路直接無成本 DNG到PNG 過渡：Movavi的高效解決方案</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-solutions-to-accelerate-windows-7-boot-times/"><u>Effective Solutions to Accelerate Windows 7 Boot Times</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722902145645-experience-innovation-with-the-apple-iphone-debut-get-ready/"><u>Experience Innovation with the Apple iPhone Debut – Get Ready</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-tecno-spark-go-2023-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Tecno Spark Go (2023) FRP In 3 Different Ways</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/in-2024-free-vs-paid-linux-audio-software-an-insiders-look-at-leading-choices/"><u>In 2024, Free Vs. Paid Linux Audio Software An Insiders Look at Leading Choices</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-masterful-color-transformations-with-free-and-paid-luts-for-cameras/"><u>In 2024, Masterful Color Transformations with Free & Paid LUTs for Cameras</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-trendsetting-techniques-going-viral-in-the-digital-world/"><u>In 2024, Trendsetting Techniques Going Viral in the Digital World</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-techniques-for-designing-and-extracting-your-own-mobile-tunes/"><u>New In 2024, Techniques for Designing and Extracting Your Own Mobile Tunes</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-achieving-consistent-sound-levels-with-davinci-resolve-for-2024/"><u>Updated Achieving Consistent Sound Levels with DaVinci Resolve for 2024</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-navigating-the-world-of-public-domain-photography-the-pexels-experience/"><u>Updated Navigating the World of Public Domain Photography The Pexels Experience</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-the-ultimate-guide-to-choosing-top-audio-reversing-applications-for-your-pc-phone-and-tablet-for-2024/"><u>Updated The Ultimate Guide to Choosing Top Audio Reversing Applications For Your PC, Phone, and Tablet for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-initial-trial-ideal-accessories-to-boost-your-gopro-footage/"><u>[New] In 2024, Initial Trial Ideal Accessories to Boost Your GoPro Footage</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-top-10-instagram-insights-tools-detailed-data-analysis-made-simple/"><u>[Updated] 2024 Approved Top 10 Instagram Insights Tools Detailed Data Analysis Made Simple</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-encompassing-gyroscopic-vr-tests/"><u>[Updated] Encompassing Gyroscopic VR Tests</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/2024-approved-removing-background-music-and-sounds-from-new-avi-files/"><u>2024 Approved Removing Background Music and Sounds From New AVI Files</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/elite-arsenal-choosing-the-top-7-fps-for-2024/"><u>Elite Arsenal Choosing the Top 7 FPS for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/elite-environmentally-friendly-cinematography-tech/"><u>Elite Environmentally Friendly Cinematography Tech</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-vivo-x100-pro-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Vivo X100 Pro?</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-uncovering-if-vlogger-critiques-are-paid/"><u>In 2024, Uncovering If Vlogger Critiques Are Paid</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-silent-stream-sculptors-crafting-audience-free-video-formats-mp4-mkv-avi-mov-wmv/"><u>New 2024 Approved Silent Stream Sculptors Crafting Audience-Free Video Formats (MP4, MKV, AVI, MOV, WMV)</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-elevating-live-events-with-top-audio-visual-blending-systems/"><u>Updated 2024 Approved Elevating Live Events with Top Audio Visual Blending Systems</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-show-audio-waveform-and-add-waveform-animation-in-final-cut-protuto/"><u>Updated 2024 Approved Show Audio Waveform and Add Waveform Animation in Final Cut ProTuto</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-how-to-normalize-audio-in-davinci-resolve-for-2024/"><u>Updated How To Normalize Audio In DaVinci Resolve for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-tutorial-on-audio-ducking-in-adobe-premiere-pro-on-mac/"><u>Updated In 2024, Tutorial on Audio Ducking in Adobe Premiere Pro on Mac</u></a></li>
 </ul></div>
 

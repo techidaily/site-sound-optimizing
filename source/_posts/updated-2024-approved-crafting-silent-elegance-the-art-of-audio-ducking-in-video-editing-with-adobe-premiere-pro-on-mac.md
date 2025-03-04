@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Crafting Silent Elegance The Art of Audio Ducking in Video Editing with Adobe Premiere Pro on Mac
-date: 2025-02-11T19:59:28.243Z
-updated: 2025-02-14T21:43:46.814Z
+date: 2025-02-27T02:28:50.262Z
+updated: 2025-03-04T03:35:03.123Z
 tags: 
   - audio editing software
   - audio editing
@@ -28,10 +28,6 @@ Too many times, while mixing voiceover with the background music in a video, the
 
 The best thing about Premiere Pro audio ducking is that it is an automatic process and we don’t need to put a lot of effort. To make your job easier, I’m going to let you know how to use the Adobe Premiere Pro audio ducking feature in a step by step manner in this guide.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: How to Use Audio Ducking to Balance Music and Voiceover in Adobe Premiere Pro on Mac?
 
 If you have been using Adobe Premiere Pro on Mac, then you would already be familiar with the wide range of editing features that it has. One of them is the Premiere Pro audio ducking option that comes inbuilt in the application. Using it, you can automatically lower the volume of the background music and amplify your dialogues.
@@ -60,19 +56,11 @@ Great! You can now preview the changes you have made and check the audio ducking
 
 Furthermore, you can also perform an instant hard ducking in Premiere Pro. For this, just choose the track, go to the side panel, and select **Preset** \> **Music** \> **Hard Vocal Ducking**. While it would get instant results in Adobe Premiere audio ducking, the results might not be so effective.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 2: Wondershare Filmora
 
 As you can see, the Premiere Pro audio ducking feature can get a bit complicated if you are a beginner. Therefore, if you are looking for a simpler and more effective automatic ducking solution, then use Wondershare Filmora. This intuitive and diverse video/audio editing tool has an automatic audio ducking option that would make your job a whole lot easier.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 To learn how to perform automatic audio ducking in your videos on Mac via Wondershare Filmora, one can follow these steps:
 
@@ -114,10 +102,6 @@ Too many times, while mixing voiceover with the background music in a video, the
 
 The best thing about Premiere Pro audio ducking is that it is an automatic process and we don’t need to put a lot of effort. To make your job easier, I’m going to let you know how to use the Adobe Premiere Pro audio ducking feature in a step by step manner in this guide.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: How to Use Audio Ducking to Balance Music and Voiceover in Adobe Premiere Pro on Mac?
 
 If you have been using Adobe Premiere Pro on Mac, then you would already be familiar with the wide range of editing features that it has. One of them is the Premiere Pro audio ducking option that comes inbuilt in the application. Using it, you can automatically lower the volume of the background music and amplify your dialogues.
@@ -145,10 +129,6 @@ Apart from the dialogue icon, you can also click on the Music icon and do the sa
 Great! You can now preview the changes you have made and check the audio ducking results in Premiere Pro. If you want to finalize things, then you can perform keyframing and manually adjust the volume.
 
 Furthermore, you can also perform an instant hard ducking in Premiere Pro. For this, just choose the track, go to the side panel, and select **Preset** \> **Music** \> **Hard Vocal Ducking**. While it would get instant results in Adobe Premiere audio ducking, the results might not be so effective.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: Wondershare Filmora
 
@@ -329,10 +309,6 @@ That’s it! After making the changes, just click on the “OK” button and Fil
 Who knew it would be so easy to do auto-ducking in Premiere Pro, right? Though, if you are looking for even a simpler alternative to Adobe Premiere audio ducking, then consider using Wondershare Filmora. A user-friendly and resourceful video editor, it offers a wide range of features and other inbuilt tools that would meet every post-production requirement of yours in one place.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -505,10 +481,6 @@ You can now reduce Opacity until you are satisfied with the result. The box next
 
 Of course, it is much easier than DeNoise AI looks and works, and it’s worth the try – will take so much less minutes!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Bonus tip: Wondershare Filmora audio denoise
 
 We already explained how video image and video denoising work, but, denoising not only means digital noise on the screen, of course. It can be literally a noise! The sound which is not so pleasant to listen to… Audio background denoising is to remove unwanted hum from the audio in order for it to become more hearable. So, doing this in [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) works in a quite easy way. Use the guideline:
@@ -531,10 +503,6 @@ On the left, you can see the low tunes, while the highs are on the right. Backgr
 
 ![lower sound](https://images.wondershare.com/filmora/article-images/2022/07/ai-denoise-11.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 So, in this article, you learned about different noises, and about different tools and programs to denoise your images, videos, and audios! Pretty enlightening, ha? Let’s hope this is something you are looking for, and will put to good use very, very soon!
 
 <ins class="adsbygoogle"
@@ -549,10 +517,6 @@ So, in this article, you learned about different noises, and about different too
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##### Shanoon Cox
 
  Mar 27, 2024• Proven solutions
@@ -560,10 +524,6 @@ So, in this article, you learned about different noises, and about different too
  Got video with more than one audio track and want to remove the unnecessary one? Or want to extract audio, sound, or background music from home movies, YouTube videos, and any other video file? Well, what you need is an easy-to-use audio remover. This following article will introduce a step-by-step instruction on how to use powerful video editing software- [Wondershare Filmora (originally Wondershare Video Editor)](https://tools.techidaily.com/wondershare/filmora/download/). With it, you can extract audio from video files like AVI, MP4, FLV, AVI, ect and save them in different for formats.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### 1 Add the AVI file to the program
 
@@ -743,22 +703,16 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/1716069171130-new-in-2024-android-without-a-wire-heres-your-free-games-list/"><u>[New] In 2024, Android Without A Wire? Here's Your Free Games List!</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-a-beginners-blueprint-to-crafting-engaging-tiktok-reaction-videos-with-filmora/"><u>[Updated] 2024 Approved A Beginner’s Blueprint to Crafting Engaging TikTok Reaction Videos with Filmora</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-fostering-relationships-not-just-viewers-a-guide-to-subscriptions/"><u>[Updated] Fostering Relationships, Not Just Viewers A Guide to Subscriptions</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/2024-approved-echo-excellence-enhancing-windows-pc-sounds-with-online-acoustic-plugins/"><u>2024 Approved Echo Excellence Enhancing Windows PC Sounds with Online Acoustic Plugins</u></a></li>
-<li><a href="https://video-capture.techidaily.com/civics-challenge-club-leading-political-gaming-series-for-2024/"><u>Civics Challenge Club Leading Political Gaming Series for 2024</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/harmonizing-mp4-visuals-with-top-tier-music-selection-methods/"><u>Harmonizing MP4 Visuals with Top-Tier Music Selection Methods</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/how-to-fade-in-and-fade-out-audio-in-adobe-after-effects-for-2024/"><u>How to Fade In and Fade Out Audio in Adobe After Effects for 2024</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/in-2024-libertys-guide-to-attaching-tracks-in-movies-for-free/"><u>In 2024, Libertys Guide to Attaching Tracks in Movies for Free</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/macos-version-1441-ensures-safe-update-processes-on-your-apple-device-zdnet/"><u>MacOS Version 14.4.1 Ensures Safe Update Processes on Your Apple Device | ZDNet</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-mastering-mp4-sound-retrieval-top-5-simplified-strategies/"><u>New 2024 Approved Mastering MP4 Sound Retrieval Top 5 Simplified Strategies</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-deejay-discovery-compile-dj-beats-for-your-playlist-for-2024/"><u>New Deejay Discovery Compile DJ Beats for Your Playlist for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/perfecting-auto-captioned-content-in-instagram-reels-for-2024/"><u>Perfecting Auto-Captioned Content in Instagram Reels for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/professional-audio-recording-strategies-for-windows-10-for-2024/"><u>Professional Audio Recording Strategies for Windows 10 for 2024</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/restoring-defaults-a-guide-to-reinitializing-your-nvidia-or-amd-gpu-on-windows-11-tutorial-by-yl-computing/"><u>Restoring Defaults: A Guide to Reinitializing Your NVIDIA or AMD GPU on Windows 11 - Tutorial by YL Computing</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-ultimate-guide-deleting-items-using-cmd-on-windows-10/"><u>The Ultimate Guide: Deleting Items Using CMD on Windows 10</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-5-best-mp3-cutters-online-for-2024/"><u>Updated 5 Best MP3 Cutters Online for 2024</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-essential-features-of-a-mac-compatible-sound-editing-software/"><u>Updated Essential Features of a Mac-Compatible Sound Editing Software</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-7-key-elements-for-perfect-instagram-unpackings-for-2024/"><u>[Updated] 7 Key Elements for Perfect Instagram Unpackings for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-innovative-and-striking-pfp-designs-for-standout-profiles-for-2024/"><u>[Updated] Innovative and Striking PFP Designs for Standout Profiles for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-10-gaming-wonders-offline-ios-masterpieces-without-internet/"><u>2024 Approved 10 Gaming Wonders – Offline iOS Masterpieces Without Internet</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/2024-approved-navigating-the-visual-landscape-key-facts-about-pexelscom-stock-images/"><u>2024 Approved Navigating the Visual Landscape Key Facts About Pexels.com Stock Images</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/a-comprehensive-overview-of-changing-speech-and-music-levels-in-files/"><u>A Comprehensive Overview of Changing Speech and Music Levels in Files</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-universal-unlock-pattern-for-tecno-camon-30-pro-5g-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Tecno Camon 30 Pro 5G</u></a></li>
+<li><a href="https://facebook.techidaily.com/introducing-dynamic-fb-shortcut-management-techniques/"><u>Introducing Dynamic FB Shortcut Management Techniques</u></a></li>
+<li><a href="https://win-web3.techidaily.com/strategies-pour-le-suivi-en-temps-reel-des-machines-clients-a-laide-daomei-centralized-backupper/"><u>Stratégies Pour Le Suivi en Temps Réel Des Machines Clients À L'Aide D'AOMEI Centralized Backupper?</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-get-started-with-filmora-13-free-video-editor-download/"><u>Updated Get Started with Filmora 13 Free Video Editor Download</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-free-methods-to-embed-songs-within-video-content-creation-processes/"><u>Updated In 2024, Free Methods to Embed Songs Within Video Content Creation Processes</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-navigating-the-world-of-public-domain-photography-the-pexels-experience/"><u>Updated Navigating the World of Public Domain Photography The Pexels Experience</u></a></li>
 </ul></div>
 

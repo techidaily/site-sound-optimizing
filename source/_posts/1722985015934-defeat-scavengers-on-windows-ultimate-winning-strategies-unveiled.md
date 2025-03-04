@@ -1,7 +1,7 @@
 ---
 title: "Defeat Scavengers on Windows: Ultimate Winning Strategies Unveiled!"
-date: 2025-02-09T18:38:38.374Z
-updated: 2025-02-15T00:42:00.052Z
+date: 2025-02-27T03:44:22.477Z
+updated: 2025-03-04T07:07:08.047Z
 tags:
   - win11
   - win10
@@ -30,10 +30,6 @@ Recently, we’ve seen many players reporting that**Dirt 5 keeps crashing** on t
 5. **[Set launch options on Steam](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Stop overclocking](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 1: Update your graphics driver
 
 The outdated or broken graphics driver often crashes the game.
@@ -57,10 +53,6 @@ The outdated or broken graphics driver often crashes the game.
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 4. Restart your PC after you finished updating your graphics driver.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  See if the latest graphics driver stops the Dirt 5 from crashing. If not, don’t worry. Try the next fix, below.
 
 ## Fix 2: Verify the game files
@@ -70,10 +62,6 @@ The outdated or broken graphics driver often crashes the game.
 1. In Steam, navigate to **the LIBRARY tab** and **right-click** on _DIRT 5_ . Then select **Properties** .  
 ![Steam->properties](https://images.drivereasy.com/wp-content/uploads/2019/04/image-122.png)
 2. Click **the LOCAL FILES tab** , then click **VERIFY INTEGRITY OF GAME CACHE…** . After that, click **CLOSE** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![LOCAL FILES>VERIFY INTEGRITY OF GAME CACHE...](https://images.drivereasy.com/wp-content/uploads/2019/04/image-120.png)
 
@@ -87,10 +75,6 @@ The outdated or broken graphics driver often crashes the game.
 
  Run Dirt 5 again to check whether the game crash issue has been resolved. If it didn’t work, or there was no new game patch available, move on to next fix, below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 4: Disable Steam Overlay
 
  It seems that the Steam Overlay doesn’t pair well with Ditrt. So just try disabling Steam Overlay for Dirt 5 to see if the game crashes again. Here is how to do it:
@@ -102,10 +86,6 @@ The outdated or broken graphics driver often crashes the game.
 ![Disable Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-Steam-Overlay.jpg)
 
  Launch Dirt 5 to see if the game crashes. If the issue persists, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 5: Set launch options on Steam
 
@@ -150,20 +130,14 @@ The outdated or broken graphics driver often crashes the game.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/updated-gecata-watchers-complete-appraisal/"><u>[Updated] GECATA Watcher's Complete Appraisal</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-how-to-record-with-your-macbooks-camera-for-2024/"><u>[Updated] How to Record with Your MacBook's Camera for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/beat-the-best-substitutes-for-samsungs-vr-camera-gear-360-for-2024/"><u>Beat the Best Substitutes for Samsung's VR Camera Gear 360 for 2024</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/in-2024-achieving-profound-pronunciation-in-filmora-videos/"><u>In 2024, Achieving Profound Pronunciation in Filmora Videos</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-exploring-the-creme-de-la-creme-of-distorted-audio-technology-tools-for-2024/"><u>New Exploring the Crème De La Crème of Distorted Audio Technology Tools for 2024</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-ornithological-soundscapes-mp3-compilation/"><u>New In 2024, Ornithological Soundscapes MP3 Compilation</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/retro-gpu-fixes/"><u>Retro GPU Fixes</u></a></li>
-<li><a href="https://win-popular.techidaily.com/step-by-step-guide-modifying-network-configurations-via-windows-control-panel-expert-tips-from-yl-computing/"><u>Step-by-Step Guide: Modifying Network Configurations via Windows Control Panel - Expert Tips From YL Computing</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-race-for-rapid-deployment-why-enterprises-are-clamoring-for-instant-ai-integration-according-to-zdnet/"><u>The Race for Rapid Deployment: Why Enterprises Are Clamoring for Instant AI Integration, According to ZDNet</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-enhancing-audio-quality-practical-methods-to-eradicate-low-frequency-rumble/"><u>Updated Enhancing Audio Quality Practical Methods to Eradicate Low-Frequency Rumble</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-best-places-to-download-and-listen-to-bird-songs-in-mp3-format/"><u>Updated In 2024, Best Places to Download and Listen to Bird Songs in MP3 Format</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-the-art-of-harmonizing-moving-images-and-sounds-a-2023-approach/"><u>Updated The Art of Harmonizing Moving Images and Sounds (A 2023 Approach)</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-your-realme-narzo-60-pro-5g-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Realme Narzo 60 Pro 5G Auto Does Not Work | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/windows-10-blocks-desktop-programs-win32-apps-points-to-windows-store/"><u>Windows 10 Blocks Desktop Programs (Win32 Apps), Points to Windows Store</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-11-and-beyond-ai-copilots-revolutionary-impact/"><u>Windows 11 and Beyond: AI Copilot's Revolutionary Impact</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-unveiling-the-secrets-to-download-youtubes-subtitles-for-2024/"><u>[Updated] Unveiling the Secrets to Download YouTube's Subtitles for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/5-best-mp3-cutters-online-for-2024/"><u>5 Best MP3 Cutters Online for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/adopt-wsl-the-easy-way-to-run-linux-commands/"><u>Adopt WSL: The Easy Way to Run Linux Commands</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-remove-your-apple-id-permanently-from-iphone-x-by-drfone-ios/"><u>How To Delete iCloud Account Remove Your Apple ID Permanently From iPhone X</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-the-full-wipe-on-your-lenovo-pc-a-detailed-factory-reset-guide/"><u>Mastering the Full Wipe on Your Lenovo PC – A Detailed Factory Reset Guide</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-mastering-signal-processing-advanced-noise-reduction-techniques-using-artificial-intelligence/"><u>New Mastering Signal Processing Advanced Noise Reduction Techniques Using Artificial Intelligence</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-11-dvd-ripping-tools-for-mac-free-and-premium-options/"><u>Top 11 DVD Ripping Tools for Mac: Free and Premium Options</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-the-guide-to-amplifying-your-android-footage-adding-audio-seamlessly/"><u>Updated In 2024, The Guide to Amplifying Your Android Footage Adding Audio Seamlessly</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/vital-insights-for-constructing-an-unparalleled-collection-of-youtube-audio-tracks/"><u>Vital Insights for Constructing an Unparalleled Collection of YouTube Audio Tracks</u></a></li>
 </ul></div>
 

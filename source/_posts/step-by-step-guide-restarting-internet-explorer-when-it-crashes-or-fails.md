@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Restarting Internet Explorer When It Crashes or Fails"
-date: 2025-02-11T23:25:26.960Z
-updated: 2025-02-14T17:49:59.280Z
+date: 2025-02-25T21:03:28.717Z
+updated: 2025-03-03T21:41:50.835Z
 tags:
   - win11
   - win10
@@ -44,10 +44,6 @@ thumbnail: https://thmb.techidaily.com/14b0662c78e5872a3461f2dbc1feb1f76e4bd1f28
 7. **[Uninstall Optifine](https://tools.techidaily.com/drivereasy/download/)**
 8. **[Reinstall Minecraft](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 1: Make sure Minecraft is using the dedicated GPU
 
  Sometimes the operating system won’t recognize Minecraft as a game and won’t run it with the dedicated GPU for high performance. If that’s the case for you, you’re likely to experience stuttering in Minecraft. To fix it, you can force the game to use the dedicated GPU via Graphics settings. Here’s how:
@@ -59,10 +55,6 @@ thumbnail: https://thmb.techidaily.com/14b0662c78e5872a3461f2dbc1feb1f76e4bd1f28
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/graphics-settings.jpg)
 3. Click**Browse** to add the executable file of Minecraft.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/browse.jpg)
 4. Then click**Options** .  
 
@@ -71,10 +63,6 @@ thumbnail: https://thmb.techidaily.com/14b0662c78e5872a3461f2dbc1feb1f76e4bd1f28
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/high-performance-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Once done, run Minecraft again and see if the stuttering issue still appears.
 
 If this solution doesn’t help, continue with the next fix below.
@@ -82,10 +70,6 @@ If this solution doesn’t help, continue with the next fix below.
 ## Fix 2: Update your graphics driver
 
  Minecraft is a graphics-intensive game, so your graphics card is essential for its performance. You cannot have an outdated or faulty driver on your graphics card since this is usually what causes stuttering in Minecraft. To update your graphics driver, there are two ways you can try: manually and automatically.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Option 1: Update your graphics driver manually
 
@@ -112,10 +96,6 @@ If this solution doesn’t help, continue with the next fix below.
 
 If the stuttering issue persists, move on to the next fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 3: Lower your Render Distance
 
  In Minecraft, chunks make up your world. And the render distance controls how many chunks of the world are visible at once. So if you set a high value of chunks, you may face the issue of fps drops or stuttering. To get better performance, you should lower the value to 8 or less, depending on your PC’s hardware. Here’s how:
@@ -124,10 +104,6 @@ If the stuttering issue persists, move on to the next fix.
 2. Click**Options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/options.jpg)
 3. Click**Video Settings** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/video-settings.jpg)
 4. Lower the**Render distance** according to your need.  
@@ -141,10 +117,6 @@ But if it doesn’t, take a look at the next fix.
 ## Fix 4: Enable VSync
 
  Sometimes the stuttering issue might occur due to a frame rate discrepancy between the monitor and GPU. But luckily you can fix it by enabling VSync in your graphics control panel.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Via NVIDIA Control Panel
 
@@ -160,10 +132,6 @@ But if it doesn’t, take a look at the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/amdradeon-settings.jpg)
 2. Click the**Gaming** Tab.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/amd-gaming-1.jpg)
 3. Then click**Global Settings** .  
 
@@ -171,10 +139,6 @@ But if it doesn’t, take a look at the next fix.
 4. Click**Wait for Vertical Refresh** , then select**Enhanced Sync** from the dropdown menu.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/enhanced-sync-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  After you’ve done these, relaunch Minecraft to check if the stuttering persists.
 
@@ -190,10 +154,6 @@ If enabling Vsync didn’t do the trick, proceed to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/step1.jpg)
 3. Scroll down to the bottom of the list and find the**Threaded optimization** , then click the dropdown menu next to it and**change the value from Auto to Off** . Click**Apply** to save changes.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/step2.jpg)
 
@@ -252,18 +212,24 @@ If this solution doesn’t work, take a look at the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-multitask-mastery-in-media-co-watching-channels-with-ease/"><u>[New] 2024 Approved Multitask Mastery in Media Co-Watching Channels with Ease</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-tips-for-timely-termination-of-social-media-screenshots/"><u>[New] 2024 Approved Tips for Timely Termination of Social Media Screenshots</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/1726221362388-mac5/"><u>音声入りで記録: Macにおすすめのビデオキャプチャ5コツ</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/edgeplus-2023-messages-recovery-recover-deleted-messages-from-edgeplus-2023-by-fonelab-android-recover-messages/"><u>Edge+ (2023) Messages Recovery - Recover Deleted Messages from Edge+ (2023)</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/in-2024-best-worth-websites-to-find-your-perfect-montage-soundtrack/"><u>In 2024, Best-Worth Websites to Find Your Perfect Montage Soundtrack</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-the-essential-tutorial-for-creating-a-biz-focused-instagram/"><u>In 2024, The Essential Tutorial for Creating a Biz-Focused Instagram</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-fine-tuning-audacitys-decibel-settings-for-perfect-balance/"><u>New 2024 Approved Fine-Tuning Audacitys Decibel Settings for Perfect Balance</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-essential-audio-setups-for-personalized-mobile-soundscapes/"><u>New Essential Audio Setups for Personalized Mobile Soundscapes</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-approaches-to-silence-echoes-in-professional-audio-recording/"><u>New In 2024, Approaches to Silence Echoes in Professional Audio Recording</u></a></li>
-<li><a href="https://techtrends.techidaily.com/secure-your-own-apple-vision-pro-today-with-choices-of-512gb-or-1tb-exclusive-pre-order-available/"><u>Secure Your Own Apple Vision Pro Today with Choices of 512GB or 1TB - Exclusive Pre-Order Available !</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-nokia-150-2023-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from Nokia 150 (2023) to iPhone 14/15 | Dr.fone</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/unparalleled-youtube-soundscapes-to-experience-for-2024/"><u>Unparalleled YouTube Soundscapes to Experience for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/why-is-my-minecraft-in-the-library-mode-solving-noise-problems-for-gamers/"><u>Why Is My Minecraft in the Library Mode? Solving Noise Problems for Gamers</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-enhanced-visual-splendor-adding-filters-to-media-pc-and-mobile-for-2024/"><u>[New] Enhanced Visual Splendor Adding Filters to Media (PC & Mobile) for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-the-art-of-decreasing-audio-intensity-in-logic-pro-for-2024/"><u>[New] The Art of Decreasing Audio Intensity in Logic Pro for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-assessing-the-dominance-of-splitcam-recording/"><u>[Updated] Assessing the Dominance of SplitCam Recording</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/bard-ai-evolution-how-palm-2-upgrades-googles-language-model/"><u>Bard AI Evolution: How PaLM 2 Upgrades Google's Language Model</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/how-to-add-audio-to-mp4-mpeg-mpg-video-for-2024/"><u>How to Add Audio to MP4 (MPEG, MPG) Video for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-expert-advice-how-to-hush-tiktoks-auditory-distractions-effortlessly/"><u>New Expert Advice How to Hush TikToks Auditory Distractions Effortlessly</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-essential-insights-into-image-stock-sourcing-pexels-uncovered/"><u>New In 2024, Essential Insights Into Image Stock Sourcing Pexels Uncovered</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-unleash-your-creativity-best-free-video-fx-apps-for-ios-and-android/"><u>New In 2024, Unleash Your Creativity Best Free Video FX Apps for iOS and Android</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-ultimate-rankings-proven-platforms-for-accurate-mp3-track-labeling/"><u>New Ultimate Rankings Proven Platforms for Accurate MP3 Track Labeling</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/reactivating-pcs-scanner-connection-on-win10/"><u>Reactivating PC's Scanner Connection on Win10</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/transfer-videos-to-dvd-discs-on-windows-and-mac-computers/"><u>Transfer Videos to DVD Discs on Windows and Mac Computers</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-resolving-connection-issues-with-the-oculus-runtime/"><u>Troubleshooting Guide: Resolving Connection Issues with the Oculus Runtime</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/king-the-potential-of-youtube-tv-services/"><u>Unlocking the Potential of YouTube TV Services</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-sync-songs-to-boost-engagement-on-igtv/"><u>Updated 2024 Approved Sync Songs to Boost Engagement on IGTV</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-hunting-down-crafted-metallic-chime-echoes/"><u>Updated In 2024, Hunting Down Crafted Metallic Chime Echoes</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-unraveling-the-process-of-stripping-beat-tracks-from-online-compositions/"><u>Updated In 2024, Unraveling the Process of Stripping Beat Tracks From Online Compositions</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-melody-in-reverse-top-5-nonlinear-audio-visuals-from-this-year-for-2024/"><u>Updated Melody in Reverse Top 5 Nonlinear Audio Visuals From This Year for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-the-gradual-diminishment-of-audio-fidelity-in-adobe-rush-for-2024/"><u>Updated The Gradual Diminishment of Audio Fidelity in Adobe Rush for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Oppo Reno 10 5G | Dr.fone</u></a></li>
 </ul></div>
 

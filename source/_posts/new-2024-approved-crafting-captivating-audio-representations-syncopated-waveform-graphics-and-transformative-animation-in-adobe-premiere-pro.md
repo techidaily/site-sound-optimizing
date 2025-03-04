@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Crafting Captivating Audio Representations Syncopated Waveform Graphics and Transformative Animation in Adobe Premiere Pro
-date: 2025-02-11T20:58:13.963Z
-updated: 2025-02-14T22:27:01.577Z
+date: 2025-02-28T21:38:29.651Z
+updated: 2025-03-04T00:14:40.453Z
 tags: 
   - audio editing software
   - audio editing
@@ -35,10 +35,6 @@ Once you check that you should see the audio waveforms on your clip you can clic
 That will toggle off the audio waveforms and that is how to show the audio waveforms on your audio clips in adobe premiere pro.
 
 ![adobe premiere pro](https://images.wondershare.com/filmora/article-images/2022/08/premiere-pro-audio-waveform-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Automatic generate audio waveform
 
@@ -231,10 +227,6 @@ Click on the **Effect** tab at the top right of the screen next to **Generate.**
 
 ![audacity effect change pitch](https://images.wondershare.com/filmora/article-images/audacity-effect-change-pitch.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 3:** **Adjust pitch**
 
 Drag the slider to alter the pitch of the sound and press the OK button to apply changes.
@@ -323,10 +315,6 @@ Change the gain of the audio at the left-hand side of the screen. Move the slide
 
 ![adjust audio gain audacity sound louder](https://images.wondershare.com/filmora/article-images/adjust-audio-gain-audacity-sound-louder.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Note:** Alternatively, you may also increase or increase the volume through the amplification process. To use this method, select the audio portion, access **Effect,** and tap **Amplify**. Tick **allow clipping** box and move the slider to set the volume of the sound.
 
 **Conclusion**
@@ -388,10 +376,6 @@ Launch the software and click on **File**. Select **Open** and select the desire
 Change the gain of the audio at the left-hand side of the screen. Move the slider to adjust the volume to the desired level.
 
 ![adjust audio gain audacity sound louder](https://images.wondershare.com/filmora/article-images/adjust-audio-gain-audacity-sound-louder.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Note:** Alternatively, you may also increase or increase the volume through the amplification process. To use this method, select the audio portion, access **Effect,** and tap **Amplify**. Tick **allow clipping** box and move the slider to set the volume of the sound.
 
@@ -417,10 +401,6 @@ Kapwing is an easy-to-use but powerful online tool for **remove sound from video
 
 ![kapwing illustration](https://images.wondershare.com/filmora/article-images/2022/12/kapwing.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 How to mute audio in videos with Kapwing
 
 Step1 To begin, launch your web browser and search the website Kapwing.com. After that, select "Tool" from the menu.
@@ -442,10 +422,6 @@ Step4 Once you upload your video, click your video, and you will see the volume 
 Step5 Once you mute the movie audio, click "Export project."
 
 ![kapwing mute audio step 5](https://images.wondershare.com/filmora/article-images/2022/12/kapwing-mute-audio-5.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step6 When the exporting project is done, you can save your video on your computer by clicking "download file."
 
@@ -474,10 +450,6 @@ Step3 When the video exporting process is done, you can save the video you edite
 Adobe Express is another tool for **remove audio from video windows**. You can use to remove sound from your videos. has an easy-to-use interface that makes removing sound in a video only a few steps.
 
 ![adobe express illustration](https://images.wondershare.com/filmora/article-images/2022/12/adobe.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 How to remove audio from the video with Adobe Express
 
@@ -552,10 +524,6 @@ How to use STT with Filmora
 Step1 Firstly, right-click on the audio track and choose "Speech-to-Text".
 
 ![stt step 1](https://images.wondershare.com/filmora/article-images/2022/12/stt-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step2 In the STT parameter setting bar, you can choose the language of the audio to be transcribed and the files to be converted. You can also choose to match automatically to the timeline.
 
@@ -637,10 +605,6 @@ Step1 Right-click on the clip in the resource, select the video clip on the time
 
 ![select the video clip on the timeline](https://images.wondershare.com/filmora/article-images/2022/12/silence-detection-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step2 The silent detection tool will automatically detect the silent and low sound points.
 
 Furthermore, you can adjust the parameters to recalculate the silence detection or manually fine-tune what the feature has already detected
@@ -662,10 +626,6 @@ Step1 Let's say you already have your voiceover and the audio in your video. If 
 Step2 Next, you just need to drag the audio ducking bar to the left or right. Indeed, if you drag to the right, it will lower the audio. Once you are done adjusting the audio, click "Ok", and you can preview the result.
 
 ![drag the audio ducking bar to the left or right](https://images.wondershare.com/filmora/article-images/2022/12/audio-ducking-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Last but not least, Filmora has other features called TTS and STT. Speech to Text (STT) allows you to transcript voice to subtitles in one click. Using speech-to-text will save you a lot of time on subtitling and speed up the editing process. Meanwhile, Text to Speech (TTS) is a feature in Filmora that lets you turn text files into voiceover and add more elements to your video.
 
@@ -745,16 +705,19 @@ Basically, it's easy to **remove sound from video windows 10**. You can use the 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-10-best-zoom-alternatives-deskop-and-mobile/"><u>[New] 2024 Approved 10 Best Zoom Alternatives [Deskop & Mobile]</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-limitless-design-gratuitous-premiere-pro-templates/"><u>[Updated] 2024 Approved Limitless Design Gratuitous Premiere Pro Templates</u></a></li>
-<li><a href="https://win-dash.techidaily.com/easy-steps-to-download-and-install-hp-p1006-printer-software/"><u>Easy Steps to Download & Install HP P1006 Printer Software</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-how-to-use-io-screen-recorder/"><u>In 2024, How to Use IO Screen Recorder</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-learn-how-to-add-descriptive-texts-to-your-youtube-videos/"><u>In 2024, Learn How to Add Descriptive Texts to Your YouTube Videos</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/in-2024-top-8-must-try-audio-capture-apps-for-live-broadcasting/"><u>In 2024, Top 8 Must-Try Audio Capture Apps for Live Broadcasting</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/pushing-the-boundaries-of-titles-in-adobe-ae/"><u>Pushing the Boundaries of Titles in Adobe AE</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/trending-tweet-tales-twitters-top-10-video-hits/"><u>Trending Tweet Tales Twitter's Top 10 Video Hits</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-auditory-hunt-locating-authentic-cricket-sfx/"><u>Updated 2024 Approved Auditory Hunt Locating Authentic Cricket SFX</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-precision-in-recording-cutting-down-ambient-noises-using-advanced-filters/"><u>Updated 2024 Approved Precision in Recording Cutting Down Ambient Noises Using Advanced Filters</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-mp3-conversion-made-simple-3-effective-techniques-for-podcast-files/"><u>Updated In 2024, MP3 Conversion Made Simple 3 Effective Techniques for Podcast Files</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-sites-like-famebit-where-you-can-find-youtube-sponsorships/"><u>[New] In 2024, Sites Like FameBit Where You Can Find YouTube Sponsorships</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-instant-screen-grabber-plus-easy-guide-soundtrack-for-2024/"><u>[New] Instant Screen Grabber + Easy Guide Soundtrack for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/nlocking-the-code-to-content-creator-commerce-with-carminati-ajay-for-2024/"><u>[New] Unlocking the Code to Content Creator Commerce with Carminati (AJay) for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-logo-luminosity-enhancing-gaming-channels-with-designs/"><u>[Updated] In 2024, Logo Luminosity Enhancing Gaming Channels with Designs</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-pinnacle-choices-superior-mac-apps-for-grabbing-videos/"><u>[Updated] In 2024, Pinnacle Choices Superior Mac Apps for Grabbing Videos</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/bridging-the-gap-enhancing-skype-with-zooms-features/"><u>Bridging the Gap Enhancing Skype with Zoom's Features</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-boost-engagement-with-effortless-youtube-thumbnail-tips/"><u>In 2024, Boost Engagement with Effortless Youtube Thumbnail Tips</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/in-2024-free-vs-paid-linux-audio-software-an-insiders-look-at-leading-choices/"><u>In 2024, Free Vs. Paid Linux Audio Software An Insiders Look at Leading Choices</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/intova-x-reviewed-cutting-edge-action-capture/"><u>Intova X Reviewed Cutting-Edge Action Capture</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-techniques-for-designing-and-extracting-your-own-mobile-tunes/"><u>New In 2024, Techniques for Designing and Extracting Your Own Mobile Tunes</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-achieving-consistent-sound-levels-with-davinci-resolve-for-2024/"><u>Updated Achieving Consistent Sound Levels with DaVinci Resolve for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-speed-up-secrets-eliminating-unwanted-sound-waves-for-2024/"><u>Updated Speed-Up Secrets Eliminating Unwanted Sound Waves for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-the-ultimate-guide-to-choosing-top-audio-reversing-applications-for-your-pc-phone-and-tablet-for-2024/"><u>Updated The Ultimate Guide to Choosing Top Audio Reversing Applications For Your PC, Phone, and Tablet for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/yac530-yamahaaturbosound-ii-sound-module-based-on-the-ymf764ymu764-dsp-plus-midi-synthesizer-plus-codec-and-128-mb-of-spiram-for-sample-storage-instead-of-r77/"><u>YAC530 - Yamaha'aturboSound II Sound Module Based on the YMF764/YMU764 (DSP + MIDI Synthesizer + Codec) and 128 MB of SPIRAM for Sample Storage Instead of ROM. It Also Includes a Second Audio Input Connector</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting and Optimizing Your PC While Playing New World for Better Performance
-date: 2025-02-08T16:04:13.767Z
-updated: 2025-02-14T18:49:40.367Z
+date: 2025-02-28T20:21:09.243Z
+updated: 2025-03-04T06:31:22.268Z
 tags:
   - win11
   - win10
@@ -70,10 +70,6 @@ Here’s how to use Fortect to run a Windows repair:
 4. Restart your computer for the changes to take effect.
 5. Check your computer to see if the game still crashes.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Update your graphics driver
 
  The graphics card is the heart and soul for games like CoD. If Vanguard keeps crashing on your PC, it is likely that the graphics driver on your computer is outdated or corrupt. So you should update your drivers to see if it fixes the game crashing issue.
@@ -89,16 +85,8 @@ Here’s how to use Fortect to run a Windows repair:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/1650-super-de-update-all-1.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Restart your PC for the changes to take effect.
 5. Launch CoD, then check to see if the game crashing problem has been resolved. If yes, then great! If the issue still persist, please try**Fix** 3, below.
@@ -128,22 +116,10 @@ To check the specs of your PC:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/dxdiag-diagnostic-tool-1.png)
 3. Select the **Display** tab, and you’ll be presented with the information about your **graphics card** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/display-1.png)
 4. Close DirectX.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If your PC specs have been up to the mark but Call of Duty: Vanguard still crashes, please move on to **Fix 4** , below to begin troubleshooting.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Scan & repair Vanguard game files
 
@@ -155,10 +131,6 @@ To check the specs of your PC:
 3. Click **Begin Scan** , then wait a while as the tool scans and repairs your game installation.
 
 4. Launch Vanguard again and check to see if the crashing issue still occurs.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Disable overlays
 
@@ -217,24 +189,24 @@ Here are the steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-explore-androids-best-moba-experiences-in-10-for-2024/"><u>[New] Explore Android's Best MOBA Experiences in #10 for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-revitalize-tiktok-creations-3-innovative-background-replacement-ways/"><u>[New] In 2024, Revitalize TikTok Creations 3 Innovative Background Replacement Ways</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-making-science-fiction-real-teleportation-effects/"><u>[Updated] Making Science Fiction Real Teleportation Effects</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/2024-approved-removing-background-music-and-sounds-from-new-avi-files/"><u>2024 Approved Removing Background Music and Sounds From New AVI Files</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/2024-approved-unlocking-potential-key-aspects-of-using-twistedwaves-advanced-audio-tools/"><u>2024 Approved Unlocking Potential Key Aspects of Using TwistedWaves Advanced Audio Tools</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/beginner-friendly-top-9-free-sound-editor-programs-for-creating-tunes/"><u>Beginner-Friendly Top 9 Free Sound Editor Programs for Creating Tunes</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-asus-rog-phone-8-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Asus ROG Phone 8 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/in-2024-achieving-consistent-sound-levels-with-davinci-resolve/"><u>In 2024, Achieving Consistent Sound Levels with DaVinci Resolve</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-bringing-images-to-life-windows-and-mac-text-integration-techniques/"><u>In 2024, Bringing Images to Life Windows & Mac Text Integration Techniques</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-how-to-capture-the-essence-of-rl-gaming-experience/"><u>In 2024, How to Capture the Essence of RL Gaming Experience</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/in-2024-leading-mp3-encoders-windows-and-mac-edition-rankings/"><u>In 2024, Leading MP3 Encoders Windows & Mac Edition Rankings</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-silent-stream-sculptors-crafting-audience-free-video-formats-mp4-mkv-avi-mov-wmv/"><u>New 2024 Approved Silent Stream Sculptors Crafting Audience-Free Video Formats (MP4, MKV, AVI, MOV, WMV)</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/secure-your-early-access-get-the-latest-apple-watch-series-10-in-advance-tips-for-savings-and-pre-ordering-process-insights-from-zdnet/"><u>Secure Your Early Access: Get the Latest Apple Watch Series 10 in Advance! Tips for Savings & Pre-Ordering Process - Insights From ZDNet</u></a></li>
-<li><a href="https://change-location.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-vivo-y100a-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Vivo Y100A | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-rated-file-management-apps-for-android-user-reviews-and-comparisons/"><u>Top-Rated File Management Apps for Android: User Reviews and Comparisons</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-elevating-live-events-with-top-audio-visual-blending-systems/"><u>Updated 2024 Approved Elevating Live Events with Top Audio Visual Blending Systems</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-show-audio-waveform-and-add-waveform-animation-in-final-cut-protuto/"><u>Updated 2024 Approved Show Audio Waveform and Add Waveform Animation in Final Cut ProTuto</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-how-to-normalize-audio-in-davinci-resolve-for-2024/"><u>Updated How To Normalize Audio In DaVinci Resolve for 2024</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-tutorial-on-audio-ducking-in-adobe-premiere-pro-on-mac/"><u>Updated In 2024, Tutorial on Audio Ducking in Adobe Premiere Pro on Mac</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-capture-win10-ranking-the-best-video-grabbers/"><u>[New] Capture Win10 Ranking the Best Video Grabbers</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-how-tos-on-selecting-best-ios-video-editing-software/"><u>[New] In 2024, How-To's on Selecting Best iOS Video Editing Software</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-streamline-stress-effective-edits-for-lifeless-bigger-tiktok-drafters/"><u>[New] Streamline Stress Effective Edits for Lifeless, Bigger TikTok Drafters</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-next-gen-display-top-5-hdmi-21-infinity-refresh-monitors-ps5/"><u>[Updated] In 2024, Next-Gen Display Top 5 HDMI 2.1 Infinity Refresh Monitors [PS5]</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/2024-approved-innovations-in-capturing-high-fidelity-broadcast-sound/"><u>2024 Approved Innovations in Capturing High-Fidelity Broadcast Sound</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/grasp-the-essence-of-english-grammar-top-9-tips-by-esl-expert/"><u>Grasp the Essence of English Grammar: Top 9 Tips by ESL Expert</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-motorola-edgeplus-2023-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Motorola Edge+ (2023)? | Dr.fone</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/in-2024-complete-vimeo-media-file-data-with-aspect-ratio-highlighted/"><u>In 2024, Complete Vimeo Media File Data with Aspect Ratio Highlighted</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-tailoring-sound-techniques-for-altering-audio-speed-and-pitch-in-adobe-rush/"><u>New 2024 Approved Tailoring Sound Techniques for Altering Audio Speed & Pitch in Adobe Rush</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-discovering-the-most-advanced-online-tools-for-mp3-file-tagging-and-categorization/"><u>New In 2024, Discovering the Most Advanced Online Tools for MP3 File Tagging and Categorization</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-harmonizing-your-listening-experience-levels-of-loudness-control-in-vlc-player/"><u>New In 2024, Harmonizing Your Listening Experience Levels of Loudness Control in VLC Player</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-quick-fixes-to-keep-tiktok-sound-off-a-step-by-step-approach-for-2024/"><u>New Quick Fixes to Keep TikTok Sound Off A Step-by-Step Approach for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/restoring-your-fallout-76-online-play-solutions-for-pc-users/"><u>Restoring Your Fallout 76 Online Play: Solutions for PC Users</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-the-mystery-a-guide-to-repairing-your-facetimes-dark-display/"><u>Solving the Mystery: A Guide to Repairing Your FaceTime's Dark Display</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-tecno-spark-10-5g-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Tecno Spark 10 5G FRP</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-paramount-practices-in-gathering-your-precious-collection-of-high-fidelity-youtube-audio/"><u>Updated 2024 Approved Paramount Practices in Gathering Your Precious Collection of High-Fidelity YouTube Audio</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-auditory-sculpture-in-motion-constructing-vibrant-audio-visual-compositions-with-premiere-pro/"><u>Updated In 2024, Auditory Sculpture in Motion Constructing Vibrant Audio-Visual Compositions with Premiere Pro</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-isolating-the-aural-feedback-resulting-from-button-engagement-for-2024/"><u>Updated Isolating the Aural Feedback Resulting From Button Engagement for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/upgrade-without-guilt-innovative-ideas-for-managing-your-old-smartphone-after-getting-a-new-one-tips-by-zdnet/"><u>Upgrade Without Guilt: Innovative Ideas for Managing Your Old Smartphone After Getting a New One - Tips by ZDNet</u></a></li>
 </ul></div>
 

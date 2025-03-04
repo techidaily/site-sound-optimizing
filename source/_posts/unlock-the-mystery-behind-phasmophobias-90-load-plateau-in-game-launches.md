@@ -1,7 +1,7 @@
 ---
 title: Unlock the Mystery Behind Phasmophobia's 90%% Load Plateau in Game Launches
-date: 2025-02-11T18:55:36.876Z
-updated: 2025-02-14T17:56:16.425Z
+date: 2025-02-25T08:52:04.454Z
+updated: 2025-03-04T01:32:04.733Z
 tags:
   - win11
   - win10
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/157b4e9d1934c1c32aca2d6b6705f77b73d99232e
 
 Phasmophobia is, according to the reviews, the best ghost game ever made. It allows you to ghost hunt through this creepy, haunted video game. But there are some unfixed bugs reported by players, such as the game**being** **stuck at a 90% loading screen** issue. Then**the game freezes** . If you’re in the same boat, don’t worry. We’ve rounded up some fixes.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  You should be able to resolve it with one of the following solutions. You may not have to try all of these solutions; just work from the top down until you find the one.
@@ -32,10 +28,6 @@ Phasmophobia is, according to the reviews, the best ghost game ever made. It all
 5. **[Run Steam as an administrator](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Reset your network](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Uninstall and reinstall Phasmophobia](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 1: Make sure your computer meets the specs
 
@@ -81,10 +73,6 @@ OR
 
  Once you’ve downloaded the drivers, double-click on the downloaded file and follow the on-screen instructions to install the drivers.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Option 2 – Automatically update your drivers**
 
  If you don’t have the time, patience, or computer skills to update drivers manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -121,10 +109,6 @@ OR
 
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files-1200x610.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Steam will verify the game’s files and this process may take several minutes. After it’s finished, launch your game to check if it works for you. If not, move on to the next fix.
 
 ---
@@ -139,10 +123,6 @@ OR
 
 ![delete save file Phasmophobia stuck at 90% loading screen](https://images.drivereasy.com/wp-content/uploads/2020/10/delete-save-file.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Locate the**saveData.txt** file and delete it.
 
  4) Now relaunch your game to check if the issue is fixed.
@@ -150,10 +130,6 @@ OR
  Deleting the saved file has proven to be working for many users. But it probably would delete your progress.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 5: Run Steam as an administrator
 
@@ -167,10 +143,6 @@ OR
 
 ![run Steam as an administrator to fix Phasmophobia stuck at 90% loading screen](https://images.drivereasy.com/wp-content/uploads/2020/11/run-Steam-as-an-administrator-select-Properties-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Select the**Compatibility**  tab and check the box next to **Run this program as an administrator** . Then click **Apply > OK** .
 
 ![run Steam as an administrator to fix Phasmophobia stuck at 90% loading screen](https://images.drivereasy.com/wp-content/uploads/2020/11/run-steam-as-an-administrator-apply-ok.jpg)
@@ -178,10 +150,6 @@ OR
 If this didn’t work, move on to the next fix.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 6: Reset your network
 
@@ -247,24 +215,16 @@ Take these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-subtle-symmetry-balancing-visuals-like-a-pro/"><u>[New] Subtle Symmetry Balancing Visuals Like a Pro</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-elevate-your-watchlist-experience-with-youtubes-av1-settings/"><u>[Updated] In 2024, Elevate Your Watchlist Experience with YouTube's AV1 Settings</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-mastering-headline-economy-utilizing-slug-lines-smartly/"><u>[Updated] Mastering Headline Economy Utilizing Slug Lines Smartly</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/a-comedians-guide-to-the-best-free-royalty-free-background-music-sources/"><u>A Comedians Guide to the Best Free, Royalty-Free Background Music Sources</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-realme-narzo-n53-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Realme Narzo N53 Location on Skout | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-xiaomi-14-ultra-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Xiaomi 14 Ultra Phone Network-Ready</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/in-depth-performance-testing-the-netgear-c3700-dual-functionality-as-a-router-and-modem/"><u>In-Depth Performance Testing: The Netgear C3700 Dual Functionality as a Router and Modem</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/leading-music-editor-tools-ranked-windows-and-mac-edition-top-10/"><u>Leading Music Editor Tools Ranked Windows & Mac Edition, Top 10</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-5-popular-tools-to-help-you-distort-audio/"><u>New 2024 Approved 5 Popular Tools to Help You Distort Audio</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-top-5-effects-for-reshaping-sound-tracks/"><u>New 2024 Approved Top 5 Effects for Reshaping Sound Tracks</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-dark-side-of-innovation-how-generative-ai-could-amplify-misinformation/"><u>The Dark Side of Innovation: How Generative AI Could Amplify Misinformation</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-10-free-graphics-websites-a-compreran-analysis-for-2024/"><u>Top 10 FREE Graphics Websites A Compreran Analysis for 2024</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-music-from-x5-by-fonelab-android-recover-music/"><u>Undelete lost music from X5</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-approaches-to-isolate-and-omit-audio-from-video-content/"><u>Updated 2024 Approved Approaches to Isolate and Omit Audio From Video Content</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-crafting-silent-elegance-the-art-of-audio-ducking-in-video-editing-with-adobe-premiere-pro-on-mac/"><u>Updated 2024 Approved Crafting Silent Elegance The Art of Audio Ducking in Video Editing with Adobe Premiere Pro on Mac</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-cutting-edge-music-editing-software-roundup-the-top-10-compatible-apps-for-windows-and-mac/"><u>Updated 2024 Approved Cutting-Edge Music Editing Software Roundup The Top 10 Compatible Apps for Windows and Mac</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-how-to-remove-audio-from-mkv-2023-update-for-2024/"><u>Updated How to Remove Audio From MKV-2023 Update for 2024</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-securing-purity-in-recordings-the-art-of-removing-hum-and-hissing-sounds/"><u>Updated In 2024, Securing Purity in Recordings The Art of Removing Hum and Hissing Sounds</u></a></li>
-<li><a href="https://solve-news.techidaily.com/wav-swf-online-conversion-tool/"><u>WAV 파일을 SWF로 자유성 대기상관으로 바꾸기 - Online Conversion Tool</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-step-by-step-process-for-iptv-stream-imaging/"><u>[New] In 2024, Step-by-Step Process for IPTV Stream Imaging</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-masterclass-in-visual-enhancement-from-muted-sdr-to-stunning-hdri/"><u>[New] Masterclass in Visual Enhancement From Muted SDR to Stunning HDRI</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-revolutionize-earning-with-youtube-short-tactics/"><u>[Updated] 2024 Approved Revolutionize Earning with Youtube Short Tactics</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-unveiling-advanced-methods-to-harness-screencapture-tools/"><u>[Updated] In 2024, Unveiling Advanced Methods to Harness ScreenCapture Tools</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/a-practical-approach-to-hymnal-phone-tones/"><u>A Practical Approach to Hymnal Phone Tones</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/aide-en-ligne-pour-lutilisation-du-logiciel-de-conversion-video-et-ripper-winx/"><u>Aide en Ligne Pour L'utilisation Du Logiciel De Conversion Vidéo Et Ripper WinX</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/deciphering-the-prowess-of-magix-samplitude-in-modern-music-production/"><u>Deciphering the Prowess of MAGIX Samplitude in Modern Music Production</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/harmony-in-transition-15-masterful-scores-enhancing-diverse-video-styles/"><u>Harmony in Transition 15 Masterful Scores Enhancing Diverse Video Styles</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-special-features-virtual-location-on-oppo-k11-5g-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Oppo K11 5G? | Dr.fone</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-most-attractive-ringtones-for-your-phone-for-2024/"><u>New Most Attractive Ringtones for Your Phone for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-achieving-clarity-in-sound-strategies-to-dampen-unwanted-echoes-for-2024/"><u>Updated Achieving Clarity in Sound Strategies to Dampen Unwanted Echoes for 2024</u></a></li>
 </ul></div>
 

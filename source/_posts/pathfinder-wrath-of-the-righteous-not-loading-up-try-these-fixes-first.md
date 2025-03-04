@@ -1,7 +1,7 @@
 ---
 title: "Pathfinder: Wrath of the Righteous Not Loading Up? Try These Fixes First"
-date: 2025-02-10T22:35:05.236Z
-updated: 2025-02-14T20:12:06.250Z
+date: 2025-03-01T04:39:40.023Z
+updated: 2025-03-04T08:49:29.282Z
 tags:
   - win11
   - win10
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/98351be0d04e2b45fd40ed227ba896a84193b786b
 
 Since the release of Pathfinder: Wrath of the Righteous, you can scroll through hundreds of Reddit threads that are about bug reports on the game. One of the issues plaguing many gamers is that **the game keeps freezing, especially when they click on the two classes – inquisitor and rogue** . For some, they can’t even start the game because it’s stuck at 92% after the character creation. If you’re on the same boat, don’t worry. In this post, we’ve got you covered with some methods.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  You may not need to try them all; simply work your way down the list until you find the one that works for you.
@@ -33,10 +29,6 @@ Since the release of Pathfinder: Wrath of the Righteous, you can scroll through 
 6. **[Delete the registry key](https://tools.techidaily.com/drivereasy/download/)**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/how-to-fix-Pathfinder-Wrath-of-the-Righteous-freezing-on-PC.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Add your game as an exception to your antivirus
 
@@ -60,10 +52,6 @@ Since the release of Pathfinder: Wrath of the Righteous, you can scroll through 
 
  Then find the driver corresponding with your Windows version and download it manually. Once you’ve downloaded the correct driver for your system, double-click on the downloaded file and follow the on-screen instructions to install it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Option 2 – Automatically update your graphics driver (recommended)
 
  Updating drivers manually does require a certain level of computer knowledge and can be error-prone. If you don’t feel like doing it on your own, we recommend you use **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  , an automatic driver updater. With Driver Easy, you don’t need to waste your time hunting for driver updates as it will take care of the busy work for you.
@@ -73,10 +61,6 @@ Since the release of Pathfinder: Wrath of the Righteous, you can scroll through 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/scan-now-v5_7_0.jpg)
 3. Click**Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them. )  
 
@@ -99,25 +83,13 @@ Since the release of Pathfinder: Wrath of the Righteous, you can scroll through 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/verify-integrity-of-game-files-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Verify on GOG Galaxy
 
 1. Launch GOG Galaxy.
 2. Click the game in your Library.
 3. Click on the**Customize button** ![](https://images.drivereasy.com/wp-content/uploads/2021/09/customization-button-GOG-Galaxy.png) (on the right side of the Play button), select**Manage installation > Verify / Repair** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![how to verify integrity of game files on GOG Galaxy](https://images.drivereasy.com/wp-content/uploads/2020/12/GOG-GALAXY.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  GOG Galaxy will now verify all of your game files, and compare them with files hosted on the game servers. If there are any discrepancies GOG Galaxy will redownload, and repair corrupted files.
 
@@ -136,10 +108,6 @@ Since the release of Pathfinder: Wrath of the Righteous, you can scroll through 
 ![disable Steam overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-Steam-overlay-2.jpg)
 
  After applying the changes, play Pathfinder: Wrath of the Righteous and your problem should be alleviated. However, if the freezing issue still occurs, don’t worry. Below are other fixes for you to try.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Launch your game from .exe file
 
@@ -190,21 +158,24 @@ Once done, restart your game and test the gameplay.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/updated-blueprint-producing-purposeful-life-exploration-broadcasts-for-2024/"><u>[Updated] Blueprint Producing Purposeful Life Exploration Broadcasts for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-master-the-art-of-iphone-7-screen-capture/"><u>[Updated] Master the Art of iPhone 7 Screen Capture</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-spark-your-audience-with-best-video-content-ideas/"><u>[Updated] Spark Your Audience with Best Video Content Ideas</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/best-srt-mods-ultimate-upgrades-for-macwindows/"><u>Best SRT Mods Ultimate Upgrades for Mac/Windows</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/digging-deep-into-facebooks-short-video-shift-the-2023-scenario-for-2024/"><u>Digging Deep Into Facebook's Short Video Shift The 2023 Scenario for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/free-electronic-signature-for-svd-file-by-ldigisigner-sign-a-word-sign-a-word/"><u>Free electronic signature - For .svd file</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/2550499-9781935209027-happiness/"><u>Happiness | Free Book</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-window-10-strategies-for-ultimate-optimization-and-improvement/"><u>Mastering Window 10: Strategies for Ultimate Optimization and Improvement</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/melody-in-reverse-top-5-nonlinear-audio-visuals-from-this-year-for-2024/"><u>Melody in Reverse Top 5 Nonlinear Audio Visuals From This Year for 2024</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/navigating-the-download-of-auditory-broadcasts-on-home-computers-for-2024/"><u>Navigating the Download of Auditory Broadcasts on Home Computers for 2024</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-10-premier-websites-to-access-high-quality-bgm-libraries/"><u>New 2024 Approved 10 Premier Websites to Access High-Quality BGM Libraries</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-crafting-captivating-audio-representations-syncopated-waveform-graphics-and-transformative-animation-in-adobe-premiere-pro/"><u>New 2024 Approved Crafting Captivating Audio Representations Syncopated Waveform Graphics and Transformative Animation in Adobe Premiere Pro</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-from-podcast-to-mp3-unveiling-the-top-three-conversion-strategies-for-2024/"><u>New From Podcast to MP3 Unveiling the Top Three Conversion Strategies for 2024</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-deciphering-the-prowess-of-magix-samplitude-in-modern-music-production/"><u>New In 2024, Deciphering the Prowess of MAGIX Samplitude in Modern Music Production</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/seeking-help-get-in-touch-with-digiartys-winxdvd-assistance-listings/"><u>Seeking Help? Get in Touch with Digiarty's WinXDVD Assistance Listings</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-locate-the-ringing-bell-audio-sample-for-2024/"><u>Updated Locate the Ringing Bell Audio Sample for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-best-15-video-cameras-to-elevate-your-vlogging-game/"><u>[New] Best 15 Video Cameras to Elevate Your Vlogging Game</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-google-meet-made-simple-the-ultimate-cost-free-resource-booklet/"><u>[New] In 2024, Google Meet Made Simple The Ultimate Cost-Free Resource Booklet</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-transform-your-instagram-reels-into-high-quality-mp4-files-anywhere-for-2024/"><u>[New] Transform Your Instagram Reels Into High-Quality MP4 Files Anywhere for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-from-basic-to-expert-mastering-the-art-of-adobe-ps-background-removal/"><u>[Updated] From Basic to Expert Mastering the Art of Adobe PS Background Removal</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-unleash-creativity-top-screencast-tools-recommended-by-experts/"><u>[Updated] In 2024, Unleash Creativity Top Screencast Tools Recommended by Experts</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-affordable-wireless-charging-pads-for-modern-phones/"><u>2024 Approved Affordable Wireless Charging Pads for Modern Phones</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/2024-approved-leading-the-pack-the-top-10-sites-offering-a-rich-array-of-montage-based-soundscapes/"><u>2024 Approved Leading the Pack The Top 10 Sites Offering a Rich Array of Montage-Based Soundscapes</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/5-popular-tools-to-help-you-distort-audio-for-2024/"><u>5 Popular Tools to Help You Distort Audio for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-honor-x50i-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Honor X50i to New Android? | Dr.fone</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/in-2024-navigating-through-music-production-software-landscape-can-magix-samplitude-be-considered-supreme/"><u>In 2024, Navigating Through Music Production Software Landscape Can MAGIX Samplitude Be Considered Supreme?</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-optimal-live-streaming-scenery-ideas/"><u>In 2024, Optimal Live Streaming Scenery Ideas</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unlock-your-visual-language-how-to-turn-any-gif-into-a-social-sticker/"><u>In 2024, Unlock Your Visual Language How to Turn Any GIF Into a Social Sticker</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-enhancing-film-production-adding-audio-elements-in-magix-pro-2023-edition/"><u>New 2024 Approved Enhancing Film Production Adding Audio Elements in Magix Pro 2023 Edition</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-the-ultimate-guide-to-pairing-airpods-with-your-desktop-os/"><u>New 2024 Approved The Ultimate Guide to Pairing AirPods with Your Desktop OS</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-how-to-add-audio-in-after-effects/"><u>New How to Add Audio in After Effects</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-ideal-eq-settings-to-maximize-your-devices-hearing-capabilities/"><u>New In 2024, Ideal EQ Settings to Maximize Your Devices Hearing Capabilities</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-perfect-harmony-unveiling-the-best-5-mixers-for-mac-enthusiasts/"><u>New In 2024, Perfect Harmony Unveiling the Best 5 Mixers for Mac Enthusiasts</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-sync-your-sound-step-by-step-audio-editing-in-avidemux-for-the-modern-producer/"><u>New Sync Your Sound Step-by-Step Audio Editing in Avidemux for the Modern Producer</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-photographers-manual-how-to-crop-images-seamlessly-online-for-2024/"><u>The Photographer's Manual How To Crop Images Seamlessly Online for 2024</u></a></li>
 </ul></div>
 

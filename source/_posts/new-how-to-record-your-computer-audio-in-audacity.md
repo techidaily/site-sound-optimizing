@@ -1,7 +1,7 @@
 ---
 title: New How To Record Your Computer Audio in Audacity
-date: 2025-01-24T19:11:55.295Z
-updated: 2025-01-31T20:08:27.887Z
+date: 2025-02-27T10:06:09.513Z
+updated: 2025-03-04T01:00:07.456Z
 tags: 
   - audio editing software
   - audio editing
@@ -39,66 +39,6 @@ If you are using a pc or desktop, then keep in mind that most operating systems 
 
 ![how-to-record-your-computer-audio-poster3](https://images.wondershare.com/filmora/article-images/how-to-record-your-computer-audio-poster3.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-## **Recording Voice On Mac**
-
-If you are using Mac operating system, then it also has its recording app. Just follow the steps given below:
-
-Recordings can be created using the built-in microphone, an external microphone, or a headset with a supported microphone. If you're signed in with the same Apple ID on your iPad, iPhone, or Mac, you can listen to your Voice Memos recordings on any of those devices.
-
-1. Click on the Record button (or use the Touch Bar) inside the Voice Memos app on your Mac.
-2. By clicking the Pause button, you can pause the video. You can resume the video by clicking Resume.
-3. At the bottom of the page, click Done when you are finished.
-
-## **Record Voice Using Audacity**
-
-Although you can record the computer audio using built-in tools, many 3rd party tools like Audacity provide you with more features and better quality than the built-in tools. To use Audacity for recording your pc audio, follow the steps given below.
-
-1. First of all, you need to download the audacity software to your pc. Different versions of Audacity are available for different operating systems. So, you can try searching "audacity windows 7", "audacity windows 8", "audacity windows 10", or "audacity mac" depending upon the operating system you are using.
-2. Once it is installed, run the software, and its interface will appear on your screen.
-3. Now you'll need to customize the drop-down boxes above the timeline. The farthest thing on the left should be 'Windows WASAPI'. From the next choice to the right, choose 'Speakers (Realtek(R) Audio) (loopback)'.
-4. It's important to set the Recording Channel to 2 (Stereo). Otherwise, an error message will likely appear. Verify that the output device is set to the appropriate speakers
-5. Once you have finished, click the red circle on top of your screen, and Audacity will record the audio that comes out of your speakers. If no audio is detected, the recording will be automatically paused. You can also stop by hitting the grey stop button at the top at any time
-6. Audio editing tools like Audacity allow you to edit your recording after recording it and export it in several formats based on what you recorded.
-
-## **Final Verdict**
-
-That's how it works. Here are two easy ways to record the audio coming from your PC. Record internal audio (such as what comes out of your microphone) with Windows/Mac 10's built-in 'Voice Recorder' app or Audacity. These applications are both extremely simple to use. To get the best audio quality, we recommend trying our Filmora Audio tools. Although Audacity does the job pretty well with filmora audio tools and voice packs, you can add many voice effects and edit your audio professionally. Give it a try as it is free to use.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For Win 7 or later (64-bit)
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.12 or later
-
-Over the past decade or so, computer users have recorded their audio and converted it into a digital format with relative ease. However, users look to record computer audio at even the highest quality levels. And while the technology needed to achieve this is readily available in both software and hardware forms, it can be somewhat complex.
-
-If you want to record any sound or audio on your computer, this article is meant for you. Whether you are looking to do a voice-over on a video or just want to record some random audio notes, you can easily make it happen. This article will guide you to record your computer audio using a PC easily. We will share different methods using which you can record computer audio.
-
-This article is not directed at potential audio recorders but rather at those looking to improve the audio quality of their recordings. Users will already have their microphone and recording equipment, yet they may find this article useful.
-
-## **Recording Voice On Windows**
-
-If you are using a pc or desktop, then keep in mind that most operating systems have their own default recording software that comes pre-installed. Most people don't know about them, and they rush for 3rd party applications for sound recording purposes. It doesn't matter if you use Windows 7, 8, 10, or 11\. Windows operating system also has its recorder app. It will be available on your system, and all you need to do is find it and use it. If you are unsure how to do that, then follow the steps given below.
-
-1. Go to the search options of your windows and type "Voice Recorder" in it.
-2. Click on the search button, and the voice recorder app will appear in the top searches.
-
-![how-to-record-your-computer-audio-poster2](https://images.wondershare.com/filmora/article-images/how-to-record-your-computer-audio-poster2.png)
-
-1. Just open the app, and a recording button will appear on the screen. All you need to do is, click on the recording icon, and it will start recording your audio from your microphone, and when you are done recording, you click on the stop recording button, and it will automatically be saved on your computer.
-
-![how-to-record-your-computer-audio-poster3](https://images.wondershare.com/filmora/article-images/how-to-record-your-computer-audio-poster3.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Recording Voice On Mac**
 
 If you are using Mac operating system, then it also has its recording app. Just follow the steps given below:
@@ -161,10 +101,6 @@ Recordings can be created using the built-in microphone, an external microphone,
 2. By clicking the Pause button, you can pause the video. You can resume the video by clicking Resume.
 3. At the bottom of the page, click Done when you are finished.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Record Voice Using Audacity**
 
 Although you can record the computer audio using built-in tools, many 3rd party tools like Audacity provide you with more features and better quality than the built-in tools. To use Audacity for recording your pc audio, follow the steps given below.
@@ -175,10 +111,6 @@ Although you can record the computer audio using built-in tools, many 3rd party 
 4. It's important to set the Recording Channel to 2 (Stereo). Otherwise, an error message will likely appear. Verify that the output device is set to the appropriate speakers
 5. Once you have finished, click the red circle on top of your screen, and Audacity will record the audio that comes out of your speakers. If no audio is detected, the recording will be automatically paused. You can also stop by hitting the grey stop button at the top at any time
 6. Audio editing tools like Audacity allow you to edit your recording after recording it and export it in several formats based on what you recorded.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Final Verdict**
 
@@ -207,17 +139,61 @@ If you are using a pc or desktop, then keep in mind that most operating systems 
 
 ![how-to-record-your-computer-audio-poster2](https://images.wondershare.com/filmora/article-images/how-to-record-your-computer-audio-poster2.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 1. Just open the app, and a recording button will appear on the screen. All you need to do is, click on the recording icon, and it will start recording your audio from your microphone, and when you are done recording, you click on the stop recording button, and it will automatically be saved on your computer.
 
 ![how-to-record-your-computer-audio-poster3](https://images.wondershare.com/filmora/article-images/how-to-record-your-computer-audio-poster3.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
+## **Recording Voice On Mac**
+
+If you are using Mac operating system, then it also has its recording app. Just follow the steps given below:
+
+Recordings can be created using the built-in microphone, an external microphone, or a headset with a supported microphone. If you're signed in with the same Apple ID on your iPad, iPhone, or Mac, you can listen to your Voice Memos recordings on any of those devices.
+
+1. Click on the Record button (or use the Touch Bar) inside the Voice Memos app on your Mac.
+2. By clicking the Pause button, you can pause the video. You can resume the video by clicking Resume.
+3. At the bottom of the page, click Done when you are finished.
+
+## **Record Voice Using Audacity**
+
+Although you can record the computer audio using built-in tools, many 3rd party tools like Audacity provide you with more features and better quality than the built-in tools. To use Audacity for recording your pc audio, follow the steps given below.
+
+1. First of all, you need to download the audacity software to your pc. Different versions of Audacity are available for different operating systems. So, you can try searching "audacity windows 7", "audacity windows 8", "audacity windows 10", or "audacity mac" depending upon the operating system you are using.
+2. Once it is installed, run the software, and its interface will appear on your screen.
+3. Now you'll need to customize the drop-down boxes above the timeline. The farthest thing on the left should be 'Windows WASAPI'. From the next choice to the right, choose 'Speakers (Realtek(R) Audio) (loopback)'.
+4. It's important to set the Recording Channel to 2 (Stereo). Otherwise, an error message will likely appear. Verify that the output device is set to the appropriate speakers
+5. Once you have finished, click the red circle on top of your screen, and Audacity will record the audio that comes out of your speakers. If no audio is detected, the recording will be automatically paused. You can also stop by hitting the grey stop button at the top at any time
+6. Audio editing tools like Audacity allow you to edit your recording after recording it and export it in several formats based on what you recorded.
+
+## **Final Verdict**
+
+That's how it works. Here are two easy ways to record the audio coming from your PC. Record internal audio (such as what comes out of your microphone) with Windows/Mac 10's built-in 'Voice Recorder' app or Audacity. These applications are both extremely simple to use. To get the best audio quality, we recommend trying our Filmora Audio tools. Although Audacity does the job pretty well with filmora audio tools and voice packs, you can add many voice effects and edit your audio professionally. Give it a try as it is free to use.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For Win 7 or later (64-bit)
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+Over the past decade or so, computer users have recorded their audio and converted it into a digital format with relative ease. However, users look to record computer audio at even the highest quality levels. And while the technology needed to achieve this is readily available in both software and hardware forms, it can be somewhat complex.
+
+If you want to record any sound or audio on your computer, this article is meant for you. Whether you are looking to do a voice-over on a video or just want to record some random audio notes, you can easily make it happen. This article will guide you to record your computer audio using a PC easily. We will share different methods using which you can record computer audio.
+
+This article is not directed at potential audio recorders but rather at those looking to improve the audio quality of their recordings. Users will already have their microphone and recording equipment, yet they may find this article useful.
+
+## **Recording Voice On Windows**
+
+If you are using a pc or desktop, then keep in mind that most operating systems have their own default recording software that comes pre-installed. Most people don't know about them, and they rush for 3rd party applications for sound recording purposes. It doesn't matter if you use Windows 7, 8, 10, or 11\. Windows operating system also has its recorder app. It will be available on your system, and all you need to do is find it and use it. If you are unsure how to do that, then follow the steps given below.
+
+1. Go to the search options of your windows and type "Voice Recorder" in it.
+2. Click on the search button, and the voice recorder app will appear in the top searches.
+
+![how-to-record-your-computer-audio-poster2](https://images.wondershare.com/filmora/article-images/how-to-record-your-computer-audio-poster2.png)
+
+1. Just open the app, and a recording button will appear on the screen. All you need to do is, click on the recording icon, and it will start recording your audio from your microphone, and when you are done recording, you click on the stop recording button, and it will automatically be saved on your computer.
+
+![how-to-record-your-computer-audio-poster3](https://images.wondershare.com/filmora/article-images/how-to-record-your-computer-audio-poster3.png)
 
 ## **Recording Voice On Mac**
 
@@ -299,10 +275,6 @@ First, on your VLC player, find Tools and then, in the menu, go to Preferences. 
 Next, see where Compressor is in the left panel? Select it. And now, you are free to make the changes to the levels as you see fit.
 
 ![see compressor](https://images.wondershare.com/filmora/article-images/2022/07/normalize-volume-vlc-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Here, if you are a little bit overwhelmed with the wide range of options to work on, you can just concentrate the most on Makeup gain, Threshold, and Ratio. The first one is by which you adjust in quiet sequences to raise the volume, the second will help you reduce louder sequences to even things out, and ratio is the maximum level of all audio within a movie, let’s say.
 
@@ -386,10 +358,6 @@ In this post, we will describe and clear all your queries on how to add audio to
 
 03 [Secret about adding audio to the photo?](#Part 3)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1 Can I add audio to the photo?
 
 ![online add audio to photo](https://images.wondershare.com/filmora/article-images/2022/02/select-the-range.jpg)
@@ -470,10 +438,6 @@ Check the effect in the preview window after this. If possible, you can ramp up 
 
 ![add audio to photo](https://images.wondershare.com/filmora/article-images/add-image-to-audio-timeline.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##### Step3 Save Music with Photos
 
 When you're satisfied with the outcomes, hit the Export tab.
@@ -481,10 +445,6 @@ When you're satisfied with the outcomes, hit the Export tab.
 Then, select MP4 under the format tab in the output window, or if you want to play the media on your phone, you can choose the device in the Export window and choose target devices among iPad, iPhone, or Apple TV, etc. Filmora will create a proper setting for phone device saving.
 
 ![save audio to photo filmora](https://images.wondershare.com/filmora/guide/go-to-export-panel.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Bonus tips
 
@@ -826,20 +786,17 @@ As the uploading speed is slow, we highly suggest using Filmora to add audio to 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-accelerated-record-functionality-and-narrator-support-for-2024/"><u>[New] Accelerated Record Functionality & Narrator Support for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-2023-fb-video-downloader-app-windows-macos-android/"><u>[Updated] 2024 Approved 2023 FB Video Downloader App - Windows, macOS, Android</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-bridging-the-gap-between-tiktok-and-facebook-sharing/"><u>[Updated] 2024 Approved Bridging the Gap Between TikTok & Facebook Sharing</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-techniques-to-lower-audio-levels-in-os-xwindows/"><u>[Updated] 2024 Approved Techniques to Lower Audio Levels in OS X/Windows</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/2024-approved-locating-the-dynamics-of-whistling-audio/"><u>2024 Approved Locating the Dynamics of Whistling Audio</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-blueprints-for-constructing-a-high-definition-video-editing-beast/"><u>In 2024, Blueprints for Constructing a High-Definition Video Editing Beast</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-recipe-for-success-video-styling-in-gastronomy/"><u>In 2024, Recipe for Success Video Styling in Gastronomy</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/lenovo-thinkpad-t450-how-to-quick-and-secure-driver-update-guide/"><u>Lenovo ThinkPad T450 How-To: Quick & Secure Driver Update Guide</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/navigating-to-horror-film-soundscape-pieces/"><u>Navigating to Horror Film Soundscape Pieces</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-freeware-harmonies-to-accentuate-photo-stories-for-2024/"><u>New Freeware Harmonies to Accentuate Photo Stories for 2024</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-echo-eradication-professional-strategies-for-silencing-unwanted-acoustic-features/"><u>New In 2024, Echo Eradication Professional Strategies for Silencing Unwanted Acoustic Features</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-understanding-audacitys-noise-suppression-techniques-step-by-step-guide/"><u>New In 2024, Understanding Audacitys Noise Suppression Techniques Step-by-Step Guide</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/eling-online-video-discussions-for-2024/"><u>Unraveling Online Video Discussions for 2024</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-no-fuss-vocal-elimination-procedures-for-audacity-professionals/"><u>Updated 2024 Approved No-Fuss Vocal Elimination Procedures for Audacity Professionals</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-discovering-the-chirping-noise-of-crickets/"><u>Updated In 2024, Discovering the Chirping Noise of Crickets</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-professional-content-creators-guide-studio-vs-beta-platform/"><u>[Updated] Professional Content Creator's Guide Studio Vs. Beta Platform</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-upload-footage-seamlessly-to-facebook-pc-and-android-style/"><u>2024 Approved Upload Footage Seamlessly to Facebook, PC & Android Style</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-and-fixing-device-disabled-error-code-22-on-windows-11/"><u>Addressing and Fixing Device Disabled (Error Code 22) on Windows 11</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/essential-roles-and-their-impact-during-filming-phase/"><u>Essential Roles and Their Impact During Filming Phase</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>How to Fake Snapchat Location on Apple iPhone 12 | Dr.fone</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/in-2024-best-mac-app-for-amplifying-and-blending-car-audio/"><u>In 2024, Best Mac App for Amplifying and Blending Car Audio</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/mp4movavi/"><u>MP4ビデオ編集のステップ：『MOVAVI』で効率よくリマスター</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-error-with-windows-previous-credentials/"><u>Navigating Error with Windows Previous Credentials</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-your-ultimate-source-list-the-top-picks-of-copyright-friendly-comic-soundtracks-websites/"><u>New Your Ultimate Source List The Top Picks of Copyright-Friendly Comic Soundtracks Websites</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/into-successful-online-broadcasting-top-youtube-webcam-choices-for-2024/"><u>Step Into Successful Online Broadcasting Top YouTube Webcam Choices for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unboxing-and-examining-poweradd-pilot-pro2-a-mega-power-source-for-your-digital-essentials/"><u>Unboxing & Examining POWERADD Pilot Pro2 - A Mega Power Source for Your Digital Essentials</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-navigating-audio-segmentation-easy-ways-to-split-your-mp3s-and-aacs/"><u>Updated In 2024, Navigating Audio Segmentation Easy Ways to Split Your MP3s and AACs</u></a></li>
 </ul></div>
 

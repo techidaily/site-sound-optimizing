@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Issue: How to Resolve 'Elden Ring' Initializing with a Black Display"
-date: 2025-02-09T22:24:03.134Z
-updated: 2025-02-14T17:45:02.439Z
+date: 2025-02-25T20:18:05.247Z
+updated: 2025-03-04T02:07:50.585Z
 tags:
   - win11
   - win10
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/9d142af41b1de506fdf32554a7ece9543f1d4a28a
 
 [THX Spatial Audio](https://tools.techidaily.com/drivereasy/download/) is a software suite that is engineered to level up your gaming audio with more authentic and detailed soundscapes, and better control of your gaming sound. However, some users reported that**it is not working** . For some,**there’s no sound** . For others, they **can’t hear any difference or the sound is just crackling/ buzzing** . Whatever the problems you’re having, you may hopefully be able to solve them by trying the solutions in this post.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  You may not need to try them all; simply work your way down the list until you find the one that works.
@@ -30,10 +26,6 @@ thumbnail: https://thmb.techidaily.com/9d142af41b1de506fdf32554a7ece9543f1d4a28a
 3. **[Make sure you set THX Spatial Audio as your device](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Update your audio drivers](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Perform a system restore](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Download and install all Windows updates
 
@@ -45,10 +37,6 @@ thumbnail: https://thmb.techidaily.com/9d142af41b1de506fdf32554a7ece9543f1d4a28a
 
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/check-for-updates.png)
 2. Click on the **Check for updates**  tab. If there are any updates available, it’ll automatically start to download and install it. Simply wait for it to complete and you should be asked to restart your computer.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/click-on-the-Check-for-updates-tab.png)
 
@@ -62,17 +50,9 @@ thumbnail: https://thmb.techidaily.com/9d142af41b1de506fdf32554a7ece9543f1d4a28a
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-19.png)
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
 
  Upon reboot, play supported content to check if it works. If your THX Spatial Audio is still not working, move on to the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Run the audio troubleshooter
 
@@ -101,16 +81,8 @@ thumbnail: https://thmb.techidaily.com/9d142af41b1de506fdf32554a7ece9543f1d4a28a
 ![](https://www.drivereasy.com/wp-content/uploads/2021/03/troubleshooting.jpg)
 3. Click **Run** for **Audio**  troubleshooter.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2021/03/sound-troubleshooter.png)
 4. Follow the on-screen instructions to run the troubleshooter and apply any fix if you see it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 If Windows fails to troubleshoot your issues, try the next fix below.
 
@@ -126,10 +98,6 @@ If Windows fails to troubleshoot your issues, try the next fix below.
 3. Then in the APPLICATION MIXER section, select**Spatial Audio** as the output.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/application-mixer.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  After you’ve done these, you should be able to enjoy the THX Spatial feature on your audio device.
 
@@ -179,15 +147,7 @@ If Windows fails to troubleshoot your issues, try the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/type-a-descriptin.png)
 6. When it successfully created the restore point, click**Close** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/close-the-window.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  However, if none of the solutions listed above gives you any luck, you may need to check if there are any missing or corrupted system files. You can use the System File Checker tool (sfc /scannow) to look for any critical system issues, but most of the time it only scans major files and may miss minor issues.
 
@@ -220,18 +180,19 @@ If Windows fails to troubleshoot your issues, try the next fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-a-swift-journey-to-using-ez-grabber-like-a-pro/"><u>[New] 2024 Approved A Swift Journey to Using EZ Grabber Like a Pro</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-elevate-your-experience-top-5-facebook-revelations/"><u>[New] Elevate Your Experience Top 5 Facebook Revelations</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-os-bridging-virtualmix-pro-for-2024/"><u>[New] OS-Bridging VirtualMix Pro for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-2023-top-8-facebook-movie-downloaders/"><u>[Updated] 2024 Approved 2023 | Top 8 Facebook Movie Downloaders</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-learning-to-capture-virtual-conferences-without-costs/"><u>[Updated] 2024 Approved Learning to Capture Virtual Conferences Without Costs</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/5-best-mp3-cutters-online-for-2024/"><u>5 Best MP3 Cutters Online for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-best-free-desktop-recorders/"><u>In 2024, Best Free Desktop Recorders</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/make-stunning-tiktok-videos-using-these-templates-for-2024/"><u>Make Stunning TikTok Videos Using These Templates for 2024</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-10-best-sites-to-download-bgm-music/"><u>New 2024 Approved 10 Best Sites to Download BGM Music</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-removing-background-music-and-sounds-from-new-avi-files/"><u>New Removing Background Music and Sounds From New AVI Files</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-11-free-online-platforms-for-movie-downloads/"><u>Top 11 Free Online Platforms for Movie Downloads</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-the-audio-architects-guide-to-stripping-down-beats-online/"><u>Updated In 2024, The Audio Architects Guide to Stripping Down Beats Online</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/vital-insights-for-constructing-an-unparalleled-collection-of-youtube-audio-tracks/"><u>Vital Insights for Constructing an Unparalleled Collection of YouTube Audio Tracks</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-elite-audit-the-updated-parrot-ar-drone/"><u>[New] Elite Audit The Updated Parrot AR Drone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-bi-panel-screen-transcription/"><u>[Updated] In 2024, Bi-Panel Screen Transcription</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/2024-approved-elevate-your-audio-skills-integrating-autotune-into-audacitys-toolkit/"><u>2024 Approved Elevate Your Audio Skills Integrating Autotune Into Audacitys Toolkit</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/2024-approved-master-list-of-prime-online-destinations-for-quality-montage-audio-acquisition/"><u>2024 Approved Master List of Prime Online Destinations for Quality Montage Audio Acquisition</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/2024-approved-video-mastery-posting-on-snapchat-from-twitter-revealed/"><u>2024 Approved Video Mastery Posting on Snapchat From Twitter Revealed</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/cookiebot-driven-analytics-and-personalization-services/"><u>Cookiebot-Driven Analytics and Personalization Services</u></a></li>
+<li><a href="https://games-able.techidaily.com/ignite-innovation-top-8-gaming-strategies-for-artists/"><u>Ignite Innovation: Top 8 Gaming Strategies for Artists</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-facetune-examination-enhancing-photos-like-a-pro/"><u>In 2024, The Ultimate Facetune Examination Enhancing Photos Like a Pro</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/maximize-your-impact-knowledge-of-instagrams-video-time-policy/"><u>Maximize Your Impact Knowledge of Instagram's Video Time Policy</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-expert-guide-to-displaying-audio-waves-and-adding-motion-graphics-in-premiere-pro-for-2024/"><u>New Expert Guide to Displaying Audio Waves and Adding Motion Graphics in Premiere Pro for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pc-performance-issues-why-is-the-frame-rate-lower-in-farming-simulator-22/"><u>PC Performance Issues: Why Is the Frame Rate Lower in Farming Simulator 22?</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/the-future-of-filmmaking-bridging-audio-and-visuals-in-the-digital-age-for-2024/"><u>The Future of Filmmaking Bridging Audio and Visuals in the Digital Age for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-to-help-you-perform-this-action-in-this-article-we-list-the-steps-you-will-need-for-cropping-into-video-clips-with-powerdirector-as-an/"><u>Updated 2024 Approved To Help You Perform This Action, in This Article, We List the Steps You Will Need for Cropping Into Video Clips with PowerDirector. As an Added Bonus, We Have Also Included the Method to Perform the Same Actions in WonderShare Filmora</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-most-popular-websites-offering-montage-audio-archives-for-2024/"><u>Updated Most Popular Websites Offering Montage Audio Archives for 2024</u></a></li>
 </ul></div>
 

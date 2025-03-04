@@ -1,7 +1,7 @@
 ---
 title: New The Ultimate Guide to Pre-Processing Tracks Using Lame & Audacity for 2024
-date: 2025-02-07T18:01:54.498Z
-updated: 2025-02-15T00:07:40.439Z
+date: 2025-02-26T06:49:38.120Z
+updated: 2025-03-04T02:38:10.076Z
 tags: 
   - audio editing software
   - audio editing
@@ -42,10 +42,6 @@ Installing Lame for Audacity is a simple process with no extra tools required. R
 * Select "File" and then "Export to mp3" from the drop-down menu.
 * Save the file on your computer. You will be required to input the ID3 tags for the artist's name and the title of the music into the Audacity program. By clicking "Ok," the encoding procedure for the file into the mp3 format will begin.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Lame for Audacity Windows
 
 ![lame-for-audacity-windows](https://images.wondershare.com/lame-for-audacity-windows.png)
@@ -113,10 +109,6 @@ You may either download or develop a suitable version of the Lame mp3 encoder, a
 
 ![preferences-for-library-resources](https://images.wondershare.com/preferences-for-library-resources.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Some distributions, such as the Ubuntu(Current) distribution, provide packages for Audacity, which includes mp3 encoding, and Libav, which is connected to the appropriate system libraries. It is not necessary to identify LAME or FFmpeg in the Audacity builds that have previously been packaged since there are no library choices for Audacity.
 
 If you construct Audacity from source code, you may disable libraries' preferences by setting Audacity as follows: Disable > Dynamic > Encoding > Disable > Dynamic > Encoding > Disable > Dynamic > Encoding. Finally, create an instance of Audacity that is connected to the LAME system. Additionally, you may build FFmpeg or Libav on your own computer if you so wish.
@@ -163,10 +155,6 @@ Installing Lame for Audacity is a simple process with no extra tools required. R
 * The "Preferences" menu in Audacity has a number of optional options. There is an option to modify the bit rate. Once you have finished adjusting the bit rate, you may return to the main Audacity page by clicking on the "OK" button.
 * Select "File" and then "Export to mp3" from the drop-down menu.
 * Save the file on your computer. You will be required to input the ID3 tags for the artist's name and the title of the music into the Audacity program. By clicking "Ok," the encoding procedure for the file into the mp3 format will begin.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Lame for Audacity Windows
 
@@ -305,9 +293,65 @@ Install and run this Wondershare Filmora. Then click the “Import” button to 
 
 ![extract audio from video](https://images.wondershare.com/filmora/article-images/detach-audio-filmora9.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
+After importing video to Wondershare Filmora, drag the video from the media library to the video Timeline. You can then right-click the video clip and choose “Audio Detach” to extract audio from the video. After a while, video and audio will be displayed on different tracks. If you don’t want to keep the video file, right-click it and choose “Delete” to remove it from the video timeline.
+
+#### 3. Edit the extracted audio if you like
+
+Double click the extracted file in the audio track and then you will see the audio editing panel.
+
+You can add fade-in and fade-out effects, [change the sound volume](https://tools.techidaily.com/wondershare/filmora/download/), adjust the pitch to [change the voice](https://tools.techidaily.com/wondershare/filmora/download/), etc. as you like.
+
+![edit extracted audio from video in Filmora9](https://images.wondershare.com/filmora/article-images/audio-editing-panel.jpg)
+
+If you find some unnecessary sounds in the extracted audio file, and you want to delete them, just put the cursor to the place where you would like the deletion to start and press the “Split” button to split. The end of the deletion area can be marked similarly – play the audio and select the final point of the area to be excluded from the output audio, and then press the “Split” button again.
+
+![split and delete unwanted part from extracted audio](https://images.wondershare.com/filmora/article-images/split-delete-extracted-audio-min.gif)
+
+Click the split part in the audio track, press the Delete button on the keyboard, or click the Delete icon on the toolbar to remove the unwanted audio clip.
+
+#### 4. Save the edited audio file
+
+After that, click the “Export” button to export the extracted audio track. Here different options are provided. For example, you can save the audio in regular formats such as MP3, MP4, WMV, AVI, and so on in the “Device” tab.
+
+![save extracted audio in MP3](https://images.wondershare.com/filmora/article-images/mp3-export.jpg)
+
+To customize the audio Encoder, Sample Rate, Bit Rate or Channel settings, click the SETTINGS button to start.
+
+Besides that, you can export the audio file for playback on portable devices, burn it to DVD or share it to YouTube directly.
+
+Select a desirable output method and then click the “Export” button to save the audio track.
+
+Tips: Filmora supports a wide range of audio and video formats. You can easily extract mp3 from mp4 video, or extract the audio from video and then save it in .wav format.
+
+[![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+Shanoon Cox
+
+Shanoon Cox is a writer and a lover of all things video.
+
+Follow @Shanoon Cox
+
+##### Shanoon Cox
+
+ Mar 27, 2024• Proven solutions
+
+You have a video that includes a great soundtrack that you'd like to **extract** it so that you can listen to it using the media player - a portable MP3 player, for instance. That can be a very easy job if you use the professional video editing software- [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/). Just follow this guide to **extract audio from video** with ease.
+
+**_If you didn't have Filmora yet, click the download button below to get started._**
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+#### 1. Import video files
+
+Install and run this Wondershare Filmora. Then click the “Import” button to locate and add your target video. You can also directly drag and drop the video to the program. The loaded video will be listed in the media library as the following picture shows.
+
+![extract audio from video - import media](https://images.wondershare.com/filmora/article-images/extract-audio-from-video-filmora9-media-library.jpg)
+
+#### 2. Start extracting audio from video
+
+![extract audio from video](https://images.wondershare.com/filmora/article-images/detach-audio-filmora9.jpg)
 
 After importing video to Wondershare Filmora, drag the video from the media library to the video Timeline. You can then right-click the video clip and choose “Audio Detach” to extract audio from the video. After a while, video and audio will be displayed on different tracks. If you don’t want to keep the video file, right-click it and choose “Delete” to remove it from the video timeline.
 
@@ -391,10 +435,6 @@ After that, click the “Export” button to export the extracted audio track. H
 
 ![save extracted audio in MP3](https://images.wondershare.com/filmora/article-images/mp3-export.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 To customize the audio Encoder, Sample Rate, Bit Rate or Channel settings, click the SETTINGS button to start.
 
 Besides that, you can export the audio file for playback on portable devices, burn it to DVD or share it to YouTube directly.
@@ -428,78 +468,6 @@ You have a video that includes a great soundtrack that you'd like to **extract**
 Install and run this Wondershare Filmora. Then click the “Import” button to locate and add your target video. You can also directly drag and drop the video to the program. The loaded video will be listed in the media library as the following picture shows.
 
 ![extract audio from video - import media](https://images.wondershare.com/filmora/article-images/extract-audio-from-video-filmora9-media-library.jpg)
-
-#### 2. Start extracting audio from video
-
-![extract audio from video](https://images.wondershare.com/filmora/article-images/detach-audio-filmora9.jpg)
-
-After importing video to Wondershare Filmora, drag the video from the media library to the video Timeline. You can then right-click the video clip and choose “Audio Detach” to extract audio from the video. After a while, video and audio will be displayed on different tracks. If you don’t want to keep the video file, right-click it and choose “Delete” to remove it from the video timeline.
-
-#### 3. Edit the extracted audio if you like
-
-Double click the extracted file in the audio track and then you will see the audio editing panel.
-
-You can add fade-in and fade-out effects, [change the sound volume](https://tools.techidaily.com/wondershare/filmora/download/), adjust the pitch to [change the voice](https://tools.techidaily.com/wondershare/filmora/download/), etc. as you like.
-
-![edit extracted audio from video in Filmora9](https://images.wondershare.com/filmora/article-images/audio-editing-panel.jpg)
-
-If you find some unnecessary sounds in the extracted audio file, and you want to delete them, just put the cursor to the place where you would like the deletion to start and press the “Split” button to split. The end of the deletion area can be marked similarly – play the audio and select the final point of the area to be excluded from the output audio, and then press the “Split” button again.
-
-![split and delete unwanted part from extracted audio](https://images.wondershare.com/filmora/article-images/split-delete-extracted-audio-min.gif)
-
-Click the split part in the audio track, press the Delete button on the keyboard, or click the Delete icon on the toolbar to remove the unwanted audio clip.
-
-#### 4. Save the edited audio file
-
-After that, click the “Export” button to export the extracted audio track. Here different options are provided. For example, you can save the audio in regular formats such as MP3, MP4, WMV, AVI, and so on in the “Device” tab.
-
-![save extracted audio in MP3](https://images.wondershare.com/filmora/article-images/mp3-export.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-To customize the audio Encoder, Sample Rate, Bit Rate or Channel settings, click the SETTINGS button to start.
-
-Besides that, you can export the audio file for playback on portable devices, burn it to DVD or share it to YouTube directly.
-
-Select a desirable output method and then click the “Export” button to save the audio track.
-
-Tips: Filmora supports a wide range of audio and video formats. You can easily extract mp3 from mp4 video, or extract the audio from video and then save it in .wav format.
-
-[![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
-![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
-
-Shanoon Cox
-
-Shanoon Cox is a writer and a lover of all things video.
-
-Follow @Shanoon Cox
-
-##### Shanoon Cox
-
- Mar 27, 2024• Proven solutions
-
-You have a video that includes a great soundtrack that you'd like to **extract** it so that you can listen to it using the media player - a portable MP3 player, for instance. That can be a very easy job if you use the professional video editing software- [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/). Just follow this guide to **extract audio from video** with ease.
-
-**_If you didn't have Filmora yet, click the download button below to get started._**
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-#### 1. Import video files
-
-Install and run this Wondershare Filmora. Then click the “Import” button to locate and add your target video. You can also directly drag and drop the video to the program. The loaded video will be listed in the media library as the following picture shows.
-
-![extract audio from video - import media](https://images.wondershare.com/filmora/article-images/extract-audio-from-video-filmora9-media-library.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### 2. Start extracting audio from video
 
@@ -551,10 +519,6 @@ Follow @Shanoon Cox
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Essential List: The Best Song Editing Apps for Windows/Mac Devices
 
 We often need to edit audio files, but the only thing that matters is using a good audio editing app. The question here is, how do you know an audio editor is good or not? The most basic requirement for good editors is a clean and understandable interface. If the interface of the audio editor is cluttered, you will never be attracted. Isn’t it right?
@@ -574,10 +538,6 @@ Let’s start the discussion with Ocenaudio audio editor, as this is a powerful,
 Yes, it is! This editor offers keyboard shortcuts that make the tool easy and efficient to use. What features do you get from Ocenaudio? Along with basic editing features like trimming, cutting, you also get noise reduction, filters, 31-band equalizer, pitch adjustments, etc. Sounds great!
 
 ![ocenaudio interface](https://images.wondershare.com/filmora/article-images/2022/best-audio-editor-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Audacity
 
@@ -711,17 +671,20 @@ For macOS 10.12 or later
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-proven-strategies-for-superior-design-with-canva/"><u>[New] In 2024, Proven Strategies for Superior Design with Canva</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-maximizing-impact-with-tailored-youtube-cards-and-ends/"><u>[New] Maximizing Impact with Tailored Youtube Cards and Ends</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-discovering-top-tools-the-2023-guide-to-browser-capture-tech/"><u>[Updated] Discovering Top Tools The 2023 Guide to Browser Capture Tech</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/2024-approved-uncovering-artistic-soundscapes-mimicking-brush-techniques/"><u>2024 Approved Uncovering Artistic Soundscapes Mimicking Brush Techniques</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/balancing-the-scales-normalizing-sound-volume-for-optimal-viewing-with-vlc/"><u>Balancing the Scales Normalizing Sound Volume for Optimal Viewing with VLC</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/cookiebot-enabled-optimize-your-website-with-leading-captcha-solutions/"><u>Cookiebot-Enabled: Optimize Your Website with Leading CAPTCHA Solutions</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-remove-device-supervision-from-your-iphone-13-mini-drfone-by-drfone-ios/"><u>In 2024, Remove Device Supervision From your iPhone 13 mini | Dr.fone</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/1715860179639-in-2024-the-ultimate-guide-to-setting-up-a-group-conversation-that-caters-to-all-systems-in-skype/"><u>In 2024, The Ultimate Guide to Setting up a Group Conversation that Caters to All Systems in Skype.</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastery-over-mishaps-conquering-11-windows-11-glitches/"><u>Mastery Over Mishaps: Conquering 11 Windows 11 Glitches</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-amr-audio-workshop-in-depth-tutorials-for-full-amr-file-transformation/"><u>New AMR Audio Workshop In-Depth Tutorials for Full AMR File Transformation</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-uncover-belching-sound-simulation/"><u>New Uncover Belching Sound Simulation</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-the-audionists-toolkit-for-silencing-unwanted-audio-elements-for-2024/"><u>Updated The Audionists Toolkit for Silencing Unwanted Audio Elements for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-cutting-edge-strategies-for-enhanced-chromebook-zoom/"><u>[Updated] Cutting-Edge Strategies for Enhanced Chromebook Zoom</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-exceptional-appraisal-and-other-choices/"><u>[Updated] In 2024, Exceptional Appraisal & Other Choices</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-incorporating-markers-a-step-by-step-videography-guide/"><u>2024 Approved Incorporating Markers A Step-By-Step Videography Guide</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-honor-magic-5-pro-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Honor Magic 5 Pro Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-oppo-a38-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Oppo A38 Location by Number | Dr.fone</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/in-2024-most-admired-free-online-archives-with-a-collection-of-guitar-lyrics-and-artwork/"><u>In 2024, Most Admired Free Online Archives with a Collection of Guitar Lyrics and Artwork</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/multilingual-minds-cognitive-upsides/"><u>Multilingual Minds: Cognitive Upsides</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-discovering-whistle-acoustics-experience/"><u>New 2024 Approved Discovering Whistle Acoustics Experience</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-top-10-windows-and-mac-compatible-music-arrangement-tools/"><u>New 2024 Approved Top 10 Windows & Mac Compatible Music Arrangement Tools</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-how-to-record-your-computer-audio-in-audacity/"><u>New How To Record Your Computer Audio in Audacity</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-tier-ai-driven-online-research-tools/"><u>Top-Tier AI-Driven Online Research Tools</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-video-platform-auditory-archive/"><u>Updated 2024 Approved Video Platform Auditory Archive</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-sound-mining-extracting-audio-elements-from-visual-content/"><u>Updated In 2024, Sound Mining Extracting Audio Elements From Visual Content</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-the-complete-strategy-for-embedding-music-into-imovie-footage/"><u>Updated In 2024, The Complete Strategy for Embedding Music Into iMovie Footage</u></a></li>
+<li><a href="https://win-community.techidaily.com/1732513054069-ylyl/"><u>YL计算机关于YL软件：探索宣传广告投标策略 - 智能市场解锁技巧</u></a></li>
 </ul></div>
 

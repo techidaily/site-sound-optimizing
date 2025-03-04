@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Fine-Tuning Audacitys Decibel Settings for Perfect Balance
-date: 2025-02-08T20:34:55.405Z
-updated: 2025-02-14T23:44:34.216Z
+date: 2025-02-25T22:54:48.698Z
+updated: 2025-03-04T00:53:05.935Z
 tags: 
   - audio editing software
   - audio editing
@@ -104,10 +104,6 @@ The audacity software also allows you to alter a specific section of an audio fi
 
 Amplify and Normalize are two essential features of the Audacity tool. Many people think they are the same thing, they are right up to some extent, but there exists a big difference between both the features. Before discussing the differences, you need to know what the terms Normalize and Amplify imply.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Amplify**
 
 It is the quickest approach to comprehend the effect's name if you want to know precisely what impacts are. The frequency of the vibration is enhanced to increase the amplification effect. As previously said, it raises a tiny sound.
@@ -320,10 +316,6 @@ The audacity software also allows you to alter a specific section of an audio fi
 
 ![adjust part of audio amplification audacity](https://images.wondershare.com/filmora/article-images/adjust-part-of-audio-amplification-audacity.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 4: What's the Difference between Normalize and Amplify?
 
 Amplify and Normalize are two essential features of the Audacity tool. Many people think they are the same thing, they are right up to some extent, but there exists a big difference between both the features. Before discussing the differences, you need to know what the terms Normalize and Amplify imply.
@@ -345,10 +337,6 @@ As a result, when one sound source is normalized, there is no discernible differ
 By pressing Ctrl + A and selecting all ten various audio sources, you may compute the required standard of every sound source, enhance the audio input that is smaller than the normal, and create the audio signal more significant than the standard. Shrink the size of each noise source, such as the name, and normalize the sound.
 
 ![audacity normalize interface](https://images.wondershare.com/filmora/article-images/audacity-normalize-interface.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Related**: [Best Audio Normalizers for Windows](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -415,10 +403,6 @@ You may also apply the modifications to multiple files at once, rather than one 
 **Step 4:** Amplification will be applied to all the tracks. Go to the File option from the above menu to export the files and then select the **Export** option.
 
 ![export amplified audio audacity](https://images.wondershare.com/filmora/article-images/export-amplified-audio-audacity.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 If you’re running Audacity on macOS computer, you can watch the video tutorial below to apply effects to multiple files.
 
@@ -492,10 +476,6 @@ All in all, Audacity does an excellent job at audio editing. If you simply need 
 Do you create video content and upload comedy skits and vlogs on social media? Do you want to download comedy background music for your website? If your answer is yes, then you are at the right place. In this post, we will share some platforms to download royalty-free comedy background music and use it in your videos. Royalty-free comedy background music is safe to use. Whether you are a musician or a content creator looking for comedy background music, you can use them without worrying about the copy-right strike.
 
 ![a person creating funny video comedy background music](https://images.wondershare.com/filmora/article-images/2022/comedy-background-music-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5 Recommended Sites to Download Royalty Free Comedy Background Music
 
@@ -593,10 +573,6 @@ For macOS 10.12 or later
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##### Liza Brown
 
  Mar 27, 2024• Proven solutions
@@ -609,9 +585,53 @@ For macOS 10.12 or later
 
 ## Lower Volume of the Media Files Step by Step Guide
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
+### 1 Add media files you want to lower volume
+
+ After downloading and running this program, click “Import” to begin importing the files. This process many take several seconds depending on the size of the media file. Then the file will appear in the “User’s Album” of program. Drag the imported file to the Timeline.
+
+![lower volume](https://images.wondershare.com/images/multimedia/video-editor/video-editor-main-interface.jpg)
+
+### 2 Lower volume of the media files
+
+ Double click the target file and the "Editing" Window will appear. Then switch to the "Audio" column, reduce volume by dragging the volume level slider left. Don't worry if you don't get the sound right the first time. You can reset the volume by clicking the "Reset" button. After adjusting the volume, click the play icon to listen to the effect.
+
+ Tip: There are more functions in this column, such as Fade in/fade out, fine tune the pitch, etc. If you want to add more effects, go to “Video” column to rotate, adjust contrast, saturation, brightness, nue and speed of the video.
+
+![how to lower volume](https://images.wondershare.com/images/multimedia/video-editor/change-volume.jpg)
+
+### 3 Save the files
+
+ Then hit the “Create” icon to save the edited files. You can save your files to different formats such as WMV, MOV, AVI, MKV, MP4 or save to play on different devices such as iPhone, iPad, PSP and Zune. To do this, switch to the related tab, enter the preset settings and press "Create" to begin the export. The exported file should have the same video, but with louder audio. You can also burn the files to DVD or directly upload to YouTube if you choose.
+
+![software to lower volume](https://images.wondershare.com/images/multimedia/video-editor/apple-device.jpg)
+
+ See, it's so easy to lower the volume of the media files. Besides this function, this powerful video editing tool also supports trimming, cropping, adding video effects and loads more. Now just download it and explore more features of it!
+
+ Here is a video tutorial for you:
+
+ About Filmora video editor:
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
+
+Liza Brown
+
+Liza Brown is a writer and a lover of all things video.
+
+Follow @Liza Brown
+
+##### Liza Brown
+
+ Mar 27, 2024• Proven solutions
+
+ Sometimes the audio of the media files is too loud no matter how much you lower the volume on your speakers. Sometimes it’s because the video source itself was too quiet, or it was encoded at a loud volume. Although these media files come in many different formats, the method for lower the volume is relatively simple and universal. Using a video editing program like [Wondershare Filmora (originally Wondershare Video Editor)](https://tools.techidaily.com/wondershare/filmora/download/), you will simply take advantage of the audio editor within the program to lower the volume. Here is a step-by-step guide to tell you how to lower volume in the media files.
+
+ Try this free software to lower the volume in the media files
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+## Lower Volume of the Media Files Step by Step Guide
 
 ### 1 Add media files you want to lower volume
 
@@ -706,66 +726,6 @@ Follow @Liza Brown
  Try this free software to lower the volume in the media files
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-## Lower Volume of the Media Files Step by Step Guide
-
-### 1 Add media files you want to lower volume
-
- After downloading and running this program, click “Import” to begin importing the files. This process many take several seconds depending on the size of the media file. Then the file will appear in the “User’s Album” of program. Drag the imported file to the Timeline.
-
-![lower volume](https://images.wondershare.com/images/multimedia/video-editor/video-editor-main-interface.jpg)
-
-### 2 Lower volume of the media files
-
- Double click the target file and the "Editing" Window will appear. Then switch to the "Audio" column, reduce volume by dragging the volume level slider left. Don't worry if you don't get the sound right the first time. You can reset the volume by clicking the "Reset" button. After adjusting the volume, click the play icon to listen to the effect.
-
- Tip: There are more functions in this column, such as Fade in/fade out, fine tune the pitch, etc. If you want to add more effects, go to “Video” column to rotate, adjust contrast, saturation, brightness, nue and speed of the video.
-
-![how to lower volume](https://images.wondershare.com/images/multimedia/video-editor/change-volume.jpg)
-
-### 3 Save the files
-
- Then hit the “Create” icon to save the edited files. You can save your files to different formats such as WMV, MOV, AVI, MKV, MP4 or save to play on different devices such as iPhone, iPad, PSP and Zune. To do this, switch to the related tab, enter the preset settings and press "Create" to begin the export. The exported file should have the same video, but with louder audio. You can also burn the files to DVD or directly upload to YouTube if you choose.
-
-![software to lower volume](https://images.wondershare.com/images/multimedia/video-editor/apple-device.jpg)
-
- See, it's so easy to lower the volume of the media files. Besides this function, this powerful video editing tool also supports trimming, cropping, adding video effects and loads more. Now just download it and explore more features of it!
-
- Here is a video tutorial for you:
-
- About Filmora video editor:
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
-
-Liza Brown
-
-Liza Brown is a writer and a lover of all things video.
-
-Follow @Liza Brown
-
-##### Liza Brown
-
- Mar 27, 2024• Proven solutions
-
- Sometimes the audio of the media files is too loud no matter how much you lower the volume on your speakers. Sometimes it’s because the video source itself was too quiet, or it was encoded at a loud volume. Although these media files come in many different formats, the method for lower the volume is relatively simple and universal. Using a video editing program like [Wondershare Filmora (originally Wondershare Video Editor)](https://tools.techidaily.com/wondershare/filmora/download/), you will simply take advantage of the audio editor within the program to lower the volume. Here is a step-by-step guide to tell you how to lower volume in the media files.
-
- Try this free software to lower the volume in the media files
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Lower Volume of the Media Files Step by Step Guide
 
@@ -821,21 +781,24 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-perfecting-iphone-capture-and-record-at-once/"><u>[New] In 2024, Perfecting iPhone Capture & Record at Once</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-how-to-fix-shaky-gopro-videos-for-2024/"><u>[Updated] How to Fix Shaky GoPro Videos for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/diy-troubleshooting-for-driverpowerstatefailure-problems-on-your-pc/"><u>DIY Troubleshooting for DRIVER_POWER_STATE_FAILURE Problems on Your PC</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-the-newest-updates-and-installation-for-your-radeon-rx-470-video-cards-effortlessly/"><u>Get the Newest Updates & Installation for Your Radeon RX 470 Video Cards Effortlessly</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-reset-a-honor-play-7t-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Honor Play 7T Phone that is Locked?</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-unlock-icloud-lock-from-your-iphone-7-and-ipad-by-drfone-ios/"><u>How to Unlock iCloud lock from your iPhone 7 and iPad?</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-samsung-galaxy-a25-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Samsung Galaxy A25 5G to Other Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-10-best-sites-to-download-bgm-music/"><u>New 2024 Approved 10 Best Sites to Download BGM Music</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-essential-audio-setups-for-personalized-mobile-soundscapes/"><u>New Essential Audio Setups for Personalized Mobile Soundscapes</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-approaches-to-silence-echoes-in-professional-audio-recording/"><u>New In 2024, Approaches to Silence Echoes in Professional Audio Recording</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-removing-background-music-and-sounds-from-new-avi-files/"><u>New Removing Background Music and Sounds From New AVI Files</u></a></li>
-<li><a href="https://windows11.techidaily.com/resolving-empty-directory-issue-windows-1011-error-x80070091/"><u>Resolving Empty Directory Issue - Windows 10/11 Error X80070091</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211335720-9798869343048-the-demetri-effect/"><u>The Demetri Effect | Free Book</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/unparalleled-youtube-soundscapes-to-experience-for-2024/"><u>Unparalleled YouTube Soundscapes to Experience for 2024</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-the-audio-architects-guide-to-stripping-down-beats-online/"><u>Updated In 2024, The Audio Architects Guide to Stripping Down Beats Online</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/vital-insights-for-constructing-an-unparalleled-collection-of-youtube-audio-tracks/"><u>Vital Insights for Constructing an Unparalleled Collection of YouTube Audio Tracks</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-snapchat-intro-video-breakdown-size-format-duration-for-2024/"><u>[New] SnapChat Intro Video Breakdown Size, Format, Duration for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-boosting-engagement-on-fb-pages-with-auto-played-youtube-videos/"><u>[Updated] In 2024, Boosting Engagement on FB Pages with Auto-Played Youtube Videos</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/2024-approved-leading-the-pack-the-top-10-sites-offering-a-rich-array-of-montage-based-soundscapes/"><u>2024 Approved Leading the Pack The Top 10 Sites Offering a Rich Array of Montage-Based Soundscapes</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/5-popular-tools-to-help-you-distort-audio-for-2024/"><u>5 Popular Tools to Help You Distort Audio for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/assessment-parrot-ar-drone-20-enhanced-edition/"><u>Assessment Parrot AR Drone 2.0 Enhanced Edition</u></a></li>
+<li><a href="https://win11.techidaily.com/cease-unwanted-windows-update-restarts/"><u>Cease Unwanted Windows Update Restarts</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/high-quality-dvd-conversion-transforming-dvds-into-wmv-format-using-windows/"><u>High-Quality DVD Conversion: Transforming DVDs Into WMV Format Using Windows</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-expand-your-scratch-disk-and-rectify-full-capacity-errors-in-photoshop/"><u>How to Expand Your Scratch Disk and Rectify 'Full Capacity' Errors in Photoshop</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-make-the-most-of-your-apple-iphone-13-pro-lock-screen-with-notifications-by-drfone-ios/"><u>How to Make the Most of Your Apple iPhone 13 Pro Lock Screen with Notifications?</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-exploring-the-tech-marvel-of-lg-ud88-w-monitors/"><u>In 2024, Exploring the Tech Marvel of LG UD88-W Monitors</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/in-2024-navigating-through-music-production-software-landscape-can-magix-samplitude-be-considered-supreme/"><u>In 2024, Navigating Through Music Production Software Landscape Can MAGIX Samplitude Be Considered Supreme?</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-honor-magic-5-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Honor Magic 5 | Dr.fone</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-enhancing-film-production-adding-audio-elements-in-magix-pro-2023-edition/"><u>New 2024 Approved Enhancing Film Production Adding Audio Elements in Magix Pro 2023 Edition</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-the-ultimate-guide-to-pairing-airpods-with-your-desktop-os/"><u>New 2024 Approved The Ultimate Guide to Pairing AirPods with Your Desktop OS</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-how-to-add-audio-in-after-effects/"><u>New How to Add Audio in After Effects</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-perfect-harmony-unveiling-the-best-5-mixers-for-mac-enthusiasts/"><u>New In 2024, Perfect Harmony Unveiling the Best 5 Mixers for Mac Enthusiasts</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-sync-your-sound-step-by-step-audio-editing-in-avidemux-for-the-modern-producer/"><u>New Sync Your Sound Step-by-Step Audio Editing in Avidemux for the Modern Producer</u></a></li>
+<li><a href="https://win-premium.techidaily.com/simple-steps-to-recover-a-lost-efi-partition-on-windows-11/"><u>Simple Steps to Recover a Lost EFI Partition on Windows 11</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-the-art-of-concealing-the-boundaries-between-sounds-with-fades/"><u>Updated In 2024, The Art of Concealing the Boundaries Between Sounds with Fades</u></a></li>
 </ul></div>
 

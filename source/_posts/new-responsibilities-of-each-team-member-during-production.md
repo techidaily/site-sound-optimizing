@@ -1,7 +1,7 @@
 ---
 title: New Responsibilities of Each Team Member During Production
-date: 2025-01-24T16:25:29.176Z
-updated: 2025-01-31T18:09:17.454Z
+date: 2025-03-02T18:50:15.112Z
+updated: 2025-03-03T21:04:51.006Z
 tags: 
   - audio editing software
   - audio editing
@@ -117,10 +117,6 @@ DMT will handle the exposed footage, which Digital Memory Card will do with tape
 If you are the music video **director**, you need a **Cinematographer** with **Camera Operators**. He will be in charge of pulling and adjusting all the camera alignments. If you have enough budget, go with the **co-producer** to help you direct the talents.
 
 ![additional roles of director department](https://images.wondershare.com/filmora/article-images/2023/04/additional-roles-of-director-department.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 To make your subject looks good and modern according to the theme, you should hire **hair and makeup artist.** If you have more budget, you can do it professionally with more and more crew members.
 
@@ -249,10 +245,6 @@ After you have clicked on it, wait until the normalization completes.
 
 ![complete normalization](https://images.wondershare.com/filmora/article-images/2022/07/free-mp3-normalizer-05.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Soon, all audio will be normalized, and you will already be able to see on the graphics that the volumes are almost on the same level and when you listen to it, you will make sure that there is no longer apparent difference between how they sound. And from there on, you can save the file you just normalized!
 
 ## Adobe Premiere Pro
@@ -279,15 +271,7 @@ So a better way to do it would be next: click on the track and then right-click,
 
 ![click on track](https://images.wondershare.com/filmora/article-images/2022/07/free-mp3-normalizer-10.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Max Peak is basically the loudest, highest peak in the audio clip. So, you can write in -3 and click OK, which will ensure the entire audio waveform will have the gain of it adjusted so that the max peak is at -3\. You can proceed to the next track and carry out the exact same process on it too. Then, on Audio Meters on the right again, you will be able to see that both tracks (or more, if you have them) peak at -3\. In case you have a lot of clips on the timeline, you can select them all, then go to Audio Gain and normalize all of their max peaks simultaneously, which will save you so much time and help you enormously!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## VLC Media Player
 
@@ -364,10 +348,6 @@ When it is done installing, open the software. Now, click and drag the video of 
 Now if you have this kind of graphic before your eyes, you can be pretty sure without even listening, that the noises are really, really different from each other, which highlights once again how useful audio normalization can be:
 
 ![noises are different from each other](https://images.wondershare.com/filmora/article-images/2022/07/free-mp3-normalizer-02.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Select these files, right-click and choose Adjust Audio. New panel will be opened on left top and there, you will see Audio Normalization – check the box there.
 
@@ -489,10 +469,6 @@ To help finish this task, [Wondershare Filmora](https://tools.techidaily.com/won
 
 The following article will introduce a simple way of removing audio from video in whatever situation.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## MP4 Audio Remover - Wondershare Filmora
 
 Why Choose [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -532,9 +508,55 @@ After that, hit "Export" to select the desired output way. You can set the outpu
 
 ![export video](https://images.wondershare.com/filmora/article-images/export-filmora9-video.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
+## Bonus: Mute a Video with Filmora Video Editor with 1-click
+
+Sometimes, you might wish to mute a video clip for many reasons, then the Filmora Video Editor, as the best MP4 Audio Extractor or Editor will help you do it with 1 simple click.
+
+To reach it, you only need to drag and drop your targeted MP4 video into the timeline, and then, right-click on it and choose "**Mute**" option. Then, click "Export" to export and save the edited videos.
+
+![detach video](https://images.iskysoft.com/filmora-video-editor/audio-edit.jpg)
+
+## Conclusion
+
+Now, it's your turn to have a try. Above are the steps to remove audio from video. Leave a comment to let us know if you have any questions.
+
+##### Versatile Video Editor - Wondershare Filmora
+
+An easy yet powerful editor
+
+Numerous effects to choose from
+
+Detailed tutorials provided by the official channel
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For Win 7 or later (64-bit)
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+### Step 1: Import your MP4 file
+
+Free download the audio track remover- Video Editor, install, and run it. Then the following interface will pop up. Click the "Import" button to add the video file you want to remove audio tracks.
+
+![remove video](https://images.wondershare.com/filmora/article-images/filmora9-interface-post.jpg)
+
+### Step 2: Remove audio from the file
+
+Drag-n-drop the mp4 file to the timeline, right-click and choose "Detach Audio" to detach the audio tracks from the original mp4 file. Then the separated audio track will appear in the Audio Timeline. You can right-click the audio and choose "Delete" to remove audio from mp4.
+
+Note: if you want to add the new sound tracker, import the sound recordings you want to the media library and drag them to the audio timeline.
+
+![detach video](https://images.wondershare.com/filmora/article-images/detach-audio-9.jpg)
+
+### Step 3: Save the edited video
+
+After that, hit "Export" to select the desired output way. You can set the output video format the same as the original one or set the output video format to any other video formats. Then click the "Export" button to export the video. What's more, you can save the edited file to iPhone, iPad PSP, etc., or directly upload it to YouTube for sharing with friends.
+
+![export video](https://images.wondershare.com/filmora/article-images/export-filmora9-video.jpg)
 
 ## Bonus: Mute a Video with Filmora Video Editor with 1-click
 
@@ -616,64 +638,6 @@ For Win 7 or later (64-bit)
 
 For macOS 10.12 or later
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-### Step 1: Import your MP4 file
-
-Free download the audio track remover- Video Editor, install, and run it. Then the following interface will pop up. Click the "Import" button to add the video file you want to remove audio tracks.
-
-![remove video](https://images.wondershare.com/filmora/article-images/filmora9-interface-post.jpg)
-
-### Step 2: Remove audio from the file
-
-Drag-n-drop the mp4 file to the timeline, right-click and choose "Detach Audio" to detach the audio tracks from the original mp4 file. Then the separated audio track will appear in the Audio Timeline. You can right-click the audio and choose "Delete" to remove audio from mp4.
-
-Note: if you want to add the new sound tracker, import the sound recordings you want to the media library and drag them to the audio timeline.
-
-![detach video](https://images.wondershare.com/filmora/article-images/detach-audio-9.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-### Step 3: Save the edited video
-
-After that, hit "Export" to select the desired output way. You can set the output video format the same as the original one or set the output video format to any other video formats. Then click the "Export" button to export the video. What's more, you can save the edited file to iPhone, iPad PSP, etc., or directly upload it to YouTube for sharing with friends.
-
-![export video](https://images.wondershare.com/filmora/article-images/export-filmora9-video.jpg)
-
-## Bonus: Mute a Video with Filmora Video Editor with 1-click
-
-Sometimes, you might wish to mute a video clip for many reasons, then the Filmora Video Editor, as the best MP4 Audio Extractor or Editor will help you do it with 1 simple click.
-
-To reach it, you only need to drag and drop your targeted MP4 video into the timeline, and then, right-click on it and choose "**Mute**" option. Then, click "Export" to export and save the edited videos.
-
-![detach video](https://images.iskysoft.com/filmora-video-editor/audio-edit.jpg)
-
-## Conclusion
-
-Now, it's your turn to have a try. Above are the steps to remove audio from video. Leave a comment to let us know if you have any questions.
-
-##### Versatile Video Editor - Wondershare Filmora
-
-An easy yet powerful editor
-
-Numerous effects to choose from
-
-Detailed tutorials provided by the official channel
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For Win 7 or later (64-bit)
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.12 or later
-
 ### Step 1: Import your MP4 file
 
 Free download the audio track remover- Video Editor, install, and run it. Then the following interface will pop up. Click the "Import" button to add the video file you want to remove audio tracks.
@@ -701,10 +665,6 @@ Sometimes, you might wish to mute a video clip for many reasons, then the Filmor
 To reach it, you only need to drag and drop your targeted MP4 video into the timeline, and then, right-click on it and choose "**Mute**" option. Then, click "Export" to export and save the edited videos.
 
 ![detach video](https://images.iskysoft.com/filmora-video-editor/audio-edit.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -736,20 +696,19 @@ Detailed tutorials provided by the official channel
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-gameboy-advance-mastered-android-emulator-selection/"><u>[Updated] 2024 Approved GameBoy Advance Mastered Android Emulator Selection</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-scrutinizing-youtubes-comment-clusters/"><u>[Updated] In 2024, Scrutinizing YouTubes' Comment Clusters</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-get-hooked-on-fast-forward-finesse-in-snapchat-writes/"><u>2024 Approved Get Hooked on Fast-Forward Finesse in Snapchat' Writes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/escalate-unresolved-issues-or-escalated-concerns-promptly-and-effectively-using-the-appropriate-internal-channels-within-our-organization-eg-technical-suppo554/"><u>Escalate Unresolved Issues or Escalated Concerns Promptly and Effectively Using the Appropriate Internal Channels Within Our Organization (E.g., Technical Support Team, Management)</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-infinix-note-30-vip-racing-edition-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Infinix Note 30 VIP Racing Edition Without PUK Codes</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-rhythm-discoverers-toolkit-all-free-and-online/"><u>In 2024, Rhythm Discoverer’s Toolkit – All FREE & Online</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-the-ultimate-resource-for-profiting-from-your-youtube-content/"><u>In 2024, The Ultimate Resource for Profiting From Your YouTube Content</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-pioneering-audio-creation-with-lexisedit-a-beginners-blueprint/"><u>New Pioneering Audio Creation with LexisEdit A Beginners Blueprint</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-the-ultimate-guide-to-pre-processing-tracks-using-lame-and-audacity-for-2024/"><u>New The Ultimate Guide to Pre-Processing Tracks Using Lame & Audacity for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/top-innovations-best-vr-tech-for-drones/"><u>Top Innovations Best VR Tech for Drones</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-a-soundtrack-journey-unveiling-10-key-spots-to-get-your-digital-music/"><u>Updated 2024 Approved A Soundtrack Journey Unveiling 10 Key Spots to Get Your Digital Music</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-chromecast-to-the-future-exploring-popular-audio-recorders/"><u>Updated 2024 Approved Chromecast to the Future Exploring Popular Audio Recorders</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-converting-audacity-projects-to-mp3-format/"><u>Updated Converting Audacity Projects to MP3 Format</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-virtual-vistas-of-calm-top-ten-online-journeys-for-mental-clarity-and-stress-relief-this-year/"><u>Updated In 2024, Virtual Vistas of Calm Top Ten Online Journeys for Mental Clarity and Stress Relief This Year</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-top-5-digital-audio-editors-for-optimal-sound-quality-for-2024/"><u>Updated Top 5 Digital Audio Editors for Optimal Sound Quality for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-fb-content-extraction-mastered-discover-the-5-apps/"><u>[New] In 2024, FB Content Extraction Mastered - Discover the #5 Apps</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-sky-perfection-11-must-have-enhancements-for-phantom-drone/"><u>[New] Sky Perfection 11 Must-Have Enhancements for Phantom Drone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-social-media-forecasting-through-data-visualization/"><u>[Updated] 2024 Approved Social Media Forecasting Through Data Visualization</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-top-1-global-musical-views/"><u>[Updated] 2024 Approved Top 1 Global Musical Views</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/2024-approved-innovations-in-capturing-high-fidelity-broadcast-sound/"><u>2024 Approved Innovations in Capturing High-Fidelity Broadcast Sound</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-revolutionize-your-online-video-content-expert-tips-on-youtube-live-with-wirecast/"><u>2024 Approved Revolutionize Your Online Video Content Expert Tips on Youtube Live with WireCast</u></a></li>
+<li><a href="https://games-able.techidaily.com/2024s-best-portable-power-nintendo-switch-docks-guide/"><u>2024'S Best Portable Power: Nintendo Switch Docks Guide</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/e-and-inspire-audiences-professional-level-tips-for-youtube-edits/"><u>Engage and Inspire Audiences Professional-Level Tips for YouTube Edits</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-drones-as-a-creative-tool-in-filmmaking/"><u>In 2024, Drones as a Creative Tool in Filmmaking</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-nokia-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Nokia Phone</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-discovering-the-most-advanced-online-tools-for-mp3-file-tagging-and-categorization/"><u>New In 2024, Discovering the Most Advanced Online Tools for MP3 File Tagging and Categorization</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-harmonizing-your-listening-experience-levels-of-loudness-control-in-vlc-player/"><u>New In 2024, Harmonizing Your Listening Experience Levels of Loudness Control in VLC Player</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-paramount-practices-in-gathering-your-precious-collection-of-high-fidelity-youtube-audio/"><u>Updated 2024 Approved Paramount Practices in Gathering Your Precious Collection of High-Fidelity YouTube Audio</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-auditory-sculpture-in-motion-constructing-vibrant-audio-visual-compositions-with-premiere-pro/"><u>Updated In 2024, Auditory Sculpture in Motion Constructing Vibrant Audio-Visual Compositions with Premiere Pro</u></a></li>
 </ul></div>
 

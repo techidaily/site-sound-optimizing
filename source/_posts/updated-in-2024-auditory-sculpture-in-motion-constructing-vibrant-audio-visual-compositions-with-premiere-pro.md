@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Auditory Sculpture in Motion Constructing Vibrant Audio-Visual Compositions with Premiere Pro
-date: 2025-02-12T23:05:41.463Z
-updated: 2025-02-14T23:58:52.480Z
+date: 2025-02-25T20:04:43.688Z
+updated: 2025-03-04T05:01:19.309Z
 tags: 
   - audio editing software
   - audio editing
@@ -86,10 +86,6 @@ Clean the contents of the folder named Media Cache, Media Cache files, and Peak 
 
 ![media cache files](https://images.wondershare.com/filmora/article-images/2022/08/premiere-pro-audio-waveform-10.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Please make sure that the option **“Save.cfa and.pek cache files next to the original media files when possible”** is unchecked. If it is ticked, you will have to remove them by hand from the folders where the media files are kept.
 
 ![media files](https://images.wondershare.com/filmora/article-images/2022/08/premiere-pro-audio-waveform-11.jpg)
@@ -101,10 +97,6 @@ The following time you open the project, these files will be cleared. Rebuilding
 ## Part 4\. How to add audio waveform animation to video with Premiere Pro alternative?
 
 In reality, based on the above process, it is clear that you must use After Effects to add audio waveform animation effects in Premiere Pro. Although you can further modify the animation, this approach is very difficult for beginners to understand, and it has a high learning cost. In this situation, we strongly advise you to try [Filmora Audio Visualizer](https://tools.techidaily.com/wondershare/filmora/download/). We provide more than 25 animation effects and fixed pre-made waveform elements, and you can also adjust the color and frequency in Advanced Settings. Come and give it a try!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -141,10 +133,6 @@ This article will help you in resolving various audio waveform issues in Premier
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##### Benjamin Arango
 
  Mar 27, 2024• Proven solutions
@@ -164,10 +152,6 @@ In this article, you will learn eight best cartoon sound effects that you can do
 MyInstant’s Spongebob soundboard offers a range of cartoon sound effects that can be easily downloaded just by clicking on the Download mp3 sound effect button. You can listen to over 120 classic cartoon sound effects and download it for free. You can also copy the embed link and paste it to your website.
 
 ![Spongebob Sound Effects](https://images.wondershare.com/filmora/filmorapro/spongebob-sound-effects.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2. Hanna Barbera Sound Effects
 
@@ -204,10 +188,6 @@ You need to log in to the website to download free cartoon sound effects.
 With over 1980 cartoon sound effects, the GRSites is one of the best free sites for downloading both mp3 and WAV files. You can browse from a range of categories to find the best cartoon sound effects for your videos.
 
 ![GRSites cartoon site](https://images.wondershare.com/filmora/filmorapro/grsites-cartoon-sound.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 7. Cartoon Running Sound Effect
 
@@ -248,10 +228,6 @@ Are you working on a [cartoon video for kids](https://tools.techidaily.com/wonde
 If you are on a strict budget, producing new content becomes almost impossible. In such situations, free cartoon sound effects are the best way to enhance your cartoon videos.
 
 In this article, you will learn eight best cartoon sound effects that you can download and make your videos perfect.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 8 Best Cartoon Sound Effects Resources
 
@@ -437,19 +413,11 @@ You can download the mp3 cartoon sound effects completely free by clicking on th
 
 ![Hanna Barbera Sound Effects](https://images.wondershare.com/filmora/filmorapro/hanna-barbera-sound-effects.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3. Scooby Doo Running Sound
 
 Fandom’s Scooby Doo running sound effects offers all the ideas used in 40 episodes of Scooby Doo throughout the three seasons on ABC. It is over 37000 pages wiki that you can click and browse through the pages to find the right sound effect and download it for free.
 
 ![Scooby Doo Running Sound](https://images.wondershare.com/filmora/filmorapro/scooby-doo-running-sound.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4. Tom and Jerry Sound Effects
 
@@ -458,10 +426,6 @@ Pond5 offers 13 Tom and Jerry sound effects that you can listen by scrolling the
 If you want to download the entire cartoon sound effect, you need to register, log in, and pay for it. There are filters like price, collections, duration, etc. to make your selection more precise.
 
 ![Tom and Jerry Sound Effects](https://images.wondershare.com/filmora/filmorapro/tom-and-jerry-sound-effects-min.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 5. Free SFX
 
@@ -526,10 +490,6 @@ Follow @Benjamin Arango
  Simply free download filmora video editor if you don't have it yet.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to add photos to audio step by step guide
 
@@ -721,20 +681,14 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-the-ultimate-compilation-of-techniques-to-source-background-images/"><u>[New] 2024 Approved The Ultimate Compilation of Techniques to Source Background Images</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ngaging-local-audiences-with-social-media-videos/"><u>[New] Engaging Local Audiences with Social Media Videos</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-flash-facts-how-videos-captivate-twitters-audience-for-2024/"><u>[New] Flash Facts How Videos Captivate Twitter's Audience for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-greatest-war-themed-games-the-7-finest-total-war-experiences-for-2024/"><u>[Updated] Greatest War-Themed Games The 7 Finest Total War Experiences for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-uncomplicated-techniques-reverse-playback-in-vlc-media-player-for-2024/"><u>[Updated] Uncomplicated Techniques Reverse Playback in VLC Media Player for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-youtube-artistry-designing-channels-visual-assets-bannersicons/"><u>2024 Approved YouTube Artistry Designing Channels' Visual Assets (Banners/Icons)</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/crafting-commanding-audio-deepening-your-vocal-expressiveness-with-filmora/"><u>Crafting Commanding Audio Deepening Your Vocal Expressiveness with Filmora</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/in-2024-mastering-pc-sound-recording-using-audacity-at-no-cost/"><u>In 2024, Mastering PC Sound Recording Using Audacity at No Cost</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-10-premier-websites-to-access-high-quality-bgm-libraries/"><u>New 2024 Approved 10 Premier Websites to Access High-Quality BGM Libraries</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-finding-authentic-clap-sound-implementations-for-projects/"><u>New Finding Authentic Clap Sound Implementations for Projects</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-from-podcast-to-mp3-unveiling-the-top-three-conversion-strategies-for-2024/"><u>New From Podcast to MP3 Unveiling the Top Three Conversion Strategies for 2024</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-chromebook-guide-integrating-audacity-setup-and-removal-tips/"><u>New In 2024, Chromebook Guide Integrating Audacity - Setup & Removal Tips</u></a></li>
-<li><a href="https://techtrends.techidaily.com/popular-picks-top-choice-shows-on-discovery-plus-for-july-24-edition/"><u>Popular Picks: Top Choice Shows on Discovery Plus for July '24 Edition</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/1723061679336-top-ranking-smart-speaker-picks-for-2/"><u>Top-Ranking Smart Speaker Picks for 2</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-top-4-ringtone-cuuter-to-use/"><u>Updated Top 4 Ringtone Cuuter to Use</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-unleashing-youtube-talent-the-best-themes-for-channel-growth/"><u>[Updated] In 2024, Unleashing YouTube Talent The Best Themes for Channel Growth</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-the-ultimate-guide-to-iphone-composition-choosing-right-angles-for-2024/"><u>[Updated] The Ultimate Guide to iPhone Composition Choosing Right Angles for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/2024-approved-perfected-acoustic-parameters-for-electronics-optimization/"><u>2024 Approved Perfected Acoustic Parameters for Electronics Optimization</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/cutting-edge-optics-top-recommendations-for-best-4k-cinematography/"><u>Cutting-Edge Optics Top Recommendations for Best 4K Cinematography</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/eliminating-echoes-and-interference-ai-strategies-for-pristine-sound-quality-for-2024/"><u>Eliminating Echoes and Interference AI Strategies for Pristine Sound Quality for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/in-2024-global-top-rated-mp3-editing-applications/"><u>In 2024, Global Top-Rated MP3 Editing Applications</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-nokia-c32-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Nokia C32 Phone</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-from-silence-to-symphony-a-practical-approach-to-changing-video-audio-part-1/"><u>New From Silence to Symphony A Practical Approach to Changing Video Audio (Part 1)</u></a></li>
+<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Google Pixel Fold | Dr.fone</u></a></li>
 </ul></div>
 
